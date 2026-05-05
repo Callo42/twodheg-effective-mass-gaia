@@ -93,6 +93,7 @@ older_dmc_enhancement_vs_revised_dmc_benchmarks.content = (
     "not_both_true(older_paramagnetic_dmc_mass_enhancement, "
     "revised_near_unity_dmc_thermodynamic_benchmarks)"
 )
+older_dmc_enhancement_vs_revised_dmc_benchmarks.title = 'Older enhancement vs revised benchmarks'
 older_dmc_enhancement_vs_revised_dmc_benchmarks.metadata.update(
     {
         "judgment": "accepted",
@@ -124,6 +125,7 @@ n_quarter_scaling_vs_shell_filling_noise.content = (
     "not_both_true(n_quarter_finite_size_scaling_as_extrapolation_protocol, "
     "shell_filling_noise_makes_direct_extrapolation_unreliable)"
 )
+n_quarter_scaling_vs_shell_filling_noise.title = 'N^-1/4 scaling vs shell-filling noise'
 n_quarter_scaling_vs_shell_filling_noise.metadata.update(
     {
         "judgment": "accepted",

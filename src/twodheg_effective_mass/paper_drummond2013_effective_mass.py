@@ -4,6 +4,7 @@ from gaia.lang import claim, deduction
 
 gcn_850fc9d9de314026 = claim(
     "For finite periodic simulation cells of the two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions, reoptimizing variational Jastrow and backflow parameters for an excited-state configuration can lower the finite-cell DMC energy. Because the optimal short-range correlation functions should be unchanged by a single excitation in the thermodynamic limit, this lowering is a finite-size error that can reduce excitation bandwidths and amplify finite-size bias in quantities such as the quasiparticle effective mass [@Drummond2013a].",
+    title='Excited-state reoptimization finite-size bias',
     lkm_id="gcn_850fc9d9de314026",
     source_paper="paper:813250329280774145",
     provenance_source="lkm_no_chain",
@@ -14,6 +15,7 @@ gcn_850fc9d9de314026 = claim(
 
 gcn_c7b10e47e2ab45e1 = claim(
     "In finite periodic 2D HEG simulation cells using Slater-Jastrow-backflow trial wave functions, reoptimizing Jastrow and backflow parameters for an excited-state configuration can lower the total finite-cell DMC energy. For example, removing an electron from k=0 in a 26-electron paramagnetic 2D HEG at r_s=1 lowered the DMC total energy by 0.000854(4) hartree. This finite-cell lowering is a finite-size error that reduces computed excitation bandwidth and amplifies finite-size bias in effective-mass extraction, so the authors optimize those parameters in the ground state and reuse them for excited-state energies [@Drummond2013a].",
+    title='Quantified reoptimization bias in finite cells',
     lkm_id="gcn_c7b10e47e2ab45e1",
     source_paper="paper:813250329280774145",
     provenance_source="lkm",
@@ -38,6 +40,7 @@ gfac_5f947643ac684742.metadata.update(
 
 gcn_48797cba2bf44d90 = claim(
     "For a 2D HEG single-particle energy band E(k), fitting DMC-computed band values near k_F to the quartic polynomial E(k)=alpha_0+alpha_2 k^2+alpha_4 k^4 and evaluating dE/dk at k_F gives an analytic estimate of the derivative used in m*=k_F/(dE/dk)_{k_F}, provided the chosen k-window is neither too narrow nor too broad [@Drummond2013a].",
+    title='Quartic band derivative for m*',
     lkm_id="gcn_48797cba2bf44d90",
     source_paper="paper:813250329280774145",
     provenance_source="lkm",
@@ -48,6 +51,7 @@ gcn_48797cba2bf44d90 = claim(
 
 gcn_1e8fcb7ef934428d = claim(
     "For finite-system quasiparticle effective masses m*(N) obtained from DMC quartic-fit derivatives, the accessible N-dependence can be modeled by m*(N)=m*(infinity)+b N^(-gamma), with m*(infinity), b, and gamma estimated by least-squares fitting and Monte Carlo sampling of statistical error bars, subject to model adequacy over the sampled N range [@Drummond2013a].",
+    title='Power-law extrapolation of m*(N)',
     lkm_id="gcn_1e8fcb7ef934428d",
     source_paper="paper:813250329280774145",
     provenance_source="lkm",
@@ -58,6 +62,7 @@ gcn_1e8fcb7ef934428d = claim(
 
 gcn_50e263dc961541e0 = claim(
     "For discrete DMC band data in a finite periodic 2D HEG cell, using a moderately wide k-window around k_F in the quartic fit reduces sensitivity to localized near-k_F anomalous fluctuations or outlier derivative estimates and produces per-size effective masses more stable for finite-size extrapolation [@Drummond2013a].",
+    title='Wide k-window stabilizes band fits',
     lkm_id="gcn_50e263dc961541e0",
     source_paper="paper:813250329280774145",
     provenance_source="lkm",
@@ -68,6 +73,7 @@ gcn_50e263dc961541e0 = claim(
 
 gcn_a981a2b787514e47 = claim(
     "To obtain a thermodynamic-limit quasiparticle effective mass from finite-N DMC band data, one may fit isotropic band values E(k) near k_F to a quartic polynomial, compute m*(N)=k_F/(dE/dk)_{k_F} from the fitted derivative, and fit m*(N)=m*(infinity)+b N^(-gamma) across system sizes. When the quartic fit uses a sufficiently wide k-window around k_F, this procedure yields stable extrapolated m*(infinity) values [@Drummond2013a].",
+    title='DMC band-fit protocol for thermodynamic m*',
     lkm_id="gcn_a981a2b787514e47",
     source_paper="paper:813250329280774145",
     provenance_source="lkm",

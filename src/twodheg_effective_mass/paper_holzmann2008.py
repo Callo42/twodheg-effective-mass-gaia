@@ -10,6 +10,7 @@ from gaia.lang import claim, deduction
 
 gcn_da3eecec49114543 = claim(
     'For an added-electron excitation with momentum p above k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy correction delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. In leading order, the corresponding potential-energy correction is independent of p and therefore does not affect the slope of the excitation dispersion used to extract m* from near-k_F fits [@Holzmann2008].',
+    title='Finite-size kinetic-energy correction',
     lkm_id="gcn_da3eecec49114543",
     source_paper="paper:867753636627743508",
     provenance_source="lkm",
@@ -20,6 +21,7 @@ gcn_da3eecec49114543 = claim(
 
 gcn_28b9e01bd2f8487f = claim(
     'For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum p above k_F to the N-particle ground state produces a finite-size correction to the kinetic-energy contribution of the excitation, delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. Because Delta_N scales as N^(-1/4), the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m* also scales as N^(-1/4). Therefore, extrapolations that assume faster-vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m* - m for typical accessible system sizes [@Holzmann2008].',
+    title='Slow finite-size errors can flip m* - m',
     lkm_id="gcn_28b9e01bd2f8487f",
     source_paper="paper:867753636627743508",
     provenance_source="lkm",

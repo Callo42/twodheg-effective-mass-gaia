@@ -26,6 +26,7 @@
       },
       "module": "paper_holzmann2008",
       "parameters": [],
+      "title": "Finite-size kinetic-energy correction",
       "type": "claim"
     },
     {
@@ -51,6 +52,7 @@
       },
       "module": "paper_holzmann2008",
       "parameters": [],
+      "title": "Slow finite-size errors can flip m* - m",
       "type": "claim"
     },
     {
@@ -78,6 +80,7 @@
       },
       "module": "paper_drummond2013_fermi_liquid",
       "parameters": [],
+      "title": "N^-1/4 finite-size scaling for Landau parameters",
       "type": "claim"
     },
     {
@@ -105,6 +108,7 @@
       },
       "module": "paper_drummond2013_fermi_liquid",
       "parameters": [],
+      "title": "Theoretical N^-1/4 scaling premise",
       "type": "claim"
     },
     {
@@ -130,6 +134,7 @@
       },
       "module": "paper_drummond2013_fermi_liquid",
       "parameters": [],
+      "title": "Shell noise undermines direct FL extrapolation",
       "type": "claim"
     },
     {
@@ -157,6 +162,7 @@
       },
       "module": "paper_drummond2013_fermi_liquid",
       "parameters": [],
+      "title": "Assembling best-available FL parameters",
       "type": "claim"
     },
     {
@@ -182,6 +188,7 @@
       },
       "module": "paper_drummond2013_fermi_liquid",
       "parameters": [],
+      "title": "Recommended 2D HEG Fermi-liquid parameters",
       "type": "claim"
     },
     {
@@ -209,6 +216,7 @@
       },
       "module": "paper_drummond2013_effective_mass",
       "parameters": [],
+      "title": "Excited-state reoptimization finite-size bias",
       "type": "claim"
     },
     {
@@ -234,6 +242,7 @@
       },
       "module": "paper_drummond2013_effective_mass",
       "parameters": [],
+      "title": "Quantified reoptimization bias in finite cells",
       "type": "claim"
     },
     {
@@ -261,6 +270,7 @@
       },
       "module": "paper_drummond2013_effective_mass",
       "parameters": [],
+      "title": "Quartic band derivative for m*",
       "type": "claim"
     },
     {
@@ -288,6 +298,7 @@
       },
       "module": "paper_drummond2013_effective_mass",
       "parameters": [],
+      "title": "Power-law extrapolation of m*(N)",
       "type": "claim"
     },
     {
@@ -315,6 +326,7 @@
       },
       "module": "paper_drummond2013_effective_mass",
       "parameters": [],
+      "title": "Wide k-window stabilizes band fits",
       "type": "claim"
     },
     {
@@ -340,6 +352,7 @@
       },
       "module": "paper_drummond2013_effective_mass",
       "parameters": [],
+      "title": "DMC band-fit protocol for thermodynamic m*",
       "type": "claim"
     },
     {
@@ -367,6 +380,7 @@
       },
       "module": "paper_drummond2009_fermi_fluid",
       "parameters": [],
+      "title": "Earlier DMC mass-enhancement trend",
       "type": "claim"
     },
     {
@@ -394,6 +408,7 @@
       },
       "module": "paper_drummond2012_effective_mass",
       "parameters": [],
+      "title": "Monte Carlo resampling for m* uncertainty",
       "type": "claim"
     },
     {
@@ -421,6 +436,7 @@
       },
       "module": "paper_drummond2012_effective_mass",
       "parameters": [],
+      "title": "Residual fixed-node/time-step biases are small",
       "type": "claim"
     },
     {
@@ -446,6 +462,7 @@
       },
       "module": "paper_drummond2012_effective_mass",
       "parameters": [],
+      "title": "Revised thermodynamic-limit m* benchmarks",
       "type": "claim"
     },
     {
@@ -464,6 +481,7 @@
       },
       "module": "cross_paper",
       "parameters": [],
+      "title": "Older enhancement vs revised benchmarks",
       "type": "claim"
     },
     {
@@ -482,6 +500,7 @@
       },
       "module": "cross_paper",
       "parameters": [],
+      "title": "N^-1/4 scaling vs shell-filling noise",
       "type": "claim"
     },
     {

@@ -4,6 +4,7 @@ from gaia.lang import claim, deduction
 
 gcn_219b34bd252c43fa = claim(
     "For Fermi-liquid parameters F_l, or F_l/m*, of the two-dimensional homogeneous electron gas computed in square periodic simulation cells, the leading systematic finite-size correction from long-range correlation effects scales as N^(-1/4). This supports thermodynamic-limit extrapolations of finite-N results with a form F_l(N)=c+a N^(-1/4), matching the long-range-correlation finite-size analysis associated with Holzmann et al. [@Drummond2013b].",
+    title='N^-1/4 finite-size scaling for Landau parameters',
     lkm_id="gcn_219b34bd252c43fa",
     source_paper="paper:867749664370197342",
     provenance_source="lkm_no_chain",
@@ -14,6 +15,7 @@ gcn_219b34bd252c43fa = claim(
 
 gcn_3ceb44ae3f404964 = claim(
     "For Fermi-liquid-derived quantities of the two-dimensional homogeneous electron gas, such as angular-momentum Fermi-liquid parameters F_l or Fourier-projected F_l/m*, the leading finite-size error from long-range correlation is theoretically expected to scale as N^(-1/4), so fitting finite-N values to c+a N^(-1/4) estimates the thermodynamic-limit intercept [@Drummond2013b].",
+    title='Theoretical N^-1/4 scaling premise',
     lkm_id="gcn_3ceb44ae3f404964",
     source_paper="paper:813209134949203971",
     provenance_source="lkm",
@@ -24,6 +26,7 @@ gcn_3ceb44ae3f404964 = claim(
 
 gcn_3db07703d3684507 = claim(
     "DMC data for Fourier-projected Fermi-liquid quantities in the 2D HEG show large nonmonotonic finite-size fluctuations with N that exceed per-run statistical error bars. Although an N^(-1/4) finite-size scaling is globally consistent with the data, the fit quality is poor because shell-filling oscillations and related finite-size noise are not captured by the nominal statistical errors. Therefore, direct finite-cell QMC determination of Fermi-liquid parameters by simple power-law extrapolation has large uncertainties and can disagree with thermodynamic quantities inferred from ground-state energy parameterizations [@Drummond2013b].",
+    title='Shell noise undermines direct FL extrapolation',
     lkm_id="gcn_3db07703d3684507",
     source_paper="paper:813209134949203971",
     provenance_source="lkm",
@@ -48,6 +51,7 @@ gfac_b465826db1974ced.metadata.update(
 
 gcn_836bae7457044c7a = claim(
     "Combining published DMC quasiparticle effective masses with QMC-based ground-state energy parameterizations and Landau relations can yield pragmatic best-available estimates of 2D HEG Fermi-liquid parameters when direct thermodynamic-limit extrapolation of discrete-angle DMC F_l data is unreliable [@Drummond2013b].",
+    title='Assembling best-available FL parameters',
     lkm_id="gcn_836bae7457044c7a",
     source_paper="paper:867749664370197342",
     provenance_source="lkm",
@@ -58,6 +62,7 @@ gcn_836bae7457044c7a = claim(
 
 gcn_306f15c9d5814e23 = claim(
     "Because direct thermodynamic-limit extrapolation of discrete-angle DMC Fermi-liquid parameters proved unreliable, Drummond and Needs assembled best-available numerical recommendations by combining published DMC effective masses, QMC-based ground-state correlation-energy parameterizations, and Landau relations for compressibility, spin susceptibility, and effective mass [@Drummond2013b].",
+    title='Recommended 2D HEG Fermi-liquid parameters',
     lkm_id="gcn_306f15c9d5814e23",
     source_paper="paper:867749664370197342",
     provenance_source="lkm",

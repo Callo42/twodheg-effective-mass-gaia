@@ -4,6 +4,7 @@ from gaia.lang import claim, deduction
 
 gcn_a685639571304474 = claim(
     "When fitting finite-N effective-mass data to m*(N)=m*(infinity)+b N^(-gamma), repeated fits with Monte Carlo resampling of the statistical error bars provide uncertainty estimates for m*(infinity) that capture dominant statistical variability, while not necessarily covering all model-selection or systematic extrapolation errors [@Drummond2012].",
+    title='Monte Carlo resampling for m* uncertainty',
     lkm_id="gcn_a685639571304474",
     source_paper="paper:867751779943579657",
     provenance_source="lkm",
@@ -14,6 +15,7 @@ gcn_a685639571304474 = claim(
 
 gcn_17c63b5dc2154f15 = claim(
     "In the reported DMC effective-mass calculations for 2D HEGs, finite time-step checks and high-quality Slater-Jastrow-backflow trial wave functions indicate that residual fixed-node and time-step biases are small compared with uncertainties from finite-size extrapolation, so those residual biases are not expected to materially shift the reported thermodynamic-limit m*(infinity) values [@Drummond2012].",
+    title='Residual fixed-node/time-step biases are small',
     lkm_id="gcn_17c63b5dc2154f15",
     source_paper="paper:867751779943579657",
     provenance_source="lkm",
@@ -24,6 +26,7 @@ gcn_17c63b5dc2154f15 = claim(
 
 gcn_b7a7d456a05d4129 = claim(
     "Using a single-power-law finite-size extrapolation with exponent gamma=3/2, Drummond and Needs reported thermodynamic-limit DMC quasiparticle effective masses for clean continuum 2D HEGs: for the paramagnetic system, m*(r_s=1)=0.955(2), m*(r_s=5)=1.04(2), and m*(r_s=10)=1.03(4); for the fully spin-polarized system, m*(r_s=1)=0.851(5), m*(r_s=5)=0.74(1), and m*(r_s=10)=0.70(3) [@Drummond2012].",
+    title='Revised thermodynamic-limit m* benchmarks',
     lkm_id="gcn_b7a7d456a05d4129",
     source_paper="paper:867751779943579657",
     provenance_source="lkm",
