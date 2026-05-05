@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+      "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+      "id": "gcn_bf915935b1fd4326",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+              "id": "gcn_bf915935b1fd4326"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_de955cd831054c41",
+            "premises": [
+              {
+                "content": "For the interacting 2D HEG energy-band data sets produced by DMC at the densities ($r_s=1,5,10$) and system sizes reported, truncating the band representation to a quartic polynomial in $k$, $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$, captures the essential curvature: the least-squares fits yield residuals that are small compared with the quoted uncertainties, so that the fitted coefficients $\\alpha_2$ and $\\alpha_4$ and derived quantities (occupied bandwidth and derivative at $k_F$ used to obtain $m^{*}$) are accurate within the stated error bars and higher-order terms ($k^6$ and beyond) are negligible over the occupied $k$-range used for the reported extractions.",
+                "id": "gcn_f6686a4225a043a6"
+              },
+              {
+                "content": "In fixed-node diffusion quantum Monte Carlo (DMC) the nodal surface of the trial wave function determines the fixed-node error in total energies; for the Slater-Jastrow-backflow nodal surfaces constructed from plane-wave determinants together with the reported Jastrow and backflow parameterizations at the studied densities and system sizes, the proposition is that the fixed-node error in total energies largely cancels in the many-body energy differences used to define the single-particle band $\\mathcal{E}(k)$, and the residual node-driven bias in the resulting band values and in derived quantities (occupied bandwidth and effective mass) is small compared with the stated uncertainties.",
+                "id": "gcn_fd7adbfff0f146ba"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Treat the methodological protocol (conclusion 6) as established: the DMC add/remove procedure and quartic-band fitting approach are available and produce stable band data and reliable derivatives at $k_F$.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "State how the single-particle energy band ${\\mathcal E}(\\mathbf{k})$ is computed in DMC: for occupied states ${\\mathcal E}(\\mathbf{k})\\equiv E_0-E_{-}(\\mathbf{k})$ and for unoccupied states ${\\mathcal E}(\\mathbf{k})\\equiv E_{+}(\\mathbf{k})-E_0$, where $E_0$, $E_{+}(\\mathbf{k})$, and $E_{-}(\\mathbf{k})$ are defined as ground-, $(N+1)$-, and $(N-1)$-electron total energies respectively, and the additional or removed electron occupies the plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$; note that the simulation cell is left unchanged when electrons are added or removed and that available $\\mathbf{k}$ values lie on the reciprocal-lattice grid offset by the simulation-cell Bloch vector $\\mathbf{k}_s$.\n[24]\n[25]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Describe the practical DMC calculations performed: use Slater-Jastrow-backflow trial wave functions with Jastrow factors (polynomial and plane-wave terms) and backflow functions (polynomial expansions in electron-electron separation) optimized by variance minimization followed by energy minimization; perform DMC calculations for paramagnetic and ferromagnetic 2D HEGs at density parameters $r_s=1$, $5$, and $10$ a.u., using system sizes chosen as closed-shell \"magic numbers\" (for example $N=74,114$ for paramagnetic and $N=57,101$ for ferromagnetic at the densities studied) and verify time-step convergence.\n[18]\nFig. 2\nFig. 3",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Explain the fitting procedure used to describe the resulting DMC band values: perform a least-squares fit of a quartic function ${\\mathcal E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ to the DMC band values obtained for the occupied $k$ values, thereby obtaining fit coefficients $\\alpha_0$, $\\alpha_2$, and $\\alpha_4$ for each fluid (paramagnetic or ferromagnetic) and density $r_s$.",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Record the computed qualitative deviations from a purely quadratic band reported by the authors: for the paramagnetic fluid at $r_s=1$ the DMC band closely matches the free-electron band ${\\mathcal E}(k)=k^2/2$, while at $r_s=5$ and $10$ the quartic coefficient $\\alpha_4>0$ for the paramagnetic fluid; for the ferromagnetic fluid the quartic coefficient $\\alpha_4<0$ at all densities studied; therefore the DMC bands are not purely quadratic in general.\nFig. 2\nFig. 3",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "State that these quartic fits and their coefficients were obtained separately for paramagnetic and ferromagnetic fluids at $r_s=1$, $5$, and $10$ a.u. using least-squares fitting to the DMC band values, producing the numerical fit coefficients (not all explicitly tabulated in the paper but used to produce the plotted fitted curves and subsequent derived quantities).\nFig. 2",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "In order to obtain reliable quasiparticle properties one needs the occupied electronic energy band $\\mathcal{E}(k)$ computed from energy eigenstates so that its slope at the Fermi wave vector yields the quasiparticle effective mass. Prior to this work there was no complete QMC-derived occupied band for the 2D HEG: many theoretical approaches either produced only approximate bands (e.g., Hartree-Fock with pathological long-range exchange effects) or gave band information that depended on uncontrolled approximations (various $GW$ implementations), and prior QMC studies did not present the full occupied-band curve. Without a robust, ab initio band one cannot determine nonparabolic corrections to the band (e.g., quartic terms) nor assess their impact on thermodynamic properties at finite temperature. The quartic parametrization of $\\mathcal{E}(k)$ provides a compact, quantitative description of the computed band and enables a controlled evaluation of the derivative at $k_F$ despite noisy discrete data from finite simulation cells.",
+            "id": "paper:811817724819800066::conclusion_1_subproblem",
+            "source_package": "paper:811817724819800066"
+          }
+        ],
+        "source_package": "paper:811817724819800066"
+      }
+    ],
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "508fde7364c5f9dd00acb0bb51fe38f1"
+}

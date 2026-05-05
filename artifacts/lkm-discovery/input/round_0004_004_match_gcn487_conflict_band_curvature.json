@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a single-particle energy band E(k) of a two-dimensional homogeneous electron gas, with scalar wave number k=|𝗸|, fitting discrete DMC-computed band values E(k_i) within the finite interval k∈[k_F−Δk,k_F+Δk] to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 and then evaluating the derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 provides an analytic approximation to the true thermodynamic-limit derivative at k_F suitable for estimating the quasiparticle effective mass m^*=k_F/(dE/dk)_{k_F}, provided the chosen Δk is neither so small that pathological near-k_F fluctuations dominate nor so large that physics beyond quartic band curvature is sampled.",
+        "content_hash": "509f3d443d74f62e117d878c9a620d290997ff70c69199dec6a9aef6a05208db",
+        "id": "gcn_48797cba2bf44d90",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P4",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assume the true thermodynamic-limit single-quasiparticle band of a 2D HEG is a smooth function \\\\(\\\\mathcal{E}(k)\\\\) in a neighbourhood of the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: fitting the finite-cell discrete DMC band values to the quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4}\n      $$\n      over a modest interval \\\\([k_{F}-\\\\Delta k,\\\\,k_{F}+\\\\Delta k]\\\\) (with \\\\(\\\\Delta k\\\\) chosen so that the interval is not extremely small and contains sufficient discrete \\\\(k\\\\)-points to characterise curvature) yields an estimate of the derivative \\\\(\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}\\\\) that is an adequately accurate approximation to the true thermodynamic-limit derivative for the purpose of computing the quasiparticle effective mass \\\\(m^{*}=k_{F}/(d\\\\mathcal{E}/dk)_{k_{F}}\\\\), provided the quartic form captures the local curvature of \\\\(\\\\mathcal{E}(k)\\\\).",
+        "content_hash": "6cc3eb65fc25efaee30ba0871438cfda053e9018366a60e7386fe1caa0bae0cb",
+        "id": "gcn_496f0cb16cf14324",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5, the same extrapolation procedure applied to the DMC quartic-fit band data yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.04(2) a.u., with m^* defined as m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "6387e2dcf84ae7d2424eccc92c312224cfbd583aac1fb1ee1a3fe9946e390e0f",
+        "id": "gcn_e24d7ff647144aee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_5",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031009615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given a discrete set of DMC-computed occupied-band energy values $\\{\\mathcal{E}(k_j)\\}$ at reciprocal-space grid points $k_j$ available in a finite periodic simulation cell, the occupied-band shape on the interval $0\\le k\\le k_F$ is represented by fitting a quartic polynomial $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ by least squares to the DMC points and using the analytic derivative $\\partial\\mathcal{E}/\\partial k = 2\\alpha_2 k + 4\\alpha_4 k^3$ evaluated at $k=k_F$ to obtain the quasiparticle effective mass $m^{*}=k_F / (\\partial\\mathcal{E}/\\partial k)_{k_F}$; this procedure assumes that a three-parameter quartic model is sufficiently flexible to capture the true band curvature over the fitting range so that the derivative at $k_F$ is reliable and not significantly biased by higher-order $k$-dependence or by fitting over points far from $k_F$.",
+        "content_hash": "2145b92b11acf64af6e0ba95167afa8ede6165af31c6cb02191f28f51f8e31b5",
+        "id": "gcn_e815ea0f29a94f72",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::P3",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030886196246139225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03057889822595705,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the interacting 2D HEG energy-band data sets produced by DMC at the densities ($r_s=1,5,10$) and system sizes reported, truncating the band representation to a quartic polynomial in $k$, $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$, captures the essential curvature: the least-squares fits yield residuals that are small compared with the quoted uncertainties, so that the fitted coefficients $\\alpha_2$ and $\\alpha_4$ and derived quantities (occupied bandwidth and derivative at $k_F$ used to obtain $m^{*}$) are accurate within the stated error bars and higher-order terms ($k^6$ and beyond) are negligible over the occupied $k$-range used for the reported extractions.",
+        "content_hash": "6446c2adbdb6ad295eda69e3195ed012c3c020f855cd4b5cb9794139fb44fe81",
+        "id": "gcn_f6686a4225a043a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P9",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029418126757516764,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N DMC effective masses obtained from quartic-band fits yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.851(5) a.u.; here m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector appropriate to the fully spin-polarized system.",
+        "content_hash": "5747e572876f4ad53cbf63c9a95667c9b3252c3f96c012389168f4010b0d4d5d",
+        "id": "gcn_dc8e0e000d7c44da",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_7",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0288981288981289,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m*_{Padé}(N→∞) denote the thermodynamic-limit effective mass obtained by the extrapolation protocol using Padé fits to finite-N DMC band data, and let m*_{quartic}(N→∞) denote the corresponding value obtained using quartic polynomial fits as a cross-check. The numerical difference |m*_{Padé}(N→∞) − m*_{quartic}(N→∞)| is negligible compared with the quoted uncertainties for the densities and spin polarizations studied, implying that the choice between these two fitting forms is not a significant source of uncertainty in the extrapolated effective mass.",
+        "content_hash": "60a7b350f0b65317815f027c95f31e3d1852c05b3903d3f2c8d290a81f246780",
+        "id": "gcn_584f99b686024726",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::P6",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028790389395194696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Systematic finite-size biases in the DMC effective mass m* can be eliminated by the following protocol: compute DMC total-energy differences to obtain quasiparticle energies at multiple momenta k in the interval 0 ≤ k < 2 k_F for a sequence of finite periodic simulation-cell electron numbers N (paramagnetic N up to 274 electrons were used); fit the computed interacting band values E(k) at the sampled k points to a smooth rational (Padé) function of the form E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3)/(1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real fit parameters determined by least-squares fitting; extract the finite-N effective mass m*(N) = k_F / (dE_fit/dk)_{k_F} from the fitted band; and extrapolate m*(N) linearly as a function of 1/N to N → ∞ to obtain the thermodynamic-limit m*. Cross-checks performed with quartic polynomial fits to E(k) show that the choice between the Padé form and quartic polynomials has a negligible effect on the extrapolated m* values for the densities and spin polarizations studied.",
+        "content_hash": "b5a5ecc545247742b558fd73094f044b82ec3cc8453e2c598e17476848beb84e",
+        "id": "gcn_3ef0b7f51e4a4208",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_5",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028484848484848488,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+        "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+        "id": "gcn_bf915935b1fd4326",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_1",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028309409888357256,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "8947a5c88a4ca57ffdbb52b5e3392b52"
+}

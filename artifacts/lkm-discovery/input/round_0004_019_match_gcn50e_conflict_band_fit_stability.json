@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811664611186049024": {
+        "area": "Physics and Astrophysics",
+        "authors": "John C. Miklosz | Robert G. Wheeler",
+        "available_online": "1967-1-15",
+        "cover_date_start": "1967-01-15",
+        "created_at": "2022-12-19T10:25:24+08:00",
+        "doi": "10.1103/physrev.153.913",
+        "en_title": "Exciton Structure and Magneto-Optical Effects in ZnS",
+        "id": "811664611186049024",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "13674",
+        "publication_name": "Physical Review _ Phys. Rev.",
+        "research_categories": "",
+        "zh_title": "硫化锌中的激子结构与磁光效应"
+      },
+      "paper:811979255264051200": {
+        "area": "Physics and Astrophysics",
+        "authors": "H. Lange | I. A. Iliev",
+        "available_online": "",
+        "cover_date_start": "1977-12-01",
+        "created_at": "2022-12-20T07:15:40+08:00",
+        "doi": "10.1002/pssb.2220840220",
+        "en_title": "Evidence of coulomb interaction at the e1 interband transition of hexagonal CdSe",
+        "id": "811979255264051200",
+        "keywords": "",
+        "publication_date": "1977-12-1",
+        "publication_id": "671",
+        "publication_name": "Physica Status Solidi (b) _ Phys. Stat. Sol. (b)",
+        "research_categories": "",
+        "zh_title": "六角形CdSe的e1带间跃迁处库仑相互作用的证据"
+      },
+      "paper:812118720473202689": {
+        "area": "Physics and Astrophysics",
+        "authors": "K. C. Agarwal | B. Daniel | C. Klingshirn | M. Hetterich",
+        "available_online": "2006-1-31",
+        "cover_date_start": "2006-01-31",
+        "created_at": "2022-12-20T16:29:51+08:00",
+        "doi": "10.1103/physrevb.73.045211",
+        "en_title": "Phonon and free-charge-carrier properties of Zn 1 − x Mn x Se epilayers grown by molecular-beam epitaxy",
+        "id": "812118720473202689",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "通过分子束外延生长的Zn₁₋ₓMnₓSe外延层的声子和自由电荷载流子特性"
+      },
+      "paper:812280616136474625": {
+        "area": "Geoscience",
+        "authors": "I. Topol | H. Neumann | E. Hess",
+        "available_online": "",
+        "cover_date_start": "1974-01-01",
+        "created_at": "2022-12-21T03:13:11+08:00",
+        "doi": "10.1007/bf01596450",
+        "en_title": "Band structure of AlSb",
+        "id": "812280616136474625",
+        "keywords": "",
+        "publication_date": "1974-1",
+        "publication_id": "13074",
+        "publication_name": "Czechoslovak Journal of Physics _ Czech J Phys",
+        "research_categories": "",
+        "zh_title": "锑化铝的能带结构"
+      },
+      "paper:813237876086013952": {
+        "area": "Physics and Astrophysics",
+        "authors": "D. W. Drumm | J. S. Smith | M. C. Per | A. Budi | L. C. L. Hollenberg | S. P. Russo",
+        "available_online": "2013-3-20",
+        "cover_date_start": "2013-03-20",
+        "created_at": "2022-12-23T18:36:59+08:00",
+        "doi": "10.1103/physrevlett.110.126802",
+        "en_title": "Ab Initio Electronic Properties of Monolayer Phosphorus Nanowires in Silicon",
+        "id": "813237876086013952",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "硅中单层磷纳米线的从头算电子性质"
+      },
+      "paper:814669592747048963": {
+        "area": "Physics and Astrophysics",
+        "authors": "Frank Matossi | Frank Stern",
+        "available_online": "1958-7-15",
+        "cover_date_start": "1958-07-15",
+        "created_at": "2022-12-27T17:26:08+08:00",
+        "doi": "10.1103/physrev.111.472",
+        "en_title": "Temperature Dependence of Optical Absorption in p -Type Indium Arsenide",
+        "id": "814669592747048963",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "13674",
+        "publication_name": "Physical Review _ Phys. Rev.",
+        "research_categories": "",
+        "zh_title": "p型砷化铟中光吸收的温度依赖性"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "Valence-band mean-parameter values and conduction- and valence-band effective masses were extracted from the curvature of the computed single-particle energies near band extrema by evaluating second derivatives $\\partial^2E(\\mathbf{k})/\\partial k^2$; the mean-valence-band parameters obtained are $A=-3.88$, $B=-1.81$, and $C^{2}=18.25$ (dimensionless parameters entering the conventional valence-band parametrization), and the effective masses expressed in units of the free-electron mass $m_{0}$ are: $m(\\Gamma)=0.134\\,m_{0}$; longitudinal mass on $\\Delta$, $m_{\\parallel}(\\Delta)=1.16\\,m_{0}$; transverse mass on $\\Delta$, $m_{\\perp}(\\Delta)=0.237\\,m_{0}$; longitudinal mass on $\\Lambda$, $m_{\\parallel}(\\Lambda)=1.31\\,m_{0}$; transverse mass on $\\Lambda$, $m_{\\perp}(\\Lambda)=0.14\\,m_{0}$; heavy-hole mass $m_{hh}=0.80\\,m_{0}$; light-hole mass $m_{lh}=0.153\\,m_{0}$; and split-off hole mass $m_{sh}=0.30\\,m_{0}$. From these band-edge masses the conductivity effective mass, density-of-states effective mass, and optical effective mass for electrons in the $\\Delta$ minimum were computed to be $0.32\\,m_{0}$, $1.33\\,m_{0}$, and $0.35\\,m_{0}$, respectively, values which compare favorably with independently reported experimental estimates for the $\\Delta$ minimum.",
+        "content_hash": "f91e7a6b0af773471add69803fdd48513fb6e3de85c8a7088cc60dd6577bcc4c",
+        "id": "gcn_99cf0a4c0aae479f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812280616136474625::conclusion_4",
+            "package_id": "paper:812280616136474625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812280616136474625"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extrapolated thermodynamic-limit effective masses exhibit distinct density dependences depending on spin polarization: for the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10 the extrapolated effective mass remains close to unity (\\\\(m^{*}\\\\approx1\\\\)), indicating no significant interaction-induced mass enhancement at these densities for the clean continuum 2D HEG model considered; by contrast, for the fully spin-polarized (ferromagnetic) 2D HEG the extrapolated effective mass decreases as the density is lowered, for example taking the values \\\\(0.85(1)\\\\) at \\\\(r_{s}=1\\\\), \\\\(0.74(1)\\\\) at \\\\(r_{s}=5\\\\), and \\\\(0.70(3)\\\\) at \\\\(r_{s}=10\\\\), a trend that is qualitatively consistent with experimental measurements on spin-polarized two-dimensional systems reported in the literature (e.g., Padmanabhan et al.).",
+        "content_hash": "50d79ff1ea218bc2ead65fa8297f1c40403b60c514239f93423bf99aa338304e",
+        "id": "gcn_bdc9e8a10cfe4b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Effective masses were obtained by least-squares parabolic fitting of the computed DFT band energies near band minima using the quadratic model $E_{\\mathrm{parab}}(k)=E(k_{0})+(\\hbar^{2}/2 m_{e} m^{*}) (k-k_{0})^{2}$, where $\\hbar$ is the reduced Planck constant, $k$ is the wavevector measured about the band minimum $k_{0}$, $m_{e}$ is the free-electron mass, and $m^{*}$ is the dimensionless effective mass; the transverse effective masses extracted for the two lowest $\\Gamma$ bands are $m_{t}=0.200\\pm0.001$ and $m_{t}=0.219\\pm0.001$ with reduced chi-squared of the fits $\\chi_{r}^{2}\\gtrsim 0.93$ near the minima, and, after correcting for the $1/\\sqrt{2}$ geometric contraction of the projected $\\Delta$ valley curvature caused by projection of bulk $x$ and $y$ valleys onto the [110] axis, the longitudinal-like effective mass for the $\\Delta$-type valley is estimated as $m_{\\ell}=0.931\\pm0.019$ with fit $\\chi_{r}^{2}\\gtrsim 0.91$.",
+        "content_hash": "d5bdd7c80ffb05e6efbfe4aefe2a28e72ba4fdbaa0f837ea932f947813291d13",
+        "id": "gcn_051db74222954c4c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813237876086013952::conclusion_5",
+            "package_id": "paper:813237876086013952",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813237876086013952"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the definitions $$\\frac{1}{\\mu_{\\gamma}}=m\\Big(\\frac{1}{m_{e\\gamma}}+\\frac{1}{m_{h\\gamma}}\\Big),\\qquad \\frac{1}{\\Delta_{\\gamma}}=m\\Big(\\frac{1}{m_{e\\gamma}}-\\frac{1}{m_{h\\gamma}}\\Big),$$ and the experimentally determined basal reduced mass $\\mu_x$ together with the splitting parameter $1/\\Delta_x$ and the adopted electron $g$ value, the basal‑plane conduction‑band electron effective mass and valence‑band hole effective mass were obtained as $m_{ex}=0.28\\pm0.03$ and $m_{hx}=0.49\\pm0.06$ (both in units of the free‑electron mass $m$).",
+        "content_hash": "1ae6d2476f7e871e774b3b964d98e685e81e4ad75dead60311145c374236bf37",
+        "id": "gcn_5abfa8c4fefe4756",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811664611186049024::conclusion_9a",
+            "package_id": "paper:811664611186049024",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811664611186049024"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A three-band effective-mass estimate for the reduced transverse effective mass m⊥ of excitons associated with transitions along the Δ direction in hexagonal CdSe is obtained by assuming the dominant interband coupling is between the spin–orbit-split Δ5 valence bands and the Δ3 conduction band and by using an interband momentum-matrix-element parameter value P2 = 20.3 eV; this three-band estimate yields m⊥ ≈ 0.145 m0 and is taken as a band-structure-based estimate that can be compared directly with the m⊥ value inferred from the experimental exciton binding energy.\n      C. HERRMANN and C. WEISBUCH, Phys. Rev. B 15, 823 (1977).",
+        "content_hash": "000fde30d3ce3bf4fef6cabe1ee2a7106606c2d1f9d38e0651916299ff1e5d1f",
+        "id": "gcn_45980f2814e44fa8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811979255264051200::P8",
+            "package_id": "paper:811979255264051200",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811979255264051200"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+        "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+        "id": "gcn_aac0470dbff84cb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "By fitting the measured dependence of the optical effective mass on carrier density n with the analytic approximation obtained from Kane's two-band k·p model,\n      1/m_op*(k) = (1/m0){1 + (m0/m_{Γ6} − 1)[1 + (m0/m_{Γ6} − 1)·(2 ħ^2 k_f^2)/(m0 E_G)]^{-1/2}},\n      with k_f = (3π^2 n)^{1/3}, m0 the free-electron mass, E_G the direct band-gap energy, and m_{Γ6} the Γ6 conduction-band-edge mass used as the fit parameter, the extrapolated room-temperature Γ6 conduction-band-edge effective mass m_{Γ6} is estimated to be 0.132 m0 for ZnSe and 0.093 m0 for Zn0.87Mn0.13Se; the stated accuracy of these extrapolated values is about ±9%.",
+        "content_hash": "adb87459fd0e580ccdfda85cda300e1d99b23dbed578c289e81214be644c7937",
+        "id": "gcn_9bc7827380ae4ad4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812118720473202689::conclusion_6",
+            "package_id": "paper:812118720473202689",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812118720473202689"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the parameter set given above (E_G = 0.41 eV, Δ = 0.43 eV, A = D = F = G = 0, B = −2.8 ħ^2/m, C = −1.5 ħ^2/m, P = 0.65 e^2, K = 0.008 e^2), the density-of-states effective masses computed for energies well away from the valence-band maximum (unless otherwise noted) are: conduction band (near its bottom) m^*_{cond} = 0.021 m; heavy-hole band (far from the top) m^*_{hh} = 0.41 m; light-hole band (near the top) m^*_{lh} = 0.025 m; and split-off band (near the top) m^*_{so} = 0.083 m, where m denotes the free electron mass; furthermore, the density-of-states heavy-hole mass increases near the valence-band maximum when K ≠ 0, with the increase especially pronounced if B < C.",
+        "content_hash": "4e4f40e8c5e339281d43dd5b76ba7973ae50639ce950ad6c089669fcdf3a6c7f",
+        "id": "gcn_8022a2a597774fea",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814669592747048963::conclusion_4",
+            "package_id": "paper:814669592747048963",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814669592747048963"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "678a1a0c1a87dee738dce89208fa2081"
+}

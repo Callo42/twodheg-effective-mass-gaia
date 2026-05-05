@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Given finite-size effective-mass data points \\\\(\\\\{(N_{i},m^{*}(N_{i}))\\\\}\\\\) at several densities and considering the family of fits \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) parametrized by \\\\(\\\\gamma\\\\), the proposition is: adopting a fixed exponent value \\\\(\\\\gamma=3/2\\\\) for the extrapolations across the densities considered is justified because the resulting fits produce substantially better overall goodness-of-fit statistics as measured by the reduced \\\\(\\\\chi^{2}\\\\) values than alternative fixed exponents over the same data sets, and therefore using \\\\(\\\\gamma=3/2\\\\) yields reliable extrapolated values \\\\(m^{*}(\\\\infty)\\\\) for these DMC data.",
+      "content_hash": "e91f9c84803cbbfec6008ee601fb907ddfb931de6c0cb39fea34133d4822be28",
+      "id": "gcn_25aac9571e85447c",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "766484c6e15f76effb05d90c840ced8c"
+}

@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:812107538265800704": {
+        "area": "Physics and Astrophysics",
+        "authors": "Simone Paziani | Saverio Moroni | Paola Gori-Giorgi | Giovanni B. Bachelet",
+        "available_online": "2006-4-14",
+        "cover_date_start": "2006-04-14",
+        "created_at": "2022-12-20T15:45:25+08:00",
+        "doi": "10.1103/physrevb.73.155111",
+        "en_title": "Local-spin-density functional for multideterminant density functional theory",
+        "id": "812107538265800704",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "多行列式密度泛函理论的局域自旋密度泛函"
+      },
+      "paper:813134280266874881": {
+        "area": "Chemistry",
+        "authors": "Katharina Doblhoff-Dier | Jörg Meyer | Philip E. Hoggan | Geert-Jan Kroes",
+        "available_online": "2017-6-9",
+        "cover_date_start": "2017-06-09",
+        "created_at": "2022-12-23T11:45:20+08:00",
+        "doi": "10.1021/acs.jctc.7b00344",
+        "en_title": "Quantum Monte Carlo Calculations on a Benchmark Molecule–Metal Surface Reaction: H 2 + Cu(111)",
+        "id": "813134280266874881",
+        "keywords": "",
+        "publication_date": "2017-7-11",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "",
+        "zh_title": "关于一个基准分子 - 金属表面反应的量子蒙特卡罗计算：H₂ + Cu(111)"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given finite-size effective-mass data points \\\\(\\\\{(N_{i},m^{*}(N_{i}))\\\\}\\\\) at several densities and considering the family of fits \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) parametrized by \\\\(\\\\gamma\\\\), the proposition is: adopting a fixed exponent value \\\\(\\\\gamma=3/2\\\\) for the extrapolations across the densities considered is justified because the resulting fits produce substantially better overall goodness-of-fit statistics as measured by the reduced \\\\(\\\\chi^{2}\\\\) values than alternative fixed exponents over the same data sets, and therefore using \\\\(\\\\gamma=3/2\\\\) yields reliable extrapolated values \\\\(m^{*}(\\\\infty)\\\\) for these DMC data.",
+        "content_hash": "e91f9c84803cbbfec6008ee601fb907ddfb931de6c0cb39fea34133d4822be28",
+        "id": "gcn_25aac9571e85447c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P8",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $E_b^{\\mathrm{DMC}}(\\gamma)$ denote the infinite-system barrier obtained by a two-point extrapolation of $\\Delta\\bar{E}_{\\mathrm{sp-fs}}^{\\mathrm{DMC}}(N)$ using an assumed leading many-body finite-size scaling $D^{\\mathrm{mb-fs}}(N)\\propto N^{\\gamma}$ with $N$ proportional to the number of explicitly correlated particles/electrons. Replacing the exponent $\\gamma=-5/4$ by $\\gamma=-3/2$ in this two-point extrapolation changes the extrapolated DMC barrier by only $0.1\\ \\mathrm{kcal/mol}$ for the system sizes used.",
+        "content_hash": "342f23e047f9b8db128e0ed891a5aaef5b2a5f2906f6470f5bf9e9dc92e051cf",
+        "id": "gcn_c930e3cfb7dd4234",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813134280266874881::P6",
+            "package_id": "paper:813134280266874881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813134280266874881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030536130536130537,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite-size dependence of the computed quasiparticle effective mass was modeled for the available DMC data by the empirical single-power-law scaling ansatz\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      where \\\\(m^{*}(N)\\\\) is the effective mass obtained for a finite periodic simulation containing \\\\(N\\\\) electrons, \\\\(m^{*}(\\\\infty)\\\\) denotes the extrapolated thermodynamic-limit effective mass, and \\\\(b\\\\) and \\\\(\\\\gamma\\\\) are fit parameters. Repeated fits with Monte Carlo sampling of the statistical error bars on the input finite-\\\\(N\\\\) effective masses yield fitted exponents \\\\(\\\\gamma=1.8(4)\\\\), \\\\(1.4(4)\\\\), and \\\\(1.4(3)\\\\) at density parameters \\\\(r_{s}=1\\\\), 5, and 10, respectively, indicating that the optimal exponent lies between 1 and 2. For the purpose of extrapolations reported here the exponent \\\\(\\\\gamma=3/2\\\\) was adopted because it gives good goodness-of-fit statistics (reduced \\\\(\\\\chi^{2}\\\\)) across the densities considered.",
+        "content_hash": "7c78bf6f845fac38fc247b76f894022044cbbd321f26f4ef461f6f238889fa62",
+        "id": "gcn_cdd06cccc149447b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_4",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029877369007803793,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02946236559139785,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of finite-system quasiparticle effective masses m^*(N) computed from DMC quartic-fit derivatives for periodic simulation cells with electron counts N, the finite-size dependence over the accessible range of N can be modeled by the single power-law form m^*(N)=m^*(∞)+b N^{-γ} with parameters m^*(∞), b, and γ that can be meaningfully estimated by least-squares fitting and by Monte Carlo sampling of the quoted statistical error bars, with the proviso that the model is an approximation whose accuracy depends on the span and density of sampled N values and on the absence of crossover behaviors or multiple competing finite-size contributions over the fitted range.",
+        "content_hash": "aebf37331c2ce526b23abaddb3b71ea1f3c02b2a9cfe13f2fad67b3fe1ad54f5",
+        "id": "gcn_1e8fcb7ef934428d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P5",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028693528693528692,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let N denote the number of electrons in a finite periodic simulation cell used to compute quasiparticle bands by quantum Monte Carlo; for paramagnetic (ζ = 0) 2D-UEL data obtained at N = 146, 218, and 302 electrons and for densities in the metallic range 1 ≤ r_s ≤ 5, the finite-N dependence of the extracted quasiparticle effective mass m*(N) is empirically well described by m*(N) = m*(∞) + α·N^{-3/2} for some constant α, and extrapolation of the VMC and DMC data using this N^{-3/2} scaling yields thermodynamic-limit estimates m*(∞) that increase monotonically with r_s across the studied points, although the VMC-extrapolated and DMC-extrapolated m*(r_s) trends have different slopes.",
+        "content_hash": "326ee75daec56ffc9f2eb17680a11e73e951233c288626342a34ca008f69b7e0",
+        "id": "gcn_38bb7ad1c4504c2a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_2",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027425373134328357,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fitting the system-size dependence of the finite-N quasiparticle effective mass to the power-law form m^*(N)=m^*(∞)+b N^{-γ} (with N the simulation-cell electron count) yields optimal exponents γ in the range 1≲γ≲2 for the accessible N values; specifically, numerical least-squares fits with Monte Carlo sampling of the quoted error bars give γ=1.8(4), 1.4(4), and 1.4(3) at r_s=1, 5, and 10, respectively, indicating that the observed finite-size scaling of m^*(N) in these DMC data is characterized by a power law with 1≲γ≲2 rather than the N^{-1/4} behavior predicted for excitations infinitesimally close to k_F.",
+        "content_hash": "09effb83b5df2e7866dfafd52e9efe08f16ad71711231c41c1c4896ea172083b",
+        "id": "gcn_9d9ea0febe6944a5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_11",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027242401779095628,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m*_{Padé}(N→∞) denote the thermodynamic-limit effective mass obtained by the extrapolation protocol using Padé fits to finite-N DMC band data, and let m*_{quartic}(N→∞) denote the corresponding value obtained using quartic polynomial fits as a cross-check. The numerical difference |m*_{Padé}(N→∞) − m*_{quartic}(N→∞)| is negligible compared with the quoted uncertainties for the densities and spin polarizations studied, implying that the choice between these two fitting forms is not a significant source of uncertainty in the extrapolated effective mass.",
+        "content_hash": "60a7b350f0b65317815f027c95f31e3d1852c05b3903d3f2c8d290a81f246780",
+        "id": "gcn_584f99b686024726",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::P6",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02565359477124183,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define $E_{N}$ as the computed VMC or DMC total energy for $N$ electrons in a periodic cubic cell with twist-averaged boundary conditions (TABC), $T_{N}$ the corresponding finite-$N$ kinetic energy, and $T_{\\infty}$ the kinetic energy in the thermodynamic limit. The finite-size extrapolation ansatz\n      $$\n      E_{\\infty}=E_{N}+T_{\\infty}-T_{N}+\\beta/N,\n      $$\n      with the parameter $\\beta$ determined from VMC simulations performed up to $N=246$, can be applied to correct DMC production values obtained at $N=54$ because (i) the residual finite-size dependence is observed to be sufficiently similar between VMC and DMC that using the VMC-derived $\\beta$ yields an accurate thermodynamic extrapolation for the DMC energies within quoted uncertainties, and (ii) the remaining finite-size bias after this correction is negligible for the intended parametrization accuracy.",
+        "content_hash": "a6fcd8cd860bcd22703d88ed2d5d691777ad868ef421f67c0b772044c19001f2",
+        "id": "gcn_083286cd8612489f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812107538265800704::P7",
+            "package_id": "paper:812107538265800704",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812107538265800704"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02361111111111111,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "2c48b4c3bf657f6dbbf9c000d8e5f9b4"
+}

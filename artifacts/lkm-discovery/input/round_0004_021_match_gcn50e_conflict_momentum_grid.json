@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811175873435664386": {
+        "area": "Physics and Astrophysics",
+        "authors": "Henry Lamm | Richard F. Lebed",
+        "available_online": "2016-7-28",
+        "cover_date_start": "2016-07-28",
+        "created_at": "2022-12-18T02:03:21+08:00",
+        "doi": "10.1103/physrevd.94.016004",
+        "en_title": "High resolution nonperturbative light-front simulations of the true muonium atom",
+        "id": "811175873435664386",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "522",
+        "publication_name": "Physical Review D _ Phys. Rev. D",
+        "research_categories": "",
+        "zh_title": "真缪子原子的高分辨率非微扰光前模拟"
+      },
+      "paper:811670421907701762": {
+        "area": "Geoscience",
+        "authors": "Amélie Ouellet | Thomas Bérard | Jean Desroches | Peter Frykman | Peter Welsh | James Minton | Yusuf Pamukcu | Suzanne Hurter | Cornelia Schmidt-Hattenberger",
+        "available_online": "",
+        "cover_date_start": "2011-01-01",
+        "created_at": "2022-12-19T10:48:29+08:00",
+        "doi": "10.1016/j.egypro.2011.02.250",
+        "en_title": "Reservoir geomechanics for assessing containment in CO2 storage: A case study at Ketzin, Germany",
+        "id": "811670421907701762",
+        "keywords": "[{\"en_name\": \"Fault reactivation\", \"ch_name\": \"\"}, {\"en_name\": \"Ketzin\", \"ch_name\": \"\"}, {\"en_name\": \"Reservoir geomechanics\", \"ch_name\": \"\"}, {\"en_name\": \"Seal integrity\", \"ch_name\": \"\"}, {\"en_name\": \"Surface deformation\", \"ch_name\": \"\"}]",
+        "publication_date": "2011",
+        "publication_id": "21302",
+        "publication_name": "Energy Procedia _ Energy Procedia",
+        "research_categories": "",
+        "zh_title": "用于评估二氧化碳封存中封存储存能力的油藏地质力学：德国克青的一个案例研究"
+      },
+      "paper:812415139742482432": {
+        "area": "Engineering Technology",
+        "authors": "N.E. Shanmugam | T. Balendra",
+        "available_online": "",
+        "cover_date_start": "1986-01-01",
+        "created_at": "2022-12-21T12:07:44+08:00",
+        "doi": "10.1016/0263-8231(86)90041-8",
+        "en_title": "Free vibration of thin-walled multi-cell structures",
+        "id": "812415139742482432",
+        "keywords": "",
+        "publication_date": "1986-1",
+        "publication_id": "3861",
+        "publication_name": "Thin Walled Structures _ Thin-Walled Structures",
+        "research_categories": "",
+        "zh_title": "薄壁多胞结构的自由振动"
+      },
+      "paper:812415671232102404": {
+        "area": "Engineering Technology",
+        "authors": "M. Grediac",
+        "available_online": "",
+        "cover_date_start": "1993-01-01",
+        "created_at": "2022-12-21T12:09:51+08:00",
+        "doi": "10.1016/0020-7683(93)90233-w",
+        "en_title": "A finite element study of the transverse shear in honeycomb cores",
+        "id": "812415671232102404",
+        "keywords": "",
+        "publication_date": "1993",
+        "publication_id": "3923",
+        "publication_name": "International Journal of Solids and Structures _ International Journal of Solids and Structures",
+        "research_categories": "",
+        "zh_title": "蜂窝芯材横向剪切的有限元研究"
+      },
+      "paper:812510090639704065": {
+        "area": "Engineering Technology",
+        "authors": "Danilo Karličić | Milan Cajić | Stepa Paunović | Sondipon Adhikari",
+        "available_online": "",
+        "cover_date_start": "2021-06-01",
+        "created_at": "2022-12-21T18:25:02+08:00",
+        "doi": "10.1016/j.ymssp.2020.107591",
+        "en_title": "Bloch waves in an array of elastically connected periodic slender structures",
+        "id": "812510090639704065",
+        "keywords": "",
+        "publication_date": "2021-6",
+        "publication_id": "3763",
+        "publication_name": "Mechanical Systems and Signal Processing _ Mechanical Systems and Signal Processing",
+        "research_categories": "",
+        "zh_title": "弹性连接的周期性细长结构阵列中的布洛赫波"
+      },
+      "paper:812587880684716033": {
+        "area": "Physics and Astrophysics",
+        "authors": "Y. Pavlyukh | G. Stefanucci | R. van Leeuwen",
+        "available_online": "2020-7-15",
+        "cover_date_start": "2020-07-15",
+        "created_at": "2022-12-21T23:34:09+08:00",
+        "doi": "10.1103/physrevb.102.045121",
+        "en_title": "Dynamically screened vertex correction to G W",
+        "id": "812587880684716033",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "对GW的动态屏蔽顶点修正"
+      },
+      "paper:812692781251166208": {
+        "area": "Geoscience",
+        "authors": "Benny Gunawan Hung | Bambang Suryoatmono",
+        "available_online": "2020-1-8",
+        "cover_date_start": "2020-01-08",
+        "created_at": "2022-12-22T06:30:59+08:00",
+        "doi": "10.14710/mkts.v25i2.23674",
+        "en_title": "Analisis Nonlinier Tekuk Torsi Lateral pada Balok Baja Cellular",
+        "id": "812692781251166208",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "44123",
+        "publication_name": "MEDIA KOMUNIKASI TEKNIK SIPIL _ MKTS",
+        "research_categories": "[\"Engineering\", \"Civil Engineering\"]",
+        "zh_title": "蜂窝钢梁横向扭转屈曲的非线性分析"
+      },
+      "paper:814713395637911553": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jaron T. Krogel | Jeongnim Kim | Fernando A. Reboredo",
+        "available_online": "2014-7-17",
+        "cover_date_start": "2014-07-17",
+        "created_at": "2022-12-27T20:20:11+08:00",
+        "doi": "10.1103/physrevb.90.035125",
+        "en_title": "Energy density matrix formalism for interacting quantum systems: Quantum Monte Carlo study",
+        "id": "814713395637911553",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "相互作用量子系统的能量密度矩阵形式：量子蒙特卡罗研究"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "Consider DMC calculations of the single-quasiparticle energy band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) for a 2D HEG at fixed physical density and spin polarization using square periodic simulation cells with simulation-cell Bloch vector set to \\\\(k_{s}=0\\\\) and with closed-shell ground-state occupations; perform these calculations for a sequence of system sizes \\\\(N\\\\in\\\\{N_{1},N_{2},\\\\dots\\\\}\\\\). The proposition is: the empirically observed increase of the computed bandwidth (the difference between the maximum and minimum discrete-cell values of \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) over the available discrete \\\\(\\\\mathbf{k}\\\\)-grid) with increasing particle number \\\\(N\\\\) at fixed density is a genuine finite-size trend representative of the typical behaviour under these stated simulation choices (square cells, \\\\(k_{s}=0\\\\), closed-shell ground states), rather than an artefact limited to a special choice of simulation-cell Bloch vector, a particular closed-shell occupation, or the specific discrete \\\\(N\\\\) values sampled.",
+        "content_hash": "0047adb2394ced3f9ffe3ad36f1356fc10ec71b7354df9b75990ac41c2d5b62c",
+        "id": "gcn_1234cb0f61cd44a2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P3",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using a horizontal neighboring‑cell size growth factor of at most $1.5$ from the reservoir‑grid edge to the mechanical‑grid edge and maintaining vertical neighboring‑cell thickness ratios below $2$ (where \"neighboring\" refers to immediately adjacent finite‑element or finite‑volume cells in the numerical discretization) is sufficient to avoid spurious numerical artifacts such as nonphysical stress concentration, grid‑induced bending modes, or loss of solution stability in the computed static‑equilibrium and elastic response solutions for the finite‑element discretization employed in the Ketzin 3D‑MEM.",
+        "content_hash": "7a0fd2a8da63730467d553f24baeb3e7fc653940b28eba96a3d3d1aa719534e7",
+        "id": "gcn_4380ed86d7964789",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811670421907701762::P3",
+            "package_id": "paper:811670421907701762",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811670421907701762"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+        "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+        "id": "gcn_aac0470dbff84cb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The continuum‑to‑grillage idealization is performed by taking the centreline of each equivalent grillage member to coincide with the web line of the real multi‑cell continuum and by representing each idealized member as an I‑beam composed of the web plate plus an assumed effective flange breadth $b_{\\mathrm{eff}}$; the section second moment $I$ and the mass per unit length $\\bar{m}$ are computed from this I‑beam geometry and are assumed to reproduce the bending stiffness and nodal lumped inertia contribution of the original multi‑cell continuum for the modes of interest.",
+        "content_hash": "32cd02999bfdef648d92ea0f558e2853cacbfebfde26505d6fd529969d9cd654",
+        "id": "gcn_d79c894a26e6499a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812415139742482432::P5",
+            "package_id": "paper:812415139742482432",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812415139742482432"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The representative-unit-cell finite-element methodology—construction of a symmetry-reduced quarter-cell, enforcement of symmetry-consistent displacement and rotation boundary conditions to represent the infinite periodic network, discretization of walls with plate finite elements, and computation of a homogenized shear modulus from the resultant force and equivalent shear strain—can be applied to honeycomb cores whose cell walls have non-rectangular cross-sectional shapes produced by some manufacturing processes; this procedure therefore enables numerical computation of $G_{xz}$ and of wall stress fields for geometries for which no closed-form theoretical predictions currently exist.",
+        "content_hash": "7aa80d6e5c9f9c98a09f984fabf039a6785c99302c6527b82cb5ee08d874cd50",
+        "id": "gcn_2932b7a1a7674a2d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812415671232102404::conclusion_6",
+            "package_id": "paper:812415671232102404",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812415671232102404"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider a sequence of finite periodic homogeneous electron gas (HEG) simulation cells with electron counts N and cubic cell side L chosen to yield fixed Wigner–Seitz radius r_s=3.0. The claim is that observable features computed for these finite cells—such as the occupied-state occupation-energy dispersion shape, an interaction-induced uniform energy shift of occupied states, and trends in occupation energies—are representative of metallic-regime HEG behavior and can be used to infer properties like an effective mass m^* and evanescent occupation-energy contributions that would appear in larger cells or the thermodynamic limit, under the assumption that finite-size discretization and shell-filling effects do not qualitatively alter these inferred trends.",
+        "content_hash": "a1acb1c1d5ae506bab1802e2863d53d3b60c0a705f4f4201bc37cbbd8f76a77e",
+        "id": "gcn_f454e555ebf441b9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814713395637911553::P7",
+            "package_id": "paper:814713395637911553",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814713395637911553"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Parametrizing the large-off-shell-momentum behavior of the dominant helicity component of a light-front bound-state wave function at fixed longitudinal fraction x by Ψ(μ) = a μ^{−κ} (with amplitude a and exponent κ) is physically meaningful because, under the relation (m_i^2 + k_⊥^2)/[x(1−x)] = 4(μ^2 + m_i^2) that defines μ in terms of transverse momentum k_⊥ and flavor mass m_i, the coordinate μ scales linearly with the instant-form three-momentum magnitude in the nonrelativistic limit; therefore fitted values of κ can be compared to the nonrelativistic prediction κ = 4 provided the fitting window excludes regions contaminated by finite-grid effects, fitting-range dependence, or residual cutoff artifacts.",
+        "content_hash": "27a294360fd4c53e394ca6e60a23ced735ee70d96b2c9b6f418df828d4dc241d",
+        "id": "gcn_28a23c9b3dd245af",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811175873435664386::P9",
+            "package_id": "paper:811175873435664386",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811175873435664386"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Each concentrated point mass of magnitude $M_{b(i)}$ attached to beam $i$ at axial position $a_{b(i)}\\in[0,L]$ is represented in the Galerkin mass-matrix by a Dirac-delta contribution so that the discrete mass contribution equals $M_{b(i)}\\phi_k(a_{b(i)})\\phi_j(a_{b(i)})$, and the full per-element mass-matrix entries used in assembling the global unit-cell mass matrix are therefore\n      $$\n      M_{jk}^{(i)}=\\int_0^L \\rho_i A_i\\,\\phi_k(x)\\phi_j(x)\\,dx \\;+\\;\\sum_{b} M_{b(i)}\\phi_k(a_{b(i)})\\phi_j(a_{b(i)})\\;-\\;\\rho_i I_i\\int_0^L\\phi_k''(x)\\phi_j(x)\\,dx.\n      $$",
+        "content_hash": "8a7c7ff88619f729426a0d2b9f9b890255f9676bfebbf5b063945cb2859c6660",
+        "id": "gcn_e183c05232914c1f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812510090639704065::P4",
+            "package_id": "paper:812510090639704065",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812510090639704065"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A SHELL281 shell element formulation in ANSYS (8‑node shell element with 6 degrees of freedom per node) using a single shell layer with through‑thickness membrane and bending kinematics and omitting an explicit three‑dimensional solid representation of web cutout edge details and welds was used to model the cellular I‑sections; this modelling approach captures the global lateral‑torsional buckling collapse moment M_{cr-MEH} for the studied simply supported, shear‑center loaded cases to within the numerical tolerance observed in the mesh convergence study (for the CF 225×75×5×7 convergence examples the computed M_{cr-MEH} varied from 24.229 kNm on a very coarse discretization down to 21.666 kNm on the 10 mm mesh and was effectively stable for meshes with ≈1,000 elements or more), indicating that the SHELL281 single‑layer shell representation is adequate for predicting the collapse moments of the cellular beams considered under the stated modelling assumptions.",
+        "content_hash": "7bbea7440dae7cd76943c944ed25f254c754b44fa3a67511ee79682197768ceb",
+        "id": "gcn_9f2fa98ef1214d38",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812692781251166208::P2",
+            "package_id": "paper:812692781251166208",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812692781251166208"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the PSD diagrammatic decomposition, closed-form analytic frequency integration under zero-temperature delta-function spectral assumptions, Monte Carlo momentum integration, noninteracting quasiparticle propagators G_0 and RPA screened interaction W_0, the dynamically screened permutation second-order self-energy Σ_{a\\bar a} was computed numerically for the three studied material classes: the 2D homogeneous electron gas (HEG), the 3D HEG, and extrinsic (doped) monolayer and bilayer graphene (including band-sum overlap factors and an ultraviolet momentum cutoff for graphene). The main quantitative findings in the parameter ranges studied are: (i) Σ_{a\\bar a} induces only modest changes in the quasiparticle spectral-peak shape and in satellite structure compared to the G_0W_0 result; (ii) in the 3D HEG Σ_{a\\bar a} produces an appreciable modification of the quasiparticle renormalization factor Z_{qp}(k_F) and of the effective mass m^*, shifting these quantities closer to results from schemes that include static local-field corrections; (iii) for the 2D HEG and for extrinsic monolayer and bilayer graphene the effect of Σ_{a\\bar a} on Z_{qp}, m^* (or renormalized Fermi velocity v_F^* in graphene), and on quasiparticle lifetimes is comparatively small; and (iv) the computed on-shell second-order exchange energy ε_{2x}≡Re Σ_{2x}(k_F,μ)/ε_F (the bare Coulomb limit of Σ_{a\\bar a}) agrees with the known analytic expression\n      $$\n      \\epsilon_{2x}=\\frac{\\alpha^2 r_s^2}{2\\pi^2}\\Bigl(\\frac{2\\pi^2}{3}\\ln 2-3\\zeta(3)\\Bigr)\n      $$\n      (where α is the appropriate interaction parameter) to within approximately 2.4% in the numerical implementation, providing a benchmark of the numerical pipeline.",
+        "content_hash": "83d2fc9baac8313af8788451f2f6d7e39c3e8de6bcc6df0fbf74abfe5fa2bec1",
+        "id": "gcn_e77dc2ed88ab4c5f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812587880684716033::conclusion_5",
+            "package_id": "paper:812587880684716033",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812587880684716033"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "45d9762f1b8c5cb18aeb28d739d0f0cb"
+}

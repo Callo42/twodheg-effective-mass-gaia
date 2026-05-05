@@ -49,3 +49,11 @@
 |---|---|---|---|---|
 | `gcn_a981a2b787514e47` + `gfac_fd7a3b1d2e1f4b07` | support | chain-backed | claim + deduction + support | Adds explicit DMC quartic-band-fit and finite-size-extrapolation protocol supporting benchmark values. |
 | `gcn_8fdb8c6b76f74960` | duplicate review | chain-backed | dismissed | Semantically duplicates existing reoptimization-bias branch; not emitted to avoid double counting. |
+
+## Round 0004 Accepted Mappings
+
+| LKM object | Channel | Evidence status | Gaia action | Rationale |
+|---|---|---|---|---|
+| `gcn_8df2cd5b49524aac` + `gfac_3fb52945143e4b02` | support | chain-backed | claim + deduction + support | Adds mechanistic reason for wide k-window fitting: near-k_F derivative pathologies. |
+| `gcn_bf915935b1fd4326` + `gfac_de955cd831054c41` | support | chain-backed | claim + deduction + support | Adds earlier DMC occupied-band quartic-curvature evidence supporting later band-fit protocol. |
+| `gcn_3ef0b7f51e4a4208` | adjacent method | chain-backed | dismissed | 3D Fermi liquid Padé protocol; retained as adjacent lead but not added to 2D HEG package branch. |

@@ -10,8 +10,13 @@ from .paper_drummond2013_effective_mass import (
     gcn_48797cba2bf44d90,
     gcn_50e263dc961541e0,
     gcn_850fc9d9de314026,
+    gcn_f6ca85b75deb46ba,
 )
-from .paper_drummond2009_fermi_fluid import gcn_4d1aad1470d54895
+from .paper_drummond2009_fermi_fluid import (
+    gcn_4d1aad1470d54895,
+    gcn_f6686a4225a043a6,
+    gcn_fd7adbfff0f146ba,
+)
 from .paper_drummond2012_effective_mass import (
     gcn_17c63b5dc2154f15,
     gcn_a685639571304474,
@@ -61,5 +66,17 @@ PRIORS = {
     gcn_50e263dc961541e0: (
         0.76,
         "LKM chain premise that a moderately wide k-window stabilizes quartic-band effective-mass fits against near-k_F fluctuations. TODO:review",
+    ),
+    gcn_f6ca85b75deb46ba: (
+        0.74,
+        "LKM chain premise attributing near-k_F derivative outliers to Hartree-Fock-like pathology plus incomplete finite-cell correlation recovery. TODO:review",
+    ),
+    gcn_f6686a4225a043a6: (
+        0.76,
+        "LKM chain premise that quartic fits capture occupied 2D HEG DMC band curvature within uncertainties. TODO:review",
+    ),
+    gcn_fd7adbfff0f146ba: (
+        0.70,
+        "LKM chain premise that fixed-node errors largely cancel in DMC band energy differences; method-specific and pending reviewer calibration. TODO:review",
     ),
 }

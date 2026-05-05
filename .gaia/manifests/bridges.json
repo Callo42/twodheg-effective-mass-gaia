@@ -1,6 +1,6 @@
 {
   "bridges": [],
-  "ir_hash": "sha256:d70e0556d7c81e17627d12a1210a04ab5a97a201e8db89588dc4260192448eda",
+  "ir_hash": "sha256:101f830fc7cc51aa9a7426c3f77c05c203ff30831416acb2bdbdffa5d94bd84e",
   "manifest_schema_version": 1,
   "package": "twodheg-effective-mass",
   "version": "0.1.0"

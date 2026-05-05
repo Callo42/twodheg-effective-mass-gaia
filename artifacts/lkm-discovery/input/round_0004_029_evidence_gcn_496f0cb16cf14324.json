@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Assume the true thermodynamic-limit single-quasiparticle band of a 2D HEG is a smooth function \\\\(\\\\mathcal{E}(k)\\\\) in a neighbourhood of the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: fitting the finite-cell discrete DMC band values to the quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4}\n      $$\n      over a modest interval \\\\([k_{F}-\\\\Delta k,\\\\,k_{F}+\\\\Delta k]\\\\) (with \\\\(\\\\Delta k\\\\) chosen so that the interval is not extremely small and contains sufficient discrete \\\\(k\\\\)-points to characterise curvature) yields an estimate of the derivative \\\\(\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}\\\\) that is an adequately accurate approximation to the true thermodynamic-limit derivative for the purpose of computing the quasiparticle effective mass \\\\(m^{*}=k_{F}/(d\\\\mathcal{E}/dk)_{k_{F}}\\\\), provided the quartic form captures the local curvature of \\\\(\\\\mathcal{E}(k)\\\\).",
+      "content_hash": "6cc3eb65fc25efaee30ba0871438cfda053e9018366a60e7386fe1caa0bae0cb",
+      "id": "gcn_496f0cb16cf14324",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "8b9f0caa6d3f60a2acd76fed34520e78"
+}

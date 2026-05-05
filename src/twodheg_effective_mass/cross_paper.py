@@ -7,10 +7,15 @@ from .paper_drummond2013_fermi_liquid import (
     gcn_3db07703d3684507,
 )
 from .paper_drummond2013_effective_mass import (
+    gcn_50e263dc961541e0,
+    gcn_8df2cd5b49524aac,
     gcn_850fc9d9de314026,
     gcn_a981a2b787514e47,
 )
-from .paper_drummond2009_fermi_fluid import gcn_4d1aad1470d54895
+from .paper_drummond2009_fermi_fluid import (
+    gcn_4d1aad1470d54895,
+    gcn_bf915935b1fd4326,
+)
 from .paper_drummond2012_effective_mass import gcn_b7a7d456a05d4129
 
 
@@ -72,6 +77,46 @@ band_fit_protocol_supports_benchmarks.metadata.update(
         "justification": (
             "Accepted as a strong same-paper/method support edge from the DMC band-fitting "
             "protocol to the reported thermodynamic-limit benchmark values."
+        ),
+    }
+)
+
+derivative_pathology_supports_wide_window = support(
+    premises=[gcn_8df2cd5b49524aac],
+    conclusion=gcn_50e263dc961541e0,
+    reason=(
+        "The near-k_F derivative-pathology claim explains why very narrow derivative "
+        "estimates are unstable, directly supporting the wide-k-window premise used "
+        "to stabilize quartic band fits."
+    ),
+    prior=0.88,
+)
+derivative_pathology_supports_wide_window.metadata.update(
+    {
+        "judgment": "accepted",
+        "justification": (
+            "Accepted as a same-paper mechanistic support edge from the diagnosed "
+            "near-k_F pathology to the wide-window fitting prescription."
+        ),
+    }
+)
+
+occupied_band_supports_band_fit_protocol = support(
+    premises=[gcn_bf915935b1fd4326],
+    conclusion=gcn_a981a2b787514e47,
+    reason=(
+        "The older DMC occupied-band result shows that add/remove DMC energies can "
+        "be represented by quartic band fits with meaningful curvature, supporting "
+        "the later protocol that uses fitted band derivatives and finite-size extrapolation."
+    ),
+    prior=0.74,
+)
+occupied_band_supports_band_fit_protocol.metadata.update(
+    {
+        "judgment": "accepted",
+        "justification": (
+            "Accepted as moderate historical-method support because the older occupied-band "
+            "calculation grounds the quartic band-fitting component of the later protocol."
         ),
     }
 )

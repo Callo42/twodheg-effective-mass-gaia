@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Systematic finite-size biases in the DMC effective mass m* can be eliminated by the following protocol: compute DMC total-energy differences to obtain quasiparticle energies at multiple momenta k in the interval 0 ≤ k < 2 k_F for a sequence of finite periodic simulation-cell electron numbers N (paramagnetic N up to 274 electrons were used); fit the computed interacting band values E(k) at the sampled k points to a smooth rational (Padé) function of the form E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3)/(1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real fit parameters determined by least-squares fitting; extract the finite-N effective mass m*(N) = k_F / (dE_fit/dk)_{k_F} from the fitted band; and extrapolate m*(N) linearly as a function of 1/N to N → ∞ to obtain the thermodynamic-limit m*. Cross-checks performed with quartic polynomial fits to E(k) show that the choice between the Padé form and quartic polynomials has a negligible effect on the extrapolated m* values for the densities and spin polarizations studied.",
+      "content_hash": "b5a5ecc545247742b558fd73094f044b82ec3cc8453e2c598e17476848beb84e",
+      "id": "gcn_3ef0b7f51e4a4208",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Systematic finite-size biases in the DMC effective mass m* can be eliminated by the following protocol: compute DMC total-energy differences to obtain quasiparticle energies at multiple momenta k in the interval 0 ≤ k < 2 k_F for a sequence of finite periodic simulation-cell electron numbers N (paramagnetic N up to 274 electrons were used); fit the computed interacting band values E(k) at the sampled k points to a smooth rational (Padé) function of the form E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3)/(1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real fit parameters determined by least-squares fitting; extract the finite-N effective mass m*(N) = k_F / (dE_fit/dk)_{k_F} from the fitted band; and extrapolate m*(N) linearly as a function of 1/N to N → ∞ to obtain the thermodynamic-limit m*. Cross-checks performed with quartic polynomial fits to E(k) show that the choice between the Padé form and quartic polynomials has a negligible effect on the extrapolated m* values for the densities and spin polarizations studied.",
+              "id": "gcn_3ef0b7f51e4a4208"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_b670c260781742ca",
+            "premises": [
+              {
+                "content": "Let E(k) be the interacting single-particle energy band defined for wavevector magnitude k in the interval 0 ≤ k < 2 k_F, where k_F is the Fermi wavevector corresponding to the electron density parameter r_s = ((3/(4π n))^{1/3} a_B^{-1}). Consider the rational Padé fitting function E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3) / (1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real parameters determined by least-squares fitting to diffusion Monte Carlo (DMC) computed E(k) at a finite set of sampled k values; this Padé functional form is sufficiently flexible to approximate the true smooth interacting E(k) over the sampled momentum range with residual fitting errors that are small compared with the statistical and systematic uncertainties affecting the extracted derivative (dE/dk)_{k_F} and hence the finite-N effective mass.",
+                "id": "gcn_98efcbd9993640f8"
+              },
+              {
+                "content": "For the sequence of periodic simulation-cell electron numbers N used in the study (paramagnetic N = 54, 130, 178, 226, 274; ferromagnetic N = 137, 181, 229), let m*(N) denote the finite-N effective mass extracted from the derivative of a fitted interacting band E_fit(k). The dominant systematic finite-size bias observed in m*(N) over this accessible range of N scales approximately as 1/N, so that a linear-in-1/N fit to the measured m*(N) values provides a reliable extrapolation to the thermodynamic limit m*(N → ∞) with a controlled and small extrapolation error for the densities and spin polarizations studied.",
+                "id": "gcn_75b92c329227478a"
+              },
+              {
+                "content": "Let m*_{Padé}(N→∞) denote the thermodynamic-limit effective mass obtained by the extrapolation protocol using Padé fits to finite-N DMC band data, and let m*_{quartic}(N→∞) denote the corresponding value obtained using quartic polynomial fits as a cross-check. The numerical difference |m*_{Padé}(N→∞) − m*_{quartic}(N→∞)| is negligible compared with the quoted uncertainties for the densities and spin polarizations studied, implying that the choice between these two fitting forms is not a significant source of uncertainty in the extrapolated effective mass.",
+                "id": "gcn_584f99b686024726"
+              },
+              {
+                "content": "In the computational protocol where ground-state N-electron cells are chosen as closed-shell \"magic-number\" system sizes with Bloch vector offset k_s = 0 (so that the occupied plane-wave orbitals form a closed shell), and where (N±1)-electron excited-state calculations reuse the optimized ground-state Jastrow and backflow parameters, the combination of sampling many k values across 0 ≤ k < 2 k_F and extrapolating m*(N) linearly in 1/N produces quasirandom finite-size errors (for example due to Friedel oscillation commensurability with the simulation cell) that are acceptably small or sufficiently canceled by the extrapolation procedure so as not to materially bias the thermodynamic-limit effective mass estimates.",
+                "id": "gcn_c86b2703762e4fde"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the established necessity (known result) that HF pathological behavior near $k_{\\mathrm{F}}$ requires evaluating excitations away from the Fermi surface and extracting gradients from smooth fits to DMC band data sampled across a range of $k$ values; treat this as given prior knowledge in the derivation.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the simulation protocol: perform DMC calculations of quasiparticle energies $\\mathcal{E}(k)$ at many momenta within the range $0\\le k<2k_{\\rm F}$ for a sequence of finite periodic simulation-cell electron numbers $N$ (paramagnetic up to $N=274$, ferromagnetic up to $N=229$), where $k_{\\rm F}$ is the Fermi wavevector corresponding to the electron density parameter $r_{\\rm s}$; these multiple $N$ values expose systematic finite-size dependence of computed $\\mathcal{E}(k)$ and derived $m^{*}$.\n[40]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Explain the finite-size error sources that motivate an extrapolation protocol: image interactions due to periodic boundary conditions and enforced commensurability of Friedel oscillations with the finite simulation cell produce systematic finite-size biases in total energies and in derived band gradients; therefore $m^{*}$ obtained at finite $N$ must be extrapolated to $N\\to\\infty$ to remove these systematic biases.\n[39]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Specify the band-fitting procedure used to obtain smooth $\\mathcal{E}(k)$ at each finite $N$: perform a least-squares fit of a Padé form\n$\\mathcal{E}(k)=\\dfrac{A_{0}+A_{1}k+A_{2}k^{2}+A_{3}^{2}k^{3}}{1+2A_{3}^{2}k}$\nto the DMC band values at the sampled momenta $k$, and, as a cross-check, also fit quartic polynomial functions to the same band data; these smooth fitted functions are used to evaluate the derivative $(d\\mathcal{E}/dk)_{k_{\\mathrm{F}}}$ at each finite $N$.",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Define the finite-$N$ effective mass estimate at each system size by $m^{*}(N)=k_{\\rm F}\\big/(d\\mathcal{E}/dk\\big)_{k_{\\mathrm{F}},N}$ where the derivative is taken from the fitted functional form (Padé or quartic) appropriate to that $N$, and collect $m^{*}(N)$ values over the sequence of $N$ studied.",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Perform an extrapolation of $m^{*}(N)$ as a function of $1/N$ to the thermodynamic limit $N\\to\\infty$, i.e., fit the observed systematic trend of $m^{*}$ versus $1/N$ and take the $1/N\\to0$ limit to obtain the infinite-system effective mass; this removes the systematic finite-size biases in the effective mass.\nFig.3",
+                "step_id": "6"
+              },
+              {
+                "reasoning": "Report that the authors observed that the choice between the Padé and quartic fitting forms has a negligible effect on the extrapolated thermodynamic-limit $m^{*}$ values (the effect is especially small for ferromagnetic systems), establishing that the fitting-function choice is not a significant source of uncertainty in the extrapolated effective mass.\nFig.3",
+                "step_id": "7"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Finite simulation cells introduce systematic finite-size (FS) errors in total energies and derived quantities such as $\\mathcal{E}(k)$ and $(d\\mathcal{E}/dk)_{k_{\\mathrm{F}}}$ because of image interactions, enforcement of commensurability of Friedel oscillations with the cell, and the discreteness of allowed $\\mathbf{k}$-points. Prior studies had limited system-size ranges or lacked a robust extrapolation protocol for $m^{*}$, leaving open whether computed trends in $m^{*}$ were artefacts of finite $N$. A controlled procedure to obtain smooth bands, fit them reliably, and extrapolate to $N\\to\\infty$ is therefore necessary to produce trustworthy thermodynamic-limit effective masses.",
+            "id": "paper:867767318044737939::conclusion_5_subproblem",
+            "source_package": "paper:867767318044737939"
+          }
+        ],
+        "source_package": "paper:867767318044737939"
+      }
+    ],
+    "papers": {
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "ae950aa2704a565fba719800652f0443"
+}

@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811151272764768256": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yuhe Zhang | A. Wójs | J. K. Jain",
+        "available_online": "2016-9-8",
+        "cover_date_start": "2016-09-08",
+        "created_at": "2022-12-18T00:25:35+08:00",
+        "doi": "10.1103/physrevlett.117.116803",
+        "en_title": "Landau-Level Mixing and Particle-Hole Symmetry Breaking for Spin Transitions in the Fractional Quantum Hall Effect",
+        "id": "811151272764768256",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "分数量子霍尔效应中自旋跃迁的朗道能级混合和粒子孔对称性破缺"
+      },
+      "paper:812002383675523073": {
+        "area": "Physics and Astrophysics",
+        "authors": "Shivakumar Jolad | Chia-Chen Chang | Jainendra K. Jain",
+        "available_online": "2007-4-9",
+        "cover_date_start": "2007-04-09",
+        "created_at": "2022-12-20T08:47:34+08:00",
+        "doi": "10.1103/physrevb.75.165306",
+        "en_title": "Electron operator at the edge of the 1 ∕ 3 fractional quantum Hall liquid",
+        "id": "812002383675523073",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "处于1/3分数量子霍尔液体边缘的电子算符"
+      },
+      "paper:814536125765910530": {
+        "area": "Physics and Astrophysics",
+        "authors": "R. Masrour | A. Jabar | E. K. Hlil | M. Hamedoun | A. Benyoussef | H. El Moussaoui | O. Mounkachi | A. Hourmatallah | A. Rezzouk | A. Marzouk | K. Bouslykhane | N. Benzakour",
+        "available_online": "2016-4-12",
+        "cover_date_start": "2016-04-12",
+        "created_at": "2022-12-27T08:35:47+08:00",
+        "doi": "10.1007/s10948-016-3491-5",
+        "en_title": "Investigation of Electronic and Magnetic Properties of Iron(II)-Bromide Compound by First Principle, Mean Field, Series Expansion Calculations and Monte Carlo Simulation",
+        "id": "814536125765910530",
+        "keywords": "[{\"en_name\": \"Critical temperature\", \"ch_name\": \"\"}, {\"en_name\": \"DOS\", \"ch_name\": \"\"}, {\"en_name\": \"Electronic and magnetic structure\", \"ch_name\": \"\"}, {\"en_name\": \"FeBr <sub>2</sub> compound\", \"ch_name\": \"\"}, {\"en_name\": \"Monte Carlo simulation\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-8",
+        "publication_id": "673",
+        "publication_name": "Journal of Superconductivity and Novel Magnetism _ J Supercond Nov Magn",
+        "research_categories": "",
+        "zh_title": "通过第一性原理、平均场、级数展开计算和蒙特卡罗模拟对溴化铁（II）化合物的电子和磁性性质进行研究"
+      },
+      "paper:867746469661114836": {
+        "area": "arXiv-Physics",
+        "authors": "T. Hahn | S. Klimin | J. Tempere | J. T. Devreese | C. Franchini",
+        "available_online": "",
+        "cover_date_start": "2018-03-14",
+        "created_at": "2023-05-23T04:34:40+08:00",
+        "doi": "10.48550/arXiv.1803.09608",
+        "en_title": "Diagrammatic Monte Carlo study of the Fröhlich polaron dispersion in 2D and 3D",
+        "id": "867746469661114836",
+        "keywords": "",
+        "publication_date": "2018-03-14",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "二维和三维中弗罗利希极化子色散的图解蒙特卡罗研究"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867752738493039469": {
+        "area": "arXiv-Physics",
+        "authors": "E. Kozik | K. Van Houcke | E. Gull | L. Pollet | N. Prokof'ev | B. Svistunov | M. Troyer",
+        "available_online": "",
+        "cover_date_start": "2009-07-05",
+        "created_at": "2023-05-23T04:59:35+08:00",
+        "doi": "10.48550/arXiv.0907.0863",
+        "en_title": "Diagrammatic Monte Carlo for Correlated Fermions",
+        "id": "867752738493039469",
+        "keywords": "",
+        "publication_date": "2009-07-05",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "用于关联费米子的图解蒙特卡罗方法"
+      },
+      "paper:867753410328265300": {
+        "area": "arXiv-Physics",
+        "authors": "Xiaomin Zu | Kwon Park | Jainendra K. Jain",
+        "available_online": "",
+        "cover_date_start": "1999-11-21",
+        "created_at": "2023-05-23T05:02:15+08:00",
+        "doi": "10.48550/arXiv.cond-mat/9911331",
+        "en_title": "Masses of composite fermions carrying two and four flux quanta: Differences and similarities",
+        "id": "867753410328265300",
+        "keywords": "",
+        "publication_date": "1999-11-21",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "携带两个和四个磁通量子的复合费米子的质量：差异与相似性"
+      },
+      "paper:867761792992936392": {
+        "area": "arXiv-Physics",
+        "authors": "Michel Pleimling",
+        "available_online": "",
+        "cover_date_start": "2001-11-13",
+        "created_at": "2023-05-23T05:35:34+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0111233",
+        "en_title": "Surface critical exponents at a uniaxial Lifshitz point",
+        "id": "867761792992936392",
+        "keywords": "",
+        "publication_date": "2001-11-13",
+        "publication_id": "108638",
+        "publication_name": "Condensed Matter _ Physics.cond-mat.cond-mat",
+        "research_categories": "",
+        "zh_title": "单轴里夫希茨点处的表面临界指数"
+      },
+      "paper:867761879387209779": {
+        "area": "arXiv-Physics",
+        "authors": "Songyang Pu | Ying-Hai Wu | J. K. Jain",
+        "available_online": "",
+        "cover_date_start": "2017-08-29",
+        "created_at": "2023-05-23T05:35:54+08:00",
+        "doi": "10.48550/arXiv.1708.08816",
+        "en_title": "Composite Fermions on a Torus",
+        "id": "867761879387209779",
+        "keywords": "",
+        "publication_date": "2017-08-29",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "环面上的复合费米子"
+      }
+    },
+    "variables": [
+      {
+        "content": "When fitting the finite-\\\\(N\\\\) effective-mass data \\\\(m^{*}(N)\\\\) to the scaling form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\), the proposition is: performing repeated fits with Monte Carlo resampling of the statistical error bars on the input finite-\\\\(N\\\\) \\\\(m^{*}(N)\\\\) values yields uncertainty estimates for the fitted thermodynamic-limit parameter \\\\(m^{*}(\\\\infty)\\\\) that accurately capture the dominant contribution of the statistical variability in the data; these Monte Carlo-derived error bars are sufficiently conservative to represent the quoted statistical uncertainties in the extrapolated \\\\(m^{*}(\\\\infty)\\\\), while acknowledging that they may not fully account for model-selection or other systematic sources of error.",
+        "content_hash": "077bce56f0736eb0bcb15640daa7243249bf960c272546354f01f6a168c59bd4",
+        "id": "gcn_a685639571304474",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P9",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030330882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Denote by $\\sigma_{\\mathrm{MC}}$ the statistical standard error from Monte Carlo sampling in a fixed‑phase DMC run for per‑particle energies and by $\\sigma_{\\mathrm{extrap}}$ the uncertainty arising from the finite‑size correction and extrapolation to the thermodynamic limit; for the DMC calculations carried out (system sizes and sampling lengths used), $\\sigma_{\\mathrm{MC}}\\ll\\sigma_{\\mathrm{extrap}}$, so that the quoted error bars and the uncertainty budget are dominated by extrapolation systematics rather than by Monte Carlo statistical noise.",
+        "content_hash": "024580908487a7fc3b8cb55dea02fcb02a0725c36aab3a92c8ef0a0623744570",
+        "id": "gcn_d670686105d54c41",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811151272764768256::P5",
+            "package_id": "paper:811151272764768256",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811151272764768256"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027777777777777776,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $F(N_{*})$ be a scalar observable (for example, energy density per spin component $E_{\\sigma}/(tV)$) computed by DiagMC with expansion-order cutoff $N_{*}$, and suppose $F(N_{*})$ is plotted versus $1/N_{*}$ for integer $N_{*}\\ge 1$. Consider the situation where $F(N_{*})$ shows an apparent plateau for the accessible finite set of orders (e.g., $N_{*}=1,2,3,4$) before the sampling becomes prohibitively expensive. The proposition is: in practical DiagMC runs for the Hubbard model at moderate interaction strength ($U/t\\sim 4$) and away from criticality, extrapolating $F(N_{*})$ to $N_{*}\\to\\infty$ using the observed finite-order plateau yields a reliable estimate of the infinite-order value, and the statistical error bars reported from the Monte Carlo sampling and extrapolation procedure correctly reflect the uncertainty and can be smaller than the plotting symbol size; this asserts that (i) the plateau indicates true convergence of the series rather than a transient near-cancellation at low orders, and (ii) the Monte Carlo error estimation and extrapolation protocol produce faithful error bars.",
+        "content_hash": "86942fed2c07e83354417eddbcc9b74428d9a717204bb7e99328757d4ef41b9d",
+        "id": "gcn_64dfdcf0cacc406a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752738493039469::P3",
+            "package_id": "paper:867752738493039469",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752738493039469"
+          ]
+        },
+        "role": "premise",
+        "score": 0.023392612859097127,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The numerical uncertainties quoted for the Monte Carlo-computed $|C_{\\{n_l\\}}|^2$ values are statistical standard errors that quantify Monte Carlo sampling noise for the chosen finite-$N$ datasets and do not include additional uncertainty arising from the choice of finite-size extrapolation model (for example, whether one fits a linear-in-$1/N$ model or allows nonlinear curvature); therefore the total uncertainty in the reported thermodynamic $|C_{\\{n_l\\}}|^2$ limits is larger than the quoted Monte Carlo sampling error bars when model-selection or extrapolation-form uncertainty is significant for a given occupation pattern.",
+        "content_hash": "5fd001efe79e783696d853ad7205a88dd91ecd068c361a999acd25f3b7d38537",
+        "id": "gcn_e368c1f38fd04b70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812002383675523073::P12",
+            "package_id": "paper:812002383675523073",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812002383675523073"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DMC effective-mass estimator implemented in these calculations accumulates per-diagram measurements of the inverse effective mass (i.e. estimates of 1/m_{*}(\\alpha)) and reports m_{*}^{MC} by inverting the sample mean of these inverse-mass measurements; as the coupling \\alpha increases and the true effective mass m_{*}(\\alpha) grows rapidly, the sampled inverse-mass values become very small with relative fluctuations comparable to the mean, which leads to large relative statistical uncertainty after inversion and thus to degraded accuracy and stability of the reported m_{*} estimates, an effect that is particularly severe in two dimensions for \\alpha>2.",
+        "content_hash": "b5abf050a79bbaec1e82222b00ebdcf778db95386529e78b1993d7b26a8b0ac0",
+        "id": "gcn_e8f88a5f767f4f93",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867746469661114836::conclusion_7",
+            "package_id": "paper:867746469661114836",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867746469661114836"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For Monte Carlo estimation of thermal averages in the finite-film ANNNI simulations, the sampling protocol used is: after equilibration, generate N_{clusters}=5×10^5 Monte Carlo clusters and compute observables, repeating the procedure over at least M≥10 independent realizations (different random-number seeds), and compute error bars from the dispersion across realizations; the proposition is that this sampling protocol yields statistical uncertainties that are small compared with the quoted final uncertainties for critical exponent estimates, i.e., the quoted error bars are dominated by systematic effects (finite-size, extrapolation, localisation) rather than raw Monte Carlo statistical noise.",
+        "content_hash": "6b2ae2c28c3ace3978f06d9da3b3e09f44968ed29b41b916ad3e3e92ecfa03ee",
+        "id": "gcn_82e6e6e217674a68",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761792992936392::P6",
+            "package_id": "paper:867761792992936392",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761792992936392"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For variational energies and overlaps of N-particle torus composite-fermion wave functions evaluated by importance-sampling Monte Carlo with up to 5\\times10^6 iterations per data point, the reported statistical error bars reflect the sampling uncertainty of the Monte Carlo procedure; moreover, performing linear or low-order polynomial extrapolations of finite-N data versus 1/N (as done for the energy and gap extrapolations) produces thermodynamic-limit estimates whose quoted extrapolation uncertainties incorporate both the finite-sample statistical errors and the statistical scatter of the finite-N data, so that the combined reported uncertainties represent credible error estimates for the thermodynamic energies and gaps, with the caveat that systematic finite-size and extrapolation-model uncertainties are an acknowledged additional source of error.",
+        "content_hash": "65b02921f91382408d0c933824801f36acacf0a4d92ffc6ec89bc97f09567eef",
+        "id": "gcn_05105cd9ed2a479c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761879387209779::P7",
+            "package_id": "paper:867761879387209779",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761879387209779"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Charged‑excitation gaps were computed by variational Monte Carlo evaluations of trial‑wave‑function energies for finite systems of $N$ electrons with $N$ up to 100, using $10^{7}$ to $2\\times10^{7}$ Monte Carlo steps per energy; the proposition is that performing finite‑size extrapolations of these computed gaps to the thermodynamic limit using the reported extrapolation procedures yields gap estimates whose systematic finite‑$N$ error is small and is captured within the combined quoted uncertainty (Monte Carlo statistical sampling error plus extrapolation uncertainty), i.e., the extrapolated thermodynamic gaps are reliable within the reported error bars, subject to the assumption that no unexpected non‑monotonic finite‑size effects or topological‑sector‑dependent corrections remain significant at the system sizes used.",
+        "content_hash": "3a56eba6c0886028ebeaafd7b7034491a66c6a99298fa5224c78c68d93c878ad",
+        "id": "gcn_a2bf8f57c2434afb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753410328265300::P5",
+            "package_id": "paper:867753410328265300",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753410328265300"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Monte Carlo simulations used cubic simulation cells with total spin number N = N_Fe^3 for linear sizes N_Fe = 8, 12, 16, employed sequential single-spin-update sampling via a heat-bath algorithm under the Metropolis acceptance rule, and collected 10^5 Monte Carlo steps per spin with the first 10^4 steps discarded for equilibration; the reported Monte Carlo critical temperature T_N(MC) = 14.8 K is taken from susceptibility peaks in these finite systems but the study does not present a finite-size-scaling extrapolation to infinite system size nor report statistical error bars across independent runs.\n      Fig. 5; Table 2",
+        "content_hash": "435473de5bda7b99ea56c75b941745db8c911191911491f053b72e804e8ac41b",
+        "id": "gcn_10aa7accd6264715",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814536125765910530::P7",
+            "package_id": "paper:814536125765910530",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814536125765910530"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "85f802373268e193bc302c2e74059893"
+}

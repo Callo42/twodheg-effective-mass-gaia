@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1086225975575838730": {
+        "area": "arXiv-Physics",
+        "authors": "Ruge Lin | Germán Sierra | José I. Latorre",
+        "available_online": "",
+        "cover_date_start": "2025-01-10",
+        "created_at": "2025-01-15T01:54:14+08:00",
+        "doi": "10.48550/arxiv.2501.06292",
+        "en_title": "Arithmetic sequences as quantum states",
+        "id": "1086225975575838730",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108526",
+        "publication_name": "Quantum Physics",
+        "research_categories": "",
+        "zh_title": "作为量子态的等差数列"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867747331502506254": {
+        "area": "arXiv-Physics",
+        "authors": "M. Borówko | A. Patrykiejew | O. Pizio | S. Sokołowski",
+        "available_online": "",
+        "cover_date_start": "2012-02-20",
+        "created_at": "2023-05-23T04:38:05+08:00",
+        "doi": "10.48550/arXiv.1202.4284",
+        "en_title": "Changes in the structure of tethered chain molecules as predicted by density functional approach",
+        "id": "867747331502506254",
+        "keywords": "",
+        "publication_date": "2012-02-20",
+        "publication_id": "108487",
+        "publication_name": "Soft Condensed Matter _ Physics.cond-mat.soft",
+        "research_categories": "",
+        "zh_title": "由密度泛函方法预测的束缚链分子结构的变化"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867754345859384225": {
+        "area": "arXiv-Physics",
+        "authors": "Oriol Rubies-Bigorda | Susanne F. Yelin",
+        "available_online": "",
+        "cover_date_start": "2021-10-21",
+        "created_at": "2023-05-23T05:05:58+08:00",
+        "doi": "10.48550/arXiv.2110.11288",
+        "en_title": "Superradiance and subradiance in inverted atomic arrays",
+        "id": "867754345859384225",
+        "keywords": "",
+        "publication_date": "2021-10-21",
+        "publication_id": "108526",
+        "publication_name": "Quantum Physics _ Physics.quant-ph.quant-ph",
+        "research_categories": "",
+        "zh_title": "倒置原子阵列中的超辐射和亚辐射"
+      },
+      "paper:867760664993595716": {
+        "area": "arXiv-Physics",
+        "authors": "C. Lin | F.-H. Zong | D. M. Ceperley",
+        "available_online": "",
+        "cover_date_start": "2001-01-22",
+        "created_at": "2023-05-23T05:31:05+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0101339",
+        "en_title": "Twist-averaged Boundary Conditions in Continuum Quantum Monte Carlo",
+        "id": "867760664993595716",
+        "keywords": "",
+        "publication_date": "2001-01-22",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "",
+        "zh_title": "连续量子蒙特卡罗中的扭曲平均边界条件"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028205128205128206,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The linear-regression fits of the power-law ansatz $ \\langle h\\rangle\\propto M^{\\alpha} $ performed on the DFT-computed $ (M,\\langle h\\rangle) $ data in the reported finite-$M$ windows produced empirical correlation coefficients on the order of $ R_{c}\\approx 0.9999 $ for several parameter sets, and those high $R_{c}$ values indicate that the power-law model provides an excellent description of the computed data over the fitted $M$-ranges under the numerical accuracy and discretization used in the calculations.",
+        "content_hash": "1cf453315e1695616e02087e24cc22b40791e2fb3e42374091eb613243c29b2d",
+        "id": "gcn_9bb03ec3c6b544e0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867747331502506254::P5",
+            "package_id": "paper:867747331502506254",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867747331502506254"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the computed two-dimensional sample sizes (characteristic in-plane length up to roughly ten times the wavelength for the smallest spacings), the numerical data for $-\\dot{a}_{\\max}$ are comparably well fitted by a power-law in $N_{rad}$ and by a logarithmic function of $N_{rad}$; hence extrapolation from these finite-size data to asymptotically large $N$ is ambiguous because the available size range does not decisively distinguish between the two functional forms.",
+        "content_hash": "aaddabeaea8b9f342e8d6db80f76f28cd12e06c566703f3b914e7eaf194f52af",
+        "id": "gcn_98b3eb320ad64537",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867754345859384225::P15",
+            "package_id": "paper:867754345859384225",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867754345859384225"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), the leading finite-size error in Fermi-liquid-derived quantities such as the angular-momentum Fermi liquid parameters F_l or the Fourier-projected quantities F_l/m^{*} behaves asymptotically as a power law in the finite-system particle number N with exponent -1/4; equivalently,\n      \\Delta F_l(N) \\equiv F_l(N)-F_l(\\infty) \\propto N^{-1/4},\n      so that fitting computed F_l(N) values to the form c + a N^{-1/4} yields an estimate of the thermodynamic-limit intercept c = F_l(\\infty). This statement adopts the theoretical asymptotic exponent \\gamma = -1/4 predicted for long-range-correlation-dominated finite-size errors.\n      Refs. 13,14",
+        "content_hash": "5d35c92260764bcb7f6ff7e8faf67af9d71f7400ea2dbb873a0034fae3ee4b32",
+        "id": "gcn_3ceb44ae3f404964",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P2",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite-system electron numbers used in the calculations—N = 26, 50, 74, 114 for paramagnetic HEGs and N = 29, 57, 101 for ferromagnetic HEGs—provide multiple system sizes at each density and spin polarization such that the computed values F_l^{s,a}/m^{*}(N) display the onset of finite-size behavior consistent with long-range-correlation-dominated scaling (for example an N^{-1/4} trend), and therefore these system sizes were treated as sufficient for attempting an extrapolation to the thermodynamic limit using the assumed N^{-1/4} dependence.",
+        "content_hash": "6d5e9bef097e04b66e50264296b0a7ecd445aa771a795abb6ef33d573abb8c6b",
+        "id": "gcn_be865fd471c743ca",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P13",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given a sequence of interacting-system energy estimates $E_N$ at varying particle numbers $N$ obtained with a consistent class of trial wavefunctions and a fixed twist-averaging protocol, the extrapolation ansatz\n      $$\n      E_N = E_{\\infty} + (m/m^{*})\\Delta T_N + \\epsilon N^{-\\nu}\n      $$\n      posits that the dominant finite-size kinetic contribution is captured by the linear term $(m/m^{*})\\Delta T_N$ (with slope $m/m^{*}$ extractable from finite-$N$ twist variations) and that the remaining finite-size corrections are represented by a single power-law term $\\epsilon N^{-\\nu}$ with exponent $\\nu$ (which can be estimated from numerical data or theoretical considerations); the practical validity of this extrapolation requires (i) an accurate finite-$N$ determination of $m/m^{*}$, (ii) absence of significant additional finite-size contributions with different scalings or oscillatory structure, and (iii) that the single power law adequately captures the subleading effects in the examined $N$ range.",
+        "content_hash": "deddd0d8eec28712f6abce7e13c143138738600542df85c0057e91d8c11d1e4d",
+        "id": "gcn_435e8f393401460e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867760664993595716::P13",
+            "package_id": "paper:867760664993595716",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867760664993595716"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given the numerically obtained tabulated triples (n,M_n,E_n) for even n in the sampled set \\{10,12,\\dots,30\\}, ordinary least-squares linear regressions of E_n versus n and of \\log_2 M_n versus n were performed; the regressions produce the finite-range summary relations E_n\\simeq0.509n-0.990 and \\log_2 M_n\\simeq0.703n-0.357, which accurately represent the empirical trends across that sampled interval subject to the usual statistical caveats about model fit quality and extrapolation beyond the fitted range.",
+        "content_hash": "54b54c82ab757fe08da2c4f346a29f5f1ac67e53db0ca8084651df6f53ce2f9a",
+        "id": "gcn_3d0a87c190384e7a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1086225975575838730::P6",
+            "package_id": "paper:1086225975575838730",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1086225975575838730"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "bcaa5dee278666788f1828920215c356"
+}

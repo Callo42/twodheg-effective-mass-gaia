@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811737634668806147": {
+        "area": "Physics and Astrophysics",
+        "authors": "C F Moukarzel | T Sokolowski",
+        "available_online": "2010-9-22",
+        "cover_date_start": "2010-09-01",
+        "created_at": "2022-12-19T15:15:33+08:00",
+        "doi": "10.1088/1742-6596/246/1/012019",
+        "en_title": "Long-range k-core percolation",
+        "id": "811737634668806147",
+        "keywords": "",
+        "publication_date": "2010-9-1",
+        "publication_id": "97787",
+        "publication_name": "Journal of Physics: Conference Series _ J. Phys.: Conf. Ser.",
+        "research_categories": "",
+        "zh_title": "长程k核渗流"
+      },
+      "paper:812303918875803648": {
+        "area": "Physics and Astrophysics",
+        "authors": "Roi Baer | Daniel Neuhauser",
+        "available_online": "2005-2-2",
+        "cover_date_start": "2005-02-02",
+        "created_at": "2022-12-21T04:45:47+08:00",
+        "doi": "10.1103/physrevlett.94.043002",
+        "en_title": "Density Functional Theory with Correct Long-Range Asymptotic Behavior",
+        "id": "812303918875803648",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "具有正确长程渐近行为的密度泛函理论"
+      },
+      "paper:814752736162611201": {
+        "area": "Physics and Astrophysics",
+        "authors": "Koji Yasuda",
+        "available_online": "2002-1-23",
+        "cover_date_start": "2002-01-23",
+        "created_at": "2022-12-27T22:56:31+08:00",
+        "doi": "10.1103/physrevlett.88.053001",
+        "en_title": "Local Approximation of the Correlation Energy Functional in the Density Matrix Functional Theory",
+        "id": "814752736162611201",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "密度矩阵泛函理论中相关能泛函的局部近似"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:899472619680563484": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yoshihiro Nishiyama",
+        "available_online": "",
+        "cover_date_start": "2023-08-18",
+        "created_at": "2023-08-18T17:43:06+08:00",
+        "doi": "10.1088/1742-5468/aceb55",
+        "en_title": "Transverse-field XY spin chain with the competing long-range interactions: multi-criticality around the XX-symmetric point",
+        "id": "899472619680563484",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "605",
+        "publication_name": "Journal of Statistical Mechanics: Theory and Experiment _ ",
+        "research_categories": "",
+        "zh_title": "具有竞争长程相互作用的横向场XY自旋链：XX对称点附近的多重临界性"
+      }
+    },
+    "variables": [
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03225806451612903,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fix the descreening parameter to $\\gamma=1\\,a_{0}^{-1}$ and consider the homogeneous electron gas (HEG) with density parameterized by $r_s$ via $n=(4\\pi r_s^3/3)^{-1}$.  Define $\\varepsilon_{C}^{\\gamma=1}(n)$ as the correlation energy per particle for the HEG evaluated using the shifted-contour auxiliary-field Monte Carlo (SCAFMC) method implemented with a plane-wave finite supercell and without an explicit infinite-cell-size extrapolation.  The proposition is that the SCAFMC numerical values obtained at sampled $r_s=\\{1,2,3,5,10,20\\}$, subject to an estimated statistical uncertainty of about $10\\%$ and to finite-cell-size effects that were not fully converged in this preliminary calculation, nevertheless provide an acceptably accurate estimate of the infinite-system $\\varepsilon_{C}^{\\gamma=1}(n)$ within the stated $\\sim 10\\%$ uncertainty for the specific purpose of parametrizing a practical local-density residual functional.\n      [26,27]",
+        "content_hash": "44f7ddf1fdf1fd6f87d88c0f52e5074e0b955748c6efa926219806fbb8f45761",
+        "id": "gcn_56e3413484294b96",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812303918875803648::P7",
+            "package_id": "paper:812303918875803648",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812303918875803648"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given finite-size effective-mass data points \\\\(\\\\{(N_{i},m^{*}(N_{i}))\\\\}\\\\) at several densities and considering the family of fits \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) parametrized by \\\\(\\\\gamma\\\\), the proposition is: adopting a fixed exponent value \\\\(\\\\gamma=3/2\\\\) for the extrapolations across the densities considered is justified because the resulting fits produce substantially better overall goodness-of-fit statistics as measured by the reduced \\\\(\\\\chi^{2}\\\\) values than alternative fixed exponents over the same data sets, and therefore using \\\\(\\\\gamma=3/2\\\\) yields reliable extrapolated values \\\\(m^{*}(\\\\infty)\\\\) for these DMC data.",
+        "content_hash": "e91f9c84803cbbfec6008ee601fb907ddfb931de6c0cb39fea34133d4822be28",
+        "id": "gcn_25aac9571e85447c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P8",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the homogeneous electron gas (HEG) with electron density specified by the Wigner–Seitz radius $r_{s}$ via $n=(4\\pi r_{s}^{3}/3)^{-1}$ and for descreening parameter fixed to $\\gamma=1\\,a_{0}^{-1}$, the residual correlation energy per particle $\\varepsilon_{C}^{\\gamma=1}(n)$ was numerically estimated using the shifted-contour auxiliary-field Monte Carlo (SCAFMC) method implemented in a plane-wave finite supercell at sampled densities $r_{s}\\in\\{1,2,3,5,10,20\\}$; these SCAFMC calculations were performed without a complete infinite-cell-size extrapolation and the Monte Carlo statistical uncertainty is estimated at roughly $10\\%$.  Defining the ratio $\\eta(r_{s})\\equiv\\varepsilon_{C}^{\\gamma=1}(n)/\\varepsilon_{C}^{\\mathrm{LDA}}(n)$ to compare the SCAFMC residual correlation to the standard local-density-approximation (LDA) correlation per particle $\\varepsilon_{C}^{\\mathrm{LDA}}(n)$ for the same HEG density, the discrete SCAFMC estimates of $\\eta(r_{s})$ were represented by the rational fit\n      $\\eta(r_{s})=\\dfrac{A}{C_{0}+C_{1}r_{s}+r_{s}^{2}}$\n      with fitted parameters $A=3.4602$, $C_{0}=3.2$, and $C_{1}=-0.9$.  Within the stated Monte Carlo uncertainty and the limitations of finite-cell calculations, the fitted $\\eta(r_{s})$ yields $\\eta(r_{s})<1$ for most densities relevant to confined systems (except at very high densities where the preliminary SCAFMC data indicate $\\eta(r_{s})>1$), indicating that $\\varepsilon_{C}^{\\gamma=1}(n)$ is generally reduced relative to the standard LDA correlation in the density regime sampled.",
+        "content_hash": "432cb94d8c0b6b851c71b5ff234ebbbfe20a67d16c2c47a194ac706735cd55de",
+        "id": "gcn_8d2e5b0b601247b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812303918875803648::conclusion_4",
+            "package_id": "paper:812303918875803648",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812303918875803648"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define a spatially varying effective local electron mass (in atomic units) as the pointwise functional\n      $$\n      m(\\rho,J)(r)=\\Big(\\frac{4\\pi\\rho(r)}{3}\\Big)^{1/3}\\,r_s(r),\n      $$\n      where $r_s(r)$ is obtained by inverting the fitted HEG relation $r_s=J_1^{-1}(J/\\rho)$; using this definition of $m(\\rho,J)$ in the local correlation-energy integrand enforces the correct homogeneous-coordinate-scaling behavior for the local HEG mapping and effectively adjusts the local kinetic-energy scale to improve agreement between the local-inhomogeneous approximation and HEG-derived correlation formulas.",
+        "content_hash": "5830b60ac32ff7b12924edc9e2d4f9f6442e7b102b46a56a27580e51a8f07d08",
+        "id": "gcn_ff0892e123874cfc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814752736162611201::P11",
+            "package_id": "paper:814752736162611201",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814752736162611201"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the transverse-field XY spin chain defined above with anisotropy $\\\\eta=0.5$ and decay exponent $\\\\alpha=2$, the finite-size extrapolation of pseudocritical fields $\\\\gamma_c^{*}(N)$ (defined as the peak positions of $\\\\chi_F$ for each finite $N$) is performed by plotting $\\\\gamma_c^{*}(N)$ versus $1/N^{1/\\\\nu}$ and extrapolating to $N\\\\to\\\\infty$. In this procedure the correlation-length exponent is fixed a priori to the two-dimensional classical Ising value\n      $$\n      \\\\nu = 1,\n      $$\n      and this fixed value $\\\\nu=1$ is adopted as an input (not fitted) in the linear extrapolation versus $1/N^{1/\\\\nu}$ used to obtain the thermodynamic critical field $\\\\gamma_c$ from finite-$N$ pseudocritical points.",
+        "content_hash": "525f0879c68a1f56150dbcf9eb18dbd1e047c1a4f5de27505b22de3ada93edeb",
+        "id": "gcn_5db06d38c1e94751",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:899472619680563484::P3",
+            "package_id": "paper:899472619680563484",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:899472619680563484"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The claim: \"Finite-size-scaling (FSS) measurements of $\\partial\\log P_\\infty/\\partial\\gamma$ and of the finite-cluster mass $S$ at the apparent critical point $\\gamma_c$ yield scaling exponents that approach the 2D percolation expectations ($\\nu=4/3$, $\\hat{\\gamma}=43/18$) for decay exponents $\\alpha\\gtrsim4$, i.e. finite-size and crossover corrections are small enough in the studied $L$-range that the asymptotic universality class can be identified\" means the following. For square-lattice-based networks with long-range links drawn from P(r) ∝ r^{-α}, the peak scaling of ∂ log P_∞/∂γ at γ_c is fitted to a power law in linear system size L as L^{1/ν} and the finite-cluster mass S at γ_c is fitted as S_L(γ_c) ∼ L^{Ĝ/ν}; the proposition is that the observed approach of the fitted exponents to the 2D percolation values ν=4/3 and Ĝ=43/18 for α ≳ 4 reflects genuine asymptotic two-dimensional universality rather than being an artifact of the finite L range or of slowly decaying crossover corrections from effective higher-dimensional behaviour.",
+        "content_hash": "23438256f43934caa8a6fc4f81ab0dff96a6096093abfa6757c1c28b62fc1d2a",
+        "id": "gcn_7e074a47bf964df7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811737634668806147::P10",
+            "package_id": "paper:811737634668806147",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811737634668806147"
+          ]
+        },
+        "role": "premise",
+        "score": 0.014925373134328358,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "95022b7853fa8f53f871135d05f096da"
+}

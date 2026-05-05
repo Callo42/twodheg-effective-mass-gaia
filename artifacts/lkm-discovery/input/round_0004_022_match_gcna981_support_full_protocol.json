@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867748538426065525": {
+        "area": "arXiv-Physics",
+        "authors": "Anouar Benali | Kevin Gasperich | Kenneth D. Jordan | Thomas Applencourt | Ye Luo | M. Chandler Bennett | Jaron T. Krogel | Luke Shulenburger | Paul R. C. Kent | Pierre-François Loos | Anthony Scemama | Michel Caffarel",
+        "available_online": "",
+        "cover_date_start": "2020-07-22",
+        "created_at": "2023-05-23T04:42:54+08:00",
+        "doi": "10.48550/arXiv.2007.11673",
+        "en_title": "Towards a Systematic Improvement of the Fixed-Node Approximation in Diffusion Monte Carlo for Solids -- A Case Study In Diamond",
+        "id": "867748538426065525",
+        "keywords": "",
+        "publication_date": "2020-07-22",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "",
+        "zh_title": "迈向固体扩散蒙特卡罗中固定节点近似的系统改进——以金刚石为例的研究"
+      },
+      "paper:867751368390082706": {
+        "area": "arXiv-Physics",
+        "authors": "I.G. Gurtubay | R. Gaudoin | J.M. Pitarke",
+        "available_online": "",
+        "cover_date_start": "2010-01-27",
+        "created_at": "2023-05-23T04:54:08+08:00",
+        "doi": "10.48550/arXiv.1001.5002",
+        "en_title": "Benchmark Quantum Monte Carlo calculations of the ground-state kinetic, interaction, and total energy of the three-dimensional electron gas",
+        "id": "867751368390082706",
+        "keywords": "",
+        "publication_date": "2010-01-27",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "三维电子气基态动能、相互作用能和总能量的基准量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "To obtain the thermodynamic-limit quasiparticle effective mass from finite-N DMC band data one may (i) fit the computed isotropic band values E(k), with k = |𝗸|, in a finite interval k∈[k_F−Δk,k_F+Δk] about the Fermi wave vector k_F to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 (with fit coefficients α_0, α_2, α_4), (ii) compute the band derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 and define the quasiparticle effective mass by m^*=k_F/(dE/dk)_{k_F}, and (iii) evaluate m^*(N) for several simulation-cell electron counts N and fit the N dependence to the single power-law model m^*(N)=m^*(∞)+b N^{-γ} (with fit parameters m^*(∞), b, and γ) to obtain the thermodynamic-limit mass m^*(∞); when the quartic fit in step (i) is performed over a sufficiently wide Δk about k_F (so as not to be dominated by pathological near-k_F fluctuations) this three-step procedure yields stable extrapolated values m^*(∞).",
+        "content_hash": "0301ea780f708045b4ddfb1f2c37ea0b1bde559548730bd05caafbed25e7fd3c",
+        "id": "gcn_a981a2b787514e47",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_2",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030679156908665108,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assume the true thermodynamic-limit single-quasiparticle band of a 2D HEG is a smooth function \\\\(\\\\mathcal{E}(k)\\\\) in a neighbourhood of the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: fitting the finite-cell discrete DMC band values to the quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4}\n      $$\n      over a modest interval \\\\([k_{F}-\\\\Delta k,\\\\,k_{F}+\\\\Delta k]\\\\) (with \\\\(\\\\Delta k\\\\) chosen so that the interval is not extremely small and contains sufficient discrete \\\\(k\\\\)-points to characterise curvature) yields an estimate of the derivative \\\\(\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}\\\\) that is an adequately accurate approximation to the true thermodynamic-limit derivative for the purpose of computing the quasiparticle effective mass \\\\(m^{*}=k_{F}/(d\\\\mathcal{E}/dk)_{k_{F}}\\\\), provided the quartic form captures the local curvature of \\\\(\\\\mathcal{E}(k)\\\\).",
+        "content_hash": "6cc3eb65fc25efaee30ba0871438cfda053e9018366a60e7386fe1caa0bae0cb",
+        "id": "gcn_496f0cb16cf14324",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030330882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "At each density, spin polarization, and finite system size the discrete DMC band values \\\\(\\\\mathcal{E}(k)\\\\) (where \\\\(k=|\\\\mathbf{k}|\\\\)) were fitted over an extended wavevector interval to a quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4},\n      $$\n      with fitted coefficients \\\\(\\\\alpha_{0},\\\\alpha_{2},\\\\alpha_{4}\\\\). The quasiparticle effective mass was then obtained from the definition\n      $$\n      m^{*}=\\\\frac{k_{F}}{\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}},\n      $$\n      where \\\\(k_{F}\\\\) is the Fermi wavevector of the infinite 2D HEG at the given density and spin polarization and the derivative is evaluated at \\\\(k=k_{F}\\\\). It was observed that extracting the derivative from fits restricted to a very narrow interval immediately surrounding \\\\(k_{F}\\\\) yields ill-behaved (pathological) estimates of \\\\(m^{*}\\\\), whereas performing the quartic fit over a larger modest wavevector range around \\\\(k_{F}\\\\) produces stable, systematically varying estimates of \\\\(m^{*}\\\\). Averaging the band behaviour over such a modest \\\\(k\\\\)-range therefore provides a controlled practical procedure to suppress the finite-cell and Hartree–Fock-like near-\\\\(k_{F}\\\\) fluctuations that cause the pathological behaviour.",
+        "content_hash": "fc89d573f08497d333c8a272f4b4023c3a9617d8e9bd0fda477518070824f84c",
+        "id": "gcn_6e55aa42ee4344a0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_3",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029418126757516764,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the same HEG systems and trial wave functions defined above, applying the three-parameter extrapolation model\n      $E_N = E_\\infty + b_1\\,\\Delta T_{\\mathrm{HF}}(N) + b_2/N$\n      to DMC energies but fixing the finite-size coefficients $b_1$ and $b_2$ to the values obtained from VMC fits produces extrapolated DMC thermodynamic-limit energies that are spuriously low compared to extrapolations obtained by fitting $b_1$ and $b_2$ directly to the DMC data: using VMC $b_1,b_2$ yields DMC extrapolations DMC-SJ* $E_\\infty^{\\mathrm{DMC-SJ*}} = 0.00266(1)$ Ha/e and DMC-SJB* $E_\\infty^{\\mathrm{DMC-SJB*}} = 0.001380(8)$ Ha/e, whereas fitting $b_1,b_2$ to the DMC data gives DMC-SJ $E_\\infty^{\\mathrm{DMC-SJ}} = 0.00301(1)$ Ha/e and DMC-SJB $E_\\infty^{\\mathrm{DMC-SJB}} = 0.001621(7)$ Ha/e; therefore the hypothesis that VMC and DMC share identical finite-size dependences ($b_1,b_2$) is invalid for these systems and reusing VMC parameters biases DMC $E_\\infty$ downward beyond the quoted uncertainties.",
+        "content_hash": "f101902dee7c3a4f7fce2ef2d3148fa9f7d69f3cd316daf38ace8b55d0f7961b",
+        "id": "gcn_915aa950051d4d8b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751368390082706::conclusion_2",
+            "package_id": "paper:867751368390082706",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751368390082706"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02797339593114241,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Systematic finite-size biases in the DMC effective mass m* can be eliminated by the following protocol: compute DMC total-energy differences to obtain quasiparticle energies at multiple momenta k in the interval 0 ≤ k < 2 k_F for a sequence of finite periodic simulation-cell electron numbers N (paramagnetic N up to 274 electrons were used); fit the computed interacting band values E(k) at the sampled k points to a smooth rational (Padé) function of the form E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3)/(1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real fit parameters determined by least-squares fitting; extract the finite-N effective mass m*(N) = k_F / (dE_fit/dk)_{k_F} from the fitted band; and extrapolate m*(N) linearly as a function of 1/N to N → ∞ to obtain the thermodynamic-limit m*. Cross-checks performed with quartic polynomial fits to E(k) show that the choice between the Padé form and quartic polynomials has a negligible effect on the extrapolated m* values for the densities and spin polarizations studied.",
+        "content_hash": "b5a5ecc545247742b558fd73094f044b82ec3cc8453e2c598e17476848beb84e",
+        "id": "gcn_3ef0b7f51e4a4208",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_5",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027637721755368813,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the extrapolation to the thermodynamic limit $E_{\\mathrm{DMC}}^{N\\to\\infty}$ be performed by fitting finite‑size DMC energies at the discrete set of supercell sizes $N\\in\\{8,18,27,64\\}$ to a prescribed quadratic‑in‑$1/N$ functional form; the proposition is that using this limited set of system sizes together with the chosen quadratic fit function may not fully capture non‑polynomial finite‑size behavior or higher‑order corrections, and therefore the resulting extrapolation uncertainty may be underestimated relative to the true systematic uncertainty in $E_{\\mathrm{DMC}}^{N\\to\\infty}$.",
+        "content_hash": "23302253b2ce1c4698f524ae47d3306b3a59d13a355ddcbcc750eb10bcecee13",
+        "id": "gcn_c97b21e571644405",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748538426065525::P11",
+            "package_id": "paper:867748538426065525",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748538426065525"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0264808362369338,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For discrete DMC single-particle band data E(k_i) in a periodic finite simulation cell, performing a quartic fit over a moderately wide wave-number interval k∈[k_F−Δk,k_F+Δk]—meaning Δk large enough to include multiple quantized k points on both sides of k_F rather than being restricted to an infinitesimal neighborhood of k_F—reduces sensitivity to localized anomalous fluctuations or outlier derivative estimates in the immediate vicinity of k_F and produces per-size effective-mass estimates that are more stable with respect to statistical noise and more amenable to controlled finite-size extrapolation.",
+        "content_hash": "6b88b501a76628ee37463dde8cae95806fedcb8efd01e93d3e03f25a8a62dca7",
+        "id": "gcn_50e263dc961541e0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P7",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026419626007891578,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m*_{Padé}(N→∞) denote the thermodynamic-limit effective mass obtained by the extrapolation protocol using Padé fits to finite-N DMC band data, and let m*_{quartic}(N→∞) denote the corresponding value obtained using quartic polynomial fits as a cross-check. The numerical difference |m*_{Padé}(N→∞) − m*_{quartic}(N→∞)| is negligible compared with the quoted uncertainties for the densities and spin polarizations studied, implying that the choice between these two fitting forms is not a significant source of uncertainty in the extrapolated effective mass.",
+        "content_hash": "60a7b350f0b65317815f027c95f31e3d1852c05b3903d3f2c8d290a81f246780",
+        "id": "gcn_584f99b686024726",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::P6",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02548701298701299,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "5f35250967a2998deba792e6c1ded59d"
+}

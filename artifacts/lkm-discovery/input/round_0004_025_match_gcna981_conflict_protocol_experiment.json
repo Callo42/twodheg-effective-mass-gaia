@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813249185263386625": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jichao C. Li | Juan Ignacio Beltrán | M. Carmen Muñoz",
+        "available_online": "2013-2-7",
+        "cover_date_start": "2013-02-07",
+        "created_at": "2022-12-23T19:21:56+08:00",
+        "doi": "10.1103/physrevb.87.075411",
+        "en_title": "Multiorbital structure of the two-dimensional electron gas in LaAlO 3 /SrTiO 3 heterostructures: The formation of a d xy ferromagnetic sheet",
+        "id": "813249185263386625",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "LaAlO₃/SrTiO₃异质结构中二维电子气的多轨道结构：dxy铁磁片的形成"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:813295280467214336": {
+        "area": "Physics and Astrophysics",
+        "authors": "Lamya Ghenim | R. G. Mani | J. R. Anderson | J. T. Cheung",
+        "available_online": "1989-1-15",
+        "cover_date_start": "1989-01-15",
+        "created_at": "2022-12-23T22:25:06+08:00",
+        "doi": "10.1103/physrevb.39.1419",
+        "en_title": "Shubnikov-de Haas oscillations in HgTe/CdTe superlattices grown by laser molecular-beam epitaxy",
+        "id": "813295280467214336",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "通过激光分子束外延生长的HgTe/CdTe超晶格中的舒布尼科夫-德哈斯振荡"
+      },
+      "paper:814661736446558208": {
+        "area": "Material science",
+        "authors": "Wentao Xu | Lihua Wang | Yiwen Liu | Simil Thomas | Hong-Kyu Seo | Kwang-Ik Kim | Kwang S. Kim | Tae-Woo Lee",
+        "available_online": "2015-1-21",
+        "cover_date_start": "2015-01-21",
+        "created_at": "2022-12-27T16:54:55+08:00",
+        "doi": "10.1002/adma.201405353",
+        "en_title": "Controllable n-Type Doping on CVD-Grown Single- and Double-Layer Graphene Mixture",
+        "id": "814661736446558208",
+        "keywords": "[{\"en_name\": \"Band gap opening\", \"ch_name\": \"\"}, {\"en_name\": \"Decamethylcobaltocene\", \"ch_name\": \"\"}, {\"en_name\": \"Electrohydrodynamic\", \"ch_name\": \"\"}, {\"en_name\": \"Graphene\", \"ch_name\": \"\"}, {\"en_name\": \"Work function tuning\", \"ch_name\": \"\"}]",
+        "publication_date": "2015-3",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials _ Adv. Mater.",
+        "research_categories": "",
+        "zh_title": "化学气相沉积（CVD）生长的单层和双层石墨烯混合物上的可控n型掺杂"
+      },
+      "paper:867759865840272045": {
+        "area": "arXiv-Physics",
+        "authors": "Saurabh Singh | Sudhir K. Pandey",
+        "available_online": "",
+        "cover_date_start": "2016-06-05",
+        "created_at": "2023-05-23T05:27:54+08:00",
+        "doi": "10.48550/arXiv.1606.01539",
+        "en_title": "Understanding the Thermoelectric Properties of LaCoO$_{3}$ Compound",
+        "id": "867759865840272045",
+        "keywords": "",
+        "publication_date": "2016-06-05",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "理解LaCoO₃化合物的热电性质"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5, the same extrapolation procedure applied to the DMC quartic-fit band data yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.04(2) a.u., with m^* defined as m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "6387e2dcf84ae7d2424eccc92c312224cfbd583aac1fb1ee1a3fe9946e390e0f",
+        "id": "gcn_e24d7ff647144aee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_5",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03076923076923077,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Systematic finite-size biases in the DMC effective mass m* can be eliminated by the following protocol: compute DMC total-energy differences to obtain quasiparticle energies at multiple momenta k in the interval 0 ≤ k < 2 k_F for a sequence of finite periodic simulation-cell electron numbers N (paramagnetic N up to 274 electrons were used); fit the computed interacting band values E(k) at the sampled k points to a smooth rational (Padé) function of the form E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3)/(1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real fit parameters determined by least-squares fitting; extract the finite-N effective mass m*(N) = k_F / (dE_fit/dk)_{k_F} from the fitted band; and extrapolate m*(N) linearly as a function of 1/N to N → ∞ to obtain the thermodynamic-limit m*. Cross-checks performed with quartic polynomial fits to E(k) show that the choice between the Padé form and quartic polynomials has a negligible effect on the extrapolated m* values for the densities and spin polarizations studied.",
+        "content_hash": "b5a5ecc545247742b558fd73094f044b82ec3cc8453e2c598e17476848beb84e",
+        "id": "gcn_3ef0b7f51e4a4208",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_5",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027799227799227798,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+        "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+        "id": "gcn_bf915935b1fd4326",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_1",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The numerical effective-mass estimate m_e^*(FB→Γ) = 14.70 m_e, obtained by fitting the conduction-band curvature from the DFT dispersion, is taken to be an accurate representation of a physically large electron effective mass along that crystallographic direction; specifically, the fitted curvature is assumed not to be artificially enhanced by numerical factors such as insufficient k-point resolution along the fit direction, inadequate energy-window choice for the parabolic fit, or strong band nonparabolicity that would substantially reduce the true effective mass relevant for transport.",
+        "content_hash": "30cca709feb0199727c0d97cab6684ec8e041e2523b2fc8c635d1f17197323bb",
+        "id": "gcn_cbb536e347fc4341",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759865840272045::P9",
+            "package_id": "paper:867759865840272045",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759865840272045"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the experimental ferromagnetic effective-mass measurements of Padmanabhan et al. have been obtained in the presence of an external magnetic field whose component normal to the two-dimensional electron layer was relatively small; the proposition is that comparing zero-field theoretical DMC calculations of a fully spin-polarized (ferromagnetic) 2D HEG with those experimental ferromagnetic measurements is valid because the small normal component of the experimental magnetic field does not materially alter the single-particle band and effective-mass behavior relevant to the comparison, so that the theoretical idealization and the experimental conditions are sufficiently compatible for the stated quantitative agreement to be meaningful.",
+        "content_hash": "f37b3e884b6d5e12fd56b8c7358e375f81c34f282030e62c7a142f9d8cfdf2fd",
+        "id": "gcn_273f59185db44e41",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P14",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The electron effective-mass ratios $m^{*}_{i}/m$ (with $m^{*}_{i}$ the cyclotron effective mass of subband $i$ and $m$ the free-electron mass) and the Dingle temperatures $T_{D}^{i}$ (which set the Landau-level broadening $\\Gamma=\\pi k_{B}T_{D}^{i}$) were obtained by fitting the measured longitudinal resistivity to the semiempirical damped-sinusoid line shape\n      $$\n      \\rho=\\rho_{0}+\\sum_{i}A_{i}\\exp\\!\\big[-\\lambda (T+T_{D}^{i})m^{*}_{i}/(mB)\\big]\\sin\\!\\big(2\\pi F_{i}/B+\\delta_{i}\\big),\n      $$\n      where for each component $i$ the fit parameters are amplitude prefactor $A_{i}$, Dingle temperature $T_{D}^{i}$ (K), effective-mass ratio $m^{*}_{i}/m$, SdH frequency $F_{i}$, and infinite-field phase $\\delta_{i}$ (radians), $T$ is the temperature (K), $B$ is the perpendicular magnetic field (in the units used for the experimental dataset), and the numerical constant $\\lambda=146.9\\ \\text{kOe/K}$. Fitting the temperature dependence of the exponential amplitude factors in this model yields $m^{*}_{2}/m=0.05$ with $T_{D}^{2}=0.7\\ \\text{K}$ for the $i=2$ subband and $m^{*}_{3}/m=0.01$ with $T_{D}^{3}=5.5\\ \\text{K}$ for the $i=3$ subband; the effective mass for the $i=1$ subband could not be determined because oscillations attributed to that component occur in the high-field quantum-Hall regime where the damped-sinusoid approximation is not applicable. An approximate relative uncertainty of $20\\%$ is assigned to the extracted mass values to account for the modelling error introduced by the sinusoidal approximation together with random measurement and fitting errors.",
+        "content_hash": "34db0756fba86a9eeb08fdca2443a35a6916b21ae3c79245ca380e7f7f8918b0",
+        "id": "gcn_cb23334c42a54d86",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813295280467214336::conclusion_2",
+            "package_id": "paper:813295280467214336",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813295280467214336"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The reported in-plane effective masses $m^*$ for the conduction subbands are obtained by performing quadratic (parabolic) fits to the calculated DFT band dispersions near the Fermi level in two-dimensional in-plane $k$-space; the proposition asserted is that these band-curvature-derived effective masses (for example, $m^*\\simeq0.44$–$0.45\\ m_e$ for the $d_{xy}$ subbands and the larger anisotropic values for $d_{xz,yz}$) serve as reasonable proxies for the inertial masses that control experimental transport properties such as mobility and magnetotransport, and that many-body renormalizations beyond the single-particle DFT description (for example, electron–phonon or electron–electron mass enhancements) are not expected to qualitatively change the assignment of which bands are “light” versus “heavy” in the sense relevant for transport interpretation.",
+        "content_hash": "9e976e923b5fda13b211d5fab94ed0e4ee811349af7ad81137b07ff70696167c",
+        "id": "gcn_bcc63be4074642c9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813249185263386625::P9",
+            "package_id": "paper:813249185263386625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813249185263386625"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Decamethylcobaltocene (DMC), a metallocene molecule with abundant π-electrons and a low molecular ionization energy of approximately 3.3 eV, acts as an effective n-type dopant for CVD-grown graphene when applied from solution: experimentally observed spectroscopic signatures of electron donation include Raman G-band upshift of +5 cm^{-1}, 2D-band downshift of -6 cm^{-1}, a monotonic decrease of the integrated-intensity ratio I_{2D}/I_{G}, and a persistently low defect ratio I_{D}/I_{G}<0.1; UPS work-function reductions consistent with electron transfer are φ=4.40 eV (annealed), 4.30 eV (0.01% DMC), 4.00 eV (0.05% DMC), 3.85 eV (0.1% DMC), and 3.53 eV (0.5% DMC); electrical transport signatures consistent with electron donation include Dirac-point gate-voltage shifts from +38 V (annealed) to -25 V (0.05% DMC) and -116 V (0.1% DMC) and an increase in extracted electron mobility from 600 to ≈1050 cm^{2}V^{-1}s^{-1} after 0.05% DMC treatment, all measured without a significant increase in the Raman D-band; these combined observations demonstrate that solution-processed DMC transfers electronic charge to graphene, producing stable, localized n-type chemical doping plausibly mediated by π–π interactions between the DMC molecules and the graphene lattice.",
+        "content_hash": "b378d3b4ecd3de2c5527538efde2112fb072f3f1077e4c28c0ef467649fcf36c",
+        "id": "gcn_53caa47edde3409d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814661736446558208::conclusion_9",
+            "package_id": "paper:814661736446558208",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814661736446558208"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "dff6618cf8f8e13dd06ca4a0768d5124"
+}

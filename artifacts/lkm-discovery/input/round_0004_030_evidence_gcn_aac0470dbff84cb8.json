@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+      "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+      "id": "gcn_aac0470dbff84cb8",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "ad276d5c88ab418aaf8d31c6cc54e812"
+}

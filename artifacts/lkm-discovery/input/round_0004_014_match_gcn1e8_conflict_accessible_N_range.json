@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1152216234352181250": {
+        "area": "arXiv-Physics",
+        "authors": "Lorenzo Lucarini | Giulio Cimini | Pablo Villegas",
+        "available_online": "",
+        "cover_date_start": "2025-07-15",
+        "created_at": "2025-07-16T04:15:57+08:00",
+        "doi": "10.48550/arxiv.2507.11348",
+        "en_title": "Geometric Criticality in Scale-Invariant Networks",
+        "id": "1152216234352181250",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108482",
+        "publication_name": "Statistical Mechanics",
+        "research_categories": "",
+        "zh_title": "尺度不变网络中的几何临界性"
+      },
+      "paper:1197603084503613450": {
+        "area": "arXiv-Physics",
+        "authors": "Meghadeepa Adhikary | Nishan Ranabhat | Mario Collura",
+        "available_online": "",
+        "cover_date_start": "2025-11-17",
+        "created_at": "2025-11-18T10:07:05+08:00",
+        "doi": "10.48550/arXiv.2511.13667",
+        "en_title": "Quantum complexity across thermal phase transition in the transverse field Ising chain with long-range couplings",
+        "id": "1197603084503613450",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "具有长程耦合的横向场伊辛链中热相变的量子复杂性"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:814525983263555585": {
+        "area": "Physics and Astrophysics",
+        "authors": "Tahereh Abad | Vahid Karimipour",
+        "available_online": "2016-5-13",
+        "cover_date_start": "2016-05-13",
+        "created_at": "2022-12-27T07:55:28+08:00",
+        "doi": "10.1103/physrevb.93.195127",
+        "en_title": "Scaling of macroscopic superpositions close to a quantum phase transition",
+        "id": "814525983263555585",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "接近量子相变时宏观叠加态的标度行为"
+      },
+      "paper:867748999107445206": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2010-02-10",
+        "created_at": "2023-05-23T04:44:44+08:00",
+        "doi": "10.48550/arXiv.1002.2101",
+        "en_title": "Phase Diagram of the Low-Density Two-Dimensional Homogeneous Electron Gas",
+        "id": "867748999107445206",
+        "keywords": "",
+        "publication_date": "2010-02-10",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "低密度二维均匀电子气的相图"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867758577106813231": {
+        "area": "arXiv-Physics",
+        "authors": "C.R. Laumann | A.M. Läuchli | R. Moessner | A. Scardicchio | S.L. Sondhi",
+        "available_online": "",
+        "cover_date_start": "2009-10-12",
+        "created_at": "2023-05-23T05:22:47+08:00",
+        "doi": "10.48550/arXiv.0910.2058",
+        "en_title": "On product, generic and random generic quantum satisfiability",
+        "id": "867758577106813231",
+        "keywords": "",
+        "publication_date": "2009-10-12",
+        "publication_id": "108526",
+        "publication_name": "Quantum Physics _ Physics.quant-ph.quant-ph",
+        "research_categories": "",
+        "zh_title": "关于乘积、一般和随机一般量子可满足性"
+      },
+      "paper:867761200409084080": {
+        "area": "arXiv-Physics",
+        "authors": "G. Franzese | V. Cataudella | A. Coniglio",
+        "available_online": "",
+        "cover_date_start": "1997-07-01",
+        "created_at": "2023-05-23T05:33:13+08:00",
+        "doi": "10.48550/arXiv.cond-mat/9707008",
+        "en_title": "Invaded Cluster Dynamics for Frustrated Models",
+        "id": "867761200409084080",
+        "keywords": "",
+        "publication_date": "1997-07-01",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "",
+        "zh_title": "受挫模型的入侵团簇动力学"
+      },
+      "paper:867772725953823134": {
+        "area": "arXiv-Physics",
+        "authors": "Sandro M. Reia | Paulo F. Gomes | José F. Fontanari",
+        "available_online": "",
+        "cover_date_start": "2019-09-23",
+        "created_at": "2023-05-23T06:19:00+08:00",
+        "doi": "10.48550/arXiv.1909.10630",
+        "en_title": "Comfort-driven mobility produces spatial fragmentation in Axelrod's model",
+        "id": "867772725953823134",
+        "keywords": "",
+        "publication_date": "2019-09-23",
+        "publication_id": "108521",
+        "publication_name": "Physics and Society _ Physics.physics.soc-ph",
+        "research_categories": "",
+        "zh_title": "在阿克塞尔罗德模型中，舒适驱动的移动性会导致空间碎片化。 "
+      }
+    },
+    "variables": [
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite-system electron numbers used in the calculations—N = 26, 50, 74, 114 for paramagnetic HEGs and N = 29, 57, 101 for ferromagnetic HEGs—provide multiple system sizes at each density and spin polarization such that the computed values F_l^{s,a}/m^{*}(N) display the onset of finite-size behavior consistent with long-range-correlation-dominated scaling (for example an N^{-1/4} trend), and therefore these system sizes were treated as sufficient for attempting an extrapolation to the thermodynamic limit using the assumed N^{-1/4} dependence.",
+        "content_hash": "6d5e9bef097e04b66e50264296b0a7ecd445aa771a795abb6ef33d573abb8c6b",
+        "id": "gcn_be865fd471c743ca",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P13",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02788769549651404,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $N$ denote the number of qubits and consider ensembles of random $k$-uniform hypergraphs sampled at clause density $\\alpha=M/N$. Exact diagonalization of the Hamiltonian $H=\\sum_{m}\\Pi^{m}$ was performed on ensembles with system sizes up to $N\\le 13$ (complete diagonalization) and iterative Lanczos-type methods were used at larger sizes up to $N\\le 20$ where convergence becomes challenging. The extrapolation claim is that finite-size curves of the SAT fraction versus $\\alpha$ for these sizes can be extrapolated to estimate the asymptotic transition point $\\alpha_{c}$ (for example yielding the estimate $\\alpha_{c}\\approx 1.0\\pm0.06$ for $k=3$). This extrapolation presumes that finite-size corrections are sufficiently smooth and that the available sample sizes and counts control statistical fluctuations and systematic numerical errors (including undecidable instances arising from iterative diagonalization). Given the small accessible system sizes and the presence of undecidable instances, the extrapolation is uncertain and provides suggestive but not definitive evidence about the thermodynamic $\\alpha_{c}$.",
+        "content_hash": "fb1451545640b339b286b7d3b97bc21995a23927f6250f25e38bfd5e8a8dd760",
+        "id": "gcn_55c489a2b1cd4e21",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867758577106813231::P7",
+            "package_id": "paper:867758577106813231",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867758577106813231"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the same definitions as in P1, define the energy density ε(L) = E/L^2 measured from stationary IC-generated configurations; for system sizes L ≥ 100 the proposed finite-size ansatz for the ensemble mean energy density is\n      ε(L) = ε_∞ + A / log(L),\n      with A a constant independent of L in this regime, so that extrapolation by this slow logarithmic form yields the infinite-size limit ε_∞.",
+        "content_hash": "03c62635bdece8ad387ac8f36b04731c5de3fc927bc3c3eec058a20797de5f22",
+        "id": "gcn_e4bc3bd3b18e4e01",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761200409084080::P2",
+            "package_id": "paper:867761200409084080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761200409084080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the density of components $n_c=\\mathcal{N}_c/N$ measured at finite system sizes $N$ the extrapolation to the thermodynamic limit is performed using the ansatz $\\langle n_c\\rangle(N)=\\langle n_c\\rangle_\\infty + a_n/N$, where $\\langle n_c\\rangle_\\infty$ and $a_n$ are fitting parameters that depend on $\\alpha$, $q$, and $\\delta$. The premise is that this linear-in-$1/N$ form provides an accurate extrapolation to $N\\to\\infty$ over the range of parameters and system sizes studied, i.e., that higher-order finite-size corrections such as $O(1/N^2)$ or multiplicative logarithmic terms are negligible for the purposes of the extrapolation.",
+        "content_hash": "94f9ec7dc94923fba01ab83a7d7384e39baf5adfc86f5f8d1345470d995503ee",
+        "id": "gcn_dcd7975ad3574b49",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772725953823134::P4",
+            "package_id": "paper:867772725953823134",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772725953823134"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional homogeneous electron gas (2D HEG) simulated in a periodically repeated finite simulation cell containing N electrons, let E_N denote the computed energy per electron of that N-electron finite system and let E_∞ denote the energy per electron in the thermodynamic limit (infinite system size). The proposition is: the dominant many-body finite-size bias in the energy per electron for the fluid phase falls off for large N as a single leading asymptotic term proportional to N^{-5/4}, i.e., E_N = E_∞ - c N^{-5/4} + o(N^{-5/4}) for some constant c, and furthermore this asymptotic N^{-5/4} dependence provides a quantitatively valid description for the finite system sizes employed in the reported calculations (specifically for system sizes up to about N = 162), so that fitting finite-N results to that leading form yields a meaningful extrapolation to E_∞.\n      N.D. Drummond et al., Phys. Rev. B 78, 125106 (2008)",
+        "content_hash": "9762b41273b603adfd0752dcbc910fd2736dc45807be13ac907c4eb83f51b9e2",
+        "id": "gcn_b5dbc29354104767",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748999107445206::P1",
+            "package_id": "paper:867748999107445206",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748999107445206"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite-size dependence of the magic density $m_{1}=M_{1}/N$ differs between interaction regimes studied: for $\\\\alpha=1.8$ the peak position and amplitude of $m_{1}(\\\\beta)$ show only weak variation across small physical system sizes $N=16,32,64$, whereas for $\\\\alpha=0.8$ the peak position of $m_{1}(\\\\beta)$ shifts noticeably toward the finite-size-scaling-extracted critical inverse temperature $\\\\beta_{c}$ as $N$ increases from 16 to 64, indicating that finite-size effects are stronger in the more long-range (mean-field-like) regime and that the reliability of magic-based estimates of $\\\\beta_{c}$ depends sensitively on both $\\\\alpha$ and the accessible system size.",
+        "content_hash": "99f117b22ee2d2b6a8895f4a6380d9b6bdc0173c79c12b13fb31746a1a9181bc",
+        "id": "gcn_19fe673f94f54bdd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1197603084503613450::conclusion_5",
+            "package_id": "paper:1197603084503613450",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1197603084503613450"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let \\lambda_m(N) denote the coupling at which the finite-N derivative \\frac{dN_{\\mathrm{eff}}}{d\\lambda}(\\lambda,N) attains its maximum for system size N. Based on power-law fits to the numerically computed \\lambda_m(N) over the finite range of system sizes studied in the numerical work (system sizes sampled include values in the low hundreds up to about N=1001 and similar ranges reported in the paper), the empirical extrapolation is\n      $$\n      1-\\lambda_m(N)\\sim N^{-1.96}.\n      $$\n      This statement is an empirical finite-N extrapolation and depends on the chosen fitting window, the range of N included, and the neglect of subleading corrections-to-scaling.",
+        "content_hash": "987af4053eeec5c7582b9ebfe75b981b48351f69ffa01b389bb4199250997d4f",
+        "id": "gcn_8cd1d00ddeb1415c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814525983263555585::P4",
+            "package_id": "paper:814525983263555585",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814525983263555585"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let p_c(N) denote finite-size estimates of a critical parameter measured up to the maximum system sizes N_{\\max} accessible in the simulations (for example lattice linear sizes up to L\\le256 corresponding to N\\le256^2 in two-dimensional lattices). The claim is: the observed finite-size trends in the available range N\\le N_{\\max} follow the adopted power-law finite-size-scaling ansatz and are representative of the asymptotic regime, so that extrapolation via that ansatz yields an accurate estimate of the asymptotic critical value p_c^{\\infty} with the quoted uncertainties; equivalently, pre-asymptotic corrections or crossover behaviors within the sampled size range do not substantially bias the extrapolated critical values.",
+        "content_hash": "723029c07500a3c4b0859dbb28ef124c209f84549d8177c17f34a68fae1655e1",
+        "id": "gcn_b411e2f9674e44f9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1152216234352181250::P8",
+            "package_id": "paper:1152216234352181250",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1152216234352181250"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "8a6288458003bbb36ca754405e23e247"
+}

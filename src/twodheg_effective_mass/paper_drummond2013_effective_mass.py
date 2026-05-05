@@ -94,3 +94,39 @@ gfac_fd7a3b1d2e1f4b07.metadata.update(
         "justification": "Accepted as a chain-backed method warrant for extracting thermodynamic-limit m* from finite-N DMC band data.",
     }
 )
+
+
+gcn_f6ca85b75deb46ba = claim(
+    "In finite-cell fixed-node DMC calculations with Slater-Jastrow-backflow trial wave functions, incomplete recovery of correlation energy combines with Hartree-Fock-like pathological band behavior near k_F to produce anomalous finite-N estimates of the band derivative at k_F [@Drummond2013a].",
+    title="HF pathology plus finite-cell correlation recovery",
+    lkm_id="gcn_f6ca85b75deb46ba",
+    source_paper="paper:813250329280774145",
+    provenance_source="lkm",
+    lkm_original="In diffusion Monte Carlo (DMC) calculations of finite periodic simulation cells using fixed-node Slater-Jastrow-backflow trial wave functions, the DMC total-energy estimator recovers only a finite fraction of the exact correlation energy in a finite cell; combined with the fact that the derivative of the Hartree-Fock single-particle band with respect to k is divergent or pathological at the Fermi wave vector k_F, this incomplete recovery of correlation energy in a finite cell leads to locally anomalous or outlier numerical estimates of the band derivative (dE/dk) at k≈k_F when derivatives are computed from discrete finite-N DMC data, producing the observed unstable near-k_F derivative points.",
+    source_package="paper:813250329280774145",
+)
+
+
+gcn_8df2cd5b49524aac = claim(
+    "Numerical derivatives of finite-N DMC 2D HEG energy bands are unstable near k_F: discrete finite-N derivatives often show outlier points near the Fermi surface because Hartree-Fock-like derivative pathologies combine with incomplete finite-cell correlation recovery. Robust m* estimates therefore require fitting the band over a finite k-window around k_F, such as a quartic E(k), and using the fit-derived derivative to suppress near-k_F anomalies [@Drummond2013a].",
+    title="Near-k_F derivative pathologies require band fitting",
+    lkm_id="gcn_8df2cd5b49524aac",
+    source_paper="paper:813250329280774145",
+    provenance_source="lkm",
+    lkm_original="Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+    source_package="paper:813250329280774145",
+)
+
+
+gfac_3fb52945143e4b02 = deduction(
+    premises=[gcn_f6ca85b75deb46ba],
+    conclusion=gcn_8df2cd5b49524aac,
+    reason="1. Define the numerical derivative dE/dk from discrete DMC band data and note that m* requires a well-defined derivative at k_F in the thermodynamic limit.\n2. Report that finite-N derivatives near k_F show outlier behavior in plotted paramagnetic and ferromagnetic HEG data.\n3. Attribute the pathology to Hartree-Fock derivative behavior near k_F combined with incomplete finite-cell recovery of correlation energy in DMC.\n4. Recommend fitting the band over a finite k-window around k_F and extracting the derivative from the fitted polynomial to average over near-k_F anomalies.",
+    prior=0.95,
+)
+gfac_3fb52945143e4b02.metadata.update(
+    {
+        "judgment": "accepted",
+        "justification": "Accepted as an LKM factor-derived warrant for why finite-N near-k_F derivative pathologies motivate the wide-window band-fitting protocol.",
+    }
+)

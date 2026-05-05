@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+      "content_hash": "9f26d31887d29e134f1f92da44e1cc91c40bac7c5f8057aeeea6a1c85c424198",
+      "id": "gcn_8df2cd5b49524aac",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+              "id": "gcn_8df2cd5b49524aac"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_3fb52945143e4b02",
+            "premises": [
+              {
+                "content": "In diffusion Monte Carlo (DMC) calculations of finite periodic simulation cells using fixed-node Slater-Jastrow-backflow trial wave functions, the DMC total-energy estimator recovers only a finite fraction of the exact correlation energy in a finite cell; combined with the fact that the derivative of the Hartree-Fock single-particle band with respect to k is divergent or pathological at the Fermi wave vector k_F, this incomplete recovery of correlation energy in a finite cell leads to locally anomalous or outlier numerical estimates of the band derivative (dE/dk) at k≈k_F when derivatives are computed from discrete finite-N DMC data, producing the observed unstable near-k_F derivative points.",
+                "id": "gcn_f6ca85b75deb46ba"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define the numerical derivative $(d\\mathcal{E}/dk)$ as evaluated from discrete DMC energy-band data using a central-difference approximation; note that the Landau energy functional requires the energy band to be differentiable at the Fermi surface in the infinite system if a quasiparticle effective mass is well defined.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Report the empirical observation from computed numerical derivatives and from derivatives of fitted quartic bands: the numerical derivatives evaluated at points in the immediate vicinity of the Fermi surface $k\\approx k_{F}$ are \"outliers\" (i.e., they depart markedly from the smooth derivative behavior observed away from $k_{F}$), as displayed in the plotted derivatives for paramagnetic and ferromagnetic HEGs; these outliers indicate that the derivative at $k_{F}$ in finite cells is unstable.\nFig. 5\nFig. 6",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "State the authors' attribution of the pathology: the divergence of the derivative of the Hartree-Fock band at the Fermi surface, combined with the fact that the DMC method retrieves only a finite fraction of the correlation energy in finite cells, leads to a QMC band derivative near $k_{F}$ that exhibits unphysical divergent-like behavior in the finite-cell data; the paper references its earlier discussion of this mechanism and its masking of theoretical $N^{-1/4}$ finite-size behavior.\nRef. 20\nRef. 23",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Recommend the robust fitting strategy based on the observed pathology: obtain estimates of the quasiparticle effective mass by fitting the energy band over a finite range $\\Delta k$ about $k_{F}$ (i.e., using band data from $k\\in[k_{F}-\\Delta k,k_{F}+\\Delta k]$ with $\\Delta k$ not extremely small) to the quartic parametrization $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$ and then compute $m^{*}$ from the derivative of that fitted polynomial at $k_{F}$; this approach averages over the near-$k_{F}$ anomalies and yields robust per-$N$ estimates that can be more reliably extrapolated to the thermodynamic limit.\nFig. 3\nFig. 4",
+                "step_id": "4"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Fermi-liquid theory requires a well-defined derivative $(d\\mathcal{E}/dk)$ at the Fermi surface in the thermodynamic limit, but finite-$N$ calculations sample discrete $k$-points and inherit Hartree-Fock-like divergences that render direct finite-difference derivatives at $k_{F}$ unreliable. Without a practical strategy to mitigate near-$k_{F}$ outliers, computed $m^{*}$ would be unstable and sensitive to which discrete $k$-points were available. Therefore a prescription that (i) recognizes the pathologies and (ii) fits the band over a non-infinitesimal $\\Delta k$ to extract a smooth derivative is necessary for stable $m^{*}$ estimation.",
+            "id": "paper:813250329280774145::conclusion_12_subproblem",
+            "source_package": "paper:813250329280774145"
+          }
+        ],
+        "source_package": "paper:813250329280774145"
+      }
+    ],
+    "papers": {
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "3d0df1f55869f5e7f943e1fd9d4facca"
+}

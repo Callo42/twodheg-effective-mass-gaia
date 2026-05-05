@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812301018539753472": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. Sirker | A. Weiße | O.P. Sushkov",
+        "available_online": "",
+        "cover_date_start": "2005-04-01",
+        "created_at": "2022-12-21T04:34:15+08:00",
+        "doi": "10.1016/j.physb.2005.01.392",
+        "en_title": "Bose–Einstein condensation of magnons in TlCuCl",
+        "id": "812301018539753472",
+        "keywords": "[{\"ch_name\":\"玻色-爱因斯坦凝聚\",\"en_name\":\"Bose-Einstein condensation\"},{\"ch_name\":\"自旋间隙系统\",\"en_name\":\"Spin-gap systems\"},{\"ch_name\":\"自旋轨道耦合\",\"en_name\":\"Spin-orbit coupling\"}]",
+        "publication_date": "2005-4",
+        "publication_id": "615",
+        "publication_name": "Physica B: Condensed Matter _ Physica B: Condensed Matter",
+        "research_categories": "",
+        "zh_title": "铊铜氯（TlCuCl）中磁振子的玻色-爱因斯坦凝聚"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:813338526950096897": {
+        "area": "Physics and Astrophysics",
+        "authors": "K. Berland | T. L. Einstein | P. Hyldgaard",
+        "available_online": "2012-1-18",
+        "cover_date_start": "2012-01-18",
+        "created_at": "2022-12-24T01:16:57+08:00",
+        "doi": "10.1103/physrevb.85.035427",
+        "en_title": "Response of the Shockley surface state to an external electrical field: A density-functional theory study of Cu(111)",
+        "id": "813338526950096897",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "肖克利表面态对外加电场的响应：铜（111）的密度泛函理论研究"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867761278246977888": {
+        "area": "arXiv-Physics",
+        "authors": "Seunghyun Park | Soonmin Kang | Haeri Kim | Ki Hoon Lee | Pilkwang Kim | Sangwoo Sim | Nahyun Lee | Balamurugan Karuppannan | Junghyun Kim | Jonghyeon Kim | Kyung Ik Sim | Matthew J. Coak | Yukio Noda | Cheol-Hwan Park | Jae Hoon Kim | Je-Geun Park",
+        "available_online": "",
+        "cover_date_start": "2020-11-18",
+        "created_at": "2023-05-23T05:33:31+08:00",
+        "doi": "10.48550/arXiv.2011.09357",
+        "en_title": "Kagome van-der-Waals Pd3P2S8 with flat band",
+        "id": "867761278246977888",
+        "keywords": "",
+        "publication_date": "2020-11-18",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\", \"Quantum Physics\"]",
+        "zh_title": "具有平带的Kagome范德华Pd3P2S8"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "At each density, spin polarization, and finite system size the discrete DMC band values \\\\(\\\\mathcal{E}(k)\\\\) (where \\\\(k=|\\\\mathbf{k}|\\\\)) were fitted over an extended wavevector interval to a quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4},\n      $$\n      with fitted coefficients \\\\(\\\\alpha_{0},\\\\alpha_{2},\\\\alpha_{4}\\\\). The quasiparticle effective mass was then obtained from the definition\n      $$\n      m^{*}=\\\\frac{k_{F}}{\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}},\n      $$\n      where \\\\(k_{F}\\\\) is the Fermi wavevector of the infinite 2D HEG at the given density and spin polarization and the derivative is evaluated at \\\\(k=k_{F}\\\\). It was observed that extracting the derivative from fits restricted to a very narrow interval immediately surrounding \\\\(k_{F}\\\\) yields ill-behaved (pathological) estimates of \\\\(m^{*}\\\\), whereas performing the quartic fit over a larger modest wavevector range around \\\\(k_{F}\\\\) produces stable, systematically varying estimates of \\\\(m^{*}\\\\). Averaging the band behaviour over such a modest \\\\(k\\\\)-range therefore provides a controlled practical procedure to suppress the finite-cell and Hartree–Fock-like near-\\\\(k_{F}\\\\) fluctuations that cause the pathological behaviour.",
+        "content_hash": "fc89d573f08497d333c8a272f4b4023c3a9617d8e9bd0fda477518070824f84c",
+        "id": "gcn_6e55aa42ee4344a0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_3",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+        "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+        "id": "gcn_aac0470dbff84cb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03225806451612903,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assume the true thermodynamic-limit single-quasiparticle band of a 2D HEG is a smooth function \\\\(\\\\mathcal{E}(k)\\\\) in a neighbourhood of the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: fitting the finite-cell discrete DMC band values to the quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4}\n      $$\n      over a modest interval \\\\([k_{F}-\\\\Delta k,\\\\,k_{F}+\\\\Delta k]\\\\) (with \\\\(\\\\Delta k\\\\) chosen so that the interval is not extremely small and contains sufficient discrete \\\\(k\\\\)-points to characterise curvature) yields an estimate of the derivative \\\\(\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}\\\\) that is an adequately accurate approximation to the true thermodynamic-limit derivative for the purpose of computing the quasiparticle effective mass \\\\(m^{*}=k_{F}/(d\\\\mathcal{E}/dk)_{k_{F}}\\\\), provided the quartic form captures the local curvature of \\\\(\\\\mathcal{E}(k)\\\\).",
+        "content_hash": "6cc3eb65fc25efaee30ba0871438cfda053e9018366a60e7386fe1caa0bae0cb",
+        "id": "gcn_496f0cb16cf14324",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027730294396961064,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fitting a quadratic dispersion relation E(k) = E0 + (ħ²k²)/(2m*) (where E is energy, E0 is a reference energy, ħ is the reduced Planck constant, k is the wavevector magnitude measured along a chosen crystallographic path, and m* is the fitted effective mass) to DFT-computed band energies over a finite selected momentum-space path segment that traverses a predominantly flat region of the band produces a fitted effective mass m* (for example the value m*Γ-K = 74.12 m_e reported for a fit along the Γ–K direction), and this fitted m* is a meaningful descriptive measure of carrier inertia and tendency toward localization along that direction even when the underlying band is intrinsically non-parabolic, while recognizing that the numerical value is sensitive to the chosen fitting window and to deviations of the band from a true quadratic form.",
+        "content_hash": "fcd1eb1cb25ee864d6afa9d2c66e7a83ea9242d328a79fe1a809309b56b5837b",
+        "id": "gcn_d9d94a2b2fa443cb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761278246977888::P15",
+            "package_id": "paper:867761278246977888",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761278246977888"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "To obtain the thermodynamic-limit quasiparticle effective mass from finite-N DMC band data one may (i) fit the computed isotropic band values E(k), with k = |𝗸|, in a finite interval k∈[k_F−Δk,k_F+Δk] about the Fermi wave vector k_F to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 (with fit coefficients α_0, α_2, α_4), (ii) compute the band derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 and define the quasiparticle effective mass by m^*=k_F/(dE/dk)_{k_F}, and (iii) evaluate m^*(N) for several simulation-cell electron counts N and fit the N dependence to the single power-law model m^*(N)=m^*(∞)+b N^{-γ} (with fit parameters m^*(∞), b, and γ) to obtain the thermodynamic-limit mass m^*(∞); when the quartic fit in step (i) is performed over a sufficiently wide Δk about k_F (so as not to be dominated by pathological near-k_F fluctuations) this three-step procedure yields stable extrapolated values m^*(∞).",
+        "content_hash": "0301ea780f708045b4ddfb1f2c37ea0b1bde559548730bd05caafbed25e7fd3c",
+        "id": "gcn_a981a2b787514e47",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_2",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The fitted DMC bands deviate from a purely quadratic dependence on $k$: when the fitted quartic form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ is used, the quartic coefficient $\\alpha_4$ is positive for the paramagnetic HEG at $r_s=5$ and $10$ a.u., while $\\alpha_4$ is negative for the ferromagnetic HEG at all densities studied; because these fitted bands are non-quadratic, thermodynamic properties that depend on integrals over the dispersion (for example temperature-dependent contributions to the free energy and specific heat at elevated temperatures) are predicted to depart from the free-particle-like behavior that would follow from a strictly quadratic dispersion $\\propto k^2$.",
+        "content_hash": "6d05e37a9b8fe01e096b39c1530fca53a8e4ed1868b8a44e2e7721254d9943b0",
+        "id": "gcn_318b062f17344859",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_7",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a single-particle energy band E(k) of a two-dimensional homogeneous electron gas, with scalar wave number k=|𝗸|, fitting discrete DMC-computed band values E(k_i) within the finite interval k∈[k_F−Δk,k_F+Δk] to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 and then evaluating the derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 provides an analytic approximation to the true thermodynamic-limit derivative at k_F suitable for estimating the quasiparticle effective mass m^*=k_F/(dE/dk)_{k_F}, provided the chosen Δk is neither so small that pathological near-k_F fluctuations dominate nor so large that physics beyond quartic band curvature is sampled.",
+        "content_hash": "509f3d443d74f62e117d878c9a620d290997ff70c69199dec6a9aef6a05208db",
+        "id": "gcn_48797cba2bf44d90",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P4",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When extracting the effective in-plane mass $m$ and quartic coefficient $\\\\alpha$ from discrete DFT-computed surface-state energies $\\\\epsilon(\\\\mathbf{k})$, the numerical values of $m$ and $\\\\alpha$ depend sensitively on (a) the subset of $\\\\mathbf{k}$ points used in the polynomial fit (i.e., how close the included points are to $\\\\bar{\\\\Gamma}$) and (b) the polynomial order and fitting protocol; specifically, using only the six smallest-$k$ points and fitting a fourth-order polynomial to determine $m$ followed by a sixth-order polynomial to determine $\\\\alpha$ yields $m\\\\approx0.34\\\\,m_e$ and $\\\\alpha\\\\approx23.1\\\\ \\\\text{eV\\\\AA}^4$, whereas including more $\\\\mathbf{k}$ points or using a purely parabolic fit over a larger domain produces a larger $m$ closer to earlier reported values.",
+        "content_hash": "4d7794350bfb18f4e4d5cac7c0126864b350f55b2c813d178a7ddfe38a5280d7",
+        "id": "gcn_7d52de4f6f96450d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813338526950096897::P7",
+            "package_id": "paper:813338526950096897",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813338526950096897"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given discrete DMC band points that suffer from local statistical noise and from Hartree-Fock-like pathological behavior in the vicinity of $k_F$ (large, fluctuating numerical derivatives due to incomplete retrieval of correlation energy), the protocol of fitting a global quartic $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ to occupied-band points over a wide $k$ range and using its derivative at $k_F$ to estimate $m^{*}$ is justified by the assumptions that (a) this global fit suppresses local pathological fluctuations that would otherwise dominate numerical derivatives evaluated only near $k_F$, and (b) the global fit does not introduce a systematic bias from including data far from $k_F$ that would alter the fitted slope at $k_F$ in a way unrepresentative of the thermodynamic-limit quasiparticle derivative.",
+        "content_hash": "831853e207cdd623d3b1bd2227bc60d55e03edb79e42a118a4314f6d3f05a987",
+        "id": "gcn_3feab74a1eda473b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::P8",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Defining an effective mass meff via the quadratic relation Ω_k = Δ + |k−q0|^2/(2 meff), the procedure of fitting the computed density of states ρ(Ω) near Ω = Δ to the asymptotic form ρ(Ω) ∝ √(Ω−Δ) and extracting meff ≈ 0.2 meV^{-1} is sensitive to the chosen energy window for the fit and to the numerical resolution of Ω_k; consequently the numerical value meff ≈ 0.2 meV^{-1} carries non-negligible systematic uncertainty tied to these fitting choices.",
+        "content_hash": "66e168f45ed99ec59c4cdef1a6b72c82278d2f9f4a6dd63d6602f5b1d8e59734",
+        "id": "gcn_f08afc54da7c44ed",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812301018539753472::P9",
+            "package_id": "paper:812301018539753472",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812301018539753472"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "544399375bc0a9d920a8bbbaafae6828"
+}

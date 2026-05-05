@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1110939589104631846": {
+        "area": "arXiv-Physics",
+        "authors": "Zeyu Xiang | Fanghao Zhang | Bolin Liao",
+        "available_online": "",
+        "cover_date_start": "2025-03-20",
+        "created_at": "2025-03-24T06:37:18+08:00",
+        "doi": "10.48550/arxiv.2503.15782",
+        "en_title": "High-throughput Discovery of Anti-gap Semiconductors",
+        "id": "1110939589104631846",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "反能隙半导体的高通量发现"
+      },
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:812822463057494019": {
+        "area": "Chemistry",
+        "authors": "Saif Ullah | Pablo A. Denis | Fernando Sato",
+        "available_online": "2018-12-3",
+        "cover_date_start": "2018-12-03",
+        "created_at": "2022-12-22T15:06:16+08:00",
+        "doi": "10.1021/acsomega.8b02605",
+        "en_title": "Hydrogenation and Fluorination of 2D Boron Phosphide and Boron Arsenide: A Density Functional Theory Investigation",
+        "id": "812822463057494019",
+        "keywords": "",
+        "publication_date": "2018-12-31",
+        "publication_id": "3485",
+        "publication_name": "ACS Omega _ ACS Omega",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\", \"Physical Chemistry\", \"Engineering\", \"Chemical Engineering\"]",
+        "zh_title": "二维磷化硼和砷化硼的氢化与氟化：密度泛函理论研究"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:813285349131288577": {
+        "area": "Material science",
+        "authors": "Woo Seok Choi | Suyoun Lee | Valentino R. Cooper | Ho Nyung Lee",
+        "available_online": "2012-9-4",
+        "cover_date_start": "2012-09-04",
+        "created_at": "2022-12-23T21:45:38+08:00",
+        "doi": "10.1021/nl301844z",
+        "en_title": "Fractionally δ-Doped Oxide Superlattices for Higher Carrier Mobilities",
+        "id": "813285349131288577",
+        "keywords": "[{\"en_name\": \"band-filling control\", \"ch_name\": \"\"}, {\"en_name\": \"effective mass\", \"ch_name\": \"\"}, {\"en_name\": \"fractional superlattices\", \"ch_name\": \"\"}, {\"en_name\": \"multichannel conduction\", \"ch_name\": \"\"}, {\"en_name\": \"Perovskite oxide 2DEG\", \"ch_name\": \"\"}, {\"en_name\": \"pulsed laser epitaxy\", \"ch_name\": \"\"}]",
+        "publication_date": "2012-9-12",
+        "publication_id": "2026",
+        "publication_name": "Nano Letters _ Nano Lett.",
+        "research_categories": "",
+        "zh_title": "用于提高载流子迁移率的分数δ掺杂氧化物超晶格"
+      },
+      "paper:813365553858084865": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. J. Liu | X. L. Fu | S. F. Chen | Y. F. Zhu",
+        "available_online": "",
+        "cover_date_start": "2011-11-07",
+        "created_at": "2022-12-24T03:04:20+08:00",
+        "doi": "10.1063/1.3660319",
+        "en_title": "Electronic structure and optical properties of Ag 3 PO 4 photocatalyst calculated by hybrid density functional method",
+        "id": "813365553858084865",
+        "keywords": "",
+        "publication_date": "2011-11-7",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "采用杂化密度泛函方法计算的Ag₃PO₄光催化剂的电子结构和光学性质"
+      },
+      "paper:814661736446558208": {
+        "area": "Material science",
+        "authors": "Wentao Xu | Lihua Wang | Yiwen Liu | Simil Thomas | Hong-Kyu Seo | Kwang-Ik Kim | Kwang S. Kim | Tae-Woo Lee",
+        "available_online": "2015-1-21",
+        "cover_date_start": "2015-01-21",
+        "created_at": "2022-12-27T16:54:55+08:00",
+        "doi": "10.1002/adma.201405353",
+        "en_title": "Controllable n-Type Doping on CVD-Grown Single- and Double-Layer Graphene Mixture",
+        "id": "814661736446558208",
+        "keywords": "[{\"en_name\": \"Band gap opening\", \"ch_name\": \"\"}, {\"en_name\": \"Decamethylcobaltocene\", \"ch_name\": \"\"}, {\"en_name\": \"Electrohydrodynamic\", \"ch_name\": \"\"}, {\"en_name\": \"Graphene\", \"ch_name\": \"\"}, {\"en_name\": \"Work function tuning\", \"ch_name\": \"\"}]",
+        "publication_date": "2015-3",
+        "publication_id": "2016",
+        "publication_name": "Advanced Materials _ Adv. Mater.",
+        "research_categories": "",
+        "zh_title": "化学气相沉积（CVD）生长的单层和双层石墨烯混合物上的可控n型掺杂"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a single-particle energy band E(k) of a two-dimensional homogeneous electron gas, with scalar wave number k=|𝗸|, fitting discrete DMC-computed band values E(k_i) within the finite interval k∈[k_F−Δk,k_F+Δk] to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 and then evaluating the derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 provides an analytic approximation to the true thermodynamic-limit derivative at k_F suitable for estimating the quasiparticle effective mass m^*=k_F/(dE/dk)_{k_F}, provided the chosen Δk is neither so small that pathological near-k_F fluctuations dominate nor so large that physics beyond quartic band curvature is sampled.",
+        "content_hash": "509f3d443d74f62e117d878c9a620d290997ff70c69199dec6a9aef6a05208db",
+        "id": "gcn_48797cba2bf44d90",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P4",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0293236301369863,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass m* is defined from the derivative of the quasiparticle energy band ε(k) at the Fermi wave vector k_F as m* = k_F · (dε/dk)^{-1}_{k_F}, where k_F is the Fermi wave vector and derivatives are evaluated with respect to the magnitude k of the momentum; in atomic units the bare electron mass m equals 1. For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and density parameter r_s = 1 (where r_s = (1/(πρ))^{1/2} with electron number density ρ), variational Monte Carlo (VMC) and fixed-node diffusion Monte Carlo (DMC) calculations extrapolated to the thermodynamic limit produce values consistent with the bare mass within statistical uncertainty: m*_{VMC}(r_s = 1) = 0.98(1) and m*_{DMC}(r_s = 1) = 0.95(1) (atomic units), indicating negligible mass renormalization from electron–electron interactions at this high density.",
+        "content_hash": "e596de9ff5169a1208ffdbf2eb4ec38a975b3d1c40e0d67a9365777dedb6fae3",
+        "id": "gcn_395e5564603d4a9b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_1",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+        "content_hash": "9f26d31887d29e134f1f92da44e1cc91c40bac7c5f8057aeeea6a1c85c424198",
+        "id": "gcn_8df2cd5b49524aac",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_12",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the experimental ferromagnetic effective-mass measurements of Padmanabhan et al. have been obtained in the presence of an external magnetic field whose component normal to the two-dimensional electron layer was relatively small; the proposition is that comparing zero-field theoretical DMC calculations of a fully spin-polarized (ferromagnetic) 2D HEG with those experimental ferromagnetic measurements is valid because the small normal component of the experimental magnetic field does not materially alter the single-particle band and effective-mass behavior relevant to the comparison, so that the theoretical idealization and the experimental conditions are sufficiently compatible for the stated quantitative agreement to be meaningful.",
+        "content_hash": "f37b3e884b6d5e12fd56b8c7358e375f81c34f282030e62c7a142f9d8cfdf2fd",
+        "id": "gcn_273f59185db44e41",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P14",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the band effective mass $m^{*}$ used for transport as the inverse curvature of a Kohn–Sham band dispersion near the Fermi energy $E_{\\mathrm{F}}$ computed within density functional theory (DFT); the claim is that the $m^{*}$ values obtained from these DFT band curvatures are quantitatively representative of the effective masses that govern low-temperature semiclassical transport (for example, mobility through $\\mu=e\\tau/m^{*}$) in the experimental oxide two-dimensional electron gas, i.e., that one may use the DFT-derived $m^{*}$ directly for transport interpretation without applying additional many-body renormalization factors for electron–electron interactions, polaronic mass enhancement, or coupling to lattice distortions.",
+        "content_hash": "412342f7975cc0e718981a1728e01cfafae46e2f53e6a3b662dbf80739121a16",
+        "id": "gcn_d7976e6bd3304ca7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813285349131288577::P9",
+            "package_id": "paper:813285349131288577",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813285349131288577"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For electronic bands computed within Kohn–Sham DFT (for example, vdW-DF with a DZP basis), extracting an effective mass m* from the local band curvature via 1/m* = (1/ħ^2) ∂^2E/∂k^2, where ħ is the reduced Planck constant and E(k) is the band energy as a function of crystal momentum k, yields the band-structure effective mass (for example, computed m*_e = 0.027 m_0), which is an indicator of possible high carrier velocities; however, the experimentally observable carrier mobility μ also depends critically on scattering mechanisms (electron–phonon coupling, impurity and defect scattering, interlayer disorder) and many-body renormalizations not captured by the static DFT band curvature, so very small DFT effective masses are necessary but not sufficient to guarantee high experimental mobilities.",
+        "content_hash": "4e67510d05b0b0c0c7134164d3f93da32192c9e88abf2b3cbbaa7dcc712330cc",
+        "id": "gcn_d4d3b5fcfe5c4e3f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812822463057494019::P10",
+            "package_id": "paper:812822463057494019",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812822463057494019"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Decamethylcobaltocene (DMC), a metallocene molecule with abundant π-electrons and a low molecular ionization energy of approximately 3.3 eV, acts as an effective n-type dopant for CVD-grown graphene when applied from solution: experimentally observed spectroscopic signatures of electron donation include Raman G-band upshift of +5 cm^{-1}, 2D-band downshift of -6 cm^{-1}, a monotonic decrease of the integrated-intensity ratio I_{2D}/I_{G}, and a persistently low defect ratio I_{D}/I_{G}<0.1; UPS work-function reductions consistent with electron transfer are φ=4.40 eV (annealed), 4.30 eV (0.01% DMC), 4.00 eV (0.05% DMC), 3.85 eV (0.1% DMC), and 3.53 eV (0.5% DMC); electrical transport signatures consistent with electron donation include Dirac-point gate-voltage shifts from +38 V (annealed) to -25 V (0.05% DMC) and -116 V (0.1% DMC) and an increase in extracted electron mobility from 600 to ≈1050 cm^{2}V^{-1}s^{-1} after 0.05% DMC treatment, all measured without a significant increase in the Raman D-band; these combined observations demonstrate that solution-processed DMC transfers electronic charge to graphene, producing stable, localized n-type chemical doping plausibly mediated by π–π interactions between the DMC molecules and the graphene lattice.",
+        "content_hash": "b378d3b4ecd3de2c5527538efde2112fb072f3f1077e4c28c0ef467649fcf36c",
+        "id": "gcn_53caa47edde3409d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814661736446558208::conclusion_9",
+            "package_id": "paper:814661736446558208",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814661736446558208"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A large energy dispersion near a conduction-band minimum in a computed band structure (large curvature of E versus crystal momentum k) implies a small electron effective mass according to the effective-mass tensor definition m^{*-1}_{ij} = \\tfrac{1}{\\hbar^2}\\,\\partial^2 E/\\partial k_i \\partial k_j evaluated at the band extremum, and it is acceptable for qualitative conclusions to infer a relatively small effective mass from such observed dispersion without reporting an explicit numerical second derivative m^* value.",
+        "content_hash": "a48376888f48d2129e7b9a1ef61722d71b9b11f037cb4f6ec0a3f74d6dd0a149",
+        "id": "gcn_3c220037bf324324",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813365553858084865::P7",
+            "package_id": "paper:813365553858084865",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813365553858084865"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The curvature effective mass $m_c$ is defined by $m_c = \\dfrac{1}{\\hbar^2}\\dfrac{\\partial^2 E}{\\partial k^2}$ where $E(k)$ is the Kohn–Sham band energy and $\\hbar$ is the reduced Planck constant, and computing $m_c$ by finite-difference second derivatives of PBE Kohn–Sham band energies along high-symmetry reciprocal-space directions provides effective-mass values that are sufficiently accurate to indicate whether band-edge carriers in the MX₂ family are light and dispersive (i.e., qualitatively compatible with semiconducting transport), while acknowledging that absolute numerical values can vary modestly with the choice of exchange–correlation functional.",
+        "content_hash": "63ff2a328ee29a120c6495119c906fb55f385a61f4ac2ba4f100785a39d8321a",
+        "id": "gcn_059aa78716af43b8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1110939589104631846::P15",
+            "package_id": "paper:1110939589104631846",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1110939589104631846"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "b255dc29e39776c48538f50f78cfe45b"
+}

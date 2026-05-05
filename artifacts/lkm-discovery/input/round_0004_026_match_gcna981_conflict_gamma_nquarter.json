@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813134280266874881": {
+        "area": "Chemistry",
+        "authors": "Katharina Doblhoff-Dier | Jörg Meyer | Philip E. Hoggan | Geert-Jan Kroes",
+        "available_online": "2017-6-9",
+        "cover_date_start": "2017-06-09",
+        "created_at": "2022-12-23T11:45:20+08:00",
+        "doi": "10.1021/acs.jctc.7b00344",
+        "en_title": "Quantum Monte Carlo Calculations on a Benchmark Molecule–Metal Surface Reaction: H 2 + Cu(111)",
+        "id": "813134280266874881",
+        "keywords": "",
+        "publication_date": "2017-7-11",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "",
+        "zh_title": "关于一个基准分子 - 金属表面反应的量子蒙特卡罗计算：H₂ + Cu(111)"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867749118603166175": {
+        "area": "arXiv-Physics",
+        "authors": "D.Varsano | S.Moroni | G.Senatore",
+        "available_online": "",
+        "cover_date_start": "2000-06-26",
+        "created_at": "2023-05-23T04:45:12+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0006397",
+        "en_title": "Spin-Polarization transition in the two dimensional electron gas",
+        "id": "867749118603166175",
+        "keywords": "",
+        "publication_date": "2000-06-26",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维电子气中的自旋极化转变"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "Given finite-size effective-mass data points \\\\(\\\\{(N_{i},m^{*}(N_{i}))\\\\}\\\\) at several densities and considering the family of fits \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) parametrized by \\\\(\\\\gamma\\\\), the proposition is: adopting a fixed exponent value \\\\(\\\\gamma=3/2\\\\) for the extrapolations across the densities considered is justified because the resulting fits produce substantially better overall goodness-of-fit statistics as measured by the reduced \\\\(\\\\chi^{2}\\\\) values than alternative fixed exponents over the same data sets, and therefore using \\\\(\\\\gamma=3/2\\\\) yields reliable extrapolated values \\\\(m^{*}(\\\\infty)\\\\) for these DMC data.",
+        "content_hash": "e91f9c84803cbbfec6008ee601fb907ddfb931de6c0cb39fea34133d4822be28",
+        "id": "gcn_25aac9571e85447c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P8",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite-size dependence of the computed quasiparticle effective mass was modeled for the available DMC data by the empirical single-power-law scaling ansatz\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      where \\\\(m^{*}(N)\\\\) is the effective mass obtained for a finite periodic simulation containing \\\\(N\\\\) electrons, \\\\(m^{*}(\\\\infty)\\\\) denotes the extrapolated thermodynamic-limit effective mass, and \\\\(b\\\\) and \\\\(\\\\gamma\\\\) are fit parameters. Repeated fits with Monte Carlo sampling of the statistical error bars on the input finite-\\\\(N\\\\) effective masses yield fitted exponents \\\\(\\\\gamma=1.8(4)\\\\), \\\\(1.4(4)\\\\), and \\\\(1.4(3)\\\\) at density parameters \\\\(r_{s}=1\\\\), 5, and 10, respectively, indicating that the optimal exponent lies between 1 and 2. For the purpose of extrapolations reported here the exponent \\\\(\\\\gamma=3/2\\\\) was adopted because it gives good goodness-of-fit statistics (reduced \\\\(\\\\chi^{2}\\\\)) across the densities considered.",
+        "content_hash": "7c78bf6f845fac38fc247b76f894022044cbbd321f26f4ef461f6f238889fa62",
+        "id": "gcn_cdd06cccc149447b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_4",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Systematic finite-size biases in the DMC effective mass m* can be eliminated by the following protocol: compute DMC total-energy differences to obtain quasiparticle energies at multiple momenta k in the interval 0 ≤ k < 2 k_F for a sequence of finite periodic simulation-cell electron numbers N (paramagnetic N up to 274 electrons were used); fit the computed interacting band values E(k) at the sampled k points to a smooth rational (Padé) function of the form E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3)/(1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real fit parameters determined by least-squares fitting; extract the finite-N effective mass m*(N) = k_F / (dE_fit/dk)_{k_F} from the fitted band; and extrapolate m*(N) linearly as a function of 1/N to N → ∞ to obtain the thermodynamic-limit m*. Cross-checks performed with quartic polynomial fits to E(k) show that the choice between the Padé form and quartic polynomials has a negligible effect on the extrapolated m* values for the densities and spin polarizations studied.",
+        "content_hash": "b5a5ecc545247742b558fd73094f044b82ec3cc8453e2c598e17476848beb84e",
+        "id": "gcn_3ef0b7f51e4a4208",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_5",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030621785881252923,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02976190476190476,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fitting the system-size dependence of the finite-N quasiparticle effective mass to the power-law form m^*(N)=m^*(∞)+b N^{-γ} (with N the simulation-cell electron count) yields optimal exponents γ in the range 1≲γ≲2 for the accessible N values; specifically, numerical least-squares fits with Monte Carlo sampling of the quoted error bars give γ=1.8(4), 1.4(4), and 1.4(3) at r_s=1, 5, and 10, respectively, indicating that the observed finite-size scaling of m^*(N) in these DMC data is characterized by a power law with 1≲γ≲2 rather than the N^{-1/4} behavior predicted for excitations infinitesimally close to k_F.",
+        "content_hash": "09effb83b5df2e7866dfafd52e9efe08f16ad71711231c41c1c4896ea172083b",
+        "id": "gcn_9d9ea0febe6944a5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_11",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029418126757516764,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02904040404040404,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $E_b^{\\mathrm{DMC}}(\\gamma)$ denote the infinite-system barrier obtained by a two-point extrapolation of $\\Delta\\bar{E}_{\\mathrm{sp-fs}}^{\\mathrm{DMC}}(N)$ using an assumed leading many-body finite-size scaling $D^{\\mathrm{mb-fs}}(N)\\propto N^{\\gamma}$ with $N$ proportional to the number of explicitly correlated particles/electrons. Replacing the exponent $\\gamma=-5/4$ by $\\gamma=-3/2$ in this two-point extrapolation changes the extrapolated DMC barrier by only $0.1\\ \\mathrm{kcal/mol}$ for the system sizes used.",
+        "content_hash": "342f23e047f9b8db128e0ed891a5aaef5b2a5f2906f6470f5bf9e9dc92e051cf",
+        "id": "gcn_c930e3cfb7dd4234",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813134280266874881::P6",
+            "package_id": "paper:813134280266874881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813134280266874881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02878726010616578,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A practical protocol for extracting quasiparticle bands and effective masses in finite-size QMC calculations is: (i) compute the single-particle energy $\\mathcal{E}(\\mathbf{k})$ as the difference of many-body total energies obtained by adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$ (instead of promoting an electron within the $N$-electron configuration), thereby avoiding extra contributions to the energy differences from interactions between an excited electron and the hole it leaves behind; and (ii) perform a least-squares fit of a smooth quartic function $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ to the DMC band values over the entire occupied range and evaluate the derivative of that fitted function at $k_{F}$ to obtain the effective mass, which reduces sensitivity to Hartree-Fock-like residual pathological fluctuations and finite-size irregularities in the immediate vicinity of $k_{F}$.  Using single-determinant Slater-Jastrow-backflow trial wave functions that were optimized in the $N$-electron ground state and then used without reoptimization in the $(N\\pm1)$-electron DMC calculations produces stable band values and effective masses that are insensitive to system-size trends that appear when only near-$k_{F}$ points are employed.",
+        "content_hash": "da03f3f6951795c598f3306aa4904c1f09ffcd232d6021561a2e4d4316189212",
+        "id": "gcn_9eafb3f0ece94c3f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_6",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028371628371628373,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "We implemented a fixed-node diffusion Monte Carlo (FN–DMC) protocol for the homogeneous two-dimensional electron gas (2DEG) of N electrons interacting via the pair potential $v(r)=2/(r_{s}r)$ in a square box of side $L=\\sqrt{N\\pi}$ with periodic boundary conditions and a neutralizing uniform positive background, in which computed DMC energies are extrapolated to zero imaginary time step ($\\tau\\to0$), to infinite walker population ($N_{W}\\to\\infty$), and to the thermodynamic limit ($N\\to\\infty$) by fitting finite-$N$ FN–DMC energies at several polarizations $\\zeta=(N_{\\uparrow}-N_{\\downarrow})/N$ and particle numbers $N$ to the functional form\n      $$\n      E_{N}(\\zeta)=E(\\zeta=0)+\\beta\\zeta^{2}+\\gamma\\zeta^{4}+\\Delta(1+\\epsilon\\zeta^{2})\\bigl(T_{N}^{(0)}(\\zeta)-T^{(0)}(\\zeta)\\bigr)-(b+\\alpha\\zeta^{2})/N,\n      $$\n      where $E_{N}(\\zeta)$ is the FN–DMC energy per particle for $N$ electrons at polarization $\\zeta$, $T_{N}^{(0)}(\\zeta)$ is the noninteracting kinetic energy for $N$ particles at density parameter $r_{s}=1$, $T^{(0)}(\\zeta)$ is the corresponding thermodynamic-limit kinetic energy, and $\\beta,\\gamma,\\Delta,\\epsilon,b,\\alpha$ are fit parameters.  For the plane-wave-node FN–DMC data the fitted parameters found here are, at $r_{s}=20$: $E(\\zeta=0)=-0.092456\\,$Ry, $\\beta=8.22\\times10^{-5}\\,$Ry, $\\gamma=-7.34\\times10^{-3}\\,$Ry, $\\Delta=0.00129$, $\\epsilon=2.0$, $b=0.00712$, $\\alpha=-0.0030$ (fit quality $x^{2}=1.7$); and at $r_{s}=30$: $E(\\zeta=0)=-0.063783\\,$Ry, $\\beta=-6.4\\times10^{-6}\\,$Ry, $\\gamma=-2.72\\times10^{-3}\\,$Ry, $\\Delta=0.00045$, $\\epsilon=1.8$, $b=0.00397$, $\\alpha=-0.0007$ ($x^{2}=1.9$). Using this protocol we obtain, for the case $N=58$ at $r_{s}=20$, an extrapolated FN–DMC energy $-0.092557(76)\\,$Ry, which can be compared with earlier published values $-0.09248(1)\\,$Ry reported for the same system; this implementation differs from those earlier works in that (i) the number ($N$) extrapolation is performed directly by fitting several DMC energies at different $N$ rather than by applying variational Monte Carlo size corrections to a single DMC size, and (ii) explicit extrapolations in imaginary time step $\\tau$ and walker number $N_{W}$ are performed to reduce finite-$\\tau$ and population-control biases.",
+        "content_hash": "c0e131308c297e1f6364d5b276ae17eaddb00f5ae62549b163eb2d536d64506f",
+        "id": "gcn_381d972697cb44ee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749118603166175::conclusion_1",
+            "package_id": "paper:867749118603166175",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749118603166175"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027529761904761904,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the two single-particle-finite-size-corrected DMC barrier estimates $\\Delta \\bar{E}_{\\text{sp-fs}}^{\\text{DMC}}(2\\times2) = 14.8\\pm0.7\\ \\text{kcal/mol}$ and $\\Delta \\bar{E}_{\\text{sp-fs}}^{\\text{DMC}}(4\\times4) = 13.3\\pm0.8\\ \\text{kcal/mol}$ to the infinite-system limit using a two-point fit to $\\Delta \\bar{E}_{\\text{sp-fs}}^{\\text{DMC}}(N)=E_b^{\\text{DMC}}+c\\,N^{-5/4}$ (with $N$ proportional to the number of explicitly correlated particles/electrons in the simulation cell) yields $E_{b}^{\\text{DMC}} = 13.0 \\pm 1.0\\ \\text{kcal/mol}$, and replacing the exponent $-5/4$ by $-3/2$ changes the extrapolated $E_b^{\\text{DMC}}$ by only $0.1\\ \\text{kcal/mol}$.",
+        "content_hash": "6d4c432b7348f32c4980c32fb0f2d6cb40c66b93a83c907ca5899b94676a4c23",
+        "id": "gcn_5c6d93414d7a4f4c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813134280266874881::conclusion_11",
+            "package_id": "paper:813134280266874881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813134280266874881"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02557875991581674,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "7e6db13c300ff8bec09afe53c0259b00"
+}
