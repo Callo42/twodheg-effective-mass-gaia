@@ -58,3 +58,39 @@ gfac_de955cd831054c41.metadata.update(
         "justification": "Accepted as an LKM factor-derived warrant for the earlier DMC occupied-band and quartic-curvature result.",
     }
 )
+
+
+gcn_888498a0614d40d7 = claim(
+    "If the interacting 2D HEG band admits an even-power expansion E(k)=sum beta_2n k^(2n), retaining terms through k^4 assumes that higher-order k^6 and above terms are negligible over the fitted k-range, so the fitted alpha_4 coefficient captures the leading nonquadratic correction and its physical implications [@Drummond2009b].",
+    title="Quartic term as leading nonquadratic correction",
+    lkm_id="gcn_888498a0614d40d7",
+    source_paper="paper:867763861497839690",
+    provenance_source="lkm",
+    lkm_original="Suppose the true interacting-band dispersion admits a convergent even-power Taylor expansion $\\mathcal{E}(k)=\\sum_{n\\ge 0}\\beta_{2n} k^{2n}$ for $0\\le k\\le k_F$; the band-fitting analysis retains terms up to $k^4$ only, i.e., $\\mathcal{E}(k)\\approx\\beta_0+\\beta_2 k^2+\\beta_4 k^4$ identified with $\\alpha_0,\\alpha_2,\\alpha_4$, and it is assumed that the contributions of higher-order terms $\\beta_6 k^6+\\beta_8 k^8+\\dots$ are negligible within the $k$-range used for the fit so that the sign and magnitude of the fitted $\\alpha_4$ reliably indicate the leading non-quadratic correction to the band and its physical implications.",
+    source_package="paper:867763861497839690",
+)
+
+
+gcn_318b062f17344859 = claim(
+    "The fitted DMC bands for the 2D HEG deviate from purely quadratic k-dependence: in the quartic fit E(k)=alpha_0+alpha_2 k^2+alpha_4 k^4, alpha_4 is positive for the paramagnetic HEG at r_s=5 and 10, while alpha_4 is negative for the ferromagnetic HEG at all studied densities. Because these bands are nonquadratic, thermodynamic properties depending on integrals over the dispersion can depart from free-particle-like behavior [@Drummond2009b].",
+    title="Nonquadratic DMC band curvature affects thermodynamics",
+    lkm_id="gcn_318b062f17344859",
+    source_paper="paper:867763861497839690",
+    provenance_source="lkm",
+    lkm_original="The fitted DMC bands deviate from a purely quadratic dependence on $k$: when the fitted quartic form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ is used, the quartic coefficient $\\alpha_4$ is positive for the paramagnetic HEG at $r_s=5$ and $10$ a.u., while $\\alpha_4$ is negative for the ferromagnetic HEG at all densities studied; because these fitted bands are non-quadratic, thermodynamic properties that depend on integrals over the dispersion (for example temperature-dependent contributions to the free energy and specific heat at elevated temperatures) are predicted to depart from the free-particle-like behavior that would follow from a strictly quadratic dispersion $\\propto k^2$.",
+    source_package="paper:867763861497839690",
+)
+
+
+gfac_ca2b45abbd52472f = deduction(
+    premises=[gcn_888498a0614d40d7],
+    conclusion=gcn_318b062f17344859,
+    reason="1. Start from the quartic fits E(k)=alpha_0+alpha_2 k^2+alpha_4 k^4, where alpha_4 is the leading nonquadratic correction.\n2. Report that alpha_4 is positive for the paramagnetic HEG at r_s=5 and 10, and negative for the ferromagnetic HEG at all studied densities.\n3. Infer that a nonzero quartic term modifies thermodynamic properties that would otherwise be derived from a purely quadratic free-particle dispersion.",
+    prior=0.95,
+)
+gfac_ca2b45abbd52472f.metadata.update(
+    {
+        "judgment": "accepted",
+        "justification": "Accepted as an LKM factor-derived warrant for the thermodynamic implication of nonquadratic DMC band curvature.",
+    }
+)

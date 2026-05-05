@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811125901008830465": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. K. Nørskov",
+        "available_online": "1982-6-7",
+        "cover_date_start": "1982-06-07",
+        "created_at": "2022-12-17T22:44:46+08:00",
+        "doi": "10.1103/physrevlett.48.1620",
+        "en_title": "Calculated Binding Properties of Hydrogen on Nickel Surfaces",
+        "id": "811125901008830465",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "氢在镍表面的计算结合特性"
+      },
+      "paper:811916416293797888": {
+        "area": "Physics and Astrophysics",
+        "authors": "Dier Zhang | Lihua Shen | Aihui Zhou | Xin-Gao Gong",
+        "available_online": "",
+        "cover_date_start": "2008-07-01",
+        "created_at": "2022-12-20T03:05:58+08:00",
+        "doi": "10.1016/j.physleta.2008.05.075",
+        "en_title": "Finite element method for solving Kohn–Sham equations based on self-adaptive tetrahedral mesh",
+        "id": "811916416293797888",
+        "keywords": "[{\"ch_name\":\"电子结构计算\",\"en_name\":\"Electronic structure calculations\"},{\"ch_name\":\"有限元法\",\"en_name\":\"Finite element method\"}]",
+        "publication_date": "2008-7",
+        "publication_id": "604",
+        "publication_name": "Physics Letters A _ Physics Letters A",
+        "research_categories": "",
+        "zh_title": "基于自适应四面体网格求解科恩-沈方程的有限元方法"
+      },
+      "paper:812425875969540097": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. M. Pitarke | J. P. Perdew",
+        "available_online": "2003-1-6",
+        "cover_date_start": "2003-01-06",
+        "created_at": "2022-12-21T12:50:24+08:00",
+        "doi": "10.1103/physrevb.67.045101",
+        "en_title": "Metal surface energy: Persistent cancellation of short-range correlation effects beyond the random phase approximation",
+        "id": "812425875969540097",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "金属表面能：超越随机相位近似的短程关联效应的持续抵消"
+      },
+      "paper:812434017923104769": {
+        "area": "Chemistry",
+        "authors": "Paola Gori-Giorgi | Claudio Attaccalite | Saverio Moroni | Giovanni B. Bachelet",
+        "available_online": "2002",
+        "cover_date_start": "2002-01-01",
+        "created_at": "2022-12-21T13:22:45+08:00",
+        "doi": "10.1002/qua.10416",
+        "en_title": "Two-dimensional electron gas: Correlation energy versus density and spin polarization",
+        "id": "812434017923104769",
+        "keywords": "[{\"en_name\": \"Correlation energy\", \"ch_name\": \"\"}, {\"en_name\": \"Electron density\", \"ch_name\": \"\"}, {\"en_name\": \"Monte Carlo simulation\", \"ch_name\": \"\"}, {\"en_name\": \"Spin polarization\", \"ch_name\": \"\"}, {\"en_name\": \"Two-dimensional electron gas\", \"ch_name\": \"\"}]",
+        "publication_date": "2003",
+        "publication_id": "3507",
+        "publication_name": "International Journal of Quantum Chemistry _ Int. J. Quantum Chem.",
+        "research_categories": "",
+        "zh_title": "二维电子气：关联能与密度及自旋极化的关系"
+      },
+      "paper:812705993593978881": {
+        "area": "Physics and Astrophysics",
+        "authors": "V. Natoli | Richard M. Martin | D. M. Ceperley",
+        "available_online": "1993-3-29",
+        "cover_date_start": "1993-03-29",
+        "created_at": "2022-12-22T07:23:30+08:00",
+        "doi": "10.1103/physrevlett.70.1952",
+        "en_title": "Crystal structure of atomic hydrogen",
+        "id": "812705993593978881",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "原子氢的晶体结构"
+      },
+      "paper:813184510756651009": {
+        "area": "Physics and Astrophysics",
+        "authors": "Paulo H. Acioli | D. M. Ceperley",
+        "available_online": "1996-12-15",
+        "cover_date_start": "1996-12-15",
+        "created_at": "2022-12-23T15:04:56+08:00",
+        "doi": "10.1103/physrevb.54.17199",
+        "en_title": "Diffusion Monte Carlo study of jellium surfaces: Electronic densities and pair correlation functions",
+        "id": "813184510756651009",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "凝胶表面的扩散蒙特卡罗研究：电子密度和对关联函数"
+      },
+      "paper:867750034613994416": {
+        "area": "arXiv-Physics",
+        "authors": "J. M. Pitarke | J. P. Perdew",
+        "available_online": "",
+        "cover_date_start": "2002-11-06",
+        "created_at": "2023-05-23T04:48:50+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0211114",
+        "en_title": "Metal Surface Energy: Persistent Cancellation of Short-Range Correlation Effects beyond the Random-Phase Approximation",
+        "id": "867750034613994416",
+        "keywords": "",
+        "publication_date": "2002-11-06",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "金属表面能：超越随机相位近似的短程关联效应的持续抵消"
+      },
+      "paper:867759455570231854": {
+        "area": "arXiv-Physics",
+        "authors": "Jianmin Tao | John P. Perdew | Luis Miguel Almeida | Carlos Fiolhais | Stephan Kümmel",
+        "available_online": "",
+        "cover_date_start": "2008-04-09",
+        "created_at": "2023-05-23T05:26:17+08:00",
+        "doi": "10.48550/arXiv.0804.1526",
+        "en_title": "Nonempirical Density Functionals Investigated for Jellium: Spin-Polarized Surfaces, Spherical Clusters, and Bulk Linear Response",
+        "id": "867759455570231854",
+        "keywords": "",
+        "publication_date": "2008-04-09",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "针对均匀电子气研究的非经验密度泛函：自旋极化表面、球形团簇和体线性响应"
+      }
+    },
+    "variables": [
+      {
+        "content": "The claim: \"The numerical statement that the unpublished fixed-node uniform-electron-gas energy used in Ref. 32 is $0.0123\\ \\mathrm{eV/electron}$ higher than its release-node counterpart (contrary to a claimed $0.0023\\ \\mathrm{eV/electron}$) is taken as correct; consequently, combining fixed-node slab energies with release-node bulk energies produces a surface-energy overestimate of approximately $138\\ \\mathrm{erg/cm}^2$ at $r_s=2.07$. Here 'fixed-node' denotes diffusion Monte Carlo calculations performed with a fixed-node constraint and 'release-node' denotes calculations that remove or estimate the fixed-node bias.\" \n      [32]",
+        "content_hash": "c6f46a91346586eedbf16e7c5021a13a18c11ff723623c55baabe211b83f6858",
+        "id": "gcn_15a2eda4a37841b7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750034613994416::P8",
+            "package_id": "paper:867750034613994416",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750034613994416"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03055037313432836,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E_VMC and E_DMC denote variational and fixed-node diffusion Monte Carlo total energies per atom. Released-node calculations performed for the homogeneous electron gas (HEG) report an empirical scaling relation that the fixed-node error (the difference between the true fermionic ground-state energy and the fixed-node DMC energy) is approximately 0.1 × (E_VMC − E_DMC) for that system; the proposition adopted here is that this empirical proportionality factor of 0.1 relating released-node corrections to the variational-to-DMC energy difference for the HEG applies with similar accuracy to crystalline atomic hydrogen at r_s = 1.31, so that one may estimate the fixed-node error in the hydrogen-crystal DMC calculations by multiplying the observed quantity (E_VMC − E_DMC) by 0.1.\n      [18]",
+        "content_hash": "35ca5b256ba1a6adadeb182498071583f490a405dfac0bcea8b45b05c26b4dbb",
+        "id": "gcn_1690586109424017",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812705993593978881::P4",
+            "package_id": "paper:812705993593978881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812705993593978881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02967032967032967,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $\\Delta\\epsilon_{c}^{\\mathrm{unif}}$ denote the estimated fixed-node correction per electron for the homogeneous electron gas (the $N\\to\\infty$ limit). For a spherical jellium cluster of $N$ electrons the finite-$N$ dependence of the fixed-node DMC correlation-energy correction is modeled by the interpolation\n      $$\n      \\Delta\\epsilon_{c}(N)=\\Delta\\epsilon_{c}^{\\mathrm{unif}}\\left[1-\\left(\\frac{2}{N}\\right)^{1/3}\\right],\n      $$\n      which is motivated by Liquid Drop Model scaling of surface and curvature contributions and is adopted as an approximate single-parameter ($\\Delta\\epsilon_{c}^{\\mathrm{unif}}$) multiplicative interpolation intended to capture the dominant $N$-dependence of the fixed-node error across $2\\le N<\\infty$ for the spherical jellium clusters considered.",
+        "content_hash": "c304cdf37f1e8c39602768b1533eef0b78b2966aca86df3b1096d0bb61fd8939",
+        "id": "gcn_46098f0749cd4928",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759455570231854::P4",
+            "package_id": "paper:867759455570231854",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759455570231854"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026878868258178604,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: Let the fixed-node error for the homogeneous three-dimensional electron gas (HEG) under a given trial nodal surface be estimated by a release-node calculation yielding a correction \\delta E_{\\mathrm{HEG}}^{\\mathrm{rn}}. The claim is that the fixed-node error \\delta E_{\\mathrm{slab}}^{\\mathrm{fn}} for an inhomogeneous finite-thickness jellium slab using the same pair-product nodal structure can be approximated by \\delta E_{\\mathrm{slab}}^{\\mathrm{fn}}\\approx\\delta E_{\\mathrm{HEG}}^{\\mathrm{rn}} (possibly scaled by density-dependent factors), so that using the HEG release-node correction provides a practical estimate of the nodal fixed-node contribution to the QMC error bars for slab energies, on the assumption that the qualitative nature and magnitude of nodal errors in the homogeneous system are representative of those in the inhomogeneous slab.\n      D. M. Ceperley and B. J. Alder, J. Chem. Phys. 81, 5833 (1984).",
+        "content_hash": "8cd96246b4b816bad7d78413f5660708955e0defccd5a8cc3dd2b8954b1ecfe4",
+        "id": "gcn_c11e398d09a64116",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813184510756651009::P6",
+            "package_id": "paper:813184510756651009",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813184510756651009"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the two-term homogeneous-electron-gas contribution\n      $$\n      \\Delta E_{\\mathrm{eff}}^{\\mathrm{hom}}(\\overline{n}_{0}) \\equiv \\Delta E^{\\mathrm{hom}}(\\overline{n}_{0})-\\alpha_{\\mathrm{eff}}\\,\\overline{n}_{0},\n      $$\n      where \\overline{n}_{0} is the sampled electron density in units of a_{0}^{-3} and a_{0} denotes the Bohr radius. The following piecewise analytic parametrization gives the numerical value of \\Delta E_{\\mathrm{eff}}^{\\mathrm{hom}}(\\overline{n}_{0}) (energies in eV):\n      $$\n      \\Delta E_{\\mathrm{eff}}^{\\mathrm{hom}}(\\overline{n}_{0})=\\begin{cases}\n      130\\,\\overline{n}_{0}\\,\\ln\\!\\bigl(\\overline{n}_{0}/0.004\\bigr)-252\\,\\overline{n}_{0}-1.12\\ \\text{eV}, & 0.002<\\overline{n}_{0}\\le 0.0127,\\\\[6pt]\n      398\\bigl(\\overline{n}_{0}-0.0127\\bigr)^{2}+31\\,\\overline{n}_{0}-2.81\\ \\text{eV}, & 0.0127\\le \\overline{n}_{0}.\n      \\end{cases}\n      $$\n      This parametrization produces an optimal sampled density near \\overline{n}_{0}\\approx 0.01\\ a_{0}^{-3} where \\Delta E_{\\mathrm{eff}}^{\\mathrm{hom}} attains a minimum value of approximately -2.45 eV.",
+        "content_hash": "dd3b5366918f7fd609556aadfc6368337523a72d7995019e9f844fc028c3e210",
+        "id": "gcn_c06ebb0ff6be43fc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811125901008830465::conclusion_3",
+            "package_id": "paper:811125901008830465",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811125901008830465"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: When assigning uncertainty contributions to QMC-derived surface energies of a finite slab, decompose the total uncertainty into contributions from (a) time-step error (here assumed negligible), (b) finite-size error approximated as 10% of the LDA finite-size correction \\Delta E_{\\mathrm{FS}} (with \\Delta E_{\\mathrm{FS}} defined as E_{\\mathrm{LDA}}^{\\mathrm{full}}-E_{\\mathrm{LDA}}^{\\mathrm{supercell}}), (c) fixed-node error estimated from homogeneous-electron-gas release-node corrections, and (d) statistical sampling error, and then combine these contributions (summation in quadrature or as specified) to obtain the overall error bar. The claim is that adopting this decomposition and the heuristic choice \"finite-size error \\approx 10\\% of the LDA correction\" yields a credible and approximately conservative overall uncertainty estimate for the QMC surface energies reported.",
+        "content_hash": "7bbb4ef1c95e6ede49d326bab8ac12bfacf0a75cc8df3fca5b32fcaf77102370",
+        "id": "gcn_4f01c3827bf24c29",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813184510756651009::P7",
+            "package_id": "paper:813184510756651009",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813184510756651009"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas characterized by the density parameter $r_s=1/\\sqrt{\\pi n a_B}$ (where $n$ is the areal density and $a_B$ is the Bohr radius), the backflow (BF) nodal energy correction $\\Delta_{\\mathrm{BF}}(r_s,\\zeta,N)$ at arbitrary spin polarization $\\zeta=(n_\\uparrow-n_\\downarrow)/n$ and particle number $N$ is estimated by (a) computing $\\Delta_{\\mathrm{BF}}(r_s,\\zeta,N)$ explicitly only at the two endpoint polarizations $\\zeta=0$ for $N=58$ and $\\zeta=1$ for $N=57$ at each density $r_s$, (b) performing a quadratic interpolation in the variable $\\zeta$ to obtain $\\Delta_{\\mathrm{BF}}(r_s,\\zeta,N)$ at intermediate $\\zeta$, and (c) assuming that the dependence of $\\Delta_{\\mathrm{BF}}$ on the particle number $N$ is identical to the particle-number dependence of the plane-wave (PW) nodal energy correction $\\Delta_{\\mathrm{PW}}(r_s,\\zeta,N)$ so that no separate $N$-dependent BF scaling is introduced; this combined interpolation-and-identical-$N$-dependence assumption is used to produce BF-corrected energies at all sampled $(r_s,\\zeta,N)$ without performing full BF simulations at those points.",
+        "content_hash": "75880c9dc090ff24ff1c76059315eb7ffc527d0f80b130a884f7f7c1fa022490",
+        "id": "gcn_95f652550c3d4ffc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812434017923104769::P1",
+            "package_id": "paper:812434017923104769",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812434017923104769"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In diffusion Monte Carlo (DMC) analyses that extract a slab surface energy by combining slab total energies computed with the fixed-node approximation and bulk energies taken from release-node calculations, a numerical mismatch between the fixed-node and release-node uniform-gas energies can bias the extracted surface energy: specifically, at uniform-electron-gas parameter $r_{s}=2.07$ the unpublished fixed-node uniform-gas energy used in the cited analysis is higher than the corresponding release-node energy by $0.0123\\,$eV per electron (fixed-node minus release-node $=+0.0123\\,$eV/electron), and combining fixed-node slab energies with the lower release-node bulk energy produces an overestimate of the slab-extracted surface energy by approximately $138\\,$erg/cm$^{2}$ when propagated through the linear extrapolation relation between slab energy and surface energy.\n      32",
+        "content_hash": "0a6b632976fbc18d31fe99aa636a04fd17e9620fbb617648e0d2fb8ea01686a7",
+        "id": "gcn_425d3b2c30ec4bbb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812425875969540097::P9",
+            "package_id": "paper:812425875969540097",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812425875969540097"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite‑element Kohn–Sham implementation employs quadratic tetrahedral nodal basis functions, the Locally Optimal Block Preconditioned Conjugate Gradient (LOBPCG) eigensolver to compute required occupied eigenpairs of the generalized problem H u=\\varepsilon S u, and Broyden mixing for SCF charge mixing; because the FE basis functions are strictly local the resulting Hamiltonian and overlap matrices are sparse and local, obviating the need for Fourier transforms and making the method suitable for distributed‑memory parallel computation, and computational efficiency is further improved by reusing precomputed reference element matrices (via affine mapping and determinant scaling) and by representing nonlocal pseudopotentials in the low‑rank Kleinman–Bylander factorized form.",
+        "content_hash": "2f28d9b8774040e20ce4c1799e094c829f3b0167c6bb51f8942e5944c514942b",
+        "id": "gcn_4f25f6fc6c3646a5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811916416293797888::conclusion_9",
+            "package_id": "paper:811916416293797888",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811916416293797888"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The numerical estimate $\\Delta\\epsilon_{c}^{\\mathrm{unif}}$ of the fixed-node DMC correlation-energy correction per electron, obtained from the difference between fixed-node and released-node DMC calculations for the homogeneous electron gas at bulk density, is used as the $N\\to\\infty$ anchor value and, when combined with the $N$-dependent interpolation of the form $\\Delta\\epsilon_{c}(N)=\\Delta\\epsilon_{c}^{\\mathrm{unif}}[1-(2/N)^{1/3}]$, is assumed to provide a physically relevant and quantitatively usable estimate of the fixed-node error for finite spherical jellium clusters and thus to permit construction of corrected DMC benchmarks for those finite spheres.",
+        "content_hash": "2822776b936ad4ae2a9ffacb586e2b2129e8a31cf70462dd74c43e297851e73b",
+        "id": "gcn_c1d1852fe63143a0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759455570231854::P5",
+            "package_id": "paper:867759455570231854",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759455570231854"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "784f11372ba18374afd1312674571f4f"
+}

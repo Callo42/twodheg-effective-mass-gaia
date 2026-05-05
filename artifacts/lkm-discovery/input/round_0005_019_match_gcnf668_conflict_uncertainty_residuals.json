@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:812353007273377795": {
+        "area": "Geoscience",
+        "authors": "P. B. Checkland | H. W. Thompson",
+        "available_online": "",
+        "cover_date_start": "1955-01-01",
+        "created_at": "2022-12-21T08:00:50+08:00",
+        "doi": "10.1039/tf9555100001",
+        "en_title": "Vibration-rotation bands of deuterium cyanide",
+        "id": "812353007273377795",
+        "keywords": "",
+        "publication_date": "1955",
+        "publication_id": "15297",
+        "publication_name": "Transactions of the Faraday Society _ Trans. Faraday Soc.",
+        "research_categories": "",
+        "zh_title": "氰化氘的振动-转动谱带"
+      },
+      "paper:812405018777878529": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. Boulaftali | N. Ben Sari-Zizi | H. Najib | G. Graner | H. Bürger | E.B. Mkadmi | P. Pracna",
+        "available_online": "",
+        "cover_date_start": "2002-07-01",
+        "created_at": "2022-12-21T11:27:31+08:00",
+        "doi": "10.1006/jmsp.2002.8577",
+        "en_title": "The (ν1, ν4, ν2+ν3, ν3+ν5) Polyad of D328SiF around 1600 cm−1, Studied by High-Resolution FTIR Spectroscopy",
+        "id": "812405018777878529",
+        "keywords": "",
+        "publication_date": "2002-7",
+        "publication_id": "660",
+        "publication_name": "Journal of Molecular Spectroscopy _ Journal of Molecular Spectroscopy",
+        "research_categories": "",
+        "zh_title": "通过高分辨率傅里叶变换红外光谱研究的D328SiF在1600 cm−1附近的(ν1, ν4, ν2+ν3, ν3+ν5)多谱带"
+      },
+      "paper:812586340427235330": {
+        "area": "Chemistry",
+        "authors": "P. Groner | H. Nanaie | J. R. Durig | D. D. DesMarteau",
+        "available_online": "",
+        "cover_date_start": "1988-10-01",
+        "created_at": "2022-12-21T23:28:02+08:00",
+        "doi": "10.1063/1.454831",
+        "en_title": "The microwave spectrum of difluoromethanimine, CF 2 =NH",
+        "id": "812586340427235330",
+        "keywords": "",
+        "publication_date": "1988-10",
+        "publication_id": "3427",
+        "publication_name": "The Journal of Chemical Physics _ The Journal of Chemical Physics",
+        "research_categories": "",
+        "zh_title": "二氟亚甲亚胺（CF₂=NH）的微波光谱"
+      },
+      "paper:813293126281068545": {
+        "area": "Physics and Astrophysics",
+        "authors": "L. Horváthová | M. Dubecký | L. Mitas | I. Štich",
+        "available_online": "2012-7-31",
+        "cover_date_start": "2012-07-31",
+        "created_at": "2022-12-23T22:16:32+08:00",
+        "doi": "10.1103/physrevlett.109.053001",
+        "en_title": "Spin Multiplicity and Symmetry Breaking in Vanadium-Benzene Complexes",
+        "id": "813293126281068545",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "钒-苯配合物中的自旋多重性与对称性破缺"
+      },
+      "paper:814595700120616960": {
+        "area": "Physics and Astrophysics",
+        "authors": "E. Mostaani | N. D. Drummond | V. I. Fal’ko",
+        "available_online": "2015-9-10",
+        "cover_date_start": "2015-09-10",
+        "created_at": "2022-12-27T12:32:30+08:00",
+        "doi": "10.1103/physrevlett.115.115501",
+        "en_title": "Quantum Monte Carlo Calculation of the Binding Energy of Bilayer Graphene",
+        "id": "814595700120616960",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "双层石墨烯结合能的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867756414980849977": {
+        "area": "arXiv-Physics",
+        "authors": "G.E. Astrakharchik | J. Boronat | I.L. Kurbakov | Yu.E. Lozovik",
+        "available_online": "",
+        "cover_date_start": "2006-08-10",
+        "created_at": "2023-05-23T05:14:11+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0608246",
+        "en_title": "Quantum phase transition in a two-dimensional system of dipoles",
+        "id": "867756414980849977",
+        "keywords": "",
+        "publication_date": "2006-08-10",
+        "publication_id": "108490",
+        "publication_name": "Superconductivity _ Physics.cond-mat.supr-con",
+        "research_categories": "",
+        "zh_title": "二维偶极子系统中的量子相变"
+      },
+      "paper:977252522529914881": {
+        "area": "arXiv-Physics",
+        "authors": "Seyed Mohammadreza Hosseini | Ali Alavi | Pablo Lopez Rios",
+        "available_online": "",
+        "cover_date_start": "2024-03-01",
+        "created_at": "2024-03-20T08:52:37+08:00",
+        "doi": "10.48550/arxiv.2403.00649",
+        "en_title": "X marks the spot: accurate energies from intersecting extrapolations of continuum quantum Monte Carlo data",
+        "id": "977252522529914881",
+        "keywords": "",
+        "publication_date": "2024-03-01",
+        "publication_id": "108512",
+        "publication_name": "Computational Physics _ Physics.physics.comp-ph",
+        "research_categories": "",
+        "zh_title": "X标记此处：来自连续量子蒙特卡罗数据相交外推的精确能量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the interacting 2D HEG energy-band data sets produced by DMC at the densities ($r_s=1,5,10$) and system sizes reported, truncating the band representation to a quartic polynomial in $k$, $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$, captures the essential curvature: the least-squares fits yield residuals that are small compared with the quoted uncertainties, so that the fitted coefficients $\\alpha_2$ and $\\alpha_4$ and derived quantities (occupied bandwidth and derivative at $k_F$ used to obtain $m^{*}$) are accurate within the stated error bars and higher-order terms ($k^6$ and beyond) are negligible over the occupied $k$-range used for the reported extractions.",
+        "content_hash": "6446c2adbdb6ad295eda69e3195ed012c3c020f855cd4b5cb9794139fb44fe81",
+        "id": "gcn_f6686a4225a043a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P9",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+        "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+        "id": "gcn_bf915935b1fd4326",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_1",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029827662395050816,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given a set of thermodynamic-limit ground-state energy data points \\{(x_i,E_i)\\} obtained by Diffusion Monte Carlo after finite-size tail correction and extrapolation, performing a least-squares fit of the empirical model E/N=a_{1} x^{3/2}+a_{2} x^{5/4}+a_{3} x^{1/2} yields coefficient estimates a_{1},a_{2},a_{3} together with statistical uncertainties that reflect the fitting residuals and stochastic uncertainties in the supplied DMC thermodynamic-limit energies; the reported coefficients (for example a_{1}=4.536(8) for the gas-phase fit) and their uncertainties are therefore reliable representations of the computed equation of state within the quoted error bars.",
+        "content_hash": "bbb01a630f9fad162ecb3f7c0d3ea336fbba58f218121adc64e4d15f331348b0",
+        "id": "gcn_7972da9d5b644511",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867756414980849977::P6",
+            "package_id": "paper:867756414980849977",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867756414980849977"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029138513513513514,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let r denote the average distance between the vanadium atom and the benzene carbon atoms in the neutral vanadium‑benzene complex (VBz). Suppose a set of fixed‑node DMC total energies E_DMC(r_i) with Monte Carlo one‑standard‑error uncertainties σ_i are computed at a finite set of sampled distances {r_i}. Fitting the noisy discrete points (r_i, E_DMC(r_i)) with a quadratic function E_fit(r) = a(r − r_0)^2 + E_0 and taking r_0 as the QMC‑optimized equilibrium average V–C distance yields an estimate of the DMC energy minimum position whose uncertainty is consistent with the quoted Monte Carlo uncertainties; i.e., the parabolic approximation near the sampled region is adequate despite statistical noise in the DMC energies when the fit and the quoted one‑standard‑error uncertainties are used to report the optimized distance and energy. (Definitions: quadratic/parabolic fit = least‑squares fit of a second‑order polynomial; \"one‑standard‑error\" = sample standard error of the mean from DMC sampling; \"accurate\" means agreement within the stated Monte Carlo uncertainties of the reported distances and energies.)",
+        "content_hash": "67efe9e62c63d8e3f287bc16e4a608bf0eb1dca0298df4b82e072f0932d42b49",
+        "id": "gcn_61b4b2a08d36403c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813293126281068545::P3",
+            "package_id": "paper:813293126281068545",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813293126281068545"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026973565905412694,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider fitting a quadratic model $E(w)=a + b w + c w^2$ to a dataset of computed cQMC points $(w_i,E_i)$, where each $E_i$ is obtained by an independent variational Monte Carlo or diffusion Monte Carlo calculation with reported statistical uncertainty $\\Delta E_i$, and where the data may include quasi-random nonstatistical deviations of amplitude $\\alpha$. Meaningful estimation of the quadratic fit parameters $a$, $b$, and $c$ and of their uncertainty in the presence of the quasi-random fluctuations encountered in practice requires at least seven distinct $(w_i,E_i)$ points on each curve, so that the number of data points is substantially larger than the three fitted parameters and residual-based estimates of $\\alpha$ and fit uncertainty have sufficient degrees of freedom to be stable.",
+        "content_hash": "ad2b814cd9a2eb2db1f30bb3fd427737be054bb017c3d91a85bdffa1fc237fa0",
+        "id": "gcn_c7ce4e3a47c54083",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:977252522529914881::P2",
+            "package_id": "paper:977252522529914881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:977252522529914881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the nonlinear least-squares fit of the interacting Hamiltonian for D3 28SiF, the one-standard-deviation uncertainties reported in parentheses for the fitted band centers and other fitted parameters, which are obtained from the covariance matrix of the final fit, provide a reasonable approximation to the true statistical uncertainties even though the overall error budget may also include contributions from constrained parameters, excluded (zero-weighted) transitions, and possible systematic errors arising from omitted nearby states.",
+        "content_hash": "0bd61d574235ac3c6578f2cd5423f761a5fc6a425374875ac4abc174f6fab4ce",
+        "id": "gcn_e599bd77971740a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812405018777878529::P9",
+            "package_id": "paper:812405018777878529",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812405018777878529"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A single global least‑squares fit that included hyperfine structure produced fitted rotational, quartic centrifugal‑distortion, and ¹⁴N quadrupole parameters for CF₂=¹⁴NH by using 315 measured hyperfine components from 116 rotational transitions; the standard deviation of the transition‑frequency residuals about the fit is σ = 0.036 MHz and the standard deviation of the Stark‑component residuals is σ = 0.100 MHz, demonstrating internal consistency of the extracted spectroscopic parameters within the quoted uncertainties.",
+        "content_hash": "3a2147158e14558c7b22ff6fc486939e7aab555d43e35fb4dc25431a471f162f",
+        "id": "gcn_17cb2fcbd04548ab",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812586340427235330::conclusion_8",
+            "package_id": "paper:812586340427235330",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812586340427235330"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The numerical uncertainties quoted for the fitted parameters such as $B''$, $B'$, $\\alpha_3$, and the centrifugal-distortion constants $D$ are the combined standard errors returned by the least-squares fits to the tabulated observed line positions reported for each band; these fit uncertainties are presented as meaningfully representing the total parameter uncertainty arising from measurement noise and the fit residuals shown in the line tables, while the authors note that additional systematic errors (for example from calibration inaccuracies or from unrecognized line blending) are not included in those quoted least-squares uncertainties.",
+        "content_hash": "04756db22710b46addb55ff29ec75730ecf0981a4cad65ea385bc27b979edc13",
+        "id": "gcn_1bd3777e9da24eed",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812353007273377795::P11",
+            "package_id": "paper:812353007273377795",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812353007273377795"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A reported reduced chi-squared value of $\\chi^{2}_{\\nu}=0.007$ per data point for the fit of the empirical four-term inverse-power function to the DMC binding-energy data is taken at face value as evidence that the functional form reproduces the DMC data within the quoted uncertainties rather than as evidence of model inadequacy or of underestimated per-point uncertainties.",
+        "content_hash": "97cef09c29edd5b998e72cab1555de815c04c90f38a4058fb8a865a6c5ff8cc7",
+        "id": "gcn_b226fb8f4fec4bc4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814595700120616960::P9",
+            "package_id": "paper:814595700120616960",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814595700120616960"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "d4fbbd4849f3a8d73333c6ed7620aa89"
+}

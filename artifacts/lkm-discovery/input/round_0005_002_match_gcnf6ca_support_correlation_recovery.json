@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867762394334495366": {
+        "area": "arXiv-Physics",
+        "authors": "P. Lopez-Rios | A. Ma | N. D. Drummond | M. D. Towler | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2008-01-03",
+        "created_at": "2023-05-23T05:37:57+08:00",
+        "doi": "10.48550/arXiv.0801.0518",
+        "en_title": "Inhomogeneous backflow transformations in quantum Monte Carlo calculations",
+        "id": "867762394334495366",
+        "keywords": "",
+        "publication_date": "2008-01-03",
+        "publication_id": "108512",
+        "publication_name": "Computational Physics _ Physics.physics.comp-ph",
+        "research_categories": "",
+        "zh_title": "量子蒙特卡罗计算中的非均匀回流变换"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "In diffusion Monte Carlo (DMC) calculations of finite periodic simulation cells using fixed-node Slater-Jastrow-backflow trial wave functions, the DMC total-energy estimator recovers only a finite fraction of the exact correlation energy in a finite cell; combined with the fact that the derivative of the Hartree-Fock single-particle band with respect to k is divergent or pathological at the Fermi wave vector k_F, this incomplete recovery of correlation energy in a finite cell leads to locally anomalous or outlier numerical estimates of the band derivative (dE/dk) at k≈k_F when derivatives are computed from discrete finite-N DMC data, producing the observed unstable near-k_F derivative points.",
+        "content_hash": "43093cfa2a53d298aa963930bbf865a653701c66ca897dbfbbcb0421323154c1",
+        "id": "gcn_f6ca85b75deb46ba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assume the true thermodynamic-limit single-quasiparticle band of a 2D HEG is a smooth function \\\\(\\\\mathcal{E}(k)\\\\) in a neighbourhood of the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: fitting the finite-cell discrete DMC band values to the quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4}\n      $$\n      over a modest interval \\\\([k_{F}-\\\\Delta k,\\\\,k_{F}+\\\\Delta k]\\\\) (with \\\\(\\\\Delta k\\\\) chosen so that the interval is not extremely small and contains sufficient discrete \\\\(k\\\\)-points to characterise curvature) yields an estimate of the derivative \\\\(\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}\\\\) that is an adequately accurate approximation to the true thermodynamic-limit derivative for the purpose of computing the quasiparticle effective mass \\\\(m^{*}=k_{F}/(d\\\\mathcal{E}/dk)_{k_{F}}\\\\), provided the quartic form captures the local curvature of \\\\(\\\\mathcal{E}(k)\\\\).",
+        "content_hash": "6cc3eb65fc25efaee30ba0871438cfda053e9018366a60e7386fe1caa0bae0cb",
+        "id": "gcn_496f0cb16cf14324",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031024531024531024,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Hartree–Fock (HF) single-particle band for a three-dimensional electron gas is known to exhibit a logarithmic divergence at the Fermi wavevector k_F in the thermodynamic limit, and in finite periodic simulation cells this HF physics produces strong oscillations of the HF band at wavevectors near k_F; diffusion Monte Carlo (DMC) calculations of E(k) in finite cells retrieve a large fraction of the correlation energy but retain residual finite-N HF-like oscillatory features near k_F of sufficient magnitude to contaminate naive finite-N estimates of the derivative (dE/dk)_{k_F} unless the DMC band is sampled at momenta removed from the immediate vicinity of k_F and a smooth band is fitted across a broad range of k values.",
+        "content_hash": "9195e496640d7760d79eb924964ab479c71197e4842d4cb5d5d4f6d1c21a9c59",
+        "id": "gcn_e84d1462168943c3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::P3",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030330882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Hartree–Fock (HF) single-particle band for a homogeneous electron gas is analytically pathological in the thermodynamic limit, exhibiting a logarithmic divergence at the Fermi wavevector k_F, and in finite periodic simulation cells the HF band displays strong finite-size oscillations at wavevectors near k_F; diffusion Monte Carlo (DMC) calculations recover a large fraction of the correlation energy but inherit residual HF-like oscillatory features close to k_F of sufficient magnitude to contaminate naive finite-N estimates of the derivative (dE/dk)_{k_F}. Therefore, reliable estimates of (dE/dk)_{k_F} from correlated DMC total-energy differences require sampling quasiparticle excitations at momenta removed from the immediate vicinity of k_F and extracting gradients from smooth fits to data sampled across a range of k values.",
+        "content_hash": "a0ae42e103828931bec8c96c6873892eefdf1d92688ba0c4a209b7fc1c7bec9f",
+        "id": "gcn_2ded391a3ca74052",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_6",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029877369007803793,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+        "content_hash": "9f26d31887d29e134f1f92da44e1cc91c40bac7c5f8057aeeea6a1c85c424198",
+        "id": "gcn_8df2cd5b49524aac",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_12",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02964254577157803,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the interacting 2D HEG energy-band data sets produced by DMC at the densities ($r_s=1,5,10$) and system sizes reported, truncating the band representation to a quartic polynomial in $k$, $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$, captures the essential curvature: the least-squares fits yield residuals that are small compared with the quoted uncertainties, so that the fitted coefficients $\\alpha_2$ and $\\alpha_4$ and derived quantities (occupied bandwidth and derivative at $k_F$ used to obtain $m^{*}$) are accurate within the stated error bars and higher-order terms ($k^6$ and beyond) are negligible over the occupied $k$-range used for the reported extractions.",
+        "content_hash": "6446c2adbdb6ad295eda69e3195ed012c3c020f855cd4b5cb9794139fb44fe81",
+        "id": "gcn_f6686a4225a043a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P9",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02904040404040404,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) calculations were performed to obtain the single-quasiparticle energy band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) for both paramagnetic (equal spin populations) and fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gases (2D HEGs) at several electron densities (specified by the density parameter \\\\(r_{s}\\\\)) and several finite periodic simulation-cell particle numbers \\\\(N\\\\). The band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) is defined here as the Landau single-quasiparticle energy of a finite simulation cell, evaluated as the difference in the many-electron total energy when a single electron is added to or removed from the ground state at wavevector \\\\(\\\\mathbf{k}\\\\). The statistical uncertainties of these DMC band values are sufficiently small to reveal a systematic finite-size trend under the simulation protocol used (square periodic cells with simulation-cell Bloch vector \\\\(k_{s}=0\\\\) and closed-shell ground states): at fixed physical density and spin polarization the computed bandwidth (the maximum minus the minimum of \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) over the discrete \\\\(\\\\mathbf{k}\\\\)-grid available in the cell) increases with increasing particle number \\\\(N\\\\).",
+        "content_hash": "1fbd68f78d6dd81651166e325b097ec3212e4d1c225e8b916e9cccaedaa3e7e1",
+        "id": "gcn_5b457ff51f114b5c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_1",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.0266900790166813,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider DMC calculations of the single-quasiparticle energy band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) for a 2D HEG at fixed physical density and spin polarization using square periodic simulation cells with simulation-cell Bloch vector set to \\\\(k_{s}=0\\\\) and with closed-shell ground-state occupations; perform these calculations for a sequence of system sizes \\\\(N\\\\in\\\\{N_{1},N_{2},\\\\dots\\\\}\\\\). The proposition is: the empirically observed increase of the computed bandwidth (the difference between the maximum and minimum discrete-cell values of \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) over the available discrete \\\\(\\\\mathbf{k}\\\\)-grid) with increasing particle number \\\\(N\\\\) at fixed density is a genuine finite-size trend representative of the typical behaviour under these stated simulation choices (square cells, \\\\(k_{s}=0\\\\), closed-shell ground states), rather than an artefact limited to a special choice of simulation-cell Bloch vector, a particular closed-shell occupation, or the specific discrete \\\\(N\\\\) values sampled.",
+        "content_hash": "0047adb2394ced3f9ffe3ad36f1356fc10ec71b7354df9b75990ac41c2d5b62c",
+        "id": "gcn_1234cb0f61cd44a2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P3",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0264808362369338,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the homogeneous electron gas (HEG) study of three-dimensional, unpolarized systems of 54 electrons in a simple cubic periodic cell at density parameters $r_s=0.5,1,2,5,10,20$, the percentage of correlation energy retrieved at each variational level was estimated by comparing the VMC energies to the BF-DMC energies obtained for the same 54-electron cells and by treating those BF-DMC energies as effectively \"exact\" reference energies for the purpose of computing the percentage of correlation energy recovered.\n      Table I; Fig. 1",
+        "content_hash": "203c58517a98637e0fd1d5e438eb7191af12c9a6301b4796c656060656607093",
+        "id": "gcn_a8b257f675c94bc5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867762394334495366::P3",
+            "package_id": "paper:867762394334495366",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867762394334495366"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026234567901234566,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+        "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+        "id": "gcn_bf915935b1fd4326",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_1",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02557875991581674,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "2e443e4f97a6e6a86a2537b788ec1780"
+}

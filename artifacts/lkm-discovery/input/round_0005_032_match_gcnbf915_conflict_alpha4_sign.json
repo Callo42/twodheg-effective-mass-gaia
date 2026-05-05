@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:811978622691704833": {
+        "area": "Physics and Astrophysics",
+        "authors": "L. Grigoryan | K. Yakushi | N. Chakravarty",
+        "available_online": "",
+        "cover_date_start": "1995-01-01",
+        "created_at": "2022-12-20T07:13:09+08:00",
+        "doi": "10.1002/pssb.2221870119",
+        "en_title": "The 130 K Transition in Bi Oxides Heavily Doped by Iron Phthalocyanine Superconductivity versus Magnetism",
+        "id": "811978622691704833",
+        "keywords": "",
+        "publication_date": "1995-1-1",
+        "publication_id": "671",
+        "publication_name": "physica status solidi (b) _ phys. stat. sol. (b)",
+        "research_categories": "",
+        "zh_title": "铁酞菁重掺杂氧化铋中的130K转变：超导性与磁性的关系 "
+      },
+      "paper:867748793859179176": {
+        "area": "arXiv-Physics",
+        "authors": "Takehito Nakano | Shingo Araki | Nguyen Hoang Nam | Takashi Umemoto | Kazushige Tsuchihashi | Yosuke Kubo | Akihiro Owaki | Yasuo Nozue",
+        "available_online": "",
+        "cover_date_start": "2020-09-10",
+        "created_at": "2023-05-23T04:43:55+08:00",
+        "doi": "10.48550/arXiv.2009.04828",
+        "en_title": "Origin of magnetic moments and ferromagnetic properties of potassium clusters in zeolite A",
+        "id": "867748793859179176",
+        "keywords": "",
+        "publication_date": "2020-09-10",
+        "publication_id": "108487",
+        "publication_name": "Soft Condensed Matter _ Physics.cond-mat.soft",
+        "research_categories": "",
+        "zh_title": "A 型沸石中钾团簇的磁矩起源和铁磁性质"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "The DMC-calculated quasiparticle effective mass exhibits opposite trends with density for the two spin polarizations studied: in the paramagnetic (unpolarized) 2D HEG $m^{*}$ increases with increasing $r_{s}$ (decreasing density), producing a significant enhancement at $r_{s}=5$ and $r_{s}=10$, whereas in the fully ferromagnetic (fully spin-polarized) 2D HEG $m^{*}$ decreases as density is lowered; these calculated trends are quantitatively consistent with the experimental observations of Tan et al. for paramagnetic systems and of Padmanabhan et al. for ferromagnetic or partially spin-polarized systems.",
+        "content_hash": "1f24fa7b336da07b315b306303e81584370cfd18bbdc2be612f5f8c5572972c0",
+        "id": "gcn_4d1aad1470d54895",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_5",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030309988518943745,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The fitted DMC bands deviate from a purely quadratic dependence on $k$: when the fitted quartic form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ is used, the quartic coefficient $\\alpha_4$ is positive for the paramagnetic HEG at $r_s=5$ and $10$ a.u., while $\\alpha_4$ is negative for the ferromagnetic HEG at all densities studied; because these fitted bands are non-quadratic, thermodynamic properties that depend on integrals over the dispersion (for example temperature-dependent contributions to the free energy and specific heat at elevated temperatures) are predicted to depart from the free-particle-like behavior that would follow from a strictly quadratic dispersion $\\propto k^2$.",
+        "content_hash": "6d05e37a9b8fe01e096b39c1530fca53a8e4ed1868b8a44e2e7721254d9943b0",
+        "id": "gcn_318b062f17344859",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_7",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029906956136464335,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the interacting 2D HEG energy-band data sets produced by DMC at the densities ($r_s=1,5,10$) and system sizes reported, truncating the band representation to a quartic polynomial in $k$, $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$, captures the essential curvature: the least-squares fits yield residuals that are small compared with the quoted uncertainties, so that the fitted coefficients $\\alpha_2$ and $\\alpha_4$ and derived quantities (occupied bandwidth and derivative at $k_F$ used to obtain $m^{*}$) are accurate within the stated error bars and higher-order terms ($k^6$ and beyond) are negligible over the occupied $k$-range used for the reported extractions.",
+        "content_hash": "6446c2adbdb6ad295eda69e3195ed012c3c020f855cd4b5cb9794139fb44fe81",
+        "id": "gcn_f6686a4225a043a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P9",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028531243721117136,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the fully spin-polarized (ferromagnetic) 2D HEG be represented theoretically by the continuum-model DMC calculations and experimentally by high-quality semiconductor two-dimensional systems in which spin polarization can be induced (for example by applying an in-plane magnetic field). The proposition is: the suppression of the quasiparticle effective mass with decreasing density observed in the DMC-extrapolated ferromagnetic results (numerically \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\)) corresponds qualitatively to the trend measured in experiments cited in the literature (for example Padmanabhan et al.), and this qualitative agreement is not invalidated by differences in sample specifics, partial polarization, disorder, or experimental measurement methodology.",
+        "content_hash": "669cd5e31b46fba548ede2ea9e82b88947057ce76f13729914fa9240641a1002",
+        "id": "gcn_c29299878b8148cb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P12",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02668564312399929,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+        "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+        "id": "gcn_bf915935b1fd4326",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_1",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DMC effective masses show opposite trends with increasing $r_s$ (decreasing density) for the two spin polarizations studied: for the paramagnetic 2D HEG $m^{*}$ increases with increasing interaction strength over the range examined (from approximately $0.95$ at $r_s=1$ to approximately $1.34$ at $r_s=10$), whereas for the fully spin-polarized (ferromagnetic) 2D HEG $m^{*}$ decreases with increasing $r_s$ (from approximately $0.86$ at $r_s=1$ to approximately $0.61$ at $r_s=10$). These calculated trends are consistent with experimental measurements that report an increase of the paramagnetic effective mass as density is lowered (Tan et al., Phys. Rev. Lett. 94, 016405 (2005)) and a decrease of the effective mass in ferromagnetic or partially spin-polarized samples as density is lowered (Padmanabhan et al., Phys. Rev. Lett. 101, 026402 (2008) and related work).",
+        "content_hash": "a8a170b4afb94a44ec8a2640662e1c21c2446ae0bcc2c1d118aeba05dde32a6c",
+        "id": "gcn_a3478ced108544d5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_4",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Two heuristic schematic local electronic configurations are proposed as representative models: (A) at average $n\\approx3.75$, coexistence of three pairs of adjacent α‑cages forming asymmetric σ‑bonded singlets (e.g., $1p_z(\\sigma)$ pairs) coexisting with singly occupied degenerate $1p_x$/$1p_y$ orbitals that enable strong DM‑mediated canting and a substantial net magnetic fraction; and (B) at average $n\\approx7.25$, many $1p$‑holes mutually orthogonalized across cages with dissociated σ bonds producing largely decoupled paramagnetic moments. These schematic local models are sufficient as qualitative explanations for the co‑occurrence of (i) the 0.7‑eV optical band assignable to σ→σ* excitations, (ii) the observed $n$‑dependence of the Curie temperature and Curie constant, (iii) the ESR signatures, and (iv) the transport activation energies, while acknowledging that the models are heuristic and not derived from microscopic structural refinement or full many‑body calculations.",
+        "content_hash": "c1b92030af70405f55fe9c6f048c374c706e76149dad36f5cbdb7c4320dae419",
+        "id": "gcn_313a5edc8a024ff5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748793859179176::P15",
+            "package_id": "paper:867748793859179176",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748793859179176"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For measured magnetization curves $M(H)$ of FePc-doped Bi-oxide samples, there exists an utmost high-field interval in which the ferromagnetic contribution $M_{\\mathrm{FM}}(H,T)$ and the diamagnetic contribution $M_{\\mathrm{DM}}(H,T)$ are effectively field-independent (saturated) over the fitted interval, so that the remaining approximately linear-in-$H$ slope of $M(H)$ in that interval corresponds to the paramagnetic susceptibility contribution $M_{\\mathrm{PM}}(H,T)$ and can be estimated by linear extrapolation of the high-field data.",
+        "content_hash": "14fada90ae587b813c2156430a1a72b1c00c708fcf273110b8a6e6f943a7a893",
+        "id": "gcn_040989ef449e4551",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811978622691704833::P11",
+            "package_id": "paper:811978622691704833",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811978622691704833"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "fb976c343b42a6903f39fe90cb626f65"
+}

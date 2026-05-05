@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+        "content_hash": "9f26d31887d29e134f1f92da44e1cc91c40bac7c5f8057aeeea6a1c85c424198",
+        "id": "gcn_8df2cd5b49524aac",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_12",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given a discrete set of DMC-computed occupied-band samples $\\{\\mathcal{E}_i\\}$ at wave-vector magnitudes $\\{k_i\\}$ with $0\\le k_i\\le k_F$, the proposition is that performing a least-squares fit of a smooth quartic function $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ over the full occupied range produces an estimate of the derivative $\\partial\\mathcal{E}/\\partial k$ at $k=k_F$ that is substantially less sensitive to local numerical noise, Hartree-Fock-like residual pathological fluctuations near $k_F$, and finite-size irregularities than a numerical derivative obtained by differencing only a few near-$k_F$ points, so that the quartic-fit derivative is a reliable estimator of the quasiparticle-band slope at $k_F$ for the data sets and system sizes studied.",
+        "content_hash": "702b7e904af0beac5f30dd017a6f1f2b86e61e1485337f371d0b2b6401632c98",
+        "id": "gcn_014e9676ad134522",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P7",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Systematic finite-size biases in the DMC effective mass m* can be eliminated by the following protocol: compute DMC total-energy differences to obtain quasiparticle energies at multiple momenta k in the interval 0 ≤ k < 2 k_F for a sequence of finite periodic simulation-cell electron numbers N (paramagnetic N up to 274 electrons were used); fit the computed interacting band values E(k) at the sampled k points to a smooth rational (Padé) function of the form E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3)/(1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real fit parameters determined by least-squares fitting; extract the finite-N effective mass m*(N) = k_F / (dE_fit/dk)_{k_F} from the fitted band; and extrapolate m*(N) linearly as a function of 1/N to N → ∞ to obtain the thermodynamic-limit m*. Cross-checks performed with quartic polynomial fits to E(k) show that the choice between the Padé form and quartic polynomials has a negligible effect on the extrapolated m* values for the densities and spin polarizations studied.",
+        "content_hash": "b5a5ecc545247742b558fd73094f044b82ec3cc8453e2c598e17476848beb84e",
+        "id": "gcn_3ef0b7f51e4a4208",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_5",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.031054405392392875,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a single-particle energy band E(k) of a two-dimensional homogeneous electron gas, with scalar wave number k=|𝗸|, fitting discrete DMC-computed band values E(k_i) within the finite interval k∈[k_F−Δk,k_F+Δk] to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 and then evaluating the derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 provides an analytic approximation to the true thermodynamic-limit derivative at k_F suitable for estimating the quasiparticle effective mass m^*=k_F/(dE/dk)_{k_F}, provided the chosen Δk is neither so small that pathological near-k_F fluctuations dominate nor so large that physics beyond quartic band curvature is sampled.",
+        "content_hash": "509f3d443d74f62e117d878c9a620d290997ff70c69199dec6a9aef6a05208db",
+        "id": "gcn_48797cba2bf44d90",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P4",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03057889822595705,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "To obtain the thermodynamic-limit quasiparticle effective mass from finite-N DMC band data one may (i) fit the computed isotropic band values E(k), with k = |𝗸|, in a finite interval k∈[k_F−Δk,k_F+Δk] about the Fermi wave vector k_F to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 (with fit coefficients α_0, α_2, α_4), (ii) compute the band derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 and define the quasiparticle effective mass by m^*=k_F/(dE/dk)_{k_F}, and (iii) evaluate m^*(N) for several simulation-cell electron counts N and fit the N dependence to the single power-law model m^*(N)=m^*(∞)+b N^{-γ} (with fit parameters m^*(∞), b, and γ) to obtain the thermodynamic-limit mass m^*(∞); when the quartic fit in step (i) is performed over a sufficiently wide Δk about k_F (so as not to be dominated by pathological near-k_F fluctuations) this three-step procedure yields stable extrapolated values m^*(∞).",
+        "content_hash": "0301ea780f708045b4ddfb1f2c37ea0b1bde559548730bd05caafbed25e7fd3c",
+        "id": "gcn_a981a2b787514e47",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_2",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030117753623188408,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assume the true thermodynamic-limit single-quasiparticle band of a 2D HEG is a smooth function \\\\(\\\\mathcal{E}(k)\\\\) in a neighbourhood of the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: fitting the finite-cell discrete DMC band values to the quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4}\n      $$\n      over a modest interval \\\\([k_{F}-\\\\Delta k,\\\\,k_{F}+\\\\Delta k]\\\\) (with \\\\(\\\\Delta k\\\\) chosen so that the interval is not extremely small and contains sufficient discrete \\\\(k\\\\)-points to characterise curvature) yields an estimate of the derivative \\\\(\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}\\\\) that is an adequately accurate approximation to the true thermodynamic-limit derivative for the purpose of computing the quasiparticle effective mass \\\\(m^{*}=k_{F}/(d\\\\mathcal{E}/dk)_{k_{F}}\\\\), provided the quartic form captures the local curvature of \\\\(\\\\mathcal{E}(k)\\\\).",
+        "content_hash": "6cc3eb65fc25efaee30ba0871438cfda053e9018366a60e7386fe1caa0bae0cb",
+        "id": "gcn_496f0cb16cf14324",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02967032967032967,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given a discrete set of DMC-computed occupied-band energy values $\\{\\mathcal{E}(k_j)\\}$ at reciprocal-space grid points $k_j$ available in a finite periodic simulation cell, the occupied-band shape on the interval $0\\le k\\le k_F$ is represented by fitting a quartic polynomial $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ by least squares to the DMC points and using the analytic derivative $\\partial\\mathcal{E}/\\partial k = 2\\alpha_2 k + 4\\alpha_4 k^3$ evaluated at $k=k_F$ to obtain the quasiparticle effective mass $m^{*}=k_F / (\\partial\\mathcal{E}/\\partial k)_{k_F}$; this procedure assumes that a three-parameter quartic model is sufficiently flexible to capture the true band curvature over the fitting range so that the derivative at $k_F$ is reliable and not significantly biased by higher-order $k$-dependence or by fitting over points far from $k_F$.",
+        "content_hash": "2145b92b11acf64af6e0ba95167afa8ede6165af31c6cb02191f28f51f8e31b5",
+        "id": "gcn_e815ea0f29a94f72",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::P3",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028814262023217248,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For least-squares fitting of finite-N quantum Monte Carlo quasiparticle energies ε(k) versus momentum magnitude k sampled at more than twenty k values in the range 0 < k < 1.7 k_F, the quartic polynomial functional form ε(k) = a_0 + a_2 k^2 + a_4 k^4 (with fitting coefficients a_0, a_2, a_4) provides a more stable fit (smaller residuals and more reproducible derivative at k_F across finite-N datasets) than the Padé rational form ε(k) = (a_0 + a_1 k + a_2 k^2 + a_3 k^3)/(1 + 2 a_3 k), and the quartic fits yield slightly larger extracted effective masses m* = k_F · (dε/dk)^{-1}_{k_F} for the studied densities and system sizes.",
+        "content_hash": "889395ea729081b45f925a8d0910eabf2073c8241bf7699e8957107be3637bb3",
+        "id": "gcn_a0491f6262a3472f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_9",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028021349599695006,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E(k) be the interacting single-particle energy band defined for wavevector magnitude k in the interval 0 ≤ k < 2 k_F, where k_F is the Fermi wavevector corresponding to the electron density parameter r_s = ((3/(4π n))^{1/3} a_B^{-1}). Consider the rational Padé fitting function E_fit(k) = (A_0 + A_1 k + A_2 k^2 + A_3^2 k^3) / (1 + 2 A_3^2 k), where A_0, A_1, A_2, and A_3 are real parameters determined by least-squares fitting to diffusion Monte Carlo (DMC) computed E(k) at a finite set of sampled k values; this Padé functional form is sufficiently flexible to approximate the true smooth interacting E(k) over the sampled momentum range with residual fitting errors that are small compared with the statistical and systematic uncertainties affecting the extracted derivative (dE/dk)_{k_F} and hence the finite-N effective mass.",
+        "content_hash": "315aa6caf0bf490c7ef5b34e57c5cffcba0c34864c8e20be3593eea488e83214",
+        "id": "gcn_98efcbd9993640f8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::P4",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02792120864410021,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A practical protocol for extracting quasiparticle bands and effective masses in finite-size QMC calculations is: (i) compute the single-particle energy $\\mathcal{E}(\\mathbf{k})$ as the difference of many-body total energies obtained by adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$ (instead of promoting an electron within the $N$-electron configuration), thereby avoiding extra contributions to the energy differences from interactions between an excited electron and the hole it leaves behind; and (ii) perform a least-squares fit of a smooth quartic function $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ to the DMC band values over the entire occupied range and evaluate the derivative of that fitted function at $k_{F}$ to obtain the effective mass, which reduces sensitivity to Hartree-Fock-like residual pathological fluctuations and finite-size irregularities in the immediate vicinity of $k_{F}$.  Using single-determinant Slater-Jastrow-backflow trial wave functions that were optimized in the $N$-electron ground state and then used without reoptimization in the $(N\\pm1)$-electron DMC calculations produces stable band values and effective masses that are insensitive to system-size trends that appear when only near-$k_{F}$ points are employed.",
+        "content_hash": "da03f3f6951795c598f3306aa4904c1f09ffcd232d6021561a2e4d4316189212",
+        "id": "gcn_9eafb3f0ece94c3f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_6",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027242401779095628,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "e3cfc42131321cfa42801f5c1cd04f18"
+}

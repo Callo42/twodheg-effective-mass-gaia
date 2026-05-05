@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1077113812332576774": {
+        "area": "arXiv-Physics",
+        "authors": "Miaomiao Guo | Yuanchang Li",
+        "available_online": "",
+        "cover_date_start": "2024-12-19",
+        "created_at": "2024-12-20T22:25:44+08:00",
+        "doi": "10.48550/arxiv.2412.14582",
+        "en_title": "Electronic and Optical Properties of Ta$_2$NiSe$_5$ Monolayer: A First-principles Study",
+        "id": "1077113812332576774",
+        "keywords": "",
+        "publication_date": "2024-12-19",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "Ta₂NiSe₅单层的电子和光学性质：第一性原理研究"
+      },
+      "paper:1183449694865457196": {
+        "area": "arXiv-Physics",
+        "authors": "F. Liu | Z. Yang | Y. Luo | S. Guo | C. Zhang | S. Choo | X. Xu | X. Wang | K. A. Mkhoyan | M. Bernardi | B. Jalan",
+        "available_online": "",
+        "cover_date_start": "2025-10-08",
+        "created_at": "2025-10-10T08:46:34+08:00",
+        "doi": "10.48550/arXiv.2510.07097",
+        "en_title": "Understanding Polaronic Transport in Anatase TiO2 Films by Combining Precise Synthesis and First-Principles Many-Body Theory",
+        "id": "1183449694865457196",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "通过精确合成与第一性原理多体理论相结合理解锐钛矿型TiO₂薄膜中的极化子输运"
+      },
+      "paper:811270811666087938": {
+        "area": "Chemistry",
+        "authors": "Hongcun Bai | Wenxin Ji | Ping Xue | Weiye Qiao | Yujia Ma | Yongqiang Ji",
+        "available_online": "",
+        "cover_date_start": "2016-08-01",
+        "created_at": "2022-12-18T08:20:34+08:00",
+        "doi": "10.1139/cjc-2016-0117",
+        "en_title": "Electronic property and charge carrier mobility of one-dimensional nanowires consisting of C 20 cages",
+        "id": "811270811666087938",
+        "keywords": "",
+        "publication_date": "2016-8",
+        "publication_id": "3671",
+        "publication_name": "Canadian Journal of Chemistry _ Can. J. Chem.",
+        "research_categories": "[\"Chemical Sciences\", \"Macromolecular and Materials Chemistry\"]",
+        "zh_title": "由C20笼组成的一维纳米线的电子性质和电荷载流子迁移率"
+      },
+      "paper:811807368500215808": {
+        "area": "Physics and Astrophysics",
+        "authors": "Michael Rohlfing | Steven G. Louie",
+        "available_online": "1998-4-15",
+        "cover_date_start": "1998-04-15",
+        "created_at": "2022-12-19T19:52:39+08:00",
+        "doi": "10.1103/physrevb.57.r9392",
+        "en_title": "Quasiparticle band structure of HgSe",
+        "id": "811807368500215808",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "HgSe的准粒子能带结构"
+      },
+      "paper:812398997175009280": {
+        "area": "Physics and Astrophysics",
+        "authors": "Zejian Si | Changchun Chai | Wei Zhang | Yanxing Song | Yintang Yang",
+        "available_online": "",
+        "cover_date_start": "2021-07-01",
+        "created_at": "2022-12-21T11:03:35+08:00",
+        "doi": "10.1016/j.rinp.2021.104349",
+        "en_title": "Theoretical investigation of group-IV binary compounds in the P4/ncc phase",
+        "id": "812398997175009280",
+        "keywords": "",
+        "publication_date": "2021-7",
+        "publication_id": "556",
+        "publication_name": "Results in Physics _ Results in Physics",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "P4/ncc相IV族二元化合物的理论研究"
+      },
+      "paper:812505114974617600": {
+        "area": "Material science",
+        "authors": "M.N.H. Liton | M. Roknuzzaman | M.A. Helal | M. Kamruzzaman | A.K.M.F.U. Islam | K. Ostrikov | M.K.R. Khan",
+        "available_online": "",
+        "cover_date_start": "2021-06-01",
+        "created_at": "2022-12-21T18:05:16+08:00",
+        "doi": "10.1016/j.jallcom.2021.159077",
+        "en_title": "Electronic, mechanical, optical and photocatalytic properties of perovskite RbSr2Nb3O10 compound",
+        "id": "812505114974617600",
+        "keywords": "[{\"ch_name\":\"层状氧化物\",\"en_name\":\"Lamellar oxide\"},{\"ch_name\":\"机械性能\",\"en_name\":\"Mechanical properties\"},{\"ch_name\":\"钙钛矿结构\",\"en_name\":\"Perovskite structure\"},{\"ch_name\":\"光触媒材料\",\"en_name\":\"Photocatalyst materials\"},{\"ch_name\":\"氧化还原电位\",\"en_name\":\"Redox potential\"}]",
+        "publication_date": "2021-6",
+        "publication_id": "2082",
+        "publication_name": "Journal of Alloys and Compounds _ Journal of Alloys and Compounds",
+        "research_categories": "",
+        "zh_title": "钙钛矿型RbSr2Nb3O10化合物的电学、力学、光学和光催化性能"
+      },
+      "paper:812593882154926080": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yasumaru Fujii | Mina Maruyama | Nguyen Thanh Cuong | Susumu Okada",
+        "available_online": "2020-6-30",
+        "cover_date_start": "2020-06-30",
+        "created_at": "2022-12-21T23:58:00+08:00",
+        "doi": "10.1103/physrevlett.125.016001",
+        "en_title": "Pentadiamond: A Hard Carbon Allotrope of a Pentagonal Network of sp 2 and sp 3 C Atoms",
+        "id": "812593882154926080",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "五角钻石：一种由sp²和sp³杂化碳原子构成的五角形网络的硬碳同素异形体"
+      },
+      "paper:813084200906260483": {
+        "area": "Physics and Astrophysics",
+        "authors": "Lixiu Guan | Xiangrong Cheng | Junguang Tao",
+        "available_online": "2017-11-17",
+        "cover_date_start": "2017-11-17",
+        "created_at": "2022-12-23T08:26:20+08:00",
+        "doi": "10.7567/apex.10.125202",
+        "en_title": "Strain effect on electronic structure of two-dimensional γ-InSe nanosheets",
+        "id": "813084200906260483",
+        "keywords": "",
+        "publication_date": "2017-12-1",
+        "publication_id": "586",
+        "publication_name": "Applied Physics Express _ Appl. Phys. Express",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "应变对二维γ-InSe纳米片电子结构的影响"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867768904338899457": {
+        "area": "arXiv-Physics",
+        "authors": "Zhishuo Huang | Wenxu Zhang | Wanli Zhang",
+        "available_online": "",
+        "cover_date_start": "2016-05-27",
+        "created_at": "2023-05-23T06:03:49+08:00",
+        "doi": "10.48550/arXiv.1605.08536",
+        "en_title": "Band gap engineering of PtSe2",
+        "id": "867768904338899457",
+        "keywords": "",
+        "publication_date": "2016-05-27",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "二硒化铂的带隙工程"
+      }
+    },
+    "variables": [
+      {
+        "content": "The electron effective mass m_{e}^{*} = 0.38 m_{e} at the CBM and the hole effective mass m_{h}^{*} = 1.12 m_{e} at the VBM are obtained by numerical second-derivative curvature fits m^{*} = ℏ^{2}/(d^{2}E/dk^{2}) applied to Kohn–Sham band dispersions computed at the stated k-point samplings, and it is assumed that these curvature-derived Kohn–Sham effective masses represent the physically relevant transport effective masses at room temperature despite omission of electron–phonon mass renormalization, thermal broadening, and many-body (GW) corrections.",
+        "content_hash": "b6046b2f00307dbb61e58f12f9caa2fa5444d87b3d35d446625aefb1564d0a0f",
+        "id": "gcn_fc2424c9ff824f9f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812505114974617600::P5",
+            "package_id": "paper:812505114974617600",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812505114974617600"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026992753623188405,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Calculation of electron and hole effective masses by curvature analysis of the computed band energies at the conduction-band minimum and valence-band maximum was performed using discrete k-point sampling (self-consistent runs on an equidistant 4×4×4 mesh and denser sampling for density-of-states evaluations and band-structure paths); it is assumed that the employed k-point density and the interpolation/curvature-fitting procedures used in the postprocessing are sufficient to extract the reported numerical effective-mass values m_e^(Γ) = 0.98 m_e, m_e^(W) = 0.67 m_e, m_h^(W) = 1.59 m_e, and m_h^(Γ) = 0.76 m_e within the quoted precision, recognizing that denser sampling or quasiparticle corrections could modify these numbers.",
+        "content_hash": "cd572c5d4dbc977489d7357f78c4650f64ec8b6ac70d40c2f6e1409ebeac5ceb",
+        "id": "gcn_9d869dd5d5b345d0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812593882154926080::P13",
+            "package_id": "paper:812593882154926080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812593882154926080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For each semiconducting compound the electron effective mass m_e* and hole effective mass m_h* are evaluated from the inverse band curvature at the relevant band extremum according to m* = ħ² / (∂²E/∂k²) (with ħ the reduced Planck constant, k the crystal momentum, and E(k) the band energy) computed from the HSE06 electronic dispersion at T = 0 K, and these curvature‑derived masses are assumed to approximate the effective masses relevant for charge transport despite neglecting electron–phonon mass renormalization, many‑body GW corrections to band curvature, and finite‑temperature effects.",
+        "content_hash": "21aa3d19c77cb5634824086791bb46161a6af752149d6cbd28a730cea99b17b9",
+        "id": "gcn_dc240877768541c3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812398997175009280::P7",
+            "package_id": "paper:812398997175009280",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812398997175009280"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E(k) denote the G_0W_0 quasi-particle band energy sampled on a discrete Brillouin-zone k-mesh (the ground-state DFT k-grid used here was 15 × 1 × 3). Define the effective mass along a chosen in-plane direction by 1/m^* = (1/ħ^2) (∂^2E/∂k^2) evaluated at the band extremum. The proposition is that performing curvature analyses of the G_0W_0 band energies sampled on the stated finite k-mesh yields the reported effective masses m_e^∥ = 0.03 m_0, m_e^⊥ = 0.76 m_0, m_h^∥ = 0.14 m_0, and m_h^⊥ = 0.36 m_0 that are numerically accurate enough to represent the continuous-band curvature and to support quantitative statements about pronounced in-plane anisotropy in electronic transport within the numerical precision of the computation.",
+        "content_hash": "8375b8738a2f8581fc4c0b284c689b9179f10e3ea29a54ca3414d5a76fcd999b",
+        "id": "gcn_840dcdcac23e43f6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1077113812332576774::P9",
+            "package_id": "paper:1077113812332576774",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1077113812332576774"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the effective-mass tensor at a band extremum by $\\left(m^{\\ast-1}\\right)_{ij}=\\frac{1}{\\hbar^{2}}\\partial^{2}E_{n\\mathbf{k}}^{\\mathrm{QP}}/\\partial k_{i}\\partial k_{j}$ evaluated at $\\mathbf{k}=\\Gamma$ and projected along the relevant direction, and let $m_{e}$ denote the free-electron mass. The proposition is that the curvature extracted from the computed GW quasiparticle dispersion of the lowest conduction band near $\\Gamma$ is numerically well resolved and free from significant discretization or interpolation artifacts, such that the scalar effective mass reported $m^{\\ast}_{GW}\\approx 0.1\\,m_{e}$ is a reliable estimate of the band-curvature-derived effective mass with an uncertainty of order tens of percent.",
+        "content_hash": "08e16217ee2947227194c17cd08815d0801f3ad1a974eb5a4a9c04c20e284698",
+        "id": "gcn_d4a742a4bd6f4f7a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811807368500215808::P8",
+            "package_id": "paper:811807368500215808",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811807368500215808"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The carrier effective mass $m^{*}$ used in the deformation-potential mobility formula is taken to be the band-curvature (second-derivative) effective mass extracted from Kohn–Sham band energies at band extrema in zero-temperature density-functional band-structure calculations, with the working assumption that non-adiabatic electron–phonon coupling, polaronic mass enhancements, and many-body $GW$-type corrections do not materially change $m^{*}$ for the frontier bands of C20-based one-dimensional nanowires for the purposes of semiclassical band-like mobility estimation.",
+        "content_hash": "c07ddd5652cf50796db6c182a6242ef6bb373d5417599c089d9b419554bb897d",
+        "id": "gcn_b59a86c6dda14740",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811270811666087938::P9",
+            "package_id": "paper:811270811666087938",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811270811666087938"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Carrier effective masses m^{*} extracted from PBE+vdW Kohn-Sham band curvatures via m^{*} = \\hbar^{2}/\\left(\\partial^{2}E_{n\\mathbf{k}}/\\partial k^{2}\\right) evaluated at band extrema exhibit systematic trends: under increasing homogeneous in-plane tensile strain both electron and hole Kohn-Sham curvature masses generally decrease (exception: hole effective masses increase in the bilayer), and at zero applied strain increasing the number of layers causes the hole curvature mass to increase and the electron curvature mass to decrease, with the monolayer differing because its VBM lies at Γ.",
+        "content_hash": "5beb8a58917eb15f78d52b84de060c877e11c725b74190d42e3d4cf41f4a087a",
+        "id": "gcn_c002ecf4e57842a0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768904338899457::conclusion_5",
+            "package_id": "paper:867768904338899457",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768904338899457"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied bandwidth $\\Delta\\mathcal{E}=\\mathcal{E}(k_F)-\\mathcal{E}(0)$ of the 2D HEG was obtained from the quartic fits to the DMC bands at $r_s=1$, $5$, and $10$ atomic units; the DMC bandwidths (in Hartree atomic units) are: paramagnetic $\\Delta\\mathcal{E}=1.045(5)$ at $r_s=1$, $0.0281(8)$ at $r_s=5$, and $0.0055(3)$ at $r_s=10$; ferromagnetic $\\Delta\\mathcal{E}=2.434(6)$ at $r_s=1$, $0.141(1)$ at $r_s=5$, and $0.0427(8)$ at $r_s=10$. Here $k_F$ denotes the Fermi wave vector, with $k_F=\\sqrt{2}/r_s$ for the paramagnetic 2D fluid and $k_F=2/r_s$ for the fully spin-polarized 2D fluid, and the free-electron occupied bandwidth is $\\Delta\\mathcal{E}^{\\mathrm{free}}=k_F^2/2$. These DMC bandwidths lie substantially below the Hartree-Fock (HF) bandwidth values computed as $\\Delta\\mathcal{E}^{\\mathrm{HF}}=k_F^2/2 + k_F(1-2/\\pi)$, and for the paramagnetic fluid at the intermediate and low densities studied ($r_s=5$ and $10$) the DMC bandwidths are smaller than the free-electron bandwidth $\\Delta\\mathcal{E}^{\\mathrm{free}}$, whereas for the ferromagnetic fluid the DMC bandwidths exceed the free-electron bandwidth at the densities studied.",
+        "content_hash": "f562aa459414791b6e3bcecfd6423a35da94952fc7117e8e61d09bd1e352f53a",
+        "id": "gcn_ba6a58e544be46b0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_2",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The claim that the In s–derived conduction-band minimum becomes steeper under tensile strain, implying a reduced electron effective mass, is based on curvature estimates of PBE Kohn–Sham bands (orbital-weighted band plots at 6% strain) and does not include spin–orbit coupling or GW quasiparticle corrections.\n      Fig. 4(a,b)",
+        "content_hash": "fe082e83049b3a082669b59d864b99bd71b4382a0c3d15ddfd82bfcdeb6c4236",
+        "id": "gcn_0bef5526531a4231",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813084200906260483::P13",
+            "package_id": "paper:813084200906260483",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813084200906260483"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The many-body FEP-DMC calculation of the polaron quasiparticle dispersion in crystalline anatase TiO2 yields a polaron band that is noticeably flatter than the single-particle electronic quasiparticle dispersion obtained from a G0W0 calculation (where G0W0 denotes one-shot GW quasiparticle corrections on top of density functional theory), and extracting effective masses from the curvature of these dispersions along the Γ–X high-symmetry direction gives a polaron effective-mass m_p that is larger than the electronic effective-mass m_e with an enhancement factor m_p/m_e = 1.6, consistent with intermediate electron–phonon renormalization characteristic of a large, dispersive polaron.",
+        "content_hash": "a2ffb38236edd94fc179285293422655db270a3ceeb9be80439388203cc8af76",
+        "id": "gcn_828beb85f4b646d9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1183449694865457196::conclusion_4",
+            "package_id": "paper:1183449694865457196",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1183449694865457196"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "f7eca6b693d87d1677b41d571a11d102"
+}

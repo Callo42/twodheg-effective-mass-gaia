@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:814713395637911553": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jaron T. Krogel | Jeongnim Kim | Fernando A. Reboredo",
+        "available_online": "2014-7-17",
+        "cover_date_start": "2014-07-17",
+        "created_at": "2022-12-27T20:20:11+08:00",
+        "doi": "10.1103/physrevb.90.035125",
+        "en_title": "Energy density matrix formalism for interacting quantum systems: Quantum Monte Carlo study",
+        "id": "814713395637911553",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "相互作用量子系统的能量密度矩阵形式：量子蒙特卡罗研究"
+      },
+      "paper:867751368390082706": {
+        "area": "arXiv-Physics",
+        "authors": "I.G. Gurtubay | R. Gaudoin | J.M. Pitarke",
+        "available_online": "",
+        "cover_date_start": "2010-01-27",
+        "created_at": "2023-05-23T04:54:08+08:00",
+        "doi": "10.48550/arXiv.1001.5002",
+        "en_title": "Benchmark Quantum Monte Carlo calculations of the ground-state kinetic, interaction, and total energy of the three-dimensional electron gas",
+        "id": "867751368390082706",
+        "keywords": "",
+        "publication_date": "2010-01-27",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "三维电子气基态动能、相互作用能和总能量的基准量子蒙特卡罗计算"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867765002071703930": {
+        "area": "arXiv-Physics",
+        "authors": "Daniel Wines | Kayahan Saritas | Can Ataca",
+        "available_online": "",
+        "cover_date_start": "2020-07-28",
+        "created_at": "2023-05-23T05:48:19+08:00",
+        "doi": "10.48550/arXiv.2007.13969",
+        "en_title": "A first-principles Quantum Monte Carlo study of two-dimensional (2D) GaSe",
+        "id": "867765002071703930",
+        "keywords": "",
+        "publication_date": "2020-07-28",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "二维（2D）GaSe的第一性原理量子蒙特卡罗研究"
+      },
+      "paper:867766348623642779": {
+        "area": "arXiv-Physics",
+        "authors": "F. Marsusi | J. Sabbaghzadeh | N. D. Drummond",
+        "available_online": "",
+        "cover_date_start": "2011-05-12",
+        "created_at": "2023-05-23T05:53:40+08:00",
+        "doi": "10.48550/arXiv.1105.2520",
+        "en_title": "Quantum Monte Carlo, time-dependent density functional theory, and density functional theory calculations of diamondoid excitation energies and Stokes shifts",
+        "id": "867766348623642779",
+        "keywords": "",
+        "publication_date": "2011-05-12",
+        "publication_id": "108507",
+        "publication_name": "Atomic and Molecular Clusters _ Physics.physics.atm-clus",
+        "research_categories": "",
+        "zh_title": "类金刚石激发能和斯托克斯位移的量子蒙特卡罗、含时密度泛函理论及密度泛函理论计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      },
+      "paper:867769186842050580": {
+        "area": "arXiv-Physics",
+        "authors": "Jaron T. Krogel | Jeongnim Kim | Fernando A. Reboredo",
+        "available_online": "",
+        "cover_date_start": "2014-07-09",
+        "created_at": "2023-05-23T06:04:56+08:00",
+        "doi": "10.48550/arXiv.1407.2558",
+        "en_title": "Energy density matrix formalism for interacting quantum systems: a quantum Monte Carlo study",
+        "id": "867769186842050580",
+        "keywords": "",
+        "publication_date": "2014-07-09",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "相互作用量子系统的能量密度矩阵形式：一项量子蒙特卡罗研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using diffusion quantum Monte Carlo (DMC) total-energy differences obtained by adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$, producing the complete occupied band for both the paramagnetic (spin-unpolarized) and fully spin-polarized (ferromagnetic) fluids at the density-parameter values $r_s=1$, $5$, and $10$ (atomic units). The single-particle energy for an occupied momentum state $\\mathbf{k}$ was defined as $\\mathcal{E}(\\mathbf{k})\\equiv E_0-E_{-}(\\mathbf{k})$ and for an unoccupied state as $\\mathcal{E}(\\mathbf{k})\\equiv E_{+}(\\mathbf{k})-E_0$, where $E_0$ is the $N$-electron ground-state total energy and $E_{\\pm}(\\mathbf{k})$ are the total energies of the $(N\\pm 1)$-electron systems with the added or removed plane-wave orbital; all energies are reported in Hartree atomic units. The discrete DMC band values at the allowed reciprocal-lattice wave vectors were represented by least-squares fits to quartic functions of the form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ in order to obtain continuous occupied-band representations and analytic derivatives.",
+        "content_hash": "db64c408f881bace1959c6056ec67fe0f79310e68527f646802ef73c223a8510",
+        "id": "gcn_87961f1707814e6f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_1",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In a finite 14-electron HEG at fixed simulation volume, diffusion Monte Carlo total-energy differences for single-electron removal and for a single-electron spin-flip were compared with changes in the 1REDM occupation energies restricted to the active orbital(s): (a) removing one electron from the outermost filled spin-down shell yields a DMC total-energy change \\Delta E_{\\mathrm{tot}}=1.43(2) eV while the change in the corresponding active occupation energy is \\Delta E_{\\mathrm{active}}=1.27(1) eV (the active-state occupation energy in the neutral system accounts for approximately 90% of the ionization energy); (b) a spin-flip excitation (removing one spin-down electron from a filled shell and adding it to an unfilled spin-up shell) yields \\Delta E_{\\mathrm{tot}}=3.98(2) eV and \\Delta E_{\\mathrm{active}}=3.71(3) eV from the occupation energies. These numerical results indicate that, for this finite HEG, the 1REDM occupation energies closely approximate single-particle electron addition and removal energies, with the active-space occupation energies capturing the majority of the total-energy change.",
+        "content_hash": "6bbbe02f43e9b7fffc9075679b5d2223b61abad69fe4d07e5a0e7882a6b3eb69",
+        "id": "gcn_6f7c92833d4046e0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814713395637911553::conclusion_12",
+            "package_id": "paper:814713395637911553",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814713395637911553"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+        "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+        "id": "gcn_bf915935b1fd4326",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_1",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03021353930031804,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Constructing an optical excited-state total energy $E^{\\mathrm{ex}}$ in fixed-node DMC by removing an electron from a valence-band orbital at a chosen crystal momentum (a valence-band maximum $k$-point) and placing it into a conduction-band orbital at another chosen $k$-point (i.e., performing an explicit electron swap within a single-determinant trial wavefunction built from DFT orbitals) produces a trial excited-state whose DMC fixed-node energy corresponds to the targeted single-particle-like optical transition energy provided the targeted excitation is dominated by a single Slater-determinant character and orbital relaxation and multi-configurational contributions are small for that excitation.",
+        "content_hash": "17295d44d8904f4ceec310940a8864580d109324c39f46b956c4907accee6b64",
+        "id": "gcn_5a2f9329ecb44bcd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765002071703930::P15",
+            "package_id": "paper:867765002071703930",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765002071703930"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027526395173453996,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The fixed-node DMC extrapolated thermodynamic-limit total energy per electron obtained with the SJB trial wave function, $E_\\infty^{\\mathrm{DMC-SJB}} = 0.001621(7)$ Ha/e, is lower than several previously reported extrapolated values for the 3D HEG at $r_s=2$ (for example, Kwon et al. reported KCM-DMC-SJB $E_\\infty = 0.001812$ Ha/e); this downward shift of order a few $10^{-4}$–$10^{-3}$ Ha/e is consistent with improved nodal surfaces arising from (i) the inclusion of backflow displacements in the trial wave function and (ii) the wave-function optimization protocol used here, and therefore indicates reduced fixed-node total-energy bias relative to the earlier reported results.",
+        "content_hash": "8e496f66f6370d5fa39628ed449f6765111e638d60d5642351a284574e2ddcab",
+        "id": "gcn_3188a7453b654e6d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751368390082706::conclusion_8",
+            "package_id": "paper:867751368390082706",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751368390082706"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.025516795865633074,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a finite periodic homogeneous electron gas supercell and a spin-flip excitation produced by removing an electron from a filled orbital in one spin channel and placing it into an unfilled orbital of the opposite spin, define the active space as the two orbitals directly involved in the spin flip; diffusion Monte Carlo results for the N=14 HEG supercell indicate that the sum of the changes in the two active occupation energies computed from the 1REDM approximates the DMC total spin-flip excitation energy, specifically yielding \\Delta E_{\\mathrm{active}}\\approx 3.71(3)\\,\\mathrm{eV} versus the total \\Delta E_{\\mathrm{tot}}\\approx 3.98(2)\\,\\mathrm{eV} in the constant-volume finite-basis setup studied.",
+        "content_hash": "178943d4bca0e3cefb30f4ab854cb7c5b1cc4305cca914fba5ade4fca1b85787",
+        "id": "gcn_b698da35aaf24d58",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867769186842050580::P11",
+            "package_id": "paper:867769186842050580",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867769186842050580"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025332691999358666,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the occupied bandwidth W as the energy difference between the highest and lowest occupied single-particle states in the interacting system, W_free as the noninteracting (free-electron) occupied bandwidth, and W_HF as the Hartree–Fock occupied bandwidth. After the authors' finite-size control and extrapolation procedures applied to diffusion Monte Carlo (DMC) computations for paramagnetic and ferromagnetic 3D-HEGs at the studied density parameters r_s, the DMC occupied bandwidths W_DMC are systematically larger than W_free and systematically smaller than W_HF for every r_s considered, and this ordering W_free < W_DMC < W_HF is stable against the quoted statistical uncertainties and the principal systematic finite-size and fixed-node error estimates.",
+        "content_hash": "9a5377a7274b929afb248e963e2f41378fca2361d364c7fab3192bc01a3b6248",
+        "id": "gcn_ee8296dcb5c64cb7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::P11",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the diffusion quantum Monte Carlo (DMC) method used here, an ensemble of electronic configurations is evolved in imaginary time to project out the lowest-energy fermionic eigenstate compatible with the nodal surface of a supplied trial many-electron wave function, and the fixed-node approximation constrains the nodal surface of the propagating distribution to equal the nodes of the trial wave function, producing a variational (upper-bound) estimate of the true eigenenergy; the magnitude of the fixed-node bias in the DMC total energy depends on the deviation of the trial-wave-function nodal surface from the exact nodal surface, and it is therefore assumed that the fixed-node bias for both the $N$-electron ground state and for the specific $(N\\pm1)$-electron excited states formed by adding or removing a single plane-wave orbital is small enough that DMC total-energy differences yield quasiparticle band energies accurate to the quoted statistical and systematic uncertainties.",
+        "content_hash": "999873479e21661b8bd495661bad68d3ada5c43b4396fc408a446100b326a587",
+        "id": "gcn_402d93fca57345b7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::P1",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In finite periodic simulation cells using Slater-Jastrow-backflow trial wave functions (where the Jastrow and backflow factors each contain variational parameters), reoptimizing the Jastrow and backflow parameters for an excited-state configuration (an excitation produced by adding or removing an electron in a particular Bloch state) can lower the total DMC energy in that finite cell—for example, removing an electron from 𝗸=0 in a 26-electron paramagnetic 2D HEG at density parameter r_s=1 reduced the DMC total energy by 0.000854(4) hartree atomic units (a.u.)—but this finite-cell energy lowering is a manifestation of finite-size error and tends to reduce the computed excitation bandwidth and thus amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass; therefore, to avoid introducing extra finite-size bias the Jastrow and backflow parameters are optimized in the ground state and then reused unchanged for excited-state energy evaluations.",
+        "content_hash": "2fb363e4c29c4548b29305c0ef0248f309c8300fcd21ab0e2c3d4afdbe645f42",
+        "id": "gcn_c7b10e47e2ab45e1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_3",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) calculations of emission gaps (EGs) produce the following values in electronvolts (eV); here the emission gap ΔEG is defined as ΔEG = E_C − E_D where E_C is the total energy of the excited electronic state at its fully relaxed excited-state nuclear geometry and E_D is the total energy of the ground electronic state evaluated at that same relaxed excited-state geometry: methane (CH4) 0.57(6) eV, adamantane (C10H16) 6.48(8) eV, diamantane (C14H20) 6.42(8) eV, triamantane (C18H24) 6.40(8) eV, and tetramantane (C22H28) 6.29(8) eV; these EGs were obtained with single-determinant Slater–Jastrow trial wave functions (ψ_T(R)=D↑D↓exp[J(R)]), Dirac–Fock pseudopotentials for the ionic cores, and full geometry relaxation of the excited-state configuration within the computational protocol described above.",
+        "content_hash": "90a8bc5076ea5148520a5f1d6619f947c78cfd96a5dd8e277f42bcd79d05ce1d",
+        "id": "gcn_d2af05966a5a4a69",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867766348623642779::conclusion_2",
+            "package_id": "paper:867766348623642779",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867766348623642779"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "ad9176e452e99b43ebec02fd27bc106e"
+}

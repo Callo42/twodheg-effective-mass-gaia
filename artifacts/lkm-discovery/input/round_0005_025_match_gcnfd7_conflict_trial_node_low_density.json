@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812107538265800704": {
+        "area": "Physics and Astrophysics",
+        "authors": "Simone Paziani | Saverio Moroni | Paola Gori-Giorgi | Giovanni B. Bachelet",
+        "available_online": "2006-4-14",
+        "cover_date_start": "2006-04-14",
+        "created_at": "2022-12-20T15:45:25+08:00",
+        "doi": "10.1103/physrevb.73.155111",
+        "en_title": "Local-spin-density functional for multideterminant density functional theory",
+        "id": "812107538265800704",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "多行列式密度泛函理论的局域自旋密度泛函"
+      },
+      "paper:812705993593978881": {
+        "area": "Physics and Astrophysics",
+        "authors": "V. Natoli | Richard M. Martin | D. M. Ceperley",
+        "available_online": "1993-3-29",
+        "cover_date_start": "1993-03-29",
+        "created_at": "2022-12-22T07:23:30+08:00",
+        "doi": "10.1103/physrevlett.70.1952",
+        "en_title": "Crystal structure of atomic hydrogen",
+        "id": "812705993593978881",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "原子氢的晶体结构"
+      },
+      "paper:813222406561726464": {
+        "area": "Physics and Astrophysics",
+        "authors": "James J. Shepherd | Andreas Grüneis",
+        "available_online": "2013-5-29",
+        "cover_date_start": "2013-05-29",
+        "created_at": "2022-12-23T17:35:31+08:00",
+        "doi": "10.1103/physrevlett.110.226401",
+        "en_title": "Many-Body Quantum Chemistry for the Electron Gas: Convergent Perturbative Theories",
+        "id": "813222406561726464",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "电子气的多体量子化学：收敛微扰理论"
+      },
+      "paper:867746425499288355": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond",
+        "available_online": "",
+        "cover_date_start": "2022-01-21",
+        "created_at": "2023-05-23T04:34:30+08:00",
+        "doi": "10.48550/arXiv.2201.08743",
+        "en_title": "Low-density Phase Diagram of the Three-Dimensional Electron Gas",
+        "id": "867746425499288355",
+        "keywords": "",
+        "publication_date": "2022-01-21",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Atomic, Molecular and Optical Physics\", \"Quantum Physics\"]",
+        "zh_title": "三维电子气的低密度相图"
+      },
+      "paper:867751368390082706": {
+        "area": "arXiv-Physics",
+        "authors": "I.G. Gurtubay | R. Gaudoin | J.M. Pitarke",
+        "available_online": "",
+        "cover_date_start": "2010-01-27",
+        "created_at": "2023-05-23T04:54:08+08:00",
+        "doi": "10.48550/arXiv.1001.5002",
+        "en_title": "Benchmark Quantum Monte Carlo calculations of the ground-state kinetic, interaction, and total energy of the three-dimensional electron gas",
+        "id": "867751368390082706",
+        "keywords": "",
+        "publication_date": "2010-01-27",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "三维电子气基态动能、相互作用能和总能量的基准量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867754938682310952": {
+        "area": "arXiv-Physics",
+        "authors": "G. G. Spink | P. López Ríos | N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2015-05-27",
+        "created_at": "2023-05-23T05:08:20+08:00",
+        "doi": "10.48550/arXiv.1505.07411",
+        "en_title": "Trion formation in a two-dimensional hole-doped electron gas",
+        "id": "867754938682310952",
+        "keywords": "",
+        "publication_date": "2015-05-27",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维空穴掺杂电子气中的三重子形成"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      },
+      "paper:867772261472403481": {
+        "area": "arXiv-Physics",
+        "authors": "James J. Shepherd | George Booth | Andreas Grüneis | Ali Alavi",
+        "available_online": "",
+        "cover_date_start": "2011-09-12",
+        "created_at": "2023-05-23T06:17:09+08:00",
+        "doi": "10.48550/arXiv.1109.2635",
+        "en_title": "A Full Configuration Interaction Perspective on the Homogeneous Electron Gas",
+        "id": "867772261472403481",
+        "keywords": "",
+        "publication_date": "2011-09-12",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "关于均匀电子气的全组态相互作用视角"
+      }
+    },
+    "variables": [
+      {
+        "content": "Within the fixed-node diffusion Monte Carlo approximation, in which the nodal surface of the trial wave function constrains the fermionic solution, two considerations indicate that residual fixed-node errors in the extracted quasiparticle effective masses m* are likely to be small for the 3D-HEG results reported here: (i) backflow coordinate transformations applied to a single-determinant Slater wave function of plane waves modify the nodal surface continuously without changing its topological class (connectivity and number of nodal pockets), so the Slater-Jastrow-backflow (SJB) trial WF does not introduce qualitative nodal changes relative to the Slater-Jastrow (SJ) WF; and (ii) the observed near-equality of DMC m* computed with SJ and with SJB trial WFs at finite system sizes (for example N = 178) implies that quantitative nodal errors in the effective masses are small, and, under the assumption of adiabatic continuity between noninteracting Hartree–Fock states and the interacting Fermi liquid, no topological nodal errors affecting low-lying quasiparticle excitations are expected; together with the formal result that fixed-node energy errors are second order in nodal-surface displacement, these arguments support the conclusion that remaining fixed-node biases in the DMC m* values are small.",
+        "content_hash": "a3a395aaf5954a6cceb637bd5e431755d3ff67404a3454d6800e6e775d1e9f30",
+        "id": "gcn_4d007d5de51146c1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_9",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion quantum Monte Carlo yields the lowest-energy state consistent with the trial wave function's nodal surface, so DMC energies for the many-electron hole-in-HEG system depend on the trial nodal surface; even though optimized pairing orbitals substantially reduced the VMC–DMC energy difference and DMC energies were only slightly lowered by changing the nodal surface, residual fixed-node errors associated with the chosen trial nodal topology could remain and bias the reported relaxation energies at some r_s and mass-ratio points.",
+        "content_hash": "1648ee9a01850ebef2566eb2f9d6e3ba188523d64fa02d056b11c2fc250a25b9",
+        "id": "gcn_06464b433e004275",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867754938682310952::P3",
+            "package_id": "paper:867754938682310952",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867754938682310952"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031754032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E_DMC^{phase} denote the fixed-node diffusion Monte Carlo energy obtained using a specified trial wave function for a given phase (for example SJB for fluid phases and SJ for crystal phases). The residual fixed-node error (the difference between the fixed-node DMC energy and the exact ground-state energy constrained to the same nodal surface) is empirically found to be relatively small compared with the energy differences that determine the fluid–crystal crossing in the low-density 3D-HEG, and the fixed-node errors do not vary dramatically between the fluid SJB and crystal SJ trial-function families used in these calculations; consequently comparisons of DMC energies across these phases are dominated by physical energy differences rather than by uncontrolled, large, phase-dependent nodal biases, subject to the empirical observation that backflow correlation lowers fluid energies more than crystal energies but does not qualitatively change the ordering of phases obtained from DMC.",
+        "content_hash": "341225f0b32986f70fd77c392593d051bd632ffc4aa0cac86a70c9d7546fced8",
+        "id": "gcn_506deba762dd4ab7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867746425499288355::P9",
+            "package_id": "paper:867746425499288355",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867746425499288355"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031099324975891997,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let DMC calculations with the fixed-node approximation be carried out for ground and single-particle excited states of a 2D HEG using single-determinant Slater-Jastrow-backflow trial wave functions (real determinants for closed-shell ground states, Jastrow factors with polynomial and plane-wave terms, and polynomial backflow functions). The proposition is: the residual fixed-node errors introduced by the nodal surface of these single-determinant Slater-Jastrow-backflow trial wave functions are sufficiently small and similar in magnitude for the ground and corresponding single-particle excited states that the fixed-node error contributions to the total-energy differences that define the single-quasiparticle band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) are negligible compared with the statistical uncertainties and the finite-size effects analysed; hence fixed-node bias does not materially alter the excitation-energy trends reported within the stated numerical precision.",
+        "content_hash": "865b878c02ad923744f37494335a08903271c434375db686d089623be7435674",
+        "id": "gcn_1f9f0f2db1114bb1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P4",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030536130536130537,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The fixed-node DMC extrapolated thermodynamic-limit total energy per electron obtained with the SJB trial wave function, $E_\\infty^{\\mathrm{DMC-SJB}} = 0.001621(7)$ Ha/e, is lower than several previously reported extrapolated values for the 3D HEG at $r_s=2$ (for example, Kwon et al. reported KCM-DMC-SJB $E_\\infty = 0.001812$ Ha/e); this downward shift of order a few $10^{-4}$–$10^{-3}$ Ha/e is consistent with improved nodal surfaces arising from (i) the inclusion of backflow displacements in the trial wave function and (ii) the wave-function optimization protocol used here, and therefore indicates reduced fixed-node total-energy bias relative to the earlier reported results.",
+        "content_hash": "8e496f66f6370d5fa39628ed449f6765111e638d60d5642351a284574e2ddcab",
+        "id": "gcn_3188a7453b654e6d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751368390082706::conclusion_8",
+            "package_id": "paper:867751368390082706",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751368390082706"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028782894736842105,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E_VMC and E_DMC denote variational and fixed-node diffusion Monte Carlo total energies per atom. Released-node calculations performed for the homogeneous electron gas (HEG) report an empirical scaling relation that the fixed-node error (the difference between the true fermionic ground-state energy and the fixed-node DMC energy) is approximately 0.1 × (E_VMC − E_DMC) for that system; the proposition adopted here is that this empirical proportionality factor of 0.1 relating released-node corrections to the variational-to-DMC energy difference for the HEG applies with similar accuracy to crystalline atomic hydrogen at r_s = 1.31, so that one may estimate the fixed-node error in the hydrogen-crystal DMC calculations by multiplying the observed quantity (E_VMC − E_DMC) by 0.1.\n      [18]",
+        "content_hash": "35ca5b256ba1a6adadeb182498071583f490a405dfac0bcea8b45b05c26b4dbb",
+        "id": "gcn_1690586109424017",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812705993593978881::P4",
+            "package_id": "paper:812705993593978881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812705993593978881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02854251012145749,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider fixed-node diffusion Monte Carlo (DMC) calculations for the HEG with LR-only interaction $v_{\\mathrm{LR}}^{\\mu}(r)=\\operatorname{erf}(\\mu r)/r$ using Jastrow-Slater trial wavefunctions whose determinantal part is the Slater determinant of plane-wave orbitals (plane-wave nodal surface). For the parameter ranges studied here, namely densities $r_{s}=1,2,5,10$ and cutoff values $\\mu r_{s}\\in\\{0.5,1,2,4\\}$, the systematic energy bias due to the fixed-node approximation with plane-wave nodes is small compared to the target statistical uncertainty (chosen to match the Ceperley–Alder Coulomb reference precision); accordingly the fixed-node errors do not materially affect the fitted analytic parametrizations at the stated precision level.",
+        "content_hash": "15434bd9cc1b0fca03c33c543e93cd774000f51a519ce96949b957c04bc76e80",
+        "id": "gcn_31d35e437d244ebb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812107538265800704::P6",
+            "package_id": "paper:812107538265800704",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812107538265800704"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02813852813852814,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) calculations employing backflow‑transformed trial wavefunctions (backflow DMC) yield ground‑state energy estimates that are not substantially dependent on a one‑electron basis set representation, and therefore published backflow DMC energies for the same N=54 HEG simulation cell (as reported by Ríos et al.) can be treated as effectively free of one‑electron basis‑set incompleteness; consequently, if a published backflow DMC energy exceeds a lower i‑FCIQMC extrapolated energy for the same simulation cell and other finite‑cell treatments are consistent, the systematic positive offset of the backflow DMC energy can be attributed primarily to residual fixed‑node error in the DMC calculation (where \"fixed‑node error\" denotes the positive bias in the energy introduced by enforcing the trial wavefunction nodal surface).\n      Ríos et al., cited as the source of the DMC backflow results in Shepherd et al.",
+        "content_hash": "e29496558c1ef42179b41445456e4e02ec25b7314a3273db9330640af0757327",
+        "id": "gcn_6cf3aa3a96d1413b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772261472403481::P5",
+            "package_id": "paper:867772261472403481",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772261472403481"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026553280111072546,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define diffusion Monte Carlo (DMC) calculations performed with a Slater–Jastrow–backflow (SJ3) trial wave function and full configuration‑interaction quantum Monte Carlo (FCIQMC) calculations for a 54‑electron homogeneous electron gas (HEG) at a given density parameter r_s. The reported DMC SJ3 backflow and FCIQMC results for the 54‑electron HEG have well‑characterized and small residual errors (DMC fixed‑node biases and FCIQMC stochastic/initiator errors) and therefore serve as high‑quality benchmark reference correlation energies suitable for assessing the accuracy of CCSD and CCSD(scT) in the studied density range.\n      P. Lopez Ríos et al., Phys. Rev. E 74, 066701 (2006)",
+        "content_hash": "f52db3905826b60c535f2e84aa89335ddedb5a69cfc84fad59306ecd16c33b0a",
+        "id": "gcn_3067ccd88ea74203",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813222406561726464::P14",
+            "package_id": "paper:813222406561726464",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813222406561726464"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider the reported DMC calculations carried out with finite DMC time steps (time steps of 0.04, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for paramagnetic HEGs and 0.01, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for ferromagnetic HEGs) and using single-determinant Slater-Jastrow-backflow trial wave functions that, according to extrapolation of variational Monte Carlo energies to zero energy variance, retrieve more than 99% of the correlation energy. The proposition is: the residual biases arising from the fixed-node approximation and from finite DMC time-step errors (noting that halving the time step was verified to have a negligible effect on the computed energy band) are small compared with the overall uncertainties introduced by the finite-size extrapolation procedure; therefore these residual numerical biases do not materially shift the reported extrapolated thermodynamic-limit effective masses \\\\(m^{*}(\\\\infty)\\\\).",
+        "content_hash": "88ef95b0e1f66d1eedc48ec26181853f6974ba9d11495b0209ae7000a83bf811",
+        "id": "gcn_17c63b5dc2154f15",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P10",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "030b44176cc289c49bcf6c64e0f614ad"
+}

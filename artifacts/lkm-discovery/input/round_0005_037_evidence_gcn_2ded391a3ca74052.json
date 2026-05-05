@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The Hartree–Fock (HF) single-particle band for a homogeneous electron gas is analytically pathological in the thermodynamic limit, exhibiting a logarithmic divergence at the Fermi wavevector k_F, and in finite periodic simulation cells the HF band displays strong finite-size oscillations at wavevectors near k_F; diffusion Monte Carlo (DMC) calculations recover a large fraction of the correlation energy but inherit residual HF-like oscillatory features close to k_F of sufficient magnitude to contaminate naive finite-N estimates of the derivative (dE/dk)_{k_F}. Therefore, reliable estimates of (dE/dk)_{k_F} from correlated DMC total-energy differences require sampling quasiparticle excitations at momenta removed from the immediate vicinity of k_F and extracting gradients from smooth fits to data sampled across a range of k values.",
+      "content_hash": "a0ae42e103828931bec8c96c6873892eefdf1d92688ba0c4a209b7fc1c7bec9f",
+      "id": "gcn_2ded391a3ca74052",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The Hartree–Fock (HF) single-particle band for a homogeneous electron gas is analytically pathological in the thermodynamic limit, exhibiting a logarithmic divergence at the Fermi wavevector k_F, and in finite periodic simulation cells the HF band displays strong finite-size oscillations at wavevectors near k_F; diffusion Monte Carlo (DMC) calculations recover a large fraction of the correlation energy but inherit residual HF-like oscillatory features close to k_F of sufficient magnitude to contaminate naive finite-N estimates of the derivative (dE/dk)_{k_F}. Therefore, reliable estimates of (dE/dk)_{k_F} from correlated DMC total-energy differences require sampling quasiparticle excitations at momenta removed from the immediate vicinity of k_F and extracting gradients from smooth fits to data sampled across a range of k values.",
+              "id": "gcn_2ded391a3ca74052"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_c4a9f86b092d4b95",
+            "premises": [
+              {
+                "content": "The Hartree–Fock (HF) single-particle band for a three-dimensional electron gas is known to exhibit a logarithmic divergence at the Fermi wavevector k_F in the thermodynamic limit, and in finite periodic simulation cells this HF physics produces strong oscillations of the HF band at wavevectors near k_F; diffusion Monte Carlo (DMC) calculations of E(k) in finite cells retrieve a large fraction of the correlation energy but retain residual finite-N HF-like oscillatory features near k_F of sufficient magnitude to contaminate naive finite-N estimates of the derivative (dE/dk)_{k_F} unless the DMC band is sampled at momenta removed from the immediate vicinity of k_F and a smooth band is fitted across a broad range of k values.",
+                "id": "gcn_e84d1462168943c3"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define the Hartree-Fock (HF) single-particle band as the band of single-particle energies obtained in HF theory, define the Fermi wavevector $k_{\\mathrm{F}}$ as the wavevector of the Fermi surface for the given electron density parameter $r_{\\rm s}$, and define the DMC energy band $\\mathcal{E}(k)$ as the difference of total DMC energies when an electron is added to or removed from a plane-wave orbital of momentum $\\mathbf{k}$.\n[7]\nFig.1",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "State the HF pathology: in the thermodynamic limit (infinite system size) the HF single-particle band has a logarithmic divergence at $k_{\\mathrm{F}}$; in finite simulation cells the HF band exhibits strong, rapid oscillations in wavevectors near $k_{\\mathrm{F}}$. This pathological behavior is driven by the long range of the HF exchange hole producing incomplete screening of the Coulomb interaction.\n[7]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Note that DMC retrieves a large fraction of the correlation energy but does not completely eliminate the HF-induced pathological behavior near $k_{\\mathrm{F}}$, so near-$k_{\\mathrm{F}}$ DMC band values can inherit residual HF-like oscillations and divergences in finite systems; therefore naive finite-size estimates of the derivative $(d\\mathcal{E}/dk)_{k_{\\mathrm{F}}}$ can be contaminated by these artifacts.\n[28]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Define the quasiparticle effective mass by $m^{*}=k_{\\rm F}\\big/(d\\mathcal{E}/dk\\big)_{k_{\\mathrm{F}}}$ and infer that an accurate evaluation of $(d\\mathcal{E}/dk)_{k_{\\mathrm{F}}}$ therefore requires sampling the DMC energy band $\\mathcal{E}(k)$ at momenta $k$ that are sufficiently removed from the immediate vicinity of $k_{\\mathrm{F}}$ so that HF-induced finite-size oscillations do not dominate the fitted smooth band from which the gradient at $k_{\\mathrm{F}}$ is obtained.",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Conclude that it is necessary, when using correlated DMC total-energy differences to obtain reliable gradients $(d\\mathcal{E}/dk)_{k_{\\mathrm{F}}}$ and hence $m^{*}$, to evaluate excitations at momenta away from the immediate neighborhood of the Fermi surface and to extract gradients from smooth fits to DMC band data sampled across a range of $k$ values rather than relying on near-$k_{\\mathrm{F}}$ data alone.\nFig.1",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "The determination of the quasiparticle velocity (and hence $m^{*}$) requires an accurate derivative of the interacting single-particle band at the Fermi surface. HF theory's pathological behavior near $k_{\\mathrm{F}}$ contaminates naive finite-size estimates of the derivative, and even correlated methods that improve total energies can retain residual artifacts in the near-$k_{\\mathrm{F}}$ region. Without recognizing these pathologies and sampling the band away from the immediate neighborhood of $k_{\\mathrm{F}}$, one risks biased estimates of $(d\\mathcal{E}/dk)_{k_{\\mathrm{F}}}$ and thus of $m^{*}$.",
+            "id": "paper:867767318044737939::conclusion_6_subproblem",
+            "source_package": "paper:867767318044737939"
+          }
+        ],
+        "source_package": "paper:867767318044737939"
+      }
+    ],
+    "papers": {
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "c5d0840c1375908f4cacedd75a55dba9"
+}

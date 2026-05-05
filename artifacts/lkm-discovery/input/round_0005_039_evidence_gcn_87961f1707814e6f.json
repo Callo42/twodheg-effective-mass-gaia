@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using diffusion quantum Monte Carlo (DMC) total-energy differences obtained by adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$, producing the complete occupied band for both the paramagnetic (spin-unpolarized) and fully spin-polarized (ferromagnetic) fluids at the density-parameter values $r_s=1$, $5$, and $10$ (atomic units). The single-particle energy for an occupied momentum state $\\mathbf{k}$ was defined as $\\mathcal{E}(\\mathbf{k})\\equiv E_0-E_{-}(\\mathbf{k})$ and for an unoccupied state as $\\mathcal{E}(\\mathbf{k})\\equiv E_{+}(\\mathbf{k})-E_0$, where $E_0$ is the $N$-electron ground-state total energy and $E_{\\pm}(\\mathbf{k})$ are the total energies of the $(N\\pm 1)$-electron systems with the added or removed plane-wave orbital; all energies are reported in Hartree atomic units. The discrete DMC band values at the allowed reciprocal-lattice wave vectors were represented by least-squares fits to quartic functions of the form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ in order to obtain continuous occupied-band representations and analytic derivatives.",
+      "content_hash": "db64c408f881bace1959c6056ec67fe0f79310e68527f646802ef73c223a8510",
+      "id": "gcn_87961f1707814e6f",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using diffusion quantum Monte Carlo (DMC) total-energy differences obtained by adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$, producing the complete occupied band for both the paramagnetic (spin-unpolarized) and fully spin-polarized (ferromagnetic) fluids at the density-parameter values $r_s=1$, $5$, and $10$ (atomic units). The single-particle energy for an occupied momentum state $\\mathbf{k}$ was defined as $\\mathcal{E}(\\mathbf{k})\\equiv E_0-E_{-}(\\mathbf{k})$ and for an unoccupied state as $\\mathcal{E}(\\mathbf{k})\\equiv E_{+}(\\mathbf{k})-E_0$, where $E_0$ is the $N$-electron ground-state total energy and $E_{\\pm}(\\mathbf{k})$ are the total energies of the $(N\\pm 1)$-electron systems with the added or removed plane-wave orbital; all energies are reported in Hartree atomic units. The discrete DMC band values at the allowed reciprocal-lattice wave vectors were represented by least-squares fits to quartic functions of the form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ in order to obtain continuous occupied-band representations and analytic derivatives.",
+              "id": "gcn_87961f1707814e6f"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_c3efccfb8f2b410c",
+            "premises": [
+              {
+                "content": "In the diffusion quantum Monte Carlo (DMC) method used here, an ensemble of electronic configurations is evolved in imaginary time to project out the lowest-energy fermionic eigenstate compatible with the nodal surface of a supplied trial many-electron wave function, and the fixed-node approximation constrains the nodal surface of the propagating distribution to equal the nodes of the trial wave function, producing a variational (upper-bound) estimate of the true eigenenergy; the magnitude of the fixed-node bias in the DMC total energy depends on the deviation of the trial-wave-function nodal surface from the exact nodal surface, and it is therefore assumed that the fixed-node bias for both the $N$-electron ground state and for the specific $(N\\pm1)$-electron excited states formed by adding or removing a single plane-wave orbital is small enough that DMC total-energy differences yield quasiparticle band energies accurate to the quoted statistical and systematic uncertainties.",
+                "id": "gcn_402d93fca57345b7"
+              },
+              {
+                "content": "For a two-dimensional interacting electron system in a finite periodic cell, the single-particle energy for an occupied momentum state $\\mathbf{k}$ is defined by $\\mathcal{E}(\\mathbf{k})\\equiv E_0 - E_{-}(\\mathbf{k})$, where $E_0$ is the total energy of the $N$-electron ground state and $E_{-}(\\mathbf{k})$ is the total energy of the $(N-1)$-electron system obtained by removing an electron from the plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$, with the Jastrow factor and backflow functions extended to include the extra or missing electron as appropriate; it is assumed that such total-energy differences yield the correct electronic energy band and that, in the vicinity of the Fermi surface $k\\approx k_F$, this electronic band coincides with the Fermi-liquid quasiparticle band so that its derivative at $k_F$ gives the quasiparticle effective mass $m^{*}$.",
+                "id": "gcn_f4ae1d6b7f724cab"
+              },
+              {
+                "content": "In a finite periodic simulation cell of area $A$ containing $N$ electrons the allowed wave vectors form a discrete reciprocal-lattice grid $\\{ \\mathbf{k}_j \\}$ with magnitudes $\\{k_j\\}$ (possibly offset by a simulation-cell Bloch vector ${\\bf k}_s$); the procedure fits a quartic function to the DMC occupied-band values at the available $\\{k_j\\}$ points obtained for one or more cell sizes and Bloch offsets, and it is assumed that the density and distribution of these sampled $k$-points together with the system sizes used (for example $N=57,74,101,114$ in the calculations reported) provide sufficient coverage of $0\\le k\\le k_F$ that the quartic fit parameters $\\alpha_0,\\alpha_2,\\alpha_4$ are determined accurately and that finite-$k$ sampling errors do not bias the derivative at $k_F$ beyond the reported uncertainties.",
+                "id": "gcn_5418df735fd84c5d"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define the diffusion quantum Monte Carlo (DMC) method as the stochastic projector technique that evolves the imaginary-time Schrödinger equation to approach the ground-state energy of a many-electron system within the fixed-node approximation; denote this method by the acronym DMC and cite the standard review where it is described as used by the authors.\n[14]",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the single-particle energy band $\\mathcal{E}(\\mathbf{k})$ by the total-energy differences: if $E_0$ denotes the ground-state total energy of the $N$-electron system, define $E_{+}(\\mathbf{k})$ as the total energy of the $(N+1)$-electron system with an extra electron placed in the plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$ and $E_{-}(\\mathbf{k})$ as the total energy of the $(N-1)$-electron system with an electron removed from the orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$; then for occupied states set $\\mathcal{E}(\\mathbf{k})=E_0-E_{-}(\\mathbf{k})$ and for unoccupied states $\\mathcal{E}(\\mathbf{k})=E_{+}(\\mathbf{k})-E_0$.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "State the computational prescription used to obtain $\\mathcal{E}(\\mathbf{k})$ in practice: leave the simulation cell fixed under periodic boundary conditions so that the allowed $\\mathbf{k}$ values lie on the reciprocal-lattice grid (the grid may be offset by a simulation-cell Bloch vector ${\\bf k}_s$), construct $(N\\pm1)$-electron trial wave functions by extending the Slater-Jastrow(-backflow) form to include the added/removed plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$, and evaluate $E_0$, $E_{+}(\\mathbf{k})$, and $E_{-}(\\mathbf{k})$ by DMC total-energy calculations for the ground and excited states defined in step 2.\nFig. 2; Fig. 3",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Define the trial wave functions: use Slater determinants of plane-wave orbitals multiplied by a Jastrow correlation factor and with orbitals evaluated at quasiparticle coordinates related to the electron coordinates by backflow functions; denote the Slater-Jastrow-backflow form by \"SJ-BF\" and indicate that the Jastrow and backflow functions were optimized by variance minimization followed by linear-least-squares energy minimization so as to retrieve a very large fraction of the correlation energy in both ground and excited states.\n[18]",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Explain why adding/removing single electrons in plane-wave orbitals gives the band: adding or removing a single electron directly yields the corresponding band energy by the total-energy difference definitions in step 2, and this procedure avoids contamination of the energy differences by the interaction between an excited electron and the hole left behind that occurs when promoting an electron within the $N$-electron configuration.",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "State the practical data-processing step that produces a continuous occupied band: evaluate $\\mathcal{E}(k)$ at a series of allowed $\\mathbf{k}$ vectors obtained from the simulation-cell reciprocal-lattice grid, and perform a least-squares fit of a quartic function $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ to the occupied-band DMC data to obtain a continuous representation of the occupied band.",
+                "step_id": "6"
+              },
+              {
+                "reasoning": "Report the scope of calculations performed: carry out the DMC add/remove-electron total-energy-difference calculations and quartic fits for both the paramagnetic two-dimensional homogeneous electron gas (2D HEG) and the fully spin-polarized (ferromagnetic) 2D HEG at the electron-density parameters $r_s=1$, $r_s=5$, and $r_s=10$ (atomic units), thereby producing the complete occupied energy band $\\mathcal{E}(k)$ for each spin polarization and density studied.\nFig. 2; Fig. 3",
+                "step_id": "7"
+              },
+              {
+                "reasoning": "Assert that the fitted quartic DMC bands and the underlying DMC total-energy-difference data constitute the first complete QMC-derived occupied energy bands for the 2D HEG across the densities and spin polarizations studied, as evidenced by the plotted bands and fits in the figures for paramagnetic and ferromagnetic fluids.\nFig. 2; Fig. 3",
+                "step_id": "8"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "In studies of interacting electron fluids the quasiparticle energy-momentum relation near the Fermi surface is central to Fermi-liquid theory, but before this work there was no complete QMC-derived occupied energy band for the 2D HEG covering densities and spin polarizations of interest. Earlier approaches either used perturbative $GW$ methods sensitive to technical choices or QMC excitations that mixed particle-hole interactions (promoted-electron excitations), and finite-cell sampling restricted reliable $k$-space coverage. Without a direct, many-body total-energy-difference calculation of the occupied band, it was not possible to produce a continuous, nonparametric band $\\mathcal{E}(k)$ from which reliable derivatives at $k_F$ (and hence $m^{*}$) could be extracted across a wide $k$ range and across spin polarizations. This absence impeded resolving experimental contradictions and testing theoretical approximations.",
+            "id": "paper:867763861497839690::conclusion_1_subproblem",
+            "source_package": "paper:867763861497839690"
+          }
+        ],
+        "source_package": "paper:867763861497839690"
+      }
+    ],
+    "papers": {
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "17a52b96a64efcf3777c1c875822c622"
+}

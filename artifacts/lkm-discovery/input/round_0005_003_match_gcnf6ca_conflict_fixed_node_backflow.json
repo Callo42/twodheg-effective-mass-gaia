@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811980635152318465": {
+        "area": "Geoscience",
+        "authors": "C. V. McSwain | L. D. Durbin",
+        "available_online": "",
+        "cover_date_start": "1966-01-01",
+        "created_at": "2022-12-20T07:21:09+08:00",
+        "doi": "10.1080/01496396608049474",
+        "en_title": "The Backflow-Cell Model for Continuous Two-Phase Nonlinear Mass-Transfer Operations Including Nonlinear Axial Holdup and Mixing Effects",
+        "id": "811980635152318465",
+        "keywords": "",
+        "publication_date": "1966-1",
+        "publication_id": "26153",
+        "publication_name": "Separation Science _ Separation Science",
+        "research_categories": "",
+        "zh_title": "用于连续两相非线性传质操作的回流池模型，包括非线性轴向持液和混合效应"
+      },
+      "paper:812080037153996801": {
+        "area": "Engineering Technology",
+        "authors": "R. Reif | T. I. Kamins | K. C. Saraswat",
+        "available_online": "2019-12-9",
+        "cover_date_start": "1979-04-01",
+        "created_at": "2022-12-20T13:56:08+08:00",
+        "doi": "10.1149/1.2129102",
+        "en_title": "A Model for Dopant Incorporation into Growing Silicon Epitaxial Films: I . Theory",
+        "id": "812080037153996801",
+        "keywords": "",
+        "publication_date": "1979-4-1",
+        "publication_id": "4308",
+        "publication_name": "Journal of The Electrochemical Society _ J. Electrochem. Soc.",
+        "research_categories": "",
+        "zh_title": "一种掺杂剂掺入生长中的硅外延膜的模型：I. 理论"
+      },
+      "paper:812415438792163329": {
+        "area": "Engineering Technology",
+        "authors": "Pablo Moreno | Guillermo Leira",
+        "available_online": "",
+        "cover_date_start": "1981-08-01",
+        "created_at": "2022-12-21T12:08:55+08:00",
+        "doi": "10.1016/0029-5493(81)90149-7",
+        "en_title": "Transport coefficient for enthalpy exchange between PWR homogenized channels",
+        "id": "812415438792163329",
+        "keywords": "",
+        "publication_date": "1981-8",
+        "publication_id": "4137",
+        "publication_name": "Nuclear Engineering and Design _ Nuclear Engineering and Design",
+        "research_categories": "",
+        "zh_title": "压水堆均匀化通道间焓交换的输运系数"
+      },
+      "paper:812453821862117378": {
+        "area": "Mathematics",
+        "authors": "S. Thompson",
+        "available_online": "",
+        "cover_date_start": "1986-11-01",
+        "created_at": "2022-12-21T14:41:27+08:00",
+        "doi": "10.1016/0898-1221(86)90017-9",
+        "en_title": "Remarks on the choice of a stiff ordinary differential equation solver",
+        "id": "812453821862117378",
+        "keywords": "",
+        "publication_date": "1986-11",
+        "publication_id": "913",
+        "publication_name": "Computers and Mathematics with Applications _ Computers & Mathematics with Applications",
+        "research_categories": "",
+        "zh_title": "关于刚性常微分方程求解器选择的评论"
+      },
+      "paper:813222406561726464": {
+        "area": "Physics and Astrophysics",
+        "authors": "James J. Shepherd | Andreas Grüneis",
+        "available_online": "2013-5-29",
+        "cover_date_start": "2013-05-29",
+        "created_at": "2022-12-23T17:35:31+08:00",
+        "doi": "10.1103/physrevlett.110.226401",
+        "en_title": "Many-Body Quantum Chemistry for the Electron Gas: Convergent Perturbative Theories",
+        "id": "813222406561726464",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "电子气的多体量子化学：收敛微扰理论"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867768181819703346": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2010-02-10",
+        "created_at": "2023-05-23T06:00:57+08:00",
+        "doi": "10.48550/arXiv.1002.2122",
+        "en_title": "Quantum Monte Carlo study of the ground state of the two-dimensional Fermi fluid",
+        "id": "867768181819703346",
+        "keywords": "",
+        "publication_date": "2010-02-10",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体基态的量子蒙特卡罗研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+        "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+        "id": "gcn_aac0470dbff84cb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024868705591597158,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In deriving the algebraic calibration expressions the mass flow used for a homogenized channel in the analytical model, denoted G_A(L), is assumed equal to the mass flow used in the COBRA discretization for the corresponding homogenized region, denoted M(L), so that M(L)=G_A(L) and the mass‑flow factors cancel during algebraic rearrangement to isolate ε_H^*(z).",
+        "content_hash": "53622aa8613f95df18cdab3a004c04659f772936802aed47015dd08013981cf6",
+        "id": "gcn_a344172489d44b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812415438792163329::P10",
+            "package_id": "paper:812415438792163329",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812415438792163329"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let DMC calculations with the fixed-node approximation be carried out for ground and single-particle excited states of a 2D HEG using single-determinant Slater-Jastrow-backflow trial wave functions (real determinants for closed-shell ground states, Jastrow factors with polynomial and plane-wave terms, and polynomial backflow functions). The proposition is: the residual fixed-node errors introduced by the nodal surface of these single-determinant Slater-Jastrow-backflow trial wave functions are sufficiently small and similar in magnitude for the ground and corresponding single-particle excited states that the fixed-node error contributions to the total-energy differences that define the single-quasiparticle band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) are negligible compared with the statistical uncertainties and the finite-size effects analysed; hence fixed-node bias does not materially alter the excitation-energy trends reported within the stated numerical precision.",
+        "content_hash": "865b878c02ad923744f37494335a08903271c434375db686d089623be7435674",
+        "id": "gcn_1f9f0f2db1114bb1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P4",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Algebraic elimination of the nodewise $3\\times3$ linear system $\\mathbb{B}\\cdot(\\dot{\\rho},\\dot{G},\\dot{T})^{\\mathrm{T}}=\\mathbf{E}$ (with $\\mathbb{B}$ as given above and $\\mathbf{E}=(\\mathbf{E}_1,\\mathbf{E}_2,\\mathbf{E}_3)^{\\mathrm{T}}$ formed from $\\mathbb{B}\\mathbf{C}$ and the chosen one‑sided two‑point spatial differences) yields the explicit nodewise formulas\n      $$\n      \\dot{T}=\\frac{\\left(\\mathbf{E}_2+\\mathbf{E}_3\\right)a^{2}\\beta\\bar{T}/2-\\mathbf{E}_1}{\\rho^{2}C_p\\kappa a^{2}},\\qquad\n      \\dot{\\rho}=\\frac{\\mathbf{E}_2+\\mathbf{E}_3}{2}-\\rho\\beta\\dot{T},\n      $$\n      $$\n      \\dot{G}=-\\frac{\\mathbf{E}_3-(G\\kappa a+1)\\dot{\\rho}-\\rho\\beta\\dot{T}}{\\rho\\kappa a},\n      $$\n      where $\\dot{T}=\\mathrm{d}T/\\mathrm{d}t$, $\\dot{\\rho}=\\mathrm{d}\\rho/\\mathrm{d}t$, $\\dot{G}=\\mathrm{d}G/\\mathrm{d}t$; $C_p$ is constant‑pressure specific heat, $\\kappa$ is the reciprocal isothermal compressibility, $\\beta$ is the reciprocal coefficient of volume expansion, $a$ is the sound speed, $\\bar{T}$ is absolute temperature and $\\rho,G,T$ denote the local nodal values. Using the thermodynamic identity\n      $$\n      C_{p}+a^{2}\\beta^{2}\\bar{T}=\\rho C_{p}\\kappa a^{2},\n      $$\n      and inspecting the multiplicative denominators and prefactors in the expressions above shows by dimensional scaling that the effective linear attenuation acting on terms contributing to $\\dot{G}$ is smaller than that acting on $\\dot{\\rho}$ and $\\dot{T}$. This reduced effective damping on $\\dot{G}$ explains the large damped oscillatory transient observed in the inlet mass flux $G$ (the inlet $G$ oscillations can be roughly an order of magnitude larger than the final steady inlet flow rate) in numerical integrations of the discretized system.",
+        "content_hash": "224cfd858488ea9b467ca71bd96c0bd544095982ea390752bb36c7b42eeedf19",
+        "id": "gcn_cce597fa6f194e9b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812453821862117378::conclusion_2",
+            "package_id": "paper:812453821862117378",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812453821862117378"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider a two-dimensional homogeneous electron gas (2D HEG) in the thermodynamic limit defined by taking the particle number \\\\(N\\\\to\\\\infty\\\\) while holding the electron density fixed. Let the Slater-Jastrow-backflow trial many-electron wave function depend on finite-dimensional real parameter vectors \\\\(J\\\\) (the Jastrow-factor parameters controlling explicit two-body correlation terms, with polynomial and plane-wave expansions in interelectron distances cut off at the simulation-cell inscribed-circle radius) and \\\\(B\\\\) (the backflow-function parameters controlling polynomial backflow coordinate transformations). The proposition is: creating a single-particle excitation by adding or removing one electron at a definite wavevector \\\\(\\\\mathbf{k}\\\\) (changing the occupation by one at that \\\\(\\\\mathbf{k}\\\\) while preserving the thermodynamic-limit density) leaves the values of the optimal correlation-parameter vectors \\\\((J,B)\\\\) that minimize the ground-state energy per particle unchanged to leading order; equivalently, a single isolated quasiparticle excitation has a negligible effect on the optimal short- and medium-range two-body correlation functions and backflow transformations in the infinite 2D HEG.",
+        "content_hash": "a1db8d34e9a8435493a6dba850865fbb83ef24d57084e895a95cd73b6e60ab70",
+        "id": "gcn_25de7aa13e4d4e91",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P1",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Discretizing the continuous Damköhler-type diffusion–convection equation for phase i,\n      -div( -E_i' ε_i grad c_i ) - div( u_i ε_i c_i ) - q_i = 0,\n      in dimensionless form leads at node Z=kh (local cell spacing h_R in a region R) to the central-difference relation\n      (p_i/2 + η_{1,i}/h_R) C_{i,k-1} - (2 N_{Pe,i,k}^{-1}/h_R) C_{i,k} + (η_{2,i}/h_R - p_i/2) C_{i,k+1} + q_k = 0,\n      where N_{Pe,i,k} is the local Peclet number and the difference parameters η_{1,i} and η_{2,i} are defined by\n      2 η_{1,i} = N_{Pe,i,k+1}^{-1} + 2 N_{Pe,i,k}^{-1} - N_{Pe,i,k-1}^{-1},\n      2 η_{2,i} = N_{Pe,i,k-1}^{-1} + 2 N_{Pe,i,k}^{-1} - N_{Pe,i,k+1}^{-1}.\n      Matching this three-point central-difference stencil to the cell-model interior difference coefficients yields the correspondence\n      for the X phase: (p_x+β_{x,k}) = (p_x/2 + η_{1,x}/h_R) and β_{x,k+1} = (η_{2,x}/h_R - p_x/2);\n      for the Y phase: β_{y,k-1} = (η_{1,y}/h_R - p_x/2) and (p_y+β_{y,k}) = (η_{2,y}/h_R + p_y/2).\n      Hence, in a region R with constant local Peclet number N_{Pe,i}, defining h as the cell size in that region gives the compact regional formula β_{i,k} = (N_{Pe,i} h)^{-1} - p_i/2, and the discrete backflow parameters {β_{i,k}} together with α_k can be chosen to reproduce the central-difference form of the continuous diffusion model; at feed and end nodes the one-sided boundary discretization is represented by the modified β values given below for the input nodes.",
+        "content_hash": "31894e331c817881b2017bcae1f26bf1fa7b1a0e98f32135851a86f4f9bb1354",
+        "id": "gcn_82c54f5ed59c45de",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811980635152318465::conclusion_2",
+            "package_id": "paper:811980635152318465",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811980635152318465"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define diffusion Monte Carlo (DMC) calculations performed with a Slater–Jastrow–backflow (SJ3) trial wave function and full configuration‑interaction quantum Monte Carlo (FCIQMC) calculations for a 54‑electron homogeneous electron gas (HEG) at a given density parameter r_s. The reported DMC SJ3 backflow and FCIQMC results for the 54‑electron HEG have well‑characterized and small residual errors (DMC fixed‑node biases and FCIQMC stochastic/initiator errors) and therefore serve as high‑quality benchmark reference correlation energies suitable for assessing the accuracy of CCSD and CCSD(scT) in the studied density range.\n      P. Lopez Ríos et al., Phys. Rev. E 74, 066701 (2006)",
+        "content_hash": "f52db3905826b60c535f2e84aa89335ddedb5a69cfc84fad59306ecd16c33b0a",
+        "id": "gcn_3067ccd88ea74203",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813222406561726464::P14",
+            "package_id": "paper:813222406561726464",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813222406561726464"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the seven-node linearized mass-balance system each flux term written in the form (X_a-X_b)/R_i may be interpreted algebraically and physically as a current through a resistor with inverse resistance 1/R_i equal to the corresponding kinetic coefficient (for example 1/R_2=k_{\\mathrm{m}} for boundary-layer transport), and each storage term C_i\\,dX_j/dt may be interpreted as current into a capacitor with capacitance C_i equal to the corresponding local accumulation coefficient (for example C_2=\\epsilon N_{T'} for the thin layer just above the surface), so that the dopant-incorporation model is algebraically equivalent to a lumped linear R–C circuit.",
+        "content_hash": "6dc974d2c9962b66716f2deb0007ffd710efe173438c3e7744846ba5560af480",
+        "id": "gcn_6c211f45d009474a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812080037153996801::P9",
+            "package_id": "paper:812080037153996801",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812080037153996801"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define backflow as the transformation of electronic coordinates $\\mathbf{r}_{i}\\mapsto\\tilde{\\mathbf{r}}_{i}=\\mathbf{r}_{i}+\\sum_{j\\neq i}\\eta(|\\mathbf{r}_{i}-\\mathbf{r}_{j}|)(\\mathbf{r}_{i}-\\mathbf{r}_{j})$ where $\\eta(\\cdot)$ is a short-range polynomial backflow function; the proposition is that including such backflow functions in Slater-Jastrow trial wave functions changes the fixed-node DMC total energy per electron by a substantial amount (improving the nodal surface) but alters the momentum-density distribution $\\rho(\\mathbf{k})$ only slightly (for example, by a small transfer of spectral weight above the Fermi wave vector) for paramagnetic 2D HEG densities in the range studied.",
+        "content_hash": "623fd468d6d7a826ff10323c9f489121ac1a5428524b1e871fdfe494183a1651",
+        "id": "gcn_e7d3a3b758414cf0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768181819703346::P7",
+            "package_id": "paper:867768181819703346",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768181819703346"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: In diffusion Monte Carlo (DMC) calculations of total energies for a two-dimensional homogeneous electron gas (2D HEG) carried out in finite periodic simulation cells, using a Slater–Jastrow–backflow (SJB) trial many-electron wave function (a Slater determinant or determinants multiplied by an explicit Jastrow correlation factor and with backflow coordinate transformations) that is optimized first by variance minimization and then by energy minimization, and that retrieves more than 99% of the correlation energy in corresponding ground-state variational calculations, produces nodal surfaces such that the fixed-node error (the bias in the DMC energy due to an incorrect nodal surface) in the DMC total-energy differences appearing in the estimator\n      $$\n      f_{\\sigma\\sigma'}(\\theta)=-\\big[E_{\\sigma\\sigma'}+E_0-E_{+}-E_{-}\\big]\n      $$\n      is negligible compared with the target precision of the computed Landau interaction function values; here DMC denotes the projector Monte Carlo simulation in imaginary time with the fixed-node approximation, “retrieves more than 99% of the correlation energy” means the ratio of the variationally recovered correlation energy to an accurate reference exceeds 0.99, and the energy differences $E_{\\sigma\\sigma'}$, $E_0$, $E_{+}$, and $E_{-}$ are as defined in the estimator above.",
+        "content_hash": "3c2057986aee82798b87540063e3198e2caed1ddd10bd4529c45e3c82f401577",
+        "id": "gcn_8b81c5ba53fe4f40",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P1",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "ece1ebd1856b4ae11253373f46c3ea72"
+}

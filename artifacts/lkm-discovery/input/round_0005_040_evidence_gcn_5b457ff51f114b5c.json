@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Diffusion Monte Carlo (DMC) calculations were performed to obtain the single-quasiparticle energy band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) for both paramagnetic (equal spin populations) and fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gases (2D HEGs) at several electron densities (specified by the density parameter \\\\(r_{s}\\\\)) and several finite periodic simulation-cell particle numbers \\\\(N\\\\). The band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) is defined here as the Landau single-quasiparticle energy of a finite simulation cell, evaluated as the difference in the many-electron total energy when a single electron is added to or removed from the ground state at wavevector \\\\(\\\\mathbf{k}\\\\). The statistical uncertainties of these DMC band values are sufficiently small to reveal a systematic finite-size trend under the simulation protocol used (square periodic cells with simulation-cell Bloch vector \\\\(k_{s}=0\\\\) and closed-shell ground states): at fixed physical density and spin polarization the computed bandwidth (the maximum minus the minimum of \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) over the discrete \\\\(\\\\mathbf{k}\\\\)-grid available in the cell) increases with increasing particle number \\\\(N\\\\).",
+      "content_hash": "1fbd68f78d6dd81651166e325b097ec3212e4d1c225e8b916e9cccaedaa3e7e1",
+      "id": "gcn_5b457ff51f114b5c",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Diffusion Monte Carlo (DMC) calculations were performed to obtain the single-quasiparticle energy band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) for both paramagnetic (equal spin populations) and fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gases (2D HEGs) at several electron densities (specified by the density parameter \\\\(r_{s}\\\\)) and several finite periodic simulation-cell particle numbers \\\\(N\\\\). The band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) is defined here as the Landau single-quasiparticle energy of a finite simulation cell, evaluated as the difference in the many-electron total energy when a single electron is added to or removed from the ground state at wavevector \\\\(\\\\mathbf{k}\\\\). The statistical uncertainties of these DMC band values are sufficiently small to reveal a systematic finite-size trend under the simulation protocol used (square periodic cells with simulation-cell Bloch vector \\\\(k_{s}=0\\\\) and closed-shell ground states): at fixed physical density and spin polarization the computed bandwidth (the maximum minus the minimum of \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) over the discrete \\\\(\\\\mathbf{k}\\\\)-grid available in the cell) increases with increasing particle number \\\\(N\\\\).",
+              "id": "gcn_5b457ff51f114b5c"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_c979f9a8e8424565",
+            "premises": [
+              {
+                "content": "Consider DMC calculations of the single-quasiparticle energy band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) for a 2D HEG at fixed physical density and spin polarization using square periodic simulation cells with simulation-cell Bloch vector set to \\\\(k_{s}=0\\\\) and with closed-shell ground-state occupations; perform these calculations for a sequence of system sizes \\\\(N\\\\in\\\\{N_{1},N_{2},\\\\dots\\\\}\\\\). The proposition is: the empirically observed increase of the computed bandwidth (the difference between the maximum and minimum discrete-cell values of \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) over the available discrete \\\\(\\\\mathbf{k}\\\\)-grid) with increasing particle number \\\\(N\\\\) at fixed density is a genuine finite-size trend representative of the typical behaviour under these stated simulation choices (square cells, \\\\(k_{s}=0\\\\), closed-shell ground states), rather than an artefact limited to a special choice of simulation-cell Bloch vector, a particular closed-shell occupation, or the specific discrete \\\\(N\\\\) values sampled.",
+                "id": "gcn_1234cb0f61cd44a2"
+              },
+              {
+                "content": "Let DMC calculations with the fixed-node approximation be carried out for ground and single-particle excited states of a 2D HEG using single-determinant Slater-Jastrow-backflow trial wave functions (real determinants for closed-shell ground states, Jastrow factors with polynomial and plane-wave terms, and polynomial backflow functions). The proposition is: the residual fixed-node errors introduced by the nodal surface of these single-determinant Slater-Jastrow-backflow trial wave functions are sufficiently small and similar in magnitude for the ground and corresponding single-particle excited states that the fixed-node error contributions to the total-energy differences that define the single-quasiparticle band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) are negligible compared with the statistical uncertainties and the finite-size effects analysed; hence fixed-node bias does not materially alter the excitation-energy trends reported within the stated numerical precision.",
+                "id": "gcn_1f9f0f2db1114bb1"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define \"diffusion Monte Carlo (DMC)\" as the quantum Monte Carlo projection method used to obtain ground-state expectation values by simulating the imaginary-time Schrödinger equation with a population of walkers and imposing the fixed-node approximation to maintain fermionic antisymmetry; define \"single-particle energy band\" $\\mathcal{E}(\\mathbf{k})$ as the Landau single-quasiparticle energy band, i.e., the energy of an isolated quasiparticle as a function of wavevector $\\mathbf{k}$ appearing in the Landau energy functional for the total energy of an excited state. \n[17,18,9]",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "State that the quasiparticle energy band $\\mathcal{E}_{\\sigma}(\\mathbf{k})$ is obtained in this work by computing total-energy differences when single electrons are added to or removed from the ground state at a specified wavevector $\\mathbf{k}$, in accordance with the Landau energy-functional parameterization of excitation energies where the band gives the energy of an isolated quasiparticle entering the total energy expression. \n[9]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Describe the simulation-cell choices and system sizes used that underpin the DMC band calculations: the simulation cell was square with simulation-cell Bloch vector $k_{s}=0$, closed-shell ground states were used, and for ferromagnetic HEGs ground-state electron numbers $N=29,57,101$ were employed while for paramagnetic HEGs ground-state electron numbers $N=26,50,74,114$ were employed; these finite-cell choices determine the discrete set of available wavevectors $\\{\\mathbf{k}\\}$ in which $\\mathcal{E}(\\mathbf{k})$ could be evaluated. \n[25,26]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Explain the form and optimization of the trial wave functions used in the DMC calculations: real single-determinant Slater-Jastrow-backflow trial wave functions were employed, with Jastrow factors consisting of polynomial and plane-wave expansions in interelectron distances and backflow functions consisting of polynomial expansions in interelectron distances; the polynomial expansions were cut off at the radius of the largest inscribed circle in the simulation cell, and VMC optimization (variance minimization then energy minimization) was used to obtain the parameter values that were subsequently used in DMC. \n[11-16]",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Report that the DMC energy bands obtained at each given system size agree with those calculated previously by the authors, but that the present calculations have much smaller statistical error bars owing to access to larger computational resources and much larger numbers of configurations used in the optimizations; this reduction in statistical noise made it possible to discern systematic trends with system size that were previously obscured.",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Provide the core empirical observation from the DMC energy-band results: the calculated bandwidth (the difference between the highest and lowest single-quasiparticle energies across the available $\\mathbf{k}$ values for a given finite cell) tends to increase with increasing particle number $N$ at fixed density and spin polarization, i.e., the DMC-calculated $\\mathcal{E}(\\mathbf{k})$ exhibits a clear systematic trend with finite simulation-cell size whereby the bandwidth grows as $N$ increases; this behavior is reported for both paramagnetic and fully spin-polarized (ferromagnetic) 2D HEGs and is visible in the plotted bands. \nFig. 1",
+                "step_id": "6"
+              },
+              {
+                "reasoning": "Conclude that the present DMC $\\mathcal{E}(\\mathbf{k})$ results are high-precision calculations of the Landau single-quasiparticle energy band for both paramagnetic and ferromagnetic 2D HEGs at multiple densities and system sizes, with statistical error bars substantially smaller than earlier work, and that these precise bands reveal the systematic finite-cell trend that the computed bandwidth increases with increasing $N$ at fixed density and spin polarization; reiterate that $\\mathcal{E}(\\mathbf{k})$ here denotes the Landau single-quasiparticle energy band of the simulated finite system, evaluated via the total-energy differences when single electrons are added or removed at wavevector $\\mathbf{k}$.",
+                "step_id": "7"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "In the study of interacting 2D electron fluids one needs accurate single-particle energy bands $\\mathcal{E}(\\mathbf{k})$ in order to extract the quasiparticle effective mass $m^{*}$. Prior QMC work reported energy-band data with statistical uncertainties that were large enough to obscure systematic trends with simulation-cell size, so finite-size effects could not be unambiguously identified or removed. This left the thermodynamic-limit behavior of the bandwidth and derived quantities such as $m^{*}$ uncertain. Because the bandwidth determines the slope of $\\mathcal{E}(\\mathbf{k})$ near the Fermi surface and hence $m^{*}$, the inability to resolve how the bandwidth varies with $N$ prevented reliable extrapolation of QMC effective masses to the infinite-system limit and produced discrepancies with other theoretical approaches and with experiment.",
+            "id": "paper:867751779943579657::conclusion_1_subproblem",
+            "source_package": "paper:867751779943579657"
+          }
+        ],
+        "source_package": "paper:867751779943579657"
+      }
+    ],
+    "papers": {
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "a1dbb89bb81677ff3426a896c9c1659d"
+}

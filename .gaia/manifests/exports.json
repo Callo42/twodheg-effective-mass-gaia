@@ -8,7 +8,7 @@
       "type": "claim"
     }
   ],
-  "ir_hash": "sha256:101f830fc7cc51aa9a7426c3f77c05c203ff30831416acb2bdbdffa5d94bd84e",
+  "ir_hash": "sha256:a9fedc61f118848a97a4d22ff180057118b3c3dce3359c7ec9227daa072641da",
   "manifest_schema_version": 1,
   "package": "twodheg-effective-mass",
   "version": "0.1.0"

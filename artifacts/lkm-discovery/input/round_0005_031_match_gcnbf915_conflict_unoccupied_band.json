@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:814713395637911553": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jaron T. Krogel | Jeongnim Kim | Fernando A. Reboredo",
+        "available_online": "2014-7-17",
+        "cover_date_start": "2014-07-17",
+        "created_at": "2022-12-27T20:20:11+08:00",
+        "doi": "10.1103/physrevb.90.035125",
+        "en_title": "Energy density matrix formalism for interacting quantum systems: Quantum Monte Carlo study",
+        "id": "814713395637911553",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "相互作用量子系统的能量密度矩阵形式：量子蒙特卡罗研究"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using diffusion quantum Monte Carlo (DMC) total-energy differences obtained by adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$, producing the complete occupied band for both the paramagnetic (spin-unpolarized) and fully spin-polarized (ferromagnetic) fluids at the density-parameter values $r_s=1$, $5$, and $10$ (atomic units). The single-particle energy for an occupied momentum state $\\mathbf{k}$ was defined as $\\mathcal{E}(\\mathbf{k})\\equiv E_0-E_{-}(\\mathbf{k})$ and for an unoccupied state as $\\mathcal{E}(\\mathbf{k})\\equiv E_{+}(\\mathbf{k})-E_0$, where $E_0$ is the $N$-electron ground-state total energy and $E_{\\pm}(\\mathbf{k})$ are the total energies of the $(N\\pm 1)$-electron systems with the added or removed plane-wave orbital; all energies are reported in Hartree atomic units. The discrete DMC band values at the allowed reciprocal-lattice wave vectors were represented by least-squares fits to quartic functions of the form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ in order to obtain continuous occupied-band representations and analytic derivatives.",
+        "content_hash": "db64c408f881bace1959c6056ec67fe0f79310e68527f646802ef73c223a8510",
+        "id": "gcn_87961f1707814e6f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_1",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+        "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+        "id": "gcn_bf915935b1fd4326",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_1",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03149801587301587,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03057889822595705,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DMC-calculated quasiparticle effective mass exhibits opposite trends with density for the two spin polarizations studied: in the paramagnetic (unpolarized) 2D HEG $m^{*}$ increases with increasing $r_{s}$ (decreasing density), producing a significant enhancement at $r_{s}=5$ and $r_{s}=10$, whereas in the fully ferromagnetic (fully spin-polarized) 2D HEG $m^{*}$ decreases as density is lowered; these calculated trends are quantitatively consistent with the experimental observations of Tan et al. for paramagnetic systems and of Padmanabhan et al. for ferromagnetic or partially spin-polarized systems.",
+        "content_hash": "1f24fa7b336da07b315b306303e81584370cfd18bbdc2be612f5f8c5572972c0",
+        "id": "gcn_4d1aad1470d54895",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_5",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0304147465437788,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied bandwidth $\\Delta\\mathcal{E}=\\mathcal{E}(k_F)-\\mathcal{E}(0)$ of the 2D HEG was obtained from the quartic fits to the DMC bands at $r_s=1$, $5$, and $10$ atomic units; the DMC bandwidths (in Hartree atomic units) are: paramagnetic $\\Delta\\mathcal{E}=1.045(5)$ at $r_s=1$, $0.0281(8)$ at $r_s=5$, and $0.0055(3)$ at $r_s=10$; ferromagnetic $\\Delta\\mathcal{E}=2.434(6)$ at $r_s=1$, $0.141(1)$ at $r_s=5$, and $0.0427(8)$ at $r_s=10$. Here $k_F$ denotes the Fermi wave vector, with $k_F=\\sqrt{2}/r_s$ for the paramagnetic 2D fluid and $k_F=2/r_s$ for the fully spin-polarized 2D fluid, and the free-electron occupied bandwidth is $\\Delta\\mathcal{E}^{\\mathrm{free}}=k_F^2/2$. These DMC bandwidths lie substantially below the Hartree-Fock (HF) bandwidth values computed as $\\Delta\\mathcal{E}^{\\mathrm{HF}}=k_F^2/2 + k_F(1-2/\\pi)$, and for the paramagnetic fluid at the intermediate and low densities studied ($r_s=5$ and $10$) the DMC bandwidths are smaller than the free-electron bandwidth $\\Delta\\mathcal{E}^{\\mathrm{free}}$, whereas for the ferromagnetic fluid the DMC bandwidths exceed the free-electron bandwidth at the densities studied.",
+        "content_hash": "f562aa459414791b6e3bcecfd6423a35da94952fc7117e8e61d09bd1e352f53a",
+        "id": "gcn_ba6a58e544be46b0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_2",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030017921146953404,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the interacting 2D HEG energy-band data sets produced by DMC at the densities ($r_s=1,5,10$) and system sizes reported, truncating the band representation to a quartic polynomial in $k$, $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$, captures the essential curvature: the least-squares fits yield residuals that are small compared with the quoted uncertainties, so that the fitted coefficients $\\alpha_2$ and $\\alpha_4$ and derived quantities (occupied bandwidth and derivative at $k_F$ used to obtain $m^{*}$) are accurate within the stated error bars and higher-order terms ($k^6$ and beyond) are negligible over the occupied $k$-range used for the reported extractions.",
+        "content_hash": "6446c2adbdb6ad295eda69e3195ed012c3c020f855cd4b5cb9794139fb44fe81",
+        "id": "gcn_f6686a4225a043a6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P9",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02964426877470356,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a finite interacting HEG, denote the occupied-state occupation energies by \\mathcal{E}_k for crystal-momentum states k with |k|<k_F. Fitting the computed \\mathcal{E}_k over the occupied k range to the parabolic dispersion model\n      $$\n      \\mathcal{E}_k \\approx \\frac{\\hbar^2 k^2}{2 m^*}\n      $$\n      yields an effective mass parameter m^*; in the reported fit to DMC data for r_s=3.0 the fitted value is m^*=0.84\\,m_e. This procedure assumes the occupied-state dispersion is well approximated by a parabola over the fitted range and that constant background energy shifts and finite-size discretization have been properly accounted for in the fit.",
+        "content_hash": "e3220dca24a555a2737b428d8099286c2232027d6a8d898fb94167e763700192",
+        "id": "gcn_53fbaeaa9b8246e4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814713395637911553::P8",
+            "package_id": "paper:814713395637911553",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814713395637911553"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028665028665028666,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the experimental ferromagnetic effective-mass measurements of Padmanabhan et al. have been obtained in the presence of an external magnetic field whose component normal to the two-dimensional electron layer was relatively small; the proposition is that comparing zero-field theoretical DMC calculations of a fully spin-polarized (ferromagnetic) 2D HEG with those experimental ferromagnetic measurements is valid because the small normal component of the experimental magnetic field does not materially alter the single-particle band and effective-mass behavior relevant to the comparison, so that the theoretical idealization and the experimental conditions are sufficiently compatible for the stated quantitative agreement to be meaningful.",
+        "content_hash": "f37b3e884b6d5e12fd56b8c7358e375f81c34f282030e62c7a142f9d8cfdf2fd",
+        "id": "gcn_273f59185db44e41",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P14",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028083267871170464,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "At the density parameter r_s = 4 (where r_s = ((3/(4π n))^{1/3} a_B^{-1}), a value corresponding to the average valence-electron density of bulk sodium metal), the diffusion Monte Carlo (DMC) occupied bandwidth of the paramagnetic three-dimensional homogeneous electron gas (3D-HEG) matches previously reported many-body quantum Monte Carlo (QMC) and GW calculations for sodium, and the DMC occupied bandwidth at r_s = 4 is larger than the corresponding free-electron occupied bandwidth; consequently, the DMC quasiparticle bands for the uniform 3D-HEG at r_s = 4 exclude the possibility that the occupied bandwidth is reduced (narrowed) relative to the free-electron model at this density.",
+        "content_hash": "c4d216971897d3120fdc42fc646950bf26c9c3e7088bd2a7a585b7a303e8170b",
+        "id": "gcn_a3ce09b9c6fb4391",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_4",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027272727272727275,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the fully spin-polarized (ferromagnetic) 2D HEG be represented theoretically by the continuum-model DMC calculations and experimentally by high-quality semiconductor two-dimensional systems in which spin polarization can be induced (for example by applying an in-plane magnetic field). The proposition is: the suppression of the quasiparticle effective mass with decreasing density observed in the DMC-extrapolated ferromagnetic results (numerically \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\)) corresponds qualitatively to the trend measured in experiments cited in the literature (for example Padmanabhan et al.), and this qualitative agreement is not invalidated by differences in sample specifics, partial polarization, disorder, or experimental measurement methodology.",
+        "content_hash": "669cd5e31b46fba548ede2ea9e82b88947057ce76f13729914fa9240641a1002",
+        "id": "gcn_c29299878b8148cb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P12",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02649122807017544,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "5da6d8b7c90b7318341a954e21d021d7"
+}

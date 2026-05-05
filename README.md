@@ -2,7 +2,7 @@
 
 Gaia knowledge package for the effective-mass problem in the two-dimensional homogeneous electron gas (2D HEG), built from LKM evidence chains.
 
-The package focuses on why numerical treatments of the 2D HEG quasiparticle effective mass can disagree about whether `m*/m` is below, near, or above unity. Current graph growth has reached `round_0004`.
+The package focuses on why numerical treatments of the 2D HEG quasiparticle effective mass can disagree about whether `m*/m` is below, near, or above unity. Current graph growth has reached `round_0005`.
 
 ## Starmap
 
@@ -10,9 +10,9 @@ The package focuses on why numerical treatments of the 2D HEG quasiparticle effe
 
 Current rendered starmap:
 
-- `39` visible starmap nodes
-- `36` starmap edges
-- Gaia IR: `40 knowledge`, `13 strategies`, `2 operators`
+- `43` visible starmap nodes
+- `40` starmap edges
+- Gaia IR: `44 knowledge`, `15 strategies`, `2 operators`
 
 ## Current Focus
 

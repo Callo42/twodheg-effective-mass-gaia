@@ -57,3 +57,10 @@
 | `gcn_8df2cd5b49524aac` + `gfac_3fb52945143e4b02` | support | chain-backed | claim + deduction + support | Adds mechanistic reason for wide k-window fitting: near-k_F derivative pathologies. |
 | `gcn_bf915935b1fd4326` + `gfac_de955cd831054c41` | support | chain-backed | claim + deduction + support | Adds earlier DMC occupied-band quartic-curvature evidence supporting later band-fit protocol. |
 | `gcn_3ef0b7f51e4a4208` | adjacent method | chain-backed | dismissed | 3D Fermi liquid Padé protocol; retained as adjacent lead but not added to 2D HEG package branch. |
+
+## Round 0005 Accepted Mappings
+
+| LKM object | Channel | Evidence status | Gaia action | Rationale |
+|---|---|---|---|---|
+| `gcn_318b062f17344859` + `gfac_ca2b45abbd52472f` | support/context | chain-backed | claim + deduction + support | Extends occupied-band curvature branch to thermodynamic implications of nonquadratic dispersion. |
+| `gcn_2ded391a3ca74052` | adjacent method | chain-backed | dismissed | 3D Fermi liquid HF-pathology result; retained as adjacent lead, not added to 2D HEG main branch. |

@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The Hartree–Fock (HF) exchange contribution to the single-particle energy for a two-dimensional uniform electron liquid (2D-UEL), ε^{(x)}(k), analytically produces a logarithmic-divergence-like behavior in its derivative near the Fermi wave vector k_F for finite systems; in practical fixed-node diffusion Monte Carlo (DMC) calculations that use finite parametrized trial wave functions (for example Slater–Jastrow or Slater–Jastrow–backflow), the DMC projection does not recover sufficient correlation energy to completely eliminate the HF-induced large and oscillatory gradients of the single-particle band near k_F, and therefore these HF-derived derivative pathologies can leave residual contamination in the QMC-computed quasiparticle bands and derivative-based estimates such as m* unless the nodal surfaces are further improved and finite-size effects are carefully treated.",
+      "content_hash": "590f884da8394303712cdac527f628bfc7712a2d56c9d8abd332ee718c795d46",
+      "id": "gcn_7f4b3136938a4591",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "4b0e0e1871da8ed46b153ccfd41551d8"
+}

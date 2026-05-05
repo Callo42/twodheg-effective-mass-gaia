@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The fitted DMC bands deviate from a purely quadratic dependence on $k$: when the fitted quartic form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ is used, the quartic coefficient $\\alpha_4$ is positive for the paramagnetic HEG at $r_s=5$ and $10$ a.u., while $\\alpha_4$ is negative for the ferromagnetic HEG at all densities studied; because these fitted bands are non-quadratic, thermodynamic properties that depend on integrals over the dispersion (for example temperature-dependent contributions to the free energy and specific heat at elevated temperatures) are predicted to depart from the free-particle-like behavior that would follow from a strictly quadratic dispersion $\\propto k^2$.",
+      "content_hash": "6d05e37a9b8fe01e096b39c1530fca53a8e4ed1868b8a44e2e7721254d9943b0",
+      "id": "gcn_318b062f17344859",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The fitted DMC bands deviate from a purely quadratic dependence on $k$: when the fitted quartic form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ is used, the quartic coefficient $\\alpha_4$ is positive for the paramagnetic HEG at $r_s=5$ and $10$ a.u., while $\\alpha_4$ is negative for the ferromagnetic HEG at all densities studied; because these fitted bands are non-quadratic, thermodynamic properties that depend on integrals over the dispersion (for example temperature-dependent contributions to the free energy and specific heat at elevated temperatures) are predicted to depart from the free-particle-like behavior that would follow from a strictly quadratic dispersion $\\propto k^2$.",
+              "id": "gcn_318b062f17344859"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_ca2b45abbd52472f",
+            "premises": [
+              {
+                "content": "Suppose the true interacting-band dispersion admits a convergent even-power Taylor expansion $\\mathcal{E}(k)=\\sum_{n\\ge 0}\\beta_{2n} k^{2n}$ for $0\\le k\\le k_F$; the band-fitting analysis retains terms up to $k^4$ only, i.e., $\\mathcal{E}(k)\\approx\\beta_0+\\beta_2 k^2+\\beta_4 k^4$ identified with $\\alpha_0,\\alpha_2,\\alpha_4$, and it is assumed that the contributions of higher-order terms $\\beta_6 k^6+\\beta_8 k^8+\\dots$ are negligible within the $k$-range used for the fit so that the sign and magnitude of the fitted $\\alpha_4$ reliably indicate the leading non-quadratic correction to the band and its physical implications.",
+                "id": "gcn_888498a0614d40d7"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the quartic fits to the DMC occupied bands obtained via the protocol (conclusion 5) and recall that the fitted band has the functional form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$, with coefficient $\\alpha_4$ quantifying the leading non-quadratic correction to a purely parabolic band.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Report the signs of the quartic coefficient $\\alpha_4$ inferred from the fitted bands: for the paramagnetic HEG the quartic coefficient $\\alpha_4$ is positive at $r_s=5$ and $r_s=10$ a.u., while for the ferromagnetic HEG $\\alpha_4$ is negative at all densities studied, as observed from the fitted curves plotted by the authors.\nFig. 2; Fig. 3",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Conclude the physical implication of a nonzero $\\alpha_4$: because the energy bands deviate from a purely quadratic $k^2$ dependence due to the $\\alpha_4 k^4$ term, thermodynamic properties such as high-temperature response that are derived assuming quadratic free-particle bands will be modified and hence the interacting HEG is predicted to display non-free-particle-like thermodynamic behavior when the $\\alpha_4$ term is significant.",
+                "step_id": "3"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Many analytic and phenomenological analyses assume quasiparticle bands that are quadratic near the Fermi surface, leading to free-particle-like high-temperature thermodynamics. If the true interacting band contains significant higher-order ($k^4$) terms with differing signs depending on spin polarization and density, these assumptions fail and a correct prediction of thermodynamic behavior requires explicit knowledge of the full band curvature beyond the quadratic term.",
+            "id": "paper:867763861497839690::conclusion_7_subproblem",
+            "source_package": "paper:867763861497839690"
+          }
+        ],
+        "source_package": "paper:867763861497839690"
+      }
+    ],
+    "papers": {
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "da4f0bb7b55e4b7a3cad5de9eb5f8478"
+}

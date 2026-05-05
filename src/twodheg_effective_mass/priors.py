@@ -14,6 +14,7 @@ from .paper_drummond2013_effective_mass import (
 )
 from .paper_drummond2009_fermi_fluid import (
     gcn_4d1aad1470d54895,
+    gcn_888498a0614d40d7,
     gcn_f6686a4225a043a6,
     gcn_fd7adbfff0f146ba,
 )
@@ -78,5 +79,9 @@ PRIORS = {
     gcn_fd7adbfff0f146ba: (
         0.70,
         "LKM chain premise that fixed-node errors largely cancel in DMC band energy differences; method-specific and pending reviewer calibration. TODO:review",
+    ),
+    gcn_888498a0614d40d7: (
+        0.72,
+        "LKM chain premise that the quartic term is the leading nonquadratic band correction over the fitted k range; relies on neglecting higher-order terms. TODO:review",
     ),
 }

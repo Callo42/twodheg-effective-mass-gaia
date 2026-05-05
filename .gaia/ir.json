@@ -1,5 +1,5 @@
 {
-  "ir_hash": "sha256:101f830fc7cc51aa9a7426c3f77c05c203ff30831416acb2bdbdffa5d94bd84e",
+  "ir_hash": "sha256:a9fedc61f118848a97a4d22ff180057118b3c3dce3359c7ec9227daa072641da",
   "knowledges": [
     {
       "content": "For an added-electron excitation with momentum p above k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy correction delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. In leading order, the corresponding potential-energy correction is independent of p and therefore does not affect the slope of the excitation dispersion used to extract m* from near-k_F fits [@Holzmann2008].",
@@ -520,6 +520,60 @@
       "type": "claim"
     },
     {
+      "content": "If the interacting 2D HEG band admits an even-power expansion E(k)=sum beta_2n k^(2n), retaining terms through k^4 assumes that higher-order k^6 and above terms are negligible over the fitted k-range, so the fitted alpha_4 coefficient captures the leading nonquadratic correction and its physical implications [@Drummond2009b].",
+      "content_hash": "920f09bebcfb2974921cb1ccb6255282593b548b1dea82305f9bcd19e86b416d",
+      "declaration_index": 4,
+      "exported": false,
+      "id": "local:twodheg_effective_mass::gcn_888498a0614d40d7",
+      "label": "gcn_888498a0614d40d7",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Drummond2009b"
+            ]
+          }
+        },
+        "lkm_id": "gcn_888498a0614d40d7",
+        "lkm_original": "Suppose the true interacting-band dispersion admits a convergent even-power Taylor expansion $\\mathcal{E}(k)=\\sum_{n\\ge 0}\\beta_{2n} k^{2n}$ for $0\\le k\\le k_F$; the band-fitting analysis retains terms up to $k^4$ only, i.e., $\\mathcal{E}(k)\\approx\\beta_0+\\beta_2 k^2+\\beta_4 k^4$ identified with $\\alpha_0,\\alpha_2,\\alpha_4$, and it is assumed that the contributions of higher-order terms $\\beta_6 k^6+\\beta_8 k^8+\\dots$ are negligible within the $k$-range used for the fit so that the sign and magnitude of the fitted $\\alpha_4$ reliably indicate the leading non-quadratic correction to the band and its physical implications.",
+        "prior": 0.72,
+        "prior_justification": "LKM chain premise that the quartic term is the leading nonquadratic band correction over the fitted k range; relies on neglecting higher-order terms. TODO:review",
+        "provenance_source": "lkm",
+        "source_package": "paper:867763861497839690",
+        "source_paper": "paper:867763861497839690"
+      },
+      "module": "paper_drummond2009_fermi_fluid",
+      "parameters": [],
+      "title": "Quartic term as leading nonquadratic correction",
+      "type": "claim"
+    },
+    {
+      "content": "The fitted DMC bands for the 2D HEG deviate from purely quadratic k-dependence: in the quartic fit E(k)=alpha_0+alpha_2 k^2+alpha_4 k^4, alpha_4 is positive for the paramagnetic HEG at r_s=5 and 10, while alpha_4 is negative for the ferromagnetic HEG at all studied densities. Because these bands are nonquadratic, thermodynamic properties depending on integrals over the dispersion can depart from free-particle-like behavior [@Drummond2009b].",
+      "content_hash": "d2e7dec2c4f01a38ddb256fe42f511b710584054e5327f4c44ace239661d9e56",
+      "declaration_index": 5,
+      "exported": false,
+      "id": "local:twodheg_effective_mass::gcn_318b062f17344859",
+      "label": "gcn_318b062f17344859",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Drummond2009b"
+            ]
+          }
+        },
+        "lkm_id": "gcn_318b062f17344859",
+        "lkm_original": "The fitted DMC bands deviate from a purely quadratic dependence on $k$: when the fitted quartic form $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ is used, the quartic coefficient $\\alpha_4$ is positive for the paramagnetic HEG at $r_s=5$ and $10$ a.u., while $\\alpha_4$ is negative for the ferromagnetic HEG at all densities studied; because these fitted bands are non-quadratic, thermodynamic properties that depend on integrals over the dispersion (for example temperature-dependent contributions to the free energy and specific heat at elevated temperatures) are predicted to depart from the free-particle-like behavior that would follow from a strictly quadratic dispersion $\\propto k^2$.",
+        "provenance_source": "lkm",
+        "source_package": "paper:867763861497839690",
+        "source_paper": "paper:867763861497839690"
+      },
+      "module": "paper_drummond2009_fermi_fluid",
+      "parameters": [],
+      "title": "Nonquadratic DMC band curvature affects thermodynamics",
+      "type": "claim"
+    },
+    {
       "content": "When fitting finite-N effective-mass data to m*(N)=m*(infinity)+b N^(-gamma), repeated fits with Monte Carlo resampling of the statistical error bars provide uncertainty estimates for m*(infinity) that capture dominant statistical variability, while not necessarily covering all model-selection or systematic extrapolation errors [@Drummond2012].",
       "content_hash": "f660d05570d640a6b7973b3b299e44e9a10d341dcbcd85b4feb8c6506c139e3d",
       "declaration_index": 0,
@@ -827,6 +881,27 @@
       "type": "claim"
     },
     {
+      "content": "implies(local:twodheg_effective_mass::gcn_888498a0614d40d7,local:twodheg_effective_mass::gcn_318b062f17344859)",
+      "content_hash": "331a8538131ed9e6081ecac828373c47cfcdbed7525e46361207351d37c3ac63",
+      "exported": false,
+      "id": "local:twodheg_effective_mass::__implication_result_c0233d21",
+      "label": "__implication_result_c0233d21",
+      "metadata": {
+        "canonical_name": "implies(local:twodheg_effective_mass::gcn_888498a0614d40d7,local:twodheg_effective_mass::gcn_318b062f17344859)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_46e2e96d0217697b",
+        "owning_strategy_type": "deduction",
+        "prior": 0.95,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
       "content": "all_true(local:twodheg_effective_mass::gcn_a685639571304474,local:twodheg_effective_mass::gcn_17c63b5dc2154f15)",
       "content_hash": "6cf5582926cd2cd8d3c8168ea499db37d02afe2b93f1f38b5379385bec8eff90",
       "exported": false,
@@ -967,6 +1042,27 @@
         "owning_strategy_id": "lcs_e6074b2bc2f4dfdb",
         "owning_strategy_type": "support",
         "prior": 0.74,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(local:twodheg_effective_mass::gcn_bf915935b1fd4326,local:twodheg_effective_mass::gcn_318b062f17344859)",
+      "content_hash": "68bc5870b83a65b5e560307237ad85d89e6aecb9507d33994653baba7b7ca868",
+      "exported": false,
+      "id": "local:twodheg_effective_mass::__implication_result_390872df",
+      "label": "__implication_result_390872df",
+      "metadata": {
+        "canonical_name": "implies(local:twodheg_effective_mass::gcn_bf915935b1fd4326,local:twodheg_effective_mass::gcn_318b062f17344859)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_5f0dd638aa59cab5",
+        "owning_strategy_type": "support",
+        "prior": 0.8,
         "visibility": "formal_internal"
       },
       "parameters": [],
@@ -1245,6 +1341,35 @@
       "type": "deduction"
     },
     {
+      "conclusion": "local:twodheg_effective_mass::gcn_318b062f17344859",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "local:twodheg_effective_mass::__implication_result_c0233d21",
+            "operator": "implication",
+            "variables": [
+              "local:twodheg_effective_mass::gcn_888498a0614d40d7",
+              "local:twodheg_effective_mass::gcn_318b062f17344859"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "judgment": "accepted",
+        "justification": "Accepted as an LKM factor-derived warrant for the thermodynamic implication of nonquadratic DMC band curvature.",
+        "prior": 0.95,
+        "reason": "1. Start from the quartic fits E(k)=alpha_0+alpha_2 k^2+alpha_4 k^4, where alpha_4 is the leading nonquadratic correction.\n2. Report that alpha_4 is positive for the paramagnetic HEG at r_s=5 and 10, and negative for the ferromagnetic HEG at all studied densities.\n3. Infer that a nonzero quartic term modifies thermodynamic properties that would otherwise be derived from a purely quadratic free-particle dispersion."
+      },
+      "premises": [
+        "local:twodheg_effective_mass::gcn_888498a0614d40d7"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_46e2e96d0217697b",
+      "type": "deduction"
+    },
+    {
       "conclusion": "local:twodheg_effective_mass::gcn_b7a7d456a05d4129",
       "formal_expr": {
         "operators": [
@@ -1425,6 +1550,35 @@
       ],
       "scope": "local",
       "strategy_id": "lcs_e6074b2bc2f4dfdb",
+      "type": "support"
+    },
+    {
+      "conclusion": "local:twodheg_effective_mass::gcn_318b062f17344859",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "local:twodheg_effective_mass::__implication_result_390872df",
+            "operator": "implication",
+            "variables": [
+              "local:twodheg_effective_mass::gcn_bf915935b1fd4326",
+              "local:twodheg_effective_mass::gcn_318b062f17344859"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "judgment": "accepted",
+        "justification": "Accepted as same-paper support from the observed quartic band curvature to its thermodynamic implication.",
+        "prior": 0.8,
+        "reason": "The occupied-band result establishes the fitted quartic DMC band curvature, which supports the later claim that nonquadratic curvature can modify thermodynamic properties depending on band integrals."
+      },
+      "premises": [
+        "local:twodheg_effective_mass::gcn_bf915935b1fd4326"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_5f0dd638aa59cab5",
       "type": "support"
     }
   ]

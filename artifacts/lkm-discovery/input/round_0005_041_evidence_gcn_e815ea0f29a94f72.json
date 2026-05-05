@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Given a discrete set of DMC-computed occupied-band energy values $\\{\\mathcal{E}(k_j)\\}$ at reciprocal-space grid points $k_j$ available in a finite periodic simulation cell, the occupied-band shape on the interval $0\\le k\\le k_F$ is represented by fitting a quartic polynomial $\\mathcal{E}(k)=\\alpha_0+\\alpha_2 k^2+\\alpha_4 k^4$ by least squares to the DMC points and using the analytic derivative $\\partial\\mathcal{E}/\\partial k = 2\\alpha_2 k + 4\\alpha_4 k^3$ evaluated at $k=k_F$ to obtain the quasiparticle effective mass $m^{*}=k_F / (\\partial\\mathcal{E}/\\partial k)_{k_F}$; this procedure assumes that a three-parameter quartic model is sufficiently flexible to capture the true band curvature over the fitting range so that the derivative at $k_F$ is reliable and not significantly biased by higher-order $k$-dependence or by fitting over points far from $k_F$.",
+      "content_hash": "2145b92b11acf64af6e0ba95167afa8ede6165af31c6cb02191f28f51f8e31b5",
+      "id": "gcn_e815ea0f29a94f72",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "f8b79044619df9f57433efdde39fccb9"
+}

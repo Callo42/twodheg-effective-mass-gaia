@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811090136358977537": {
+        "area": "Physics and Astrophysics",
+        "authors": "Biao Wang | Hongjun Xiang | Tsuneyoshi Nakayama | Jun Zhou | Baowen Li",
+        "available_online": "2017-1-3",
+        "cover_date_start": "2017-01-03",
+        "created_at": "2022-12-17T20:22:39+08:00",
+        "doi": "10.1103/physrevb.95.035201",
+        "en_title": "Theoretical investigation on thermoelectric properties of Cu-based chalcopyrite compounds",
+        "id": "811090136358977537",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "铜基黄铜矿化合物热电性能的理论研究"
+      },
+      "paper:812689741207044097": {
+        "area": "Material science",
+        "authors": "Hai-Long Sun | Chuan-Lu Yang | Mei-Shan Wang | Xiao-Guang Ma",
+        "available_online": "2020-1-10",
+        "cover_date_start": "2020-01-10",
+        "created_at": "2022-12-22T06:18:55+08:00",
+        "doi": "10.1021/acsami.9b19198",
+        "en_title": "Remarkably High Thermoelectric Efficiencies of the Half-Heusler Compounds BXGa (X = Be, Mg, and Ca)",
+        "id": "812689741207044097",
+        "keywords": "",
+        "publication_date": "2020-2-5",
+        "publication_id": "2064",
+        "publication_name": "ACS Applied Materials and Interfaces _ ACS Appl. Mater. Interfaces",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "半赫斯勒化合物BXGa（X = Be、Mg和Ca）具有显著高的热电效率"
+      },
+      "paper:814513640597094400": {
+        "area": "Physics and Astrophysics",
+        "authors": "Demin Yin | Youngki Yoon",
+        "available_online": "",
+        "cover_date_start": "2016-06-07",
+        "created_at": "2022-12-27T07:06:26+08:00",
+        "doi": "10.1063/1.4953256",
+        "en_title": "Design strategy of two-dimensional material field-effect transistors: Engineering the number of layers in phosphorene FETs",
+        "id": "814513640597094400",
+        "keywords": "",
+        "publication_date": "2016-6-7",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "[\"Engineering\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "二维材料场效应晶体管的设计策略：调控磷烯场效应晶体管中的层数"
+      },
+      "paper:814664540821127168": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. E. Northrup",
+        "available_online": "",
+        "cover_date_start": "2015-01-12",
+        "created_at": "2022-12-27T17:06:03+08:00",
+        "doi": "10.1063/1.4906061",
+        "en_title": "Mobility enhancement in polymer organic semiconductors arising from increased interconnectivity at the level of polymer segments",
+        "id": "814664540821127168",
+        "keywords": "",
+        "publication_date": "2015-1-12",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "聚合物有机半导体中由于聚合物链段层面互连性增加而导致的迁移率增强"
+      },
+      "paper:814688876521062401": {
+        "area": "Physics and Astrophysics",
+        "authors": "Alexandr Fonari | Christopher Sutton | Jean-Luc Brédas | Veaceslav Coropceanu",
+        "available_online": "2014-10-21",
+        "cover_date_start": "2014-10-21",
+        "created_at": "2022-12-27T18:42:45+08:00",
+        "doi": "10.1103/physrevb.90.165205",
+        "en_title": "Impact of exact exchange in the description of the electronic structure of organic charge-transfer molecular crystals",
+        "id": "814688876521062401",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "精确交换对有机电荷转移分子晶体电子结构描述的影响"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867765509788009251": {
+        "area": "arXiv-Physics",
+        "authors": "J. Slawinska | I. Zasada | Z. Klusek",
+        "available_online": "",
+        "cover_date_start": "2010-02-08",
+        "created_at": "2023-05-23T05:50:20+08:00",
+        "doi": "10.48550/arXiv.1002.1697",
+        "en_title": "Energy gap tuning in graphene on hexagonal boron nitride bilayer system",
+        "id": "867765509788009251",
+        "keywords": "",
+        "publication_date": "2010-02-08",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "六方氮化硼双层体系上石墨烯中的能隙调控"
+      }
+    },
+    "variables": [
+      {
+        "content": "Assume the true thermodynamic-limit single-quasiparticle band of a 2D HEG is a smooth function \\\\(\\\\mathcal{E}(k)\\\\) in a neighbourhood of the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: fitting the finite-cell discrete DMC band values to the quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4}\n      $$\n      over a modest interval \\\\([k_{F}-\\\\Delta k,\\\\,k_{F}+\\\\Delta k]\\\\) (with \\\\(\\\\Delta k\\\\) chosen so that the interval is not extremely small and contains sufficient discrete \\\\(k\\\\)-points to characterise curvature) yields an estimate of the derivative \\\\(\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}\\\\) that is an adequately accurate approximation to the true thermodynamic-limit derivative for the purpose of computing the quasiparticle effective mass \\\\(m^{*}=k_{F}/(d\\\\mathcal{E}/dk)_{k_{F}}\\\\), provided the quartic form captures the local curvature of \\\\(\\\\mathcal{E}(k)\\\\).",
+        "content_hash": "6cc3eb65fc25efaee30ba0871438cfda053e9018366a60e7386fe1caa0bae0cb",
+        "id": "gcn_496f0cb16cf14324",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028949545078577336,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the inverse effective-mass tensor at a band extremum k_0 by m_{ij}^{-1}(k_0) = (1/ħ^2) ∂^2E_n(k)/∂k_i∂k_j|_{k_0}, where ħ is the reduced Planck constant and E_n(k) is the band energy for band index n; the proposition is that computing these second derivatives by a finite-difference five-point stencil in reciprocal space with step size Δk=0.01 Bohr^{-1} yields numerical values for the smallest eigenvalue of m_{ij} (reported in units of the electron rest mass m_0) that are accurate to the quoted significant figures (for example, hole m_eff decreasing from 2.011 m_0 at 0%HF to 1.406 m_0 at 50%HF) and that the discretization error from this finite-difference approximation does not materially change the reported near-linear trends or the stated R^2 values for the linear fits.",
+        "content_hash": "cbde87ad8d714fdf6d25de6fbb2f63efb509a194fc39fe9c585a329a03b8c83c",
+        "id": "gcn_da5a27de50c649a1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814688876521062401::P3",
+            "package_id": "paper:814688876521062401",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814688876521062401"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+        "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+        "id": "gcn_aac0470dbff84cb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The effective-mass tensor components are defined by second derivatives of the band energy at the $\\Gamma$ point via $m_{\\parallel}^{*-1}=(1/\\hbar^2)\\partial^2E/\\partial k_z^2$ and $m_{\\perp}^{*-1}=(1/\\hbar^2)\\partial^2E/\\partial k_x^2=(1/\\hbar^2)\\partial^2E/\\partial k_y^2$, and the masses reported are obtained by fitting HSE06+SOC eigenvalues computed on a $\\Gamma$-centered $5\\times 5\\times 5$ $k$-mesh using finite-difference or curvature-fitting procedures near $\\Gamma$. The weak point is the assumption that this numerical procedure produces converged effective-mass values, i.e., that increasing $k$-point density or using denser eigenvalue sampling would not materially change the reported masses.",
+        "content_hash": "3f651530ee19841f5a3dda333c6565255d6a6d72b7f8a7a521034193e5aadf74",
+        "id": "gcn_3a627cffc5fd44fb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811090136358977537::P5",
+            "package_id": "paper:811090136358977537",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811090136358977537"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "At each density, spin polarization, and finite system size the discrete DMC band values \\\\(\\\\mathcal{E}(k)\\\\) (where \\\\(k=|\\\\mathbf{k}|\\\\)) were fitted over an extended wavevector interval to a quartic polynomial model\n      $$\n      \\\\mathcal{E}(k)=\\\\alpha_{0}+\\\\alpha_{2}k^{2}+\\\\alpha_{4}k^{4},\n      $$\n      with fitted coefficients \\\\(\\\\alpha_{0},\\\\alpha_{2},\\\\alpha_{4}\\\\). The quasiparticle effective mass was then obtained from the definition\n      $$\n      m^{*}=\\\\frac{k_{F}}{\\\\left.\\\\dfrac{d\\\\mathcal{E}}{dk}\\\\right|_{k_{F}}},\n      $$\n      where \\\\(k_{F}\\\\) is the Fermi wavevector of the infinite 2D HEG at the given density and spin polarization and the derivative is evaluated at \\\\(k=k_{F}\\\\). It was observed that extracting the derivative from fits restricted to a very narrow interval immediately surrounding \\\\(k_{F}\\\\) yields ill-behaved (pathological) estimates of \\\\(m^{*}\\\\), whereas performing the quartic fit over a larger modest wavevector range around \\\\(k_{F}\\\\) produces stable, systematically varying estimates of \\\\(m^{*}\\\\). Averaging the band behaviour over such a modest \\\\(k\\\\)-range therefore provides a controlled practical procedure to suppress the finite-cell and Hartree–Fock-like near-\\\\(k_{F}\\\\) fluctuations that cause the pathological behaviour.",
+        "content_hash": "fc89d573f08497d333c8a272f4b4023c3a9617d8e9bd0fda477518070824f84c",
+        "id": "gcn_6e55aa42ee4344a0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_3",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Electron and hole effective masses $m_e^{*}$ and $m_h^{*}$ (reported in units normalized to the free-electron mass $m_0$) are obtained by numerically evaluating the second derivative of the tight-binding band dispersion, $m^{*}=\\hbar^2\\big/(\\partial^2 E/\\partial k^2)$, near the conduction-band minimum and valence-band maximum using the finite-$k$ discrete sampling and numerical differentiation procedures employed in the calculation; the finite $k$-point mesh, energy broadening used in density-of-states computations, and interpolation procedures used in these numerical derivatives are assumed not to bias the curvature estimates beyond the precision of the effective-mass values reported.",
+        "content_hash": "df9040a2cef25a820d6de0311df29f6426eca9d2cd7b07bb528d7449e4449693",
+        "id": "gcn_b0bf369ea5a44a9d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814513640597094400::P3",
+            "package_id": "paper:814513640597094400",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814513640597094400"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extraction of the density‑of‑states effective mass $m^{*}_{dos}$ for BXGa by fitting the second derivative of the computed band energy $E(\\vec{k})$ within a small $k$‑space region around the band edge using the available DFT/mBJ band energies (from the stated $k$‑sampling) yields effective masses suitable for insertion into the deformation‑potential relaxation‑time formula; numerical discretization, modest band nonparabolicity, and interpolation errors are assumed not to change $m^{*}_{dos}$ by more than an order‑unity factor that would qualitatively alter the transport conclusions.",
+        "content_hash": "2841aaec77f01f516e002c8db7aa6a589d30dab494506fd6d748e739e3be11b2",
+        "id": "gcn_d3b653745274479c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812689741207044097::P6",
+            "package_id": "paper:812689741207044097",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812689741207044097"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extraction-of-effective-mass proposition is that numerical second-derivative estimates of effective mass $m_\\alpha$ computed from DFT-LDA band energies $E(k_x,k_y)$ sampled on a finite discrete $k$-point mesh accurately reflect the continuum effective mass relevant to carrier transport, where the numerical definition used is $m_\\alpha^{-1}=(1/\\hbar^2)\\,\\partial^2 E/\\partial k_\\alpha^2$ for direction $\\alpha\\in\\{x,y\\}$; this proposition assumes that the sampled $k$-range and resolution, the curvature-fitting procedure applied to the sampled band energies, and the finite-cell periodic boundary conditions do not introduce systematic biases large enough to alter the reported masses by factors comparable to the claimed reductions.",
+        "content_hash": "9ef54ff6263707ce297c95d091295a4c99b93f2657c1473d502d2d763a51aa26",
+        "id": "gcn_3424c81300204ead",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814664540821127168::P5",
+            "package_id": "paper:814664540821127168",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814664540821127168"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The conduction-band effective mass $m^{*}$ is extracted from the computed TB and DFT band dispersions by numerical evaluation of the second derivative of the energy with respect to crystal momentum via $m^{*}=\\hbar^{2}\\big/(\\partial^{2}E/\\partial k^{2})$ evaluated at the conduction-band minimum or at a nearly conical touching, and performing this numerical differentiation on the reported computed bands yields reliable values in the range $3.4\\times10^{-3}m_{e}$ to $1.1\\times10^{-2}m_{e}$ for the bias regimes studied (here $m_{e}$ is the free-electron mass), within the numerical and fitting tolerances of the presented band-structure data.",
+        "content_hash": "c145d5657a29620deee31e43fb09f747b052aece6d367796620140cc890bc669",
+        "id": "gcn_4e3754d2b9c24410",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765509788009251::P9a",
+            "package_id": "paper:867765509788009251",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765509788009251"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "f509716d29c1957e138733ab41fa7997"
+}

@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811885344784908289": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Pozzo | D. Alfè",
+        "available_online": "2008-12-12",
+        "cover_date_start": "2008-12-12",
+        "created_at": "2022-12-20T01:02:30+08:00",
+        "doi": "10.1103/physrevb.78.245313",
+        "en_title": "Hydrogen dissociation on Mg(0001) studied via quantum Monte Carlo calculations",
+        "id": "811885344784908289",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "通过量子蒙特卡罗计算研究氢在Mg(0001)上的解离"
+      },
+      "paper:812450941243490305": {
+        "area": "Physics and Astrophysics",
+        "authors": "L. M. Almeida | John P. Perdew | Carlos Fiolhais",
+        "available_online": "2002-8-20",
+        "cover_date_start": "2002-08-20",
+        "created_at": "2022-12-21T14:30:00+08:00",
+        "doi": "10.1103/physrevb.66.075115",
+        "en_title": "Surface and curvature energies from jellium spheres: Density functional hierarchy and quantum Monte Carlo",
+        "id": "812450941243490305",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "来自均匀电子气球的表面能和曲率能：密度泛函层次结构与量子蒙特卡罗方法"
+      },
+      "paper:813109126350503936": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jeffrey C. Grossman | Lubos Mitas | Krishnan Raghavachari",
+        "available_online": "1995-11-20",
+        "cover_date_start": "1995-11-20",
+        "created_at": "2022-12-23T10:05:23+08:00",
+        "doi": "10.1103/physrevlett.75.3870",
+        "en_title": "Structure and Stability of Molecular Carbon: Importance of Electron Correlation",
+        "id": "813109126350503936",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Atomic, Molecular and Optical Physics\"]",
+        "zh_title": "分子碳的结构与稳定性：电子关联的重要性"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867747747510354066": {
+        "area": "arXiv-Physics",
+        "authors": "M. Pozzo | D. Alfè",
+        "available_online": "",
+        "cover_date_start": "2008-01-18",
+        "created_at": "2023-05-23T04:39:45+08:00",
+        "doi": "10.48550/arXiv.0801.2865",
+        "en_title": "Structural properties and enthalpy of formation of magnesium hydride from quantum Monte Carlo calculations",
+        "id": "867747747510354066",
+        "keywords": "",
+        "publication_date": "2008-01-18",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "基于量子蒙特卡罗计算的氢化镁的结构性质和生成焓"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+        "content_hash": "9f26d31887d29e134f1f92da44e1cc91c40bac7c5f8057aeeea6a1c85c424198",
+        "id": "gcn_8df2cd5b49524aac",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_12",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In diffusion Monte Carlo (DMC) calculations of finite periodic simulation cells using fixed-node Slater-Jastrow-backflow trial wave functions, the DMC total-energy estimator recovers only a finite fraction of the exact correlation energy in a finite cell; combined with the fact that the derivative of the Hartree-Fock single-particle band with respect to k is divergent or pathological at the Fermi wave vector k_F, this incomplete recovery of correlation energy in a finite cell leads to locally anomalous or outlier numerical estimates of the band derivative (dE/dk) at k≈k_F when derivatives are computed from discrete finite-N DMC data, producing the observed unstable near-k_F derivative points.",
+        "content_hash": "43093cfa2a53d298aa963930bbf865a653701c66ca897dbfbbcb0421323154c1",
+        "id": "gcn_f6ca85b75deb46ba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+        "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+        "id": "gcn_aac0470dbff84cb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03149801587301587,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For discrete DMC single-particle band data E(k_i) in a periodic finite simulation cell, performing a quartic fit over a moderately wide wave-number interval k∈[k_F−Δk,k_F+Δk]—meaning Δk large enough to include multiple quantized k points on both sides of k_F rather than being restricted to an infinitesimal neighborhood of k_F—reduces sensitivity to localized anomalous fluctuations or outlier derivative estimates in the immediate vicinity of k_F and produces per-size effective-mass estimates that are more stable with respect to statistical noise and more amenable to controlled finite-size extrapolation.",
+        "content_hash": "6b88b501a76628ee37463dde8cae95806fedcb8efd01e93d3e03f25a8a62dca7",
+        "id": "gcn_50e263dc961541e0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P7",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029083245521601686,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fixed-node diffusion Monte Carlo (DMC) total energies E^{\\mathrm{DMC}} of finite spherical jellium clusters depend primarily on the nodal surface of the trial many-body wave function and are variationally insensitive to small changes in the underlying single-particle electron density profile n(\\mathbf{r}); therefore, to obtain an effective DMC exchange-correlation energy evaluated on a specified density profile, one may subtract from E^{\\mathrm{DMC}} the Hartree and kinetic (non-exchange-correlation) contributions computed for the LSD density n_{\\mathrm{LSD}}(\\mathbf{r}) to define an effective DMC exchange-correlation energy on n_{\\mathrm{LSD}}, provided the density differences between the implicit DMC density and n_{\\mathrm{LSD}} are small compared to the energy scales of interest.",
+        "content_hash": "87c458f63c1c158b951c8f741a7d5a76303280329f2bbcc3c1d61381aedaf5fb",
+        "id": "gcn_7c5662cb9762409d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812450941243490305::P13",
+            "package_id": "paper:812450941243490305",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812450941243490305"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028958333333333336,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In finite periodic simulation cells for a two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions that contain variational parameters in the Jastrow and backflow factors, reoptimizing those variational parameters for an excited-state configuration (created by adding or removing an electron in a specified Bloch state) can yield a lower total DMC energy in that finite cell relative to using the ground-state-optimized parameters; because, in the thermodynamic limit, the optimal short-range correlation functions are unchanged by a single excitation, this finite-cell energy lowering is a manifestation of finite-size error and can reduce computed excitation bandwidths and therefore amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass.",
+        "content_hash": "b13271b3449ea0dde4af2a827d5ce200b738ef18fbc54292a8a36c1305cf0a40",
+        "id": "gcn_850fc9d9de314026",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027799227799227798,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E^{\\mathrm{LDA}}_{\\mathrm{conv}} denote the LDA total energy computed with dense k-point sampling (converged with respect to k points) and E^{\\mathrm{LDA}}_{\\mathrm{cell}} denote the LDA total energy computed with the k-point sampling corresponding to a given finite periodic DMC simulation cell; define the correction \\Delta_{\\mathbf{k}}=E^{\\mathrm{LDA}}_{\\mathrm{conv}}-E^{\\mathrm{LDA}}_{\\mathrm{cell}}. The proposition is that adding \\Delta_{\\mathbf{k}} to raw many-body DMC total energies computed in the finite periodic simulation cell removes most of the single-particle finite-size error and yields corrected DMC energies that are closer to the infinite-size many-body result, so that the k-point correction derived from one-particle LDA calculations is an effective proxy for reducing single-particle finite-size bias in the DMC slab data.",
+        "content_hash": "74c5d95b1facf7b244bb80a416052d4f13f675e7f460fdca372e3b27da20396d",
+        "id": "gcn_5b76f5d97a8247da",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811885344784908289::P8",
+            "package_id": "paper:811885344784908289",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811885344784908289"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025528455284552845,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Measured against the DMC benchmark correlation energies for the systems studied, coupled-cluster with single, double, and perturbative triple excitations (CCSD(T)) recovers approximately 75% of the DMC-observed valence correlation energy for the $C_{10}$ isomers evaluated with the limited bases used, variational Monte Carlo (VMC) using the optimized Slater-Jastrow trial functions recovers about 85% of the DMC valence correlation energy for the studied carbon systems, and separate empirical estimates from smaller carbon systems indicate that DMC recovers on the order of 95% of the valence correlation energy; thus, under the reported bases and trial-function quality, DMC provides a substantially more complete treatment of valence correlation than CCSD(T) in limited bases and than mean-field methods.",
+        "content_hash": "f931dc4fe4a23238b335aec4d9f8f76aba90bf2f9b2fa4e55ba79eea616d9f07",
+        "id": "gcn_36a77a970deb47fc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813109126350503936::conclusion_7",
+            "package_id": "paper:813109126350503936",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813109126350503936"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.023411829134720702,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a periodic diffusion Monte Carlo (DMC) calculation of the total electronic energy performed on a simulation supercell containing N atoms, let E_N denote the raw DMC total energy of that N-atom supercell (evaluated per supercell), let E_N^{DFT} denote the Kohn–Sham density functional theory (DFT) total energy computed for the identical supercell geometry and k-point sampling used in the DMC calculation, and let E_\\infty^{DFT} denote the DFT total energy per primitive cell computed with fully converged Brillouin-zone (k-point) sampling; the DFT-based finite-size corrected DMC energy is defined as E_N^{c} = E_N + (E_\\infty^{DFT} − E_N^{DFT}), and the proposition is that this correction removes the dominant one-body finite-size error present in E_N so that the residual finite-size error in E_N^{c} is small (on the order of a few meV per formula unit for the materials and supercell sizes used) and therefore amenable to a simple extrapolation to N → ∞.",
+        "content_hash": "87167f5682aa33b346c2232611c8e5471ac46b6423a60234e6e8bd4dbd662e41",
+        "id": "gcn_f19a1fb7632b4c6e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867747747510354066::P1",
+            "package_id": "paper:867747747510354066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867747747510354066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For paramagnetic 3D-HEG calculations performed in a finite periodic simulation cell containing N = 178 electrons, the Slater-Jastrow (SJ) trial wave function—defined as a single Slater determinant of plane-wave orbitals multiplied by a Jastrow correlation factor—and the Slater-Jastrow-backflow (SJB) trial wave function—the SJ form with additional backflow-transformed quasiparticle coordinates—yield very similar diffusion Monte Carlo (DMC) quasiparticle effective masses m*. Specifically, at density parameter r_s = 1 (r_s = ((3/(4π n))^{1/3} a_B^{-1})), the DMC values are m* = 0.915(1) with the SJ trial WF and m* = 0.921(1) with the SJB trial WF, and at r_s = 10 the DMC values are m* = 0.75(1) (SJ) and m* = 0.78(1) (SJB); these numerical results indicate that, for the paramagnetic 3D-HEG at N = 178 and the densities studied, inclusion of backflow in the trial WF produces only small quantitative changes in the DMC effective mass.",
+        "content_hash": "0f96374669f03a6c180d390397dd59eda521485c8c96fedfc0f933f042876d8a",
+        "id": "gcn_a9c0e527355c4442",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_2",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "69667a0e1224c4d7acdd583ccdd29d7e"
+}

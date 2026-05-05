@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811653350087983104": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yutaka Takahashi | Kosuke Shizume | Naoto Masuhara",
+        "available_online": "1999-8-15",
+        "cover_date_start": "1999-08-15",
+        "created_at": "2022-12-19T09:40:39+08:00",
+        "doi": "10.1103/physrevb.60.4856",
+        "en_title": "Spin diffusion in a two-dimensional electron gas",
+        "id": "811653350087983104",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气中的自旋扩散"
+      },
+      "paper:812738974022893571": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. L. Fry | N. E. Brener | R. K. Bruyere",
+        "available_online": "1977-12-15",
+        "cover_date_start": "1977-12-15",
+        "created_at": "2022-12-22T09:34:33+08:00",
+        "doi": "10.1103/physrevb.16.5225",
+        "en_title": "Hartree-Fock formalism for solids. II. Application to the nearly-free-electron gas",
+        "id": "812738974022893571",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "固体的哈特里 - 福克形式理论。II. 对近自由电子气的应用 "
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867749277818945809": {
+        "area": "arXiv-Physics",
+        "authors": "A. H. MacDonald",
+        "available_online": "",
+        "cover_date_start": "1999-12-21",
+        "created_at": "2023-05-23T04:45:50+08:00",
+        "doi": "10.48550/arXiv.cond-mat/9912391",
+        "en_title": "Spintronic Spin Accumulation and Thermodynamics",
+        "id": "867749277818945809",
+        "keywords": "",
+        "publication_date": "1999-12-21",
+        "publication_id": "108638",
+        "publication_name": "Condensed Matter _ Physics.cond-mat.cond-mat",
+        "research_categories": "",
+        "zh_title": "自旋电子学中的自旋积累与热力学"
+      },
+      "paper:867758664084095949": {
+        "area": "arXiv-Physics",
+        "authors": "J. P. Kestner | S. Das Sarma",
+        "available_online": "",
+        "cover_date_start": "2010-01-26",
+        "created_at": "2023-05-23T05:23:08+08:00",
+        "doi": "10.48550/arXiv.1001.4763",
+        "en_title": "Compressibility, zero sound, and effective mass of a fermionic dipolar gas at finite temperature",
+        "id": "867758664084095949",
+        "keywords": "",
+        "publication_date": "2010-01-26",
+        "publication_id": "108526",
+        "publication_name": "Quantum Physics _ Physics.quant-ph.quant-ph",
+        "research_categories": "",
+        "zh_title": "有限温度下费米子偶极气体的压缩性、零声和有效质量"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      },
+      "paper:867769212356001835": {
+        "area": "arXiv-Physics",
+        "authors": "G G Spink | R J Needs | N D Drummond",
+        "available_online": "",
+        "cover_date_start": "2013-07-22",
+        "created_at": "2023-05-23T06:05:02+08:00",
+        "doi": "10.48550/arXiv.1307.5794",
+        "en_title": "Quantum Monte Carlo study of the three-dimensional spin-polarized homogeneous electron gas",
+        "id": "867769212356001835",
+        "keywords": "",
+        "publication_date": "2013-07-22",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "三维自旋极化均匀电子气的量子蒙特卡罗研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "The Hartree–Fock (HF) single-particle band for a three-dimensional electron gas is known to exhibit a logarithmic divergence at the Fermi wavevector k_F in the thermodynamic limit, and in finite periodic simulation cells this HF physics produces strong oscillations of the HF band at wavevectors near k_F; diffusion Monte Carlo (DMC) calculations of E(k) in finite cells retrieve a large fraction of the correlation energy but retain residual finite-N HF-like oscillatory features near k_F of sufficient magnitude to contaminate naive finite-N estimates of the derivative (dE/dk)_{k_F} unless the DMC band is sampled at momenta removed from the immediate vicinity of k_F and a smooth band is fitted across a broad range of k values.",
+        "content_hash": "9195e496640d7760d79eb924964ab479c71197e4842d4cb5d5d4f6d1c21a9c59",
+        "id": "gcn_e84d1462168943c3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::P3",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031099324975891997,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Hartree–Fock (HF) exchange contribution to the single-particle energy for a two-dimensional uniform electron liquid (2D-UEL), ε^{(x)}(k), analytically produces a logarithmic-divergence-like behavior in its derivative near the Fermi wave vector k_F for finite systems; in practical fixed-node diffusion Monte Carlo (DMC) calculations that use finite parametrized trial wave functions (for example Slater–Jastrow or Slater–Jastrow–backflow), the DMC projection does not recover sufficient correlation energy to completely eliminate the HF-induced large and oscillatory gradients of the single-particle band near k_F, and therefore these HF-derived derivative pathologies can leave residual contamination in the QMC-computed quasiparticle bands and derivative-based estimates such as m* unless the nodal surfaces are further improved and finite-size effects are carefully treated.",
+        "content_hash": "590f884da8394303712cdac527f628bfc7712a2d56c9d8abd332ee718c795d46",
+        "id": "gcn_7f4b3136938a4591",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P7",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03055037313432836,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Hartree–Fock (HF) single-particle band for a homogeneous electron gas is analytically pathological in the thermodynamic limit, exhibiting a logarithmic divergence at the Fermi wavevector k_F, and in finite periodic simulation cells the HF band displays strong finite-size oscillations at wavevectors near k_F; diffusion Monte Carlo (DMC) calculations recover a large fraction of the correlation energy but inherit residual HF-like oscillatory features close to k_F of sufficient magnitude to contaminate naive finite-N estimates of the derivative (dE/dk)_{k_F}. Therefore, reliable estimates of (dE/dk)_{k_F} from correlated DMC total-energy differences require sampling quasiparticle excitations at momenta removed from the immediate vicinity of k_F and extracting gradients from smooth fits to data sampled across a range of k values.",
+        "content_hash": "a0ae42e103828931bec8c96c6873892eefdf1d92688ba0c4a209b7fc1c7bec9f",
+        "id": "gcn_2ded391a3ca74052",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_6",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030017921146953404,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+        "content_hash": "9f26d31887d29e134f1f92da44e1cc91c40bac7c5f8057aeeea6a1c85c424198",
+        "id": "gcn_8df2cd5b49524aac",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_12",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029437229437229435,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied bandwidth $\\Delta\\mathcal{E}=\\mathcal{E}(k_F)-\\mathcal{E}(0)$ of the 2D HEG was obtained from the quartic fits to the DMC bands at $r_s=1$, $5$, and $10$ atomic units; the DMC bandwidths (in Hartree atomic units) are: paramagnetic $\\Delta\\mathcal{E}=1.045(5)$ at $r_s=1$, $0.0281(8)$ at $r_s=5$, and $0.0055(3)$ at $r_s=10$; ferromagnetic $\\Delta\\mathcal{E}=2.434(6)$ at $r_s=1$, $0.141(1)$ at $r_s=5$, and $0.0427(8)$ at $r_s=10$. Here $k_F$ denotes the Fermi wave vector, with $k_F=\\sqrt{2}/r_s$ for the paramagnetic 2D fluid and $k_F=2/r_s$ for the fully spin-polarized 2D fluid, and the free-electron occupied bandwidth is $\\Delta\\mathcal{E}^{\\mathrm{free}}=k_F^2/2$. These DMC bandwidths lie substantially below the Hartree-Fock (HF) bandwidth values computed as $\\Delta\\mathcal{E}^{\\mathrm{HF}}=k_F^2/2 + k_F(1-2/\\pi)$, and for the paramagnetic fluid at the intermediate and low densities studied ($r_s=5$ and $10$) the DMC bandwidths are smaller than the free-electron bandwidth $\\Delta\\mathcal{E}^{\\mathrm{free}}$, whereas for the ferromagnetic fluid the DMC bandwidths exceed the free-electron bandwidth at the densities studied.",
+        "content_hash": "f562aa459414791b6e3bcecfd6423a35da94952fc7117e8e61d09bd1e352f53a",
+        "id": "gcn_ba6a58e544be46b0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_2",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02900988017658188,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For 118-electron finite simulation cells of the three-dimensional homogeneous electron gas with twisted boundary conditions, let $E_{\\mathrm{DMC}}^{(N)}(r_{s},\\zeta)$ denote the computed finite-$N$ DMC total energy per electron, and let standard analytic finite-size corrections consist of (i) adding the difference between the infinite-system Hartree–Fock kinetic energy and the twist-averaged finite-system Hartree–Fock kinetic energy, (ii) adding the leading-order correction to the Ewald interaction energy, and (iii) adding the leading- and next-to-leading-order corrections to the kinetic energy as prescribed in the finite-size-correction literature applied in the study. The proposition is that applying these corrections to $E_{\\mathrm{DMC}}^{(N)}$ yields an estimate of the infinite-system energy whose residual finite-size error is small compared with the statistical uncertainties reported and does not qualitatively alter the conclusions about the relative energies versus spin polarization in the density range $r_{s}=0.5\\text{–}20$ a.u.",
+        "content_hash": "34b46064284047cef8dcce061b40914ff57889f8e5ef129c935aed5e984b2e98",
+        "id": "gcn_4d646781042c40de",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867769212356001835::P8",
+            "package_id": "paper:867769212356001835",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867769212356001835"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02877846790890269,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the Hartree–Fock approximation for a two-dimensional electron gas interacting via the bare Coulomb potential, derivatives of the Hartree–Fock self-energy $\\partial\\Sigma_{HF}(k)/\\partial k$ diverge at the Fermi surface producing artifacts (for example, a formally vanishing quasiparticle effective mass). The practical proposition is that replacing the problematic Hartree–Fock dispersion with a finite quadratic dispersion $\\varepsilon_{k\\pm}=\\hbar^{2}k^{2}/(2m_{\\pm}^{*})+E_{0\\pm}$ and defining regularized momentum integrals $\\bar{G}_{\\pm}$ and finite combinations such as $\\Xi$ furnishes a numerically tractable regularization that yields physically meaningful drift-coefficient functionals $A(k_{F\\pm})$ and $B(k_{F\\pm})$ for subsequent transport calculations, at the cost of losing full Hartree–Fock self-consistency.",
+        "content_hash": "9db3e124eecd1425bf1981ebc45299fdde6231661940768f66dc8abcae81e6b6",
+        "id": "gcn_3338c9ac763b4b30",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811653350087983104::P5",
+            "package_id": "paper:811653350087983104",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811653350087983104"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02821869488536155,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "(a) For the fcc nearly-free-electron (NFE) gas at one electron per lattice site (Fermi radius $k_F\\approx0.6469$ reciprocal atomic units), inserting the exact plane-wave Hartree-Fock exchange kernel $V_{\\mathrm{ex}}(\\mathbf{q}_1,\\mathbf{q}_2)$ for the homogeneous electron gas (which is diagonal in $\\mathbf{q}$) into the reciprocal-space HF Hamiltonian and evaluating the orbital Fourier coefficients $\\phi_i(\\mathbf{q})$ from the 34-orbital contracted Gaussian basis yields Gaussian-Hartree-Fock (GHF) band energies that closely match the exact HF bands for this model; discrepancies again appear primarily for bands with significant $d$-like character when $d$ functions were not included in the basis. (b) The Hartree density of states (DOS) computed from the first GHF band using analytic tetrahedron interpolation reproduces the slowly varying analytic Hartree DOS accurately (the expected $E^{1/2}$ behavior), whereas the Hartree-Fock DOS exhibits a rapid variation and a HF-induced vanishing at the Fermi energy for the spherical Fermi surface; accurately resolving this HF feature in a numerical DOS requires much denser $k$-space sampling concentrated near the Fermi surface, because coarse uniform grids can smear or miss the zero in the DOS.",
+        "content_hash": "1af14a6bec52bced806551639e12534e768611dbe988decaa4da85cc8eebf0fb",
+        "id": "gcn_93ae896234454b32",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812738974022893571::conclusion_5",
+            "package_id": "paper:812738974022893571",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812738974022893571"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.026500526500526502,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a uniform three-dimensional single-component fermionic dipolar gas within first-order Hartree–Fock, the quasiparticle effective mass is anisotropic on the Fermi surface: the radial effective-mass inverse m/m_{r}^{*}(\\mathbf{k}) acquires a correction proportional to -P_{2}(\\cos\\theta_{\\mathbf{k}}), where P_{2}(x)=(3x^{2}-1)/2 and \\theta_{\\mathbf{k}} is the angle between \\mathbf{k} and the aligning field; consequently the radial effective mass is reduced at the equator of the Fermi surface and increased (and potentially negative) near the poles.  Evaluating this low-temperature correction yields the Hartree–Fock stability condition against a negative radial effective mass at the poles,\n      $$\n      \\lambda_{3D}<\\frac{1}{\\pi},\n      $$\n      with \\lambda_{3D}=m d^{2}k_{F0}/(3\\pi^{2}\\hbar^{2}); a finite-temperature Hartree–Fock calculation therefore defines an n–T phase boundary (density versus temperature) for the onset of this instability within the Hartree–Fock approximation.",
+        "content_hash": "b598a506f4d31f6b9ffe180a1d757925bff7f6d755f887acc86815c8f2037881",
+        "id": "gcn_f96751f320104c3a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867758664084095949::conclusion_7",
+            "package_id": "paper:867758664084095949",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867758664084095949"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron gas (2DEG) at zero temperature with spin-resolved areal densities n_{\\uparrow} and n_{\\downarrow}, the Hartree-Fock approximation gives the ground-state energy per area A as\n      \\[\n      \\frac{E_{n_{\\uparrow},n_{\\downarrow}}}{A}=\\frac{n_{\\uparrow}^{2}+n_{\\downarrow}^{2}}{2D_{2D}}-\\frac{8e^{2}\\bigl(n_{\\uparrow}^{3/2}+n_{\\downarrow}^{3/2}\\bigr)}{3\\pi^{1/2}},\n      \\]\n      where D_{2D}\\equiv m^{*}/(2\\pi\\hbar^{2}) is the two-dimensional band density-of-states per area and m^{*} is the effective mass. Differentiating this energy twice with respect to densities yields the Hartree-Fock diagonal local-field correction\n      \\[\n      F_{\\sigma,\\sigma}=-\\frac{2e^{2}}{\\pi^{1/2}}\\,n_{\\sigma}^{-1/2},\n      \\]\n      while the off-diagonal local-field correction F_{\\uparrow,\\downarrow}=0 in this approximation because exchange-only Hartree-Fock neglects correlations between opposite spins.",
+        "content_hash": "023828fa70bae35806aa9d175dc33b2edbec9170a71d92e1e8b50693d76b13b3",
+        "id": "gcn_f02b8734f2554ea2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749277818945809::conclusion_7",
+            "package_id": "paper:867749277818945809",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749277818945809"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "c69847580db31afcd0e0c06bb139ef0f"
+}

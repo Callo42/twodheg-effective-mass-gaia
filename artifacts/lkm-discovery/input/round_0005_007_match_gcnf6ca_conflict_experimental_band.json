@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:814565282096873472": {
+        "area": "Physics and Astrophysics",
+        "authors": "L. Ö. Olsson | C. B. M. Andersson | M. C. Håkansson | J. Kanski | L. Ilver | U. O. Karlsson",
+        "available_online": "1996-5-6",
+        "cover_date_start": "1996-05-06",
+        "created_at": "2022-12-27T10:31:38+08:00",
+        "doi": "10.1103/physrevlett.76.3626",
+        "en_title": "Charge Accumulation at InAs Surfaces",
+        "id": "814565282096873472",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\"]",
+        "zh_title": "砷化铟表面的电荷积累"
+      },
+      "paper:867751092878836415": {
+        "area": "arXiv-Physics",
+        "authors": "Mengmeng Meng | Shaoyun Huang | Congwei Tan | Jinxiong Wu | Yumei Jing | Hailin Peng | H. Q. Xu",
+        "available_online": "",
+        "cover_date_start": "2018-01-03",
+        "created_at": "2023-05-23T04:53:02+08:00",
+        "doi": "10.48550/arXiv.1801.00971",
+        "en_title": "Strong spin-orbit interaction and magnetotransport in semiconductor Bi$_2$O$_2$Se nanoplates",
+        "id": "867751092878836415",
+        "keywords": "",
+        "publication_date": "2018-01-03",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "半导体Bi₂O₂Se纳米片中的强自旋轨道相互作用与磁输运"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867760016327705514": {
+        "area": "arXiv-Physics",
+        "authors": "V. M. Silkin | A. Garcia-Lekue | J. M. Pitarke | E. V. Chulkov | E. Zaremba | P. M. Echenique",
+        "available_online": "",
+        "cover_date_start": "2004-02-10",
+        "created_at": "2023-05-23T05:28:30+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0402273",
+        "en_title": "Novel low-energy collective excitation at metal surfaces",
+        "id": "867760016327705514",
+        "keywords": "",
+        "publication_date": "2004-02-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "金属表面新型低能集体激发"
+      },
+      "paper:867768357833671546": {
+        "area": "arXiv-Physics",
+        "authors": "R. Yukawa | K. Ozawa | S. Yamamoto | H. Iwasawa | K. Shimada | E. F. Schwier | K. Yoshimatsu | H. Kumigashira | H. Namatame | M. Taniguchi | I. Matsuda",
+        "available_online": "",
+        "cover_date_start": "2016-04-19",
+        "created_at": "2023-05-23T06:01:39+08:00",
+        "doi": "10.48550/arXiv.1604.05523",
+        "en_title": "Phonon-Dressed Two-Dimensional Carriers on the ZnO Surface",
+        "id": "867768357833671546",
+        "keywords": "",
+        "publication_date": "2016-04-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "氧化锌表面的声子修饰二维载流子"
+      }
+    },
+    "variables": [
+      {
+        "content": "Numerical derivatives of finite-N DMC energy bands are unstable at k≈k_F: the derivative (dE/dk) evaluated from discrete finite-N DMC data often exhibits outlier points in the immediate vicinity of the Fermi surface, a pathology attributable to the combination of (i) the divergence or pathological behavior of the Hartree-Fock band derivative at k_F and (ii) DMC in a finite cell retrieving only a finite fraction of the exact correlation energy when using a fixed-node Slater-Jastrow-backflow trial wave function; consequently, robust estimates of the quasiparticle effective mass are obtained by fitting the band over a finite wave-number range Δk about k_F (using, for example, the quartic parametrization E(k)=α_0+α_2 k^2+α_4 k^4) and using the fit-derived derivative at k_F to average over and suppress the near-k_F anomalies.",
+        "content_hash": "9f26d31887d29e134f1f92da44e1cc91c40bac7c5f8057aeeea6a1c85c424198",
+        "id": "gcn_8df2cd5b49524aac",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_12",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass m* is defined from the derivative of the quasiparticle energy band ε(k) at the Fermi wave vector k_F as m* = k_F · (dε/dk)^{-1}_{k_F}, where k_F is the Fermi wave vector and derivatives are evaluated with respect to the magnitude k of the momentum; in atomic units the bare electron mass m equals 1. For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and density parameter r_s = 1 (where r_s = (1/(πρ))^{1/2} with electron number density ρ), variational Monte Carlo (VMC) and fixed-node diffusion Monte Carlo (DMC) calculations extrapolated to the thermodynamic limit produce values consistent with the bare mass within statistical uncertainty: m*_{VMC}(r_s = 1) = 0.98(1) and m*_{DMC}(r_s = 1) = 0.95(1) (atomic units), indicating negligible mass renormalization from electron–electron interactions at this high density.",
+        "content_hash": "e596de9ff5169a1208ffdbf2eb4ec38a975b3d1c40e0d67a9365777dedb6fae3",
+        "id": "gcn_395e5564603d4a9b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_1",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030776515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+        "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+        "id": "gcn_aac0470dbff84cb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029513888888888888,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N DMC effective masses obtained from quartic-band fits yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.851(5) a.u.; here m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector appropriate to the fully spin-polarized system.",
+        "content_hash": "5747e572876f4ad53cbf63c9a95667c9b3252c3f96c012389168f4010b0d4d5d",
+        "id": "gcn_dc8e0e000d7c44da",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_7",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027730294396961064,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Treating the near-surface accumulated electrons as a two-dimensional (2D) free-electron gas with in-plane effective mass m* = 0.023 m0 (m0 denotes the free-electron mass, m0 ≈ 9.109×10^-31 kg) and with the Fermi energy E_F located 0.2 eV above the bulk conduction-band minimum (CBM), the sheet electron density n_s computed from the 2D free-electron relation n_s = m* E_F/(π ħ^2) is approximately 10^12 cm^-2.",
+        "content_hash": "49262d3ae3a604f69cfae6b04bb12294f8a0c71a1d720a47da99b648d1b28d36",
+        "id": "gcn_e8f3e95a60cc4add",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814565282096873472::conclusion_3",
+            "package_id": "paper:814565282096873472",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814565282096873472"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5, the same extrapolation procedure applied to the DMC quartic-fit band data yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.04(2) a.u., with m^* defined as m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "6387e2dcf84ae7d2424eccc92c312224cfbd583aac1fb1ee1a3fe9946e390e0f",
+        "id": "gcn_e24d7ff647144aee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_5",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron gas (2DEG) representing only the Shockley surface-state band with two-dimensional electron density $n^{2D}$ determined from the surface-state Fermi energy $E_{F}^{2D}=2.8\\\\,$eV and with effective mass $m^{*}=m_{e}$ (the free-electron mass), the conventional long-wavelength 2D plasmon dispersion is\n      $\\\\omega_{2D}(q)=\\\\sqrt{\\\\dfrac{2\\\\pi n^{2D}e^{2}}{m_{e}}\\\\,q}$;\n      using these values for $n^{2D}$ and $m^{*}=m_{e}$, the isolated-surface-state 2D plasmon energy at $q=0.05\\\\,a_{0}^{-1}$ evaluates to approximately $\\\\hbar\\\\omega_{2D}\\\\approx 2.7\\\\,$eV, and this estimate represents the plasmon energy of the isolated surface-state band under the stated effective-mass assumption.",
+        "content_hash": "fd1861b334cc5871cc168ae9f05b58e67c4f2726a62b0e668a4a470f9abc71e8",
+        "id": "gcn_288687da85384b66",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867760016327705514::P8",
+            "package_id": "paper:867760016327705514",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867760016327705514"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "High-resolution angle-resolved photoelectron spectroscopy (ARPES) measurements of the hydrogen-dosed ZnO(10ī0) surface show that the surface-localized two-dimensional electron system (2DES) has a momentum-resolved energy-distribution-curve (EDC) at the Fermi-wavevector with a peak-dip-hump structure and a long spectral tail extending to approximately 600 meV binding energy below the Fermi level (binding energy denotes energy below the experimental Fermi level E_F). The measured Fermi contour is circular with a Fermi-wavevector magnitude k_F = 0.77 nm^{-1}, which for a single spin-degenerate circular band corresponds to a surface sheet electron density n_{2D} = 9.4×10^{12} cm^{-2}. Fitting the extracted quasiparticle dispersion near its minimum by a parabolic band yields a first-subband energy minimum (first 2D quasiparticle band bottom) at E_{1} = E_{F} - 86 meV and an effective (phonon-dressed) quasiparticle mass m^{*} = 0.26 m_{e}, where m_{e} is the free-electron mass.",
+        "content_hash": "4922329a57e4e434aa362960e17aec542d67f402d387d9cf935be5f5e28d83a6",
+        "id": "gcn_677a44993d1e4793",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768357833671546::conclusion_1",
+            "package_id": "paper:867768357833671546",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768357833671546"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two‑dimensional electron gas with sheet density n_{2D} and an isotropic circular Fermi surface occupying a single parabolic band of effective mass m^{*}, the Fermi wavevector is k_F = sqrt(2π n_{2D}), the Fermi velocity is v_F = ħ k_F / m^{*}, and the mobility is μ = e τ / m^{*}; combining L_e = v_F τ with these relations yields L_e = (ħ μ / e) sqrt(2π n_{2D}); this expression assumes a single electronic band with parabolic dispersion in the 2D limit and that n_{2D} counts occupied states in that band.",
+        "content_hash": "0b10a3fbcd02575240a77b275cb7e144c9760c7e91477d795086840036e8f3ca",
+        "id": "gcn_13313e1881dd4799",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751092878836415::P3",
+            "package_id": "paper:867751092878836415",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751092878836415"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "8cf34902e3f3febd130123e6be10532a"
+}

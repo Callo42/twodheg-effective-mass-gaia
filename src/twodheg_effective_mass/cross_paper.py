@@ -13,6 +13,7 @@ from .paper_drummond2013_effective_mass import (
     gcn_a981a2b787514e47,
 )
 from .paper_drummond2009_fermi_fluid import (
+    gcn_318b062f17344859,
     gcn_4d1aad1470d54895,
     gcn_bf915935b1fd4326,
 )
@@ -117,6 +118,26 @@ occupied_band_supports_band_fit_protocol.metadata.update(
         "justification": (
             "Accepted as moderate historical-method support because the older occupied-band "
             "calculation grounds the quartic band-fitting component of the later protocol."
+        ),
+    }
+)
+
+occupied_band_supports_nonquadratic_thermodynamics = support(
+    premises=[gcn_bf915935b1fd4326],
+    conclusion=gcn_318b062f17344859,
+    reason=(
+        "The occupied-band result establishes the fitted quartic DMC band curvature, "
+        "which supports the later claim that nonquadratic curvature can modify "
+        "thermodynamic properties depending on band integrals."
+    ),
+    prior=0.80,
+)
+occupied_band_supports_nonquadratic_thermodynamics.metadata.update(
+    {
+        "judgment": "accepted",
+        "justification": (
+            "Accepted as same-paper support from the observed quartic band curvature "
+            "to its thermodynamic implication."
         ),
     }
 )
