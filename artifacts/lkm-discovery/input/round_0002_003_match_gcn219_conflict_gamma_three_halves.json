@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812334129017257984": {
+        "area": "Physics and Astrophysics",
+        "authors": "Janusz Jȩdrzejewski | Taras Krokhmalskii",
+        "available_online": "2004-10-12",
+        "cover_date_start": "2004-10-12",
+        "created_at": "2022-12-21T06:45:49+08:00",
+        "doi": "10.1103/physrevb.70.153102",
+        "en_title": "Exact results for spatial decay of the one-body density matrix in low-dimensional insulators",
+        "id": "812334129017257984",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "[\"Physical Sciences\", \"Classical Physics\"]",
+        "zh_title": "低维绝缘体中单粒子密度矩阵空间衰减的精确结果"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867748999107445206": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2010-02-10",
+        "created_at": "2023-05-23T04:44:44+08:00",
+        "doi": "10.48550/arXiv.1002.2101",
+        "en_title": "Phase Diagram of the Low-Density Two-Dimensional Homogeneous Electron Gas",
+        "id": "867748999107445206",
+        "keywords": "",
+        "publication_date": "2010-02-10",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "低密度二维均匀电子气的相图"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867757088892257080": {
+        "area": "arXiv-Physics",
+        "authors": "O. L. Berman | R. Ya. Kezerashvili | K. Ziegler",
+        "available_online": "",
+        "cover_date_start": "2013-02-19",
+        "created_at": "2023-05-23T05:16:52+08:00",
+        "doi": "10.48550/arXiv.1302.4505",
+        "en_title": "Coupling of two Dirac particles",
+        "id": "867757088892257080",
+        "keywords": "",
+        "publication_date": "2013-02-19",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "两个狄拉克粒子的耦合"
+      },
+      "paper:867769538161148739": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs | A. Sorouri | W. M. C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2008-06-05",
+        "created_at": "2023-05-23T06:06:20+08:00",
+        "doi": "10.48550/arXiv.0806.0957",
+        "en_title": "Finite-size errors in continuum quantum Monte Carlo calculations",
+        "id": "867769538161148739",
+        "keywords": "",
+        "publication_date": "2008-06-05",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "连续统量子蒙特卡罗计算中的有限尺寸误差"
+      }
+    },
+    "variables": [
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031754032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03125763125763126,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), the leading finite-size error in Fermi-liquid-derived quantities such as the angular-momentum Fermi liquid parameters F_l or the Fourier-projected quantities F_l/m^{*} behaves asymptotically as a power law in the finite-system particle number N with exponent -1/4; equivalently,\n      \\Delta F_l(N) \\equiv F_l(N)-F_l(\\infty) \\propto N^{-1/4},\n      so that fitting computed F_l(N) values to the form c + a N^{-1/4} yields an estimate of the thermodynamic-limit intercept c = F_l(\\infty). This statement adopts the theoretical asymptotic exponent \\gamma = -1/4 predicted for long-range-correlation-dominated finite-size errors.\n      Refs. 13,14",
+        "content_hash": "5d35c92260764bcb7f6ff7e8faf67af9d71f7400ea2dbb873a0034fae3ee4b32",
+        "id": "gcn_3ceb44ae3f404964",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P2",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029957522915269395,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extrapolated thermodynamic-limit effective masses exhibit distinct density dependences depending on spin polarization: for the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10 the extrapolated effective mass remains close to unity (\\\\(m^{*}\\\\approx1\\\\)), indicating no significant interaction-induced mass enhancement at these densities for the clean continuum 2D HEG model considered; by contrast, for the fully spin-polarized (ferromagnetic) 2D HEG the extrapolated effective mass decreases as the density is lowered, for example taking the values \\\\(0.85(1)\\\\) at \\\\(r_{s}=1\\\\), \\\\(0.74(1)\\\\) at \\\\(r_{s}=5\\\\), and \\\\(0.70(3)\\\\) at \\\\(r_{s}=10\\\\), a trend that is qualitatively consistent with experimental measurements on spin-polarized two-dimensional systems reported in the literature (e.g., Padmanabhan et al.).",
+        "content_hash": "50d79ff1ea218bc2ead65fa8297f1c40403b60c514239f93423bf99aa338304e",
+        "id": "gcn_bdc9e8a10cfe4b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02702702702702703,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional homogeneous electron gas (2D HEG) simulated in a periodically repeated finite simulation cell containing N electrons, let E_N denote the computed energy per electron of that N-electron finite system and let E_∞ denote the energy per electron in the thermodynamic limit (infinite system size). The proposition is: the dominant many-body finite-size bias in the energy per electron for the fluid phase falls off for large N as a single leading asymptotic term proportional to N^{-5/4}, i.e., E_N = E_∞ - c N^{-5/4} + o(N^{-5/4}) for some constant c, and furthermore this asymptotic N^{-5/4} dependence provides a quantitatively valid description for the finite system sizes employed in the reported calculations (specifically for system sizes up to about N = 162), so that fitting finite-N results to that leading form yields a meaningful extrapolation to E_∞.\n      N.D. Drummond et al., Phys. Rev. B 78, 125106 (2008)",
+        "content_hash": "9762b41273b603adfd0752dcbc910fd2736dc45807be13ac907c4eb83f51b9e2",
+        "id": "gcn_b5dbc29354104767",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748999107445206::P1",
+            "package_id": "paper:867748999107445206",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748999107445206"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let \\gamma(D) denote the power-law exponent entering the large-\\sigma asymptotic \\mathcal{R}(\\boldsymbol{r})\\sim C(\\hat{\\boldsymbol{r}},u)\\,\\sigma^{-\\gamma}\\exp(-\\sigma/\\xi); explicit calculations in the chessboard tight-binding model at zero temperature with a completely filled lower band yield \\gamma(1)=1/2 for D=1 and \\gamma(2)=1 for D=2, and the paper infers the general rule \\gamma(D)=D/2 for these computed cases; the caveat is that this inference is based on the model's spectral structure (two symmetric bands and the specific Brillouin-zone integral representation used) and on the computed directions, so the claimed universality \\gamma=D/2 outside the explicitly computed settings requires the assumption that no subtle direction-dependent corrections or boundary-condition effects alter the exponent.",
+        "content_hash": "3887b7cd649fb7fe2f4eb3534d047071e9a38d2afeff1516dac5dd88dc00bc91",
+        "id": "gcn_efc359ea7fd54128",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812334129017257984::P7",
+            "package_id": "paper:812334129017257984",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812334129017257984"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For two-dimensional periodic systems of area $P$ containing $N$ electrons, if the small-$k$ translationally averaged static structure factor has the RPA-motivated form $S(k)=\\gamma k^{3/2}+O(k^2)$ with coefficient $\\gamma>0$, then the leading finite-size correction to the Ewald exchange–correlation (XC) energy per particle scales with particle number as $O(N^{-1/4})$ and has the explicit large-$N$ form\n      $$\n      \\Delta V_{\\mathrm{Ew}}=\\frac{C_{2\\mathrm{D}}}{2\\pi r_s^3}\\left(\\frac{2}{\\pi N}\\right)^{1/4}+O(N^{-1/2}),\n      $$\n      where $r_s$ is defined in 2D by $P/N=\\pi r_s^2$ or as otherwise appropriate for the 2D density and $C_{2\\mathrm{D}}$ is a geometry-dependent constant (e.g., $C_{2\\mathrm{D}}\\approx3.9852$ for a square cell and $\\approx3.9590$ for a hexagonal cell). The corresponding leading asymptotic kinetic-energy finite-size correction follows from a small-$k$ Jastrow $u(k)\\sim -a/k^{3/2}$ and is\n      $$\n      \\Delta T=\\frac{C_{2\\mathrm{D}} N a}{4\\pi P^{5/4}}+O(N^{-1/2}),\n      $$\n      implying that the energy-per-particle finite-size error in 2D behaves as $O(N^{-5/4})$ asymptotically; for a 2D HEG in the RPA limit $a=\\sqrt{2}\\pi r_s$.",
+        "content_hash": "f7196f8906500c29b998fa362519e2b2bdbbde500d387c579eb38bbe50cf7722",
+        "id": "gcn_3e05150f42e344a3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867769538161148739::conclusion_9",
+            "package_id": "paper:867769538161148739",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867769538161148739"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the two-layer effective mass formula be M = μ4 / [ vF2 C1 ] * sqrt( 1 + C1 / μ3 ), with μ = δ1 + δ2 and C1 = 2 γ N2 (ℏ vF)2 where γ = e2 / [ 8π ε0 εd D3 ]. Because γ ∝ D−3 enters multiplicatively into C1, the effective mass M increases as interlayer separation D increases within this formula; this dependence on D arises from the quasi-relativistic (Dirac-like) kinetic structure used to derive the dispersion rather than from a nonrelativistic Schrödinger description, in which the exciton mass does not acquire such a D-dependence.",
+        "content_hash": "09396afc4acb034e515dac32e3261ceaf0722f5d361c0a326c39e2fdde534557",
+        "id": "gcn_72e9feb1d1494c75",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757088892257080::P10",
+            "package_id": "paper:867757088892257080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757088892257080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "3937da9ea410e777ecf4981641a23bad"
+}

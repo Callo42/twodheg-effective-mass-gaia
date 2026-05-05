@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Let a Slater-Jastrow-backflow trial wave function for a finite periodic simulation cell be parameterized by Jastrow and backflow parameters that were optimized by variational Monte Carlo (VMC) for the closed-shell ground state; denote these ground-state-optimized parameter vectors by \\\\((J_{\\\\mathrm{GS}},B_{\\\\mathrm{GS}})\\\\). The proposition is: when computing excitation energies in that finite simulation cell (energy differences between excited and ground states obtained by DMC), using the same fixed parameter values \\\\((J_{\\\\mathrm{GS}},B_{\\\\mathrm{GS}})\\\\) for the excited-state trial wave functions introduces less additional finite-size bias into the excitation energies than performing an independent reoptimization of \\\\(J,B\\\\) in each excited-state finite cell, because excited-state reoptimization in a finite cell can exploit finite-size-dependent changes in correlation that do not persist in the thermodynamic limit.",
+      "content_hash": "04ee59ffeb4704e142e28e0e1cc853270647e4385dcdc1eb1b2e3f63eae9e6a0",
+      "id": "gcn_a4747d52e91f45e5",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "d12e4f48c6eb2172d4c995bd15692045"
+}

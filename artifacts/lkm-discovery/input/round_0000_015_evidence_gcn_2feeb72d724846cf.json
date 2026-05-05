@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For the paramagnetic (unpolarized) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N quasiparticle effective masses m^*(N) produced by quartic fits to DMC energy bands and fitting m^*(N)=m^*(∞)+b N^{-γ} yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.955(2) in hartree atomic units (a.u.), where m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the Fermi wave vector of the infinite system.",
+      "content_hash": "7859b0b106dad377c477ad6afe8e3774af8cb07138426e0b7daf7af4d7730e8c",
+      "id": "gcn_2feeb72d724846cf",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "For the paramagnetic (unpolarized) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N quasiparticle effective masses m^*(N) produced by quartic fits to DMC energy bands and fitting m^*(N)=m^*(∞)+b N^{-γ} yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.955(2) in hartree atomic units (a.u.), where m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the Fermi wave vector of the infinite system.",
+              "id": "gcn_2feeb72d724846cf"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_d8e2b49f4bcb411b",
+            "premises": [
+              {
+                "content": "When extrapolating finite-system quasiparticle effective masses m^*(N) to the thermodynamic limit with the model m^*(N)=m^*(∞)+b N^{-γ}, fixing the exponent γ=3/2 as a plotting choice (i.e., plotting m^* against N^{-3/2} and performing a linear fit) produces a visually consistent linearization of the data for the range of N values studied and yields extrapolated m^*(∞) values close to those obtained when γ is allowed to vary, but this choice is not derived from first principles for the finite-Δk quartic-fitting procedure used here and therefore introduces model-selection uncertainty into the extrapolated numbers.",
+                "id": "gcn_ad06e1761960461b"
+              },
+              {
+                "content": "The numerical thermodynamic-limit quasiparticle effective-mass estimates reported here (for example m^*(∞)=0.955(2) a.u. at r_s=1) are robust approximations to the true thermodynamic-limit values for the ideal two-dimensional homogeneous electron gas only under the assumptions that (i) quartic-band fitting over appropriately chosen finite Δk yields accurate per-N derivatives, (ii) the finite-size dependence over the sampled N values is adequately modeled by a single power law b N^{-γ} with γ near the best-fit values found, and (iii) other systematic errors (time-step bias in total-energy differences, population-control bias, and trial-node fixed-node errors) are negligible compared with the stated statistical uncertainties; violations of any of these assumptions would change the extrapolated numbers beyond the quoted error bars.\n      Ref. 20",
+                "id": "gcn_08b20f3f97ea4e59"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the upstream conclusions that (a) the band-fitting and finite-size extrapolation procedure is the method used to obtain thermodynamic-limit effective masses and (b) finite-$N$ DMC bands at representative system sizes are reliable (these results are established in the prior conclusions identified above); treat the per-size quartic fits and finite-size extrapolation framework as given.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Describe the practical calculation performed for the paramagnetic HEG at density parameter $r_{s}=1$: for each simulated system size $N$ in the paramagnetic set ($N=26,50,74,114,162$ as used in the calculations), fit the DMC band $\\mathcal{E}(k)$ to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, evaluate the derivative $(d\\mathcal{E}/dk)_{k_{F}}$ from the fitted polynomial at the Fermi wave vector $k_{F}$ appropriate to the infinite paramagnetic system, and compute $m^{*}(N)=k_{F}/(d\\mathcal{E}/dk)_{k_{F}}$ for each $N$.\nFig. 3",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Fit the sequence of finite-$N$ masses $m^{*}(N)$ to the finite-size model $m^{*}(N)=m^{*}(\\infty)+b\\,N^{-\\gamma}$, where $m^{*}(\\infty)$, $b$, and $\\gamma$ are fitting parameters, and perform Monte Carlo sampling of the error bars to obtain uncertainties in the fitted parameters; the paper reports that the extrapolation shown in the principal figures assumes an exponent of $\\gamma=3/2$ (i.e., $\\gamma=1.5$) for the plotted extrapolation, and Table I summarizes extrapolated values for different assumed $\\gamma$.\nFig. 7\nFig. 8\nTable I",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Report the final numerical extrapolated thermodynamic-limit value obtained for the paramagnetic 2D HEG at $r_{s}=1$: $m^{*}(\\infty)=0.955(2)$ in hartree atomic units; this value is presented in the tabulated results and in the paper's conclusions as the extrapolated effective mass after removing the observed systematic finite-size trend.\nTable II",
+                "step_id": "4"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "For high density ($r_{s}=1$) the accurate thermodynamic-limit value of the paramagnetic effective mass was uncertain because previous calculations had not combined sufficiently small stochastic error bars with controlled finite-size extrapolation. A reliable $m^{*}(\\infty)$ at $r_{s}=1$ is needed both as a benchmark for perturbative methods (e.g., $GW$ variants) and to assess whether interaction-induced mass suppression or enhancement occurs at high density, but the lack of precise finite-size-corrected QMC results left this benchmark unavailable.",
+            "id": "paper:813250329280774145::conclusion_4_subproblem",
+            "source_package": "paper:813250329280774145"
+          }
+        ],
+        "source_package": "paper:813250329280774145"
+      }
+    ],
+    "papers": {
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "e51a0ca5181803e37adcd22beadedba5"
+}

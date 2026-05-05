@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811834570033856513": {
+        "area": "Chemistry",
+        "authors": "Zhigang Wu | Mark D. Allendorf | Jeffrey C. Grossman",
+        "available_online": "2009-9-9",
+        "cover_date_start": "2009-09-09",
+        "created_at": "2022-12-19T21:40:45+08:00",
+        "doi": "10.1021/ja905639m",
+        "en_title": "Quantum Monte Carlo Simulation of Nanoscale MgH 2 Cluster Thermodynamics",
+        "id": "811834570033856513",
+        "keywords": "",
+        "publication_date": "2009-10-7",
+        "publication_id": "3341",
+        "publication_name": "Journal of the American Chemical Society _ J. Am. Chem. Soc.",
+        "research_categories": "",
+        "zh_title": "纳米级MgH₂团簇热力学的量子蒙特卡罗模拟"
+      },
+      "paper:813063777716011009": {
+        "area": "Chemistry",
+        "authors": "Anthony Scemama | Yann Garniron | Michel Caffarel | Pierre-François Loos",
+        "available_online": "2018-1-27",
+        "cover_date_start": "2018-01-27",
+        "created_at": "2022-12-23T07:05:11+08:00",
+        "doi": "10.1021/acs.jctc.7b01250",
+        "en_title": "Deterministic Construction of Nodal Surfaces within Quantum Monte Carlo: The Case of FeS",
+        "id": "813063777716011009",
+        "keywords": "",
+        "publication_date": "2018-3-13",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "",
+        "zh_title": "量子蒙特卡罗方法中节点面的确定性构建：以FeS为例 "
+      },
+      "paper:813369004914638849": {
+        "area": "Physics and Astrophysics",
+        "authors": "Sorcha B. Healy | Claudia Filippi | P. Kratzer | E. Penev | M. Scheffler",
+        "available_online": "2001-6-19",
+        "cover_date_start": "2001-06-19",
+        "created_at": "2022-12-24T03:18:03+08:00",
+        "doi": "10.1103/physrevlett.87.016105",
+        "en_title": "Role of Electronic Correlation in the Si(100) Reconstruction: A Quantum Monte Carlo Study",
+        "id": "813369004914638849",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "电子关联在硅（100）重构中的作用：一项量子蒙特卡罗研究"
+      },
+      "paper:814556821355233281": {
+        "area": "Mathematics",
+        "authors": "Claudio Amovilli | Franca Floris | Andrea Grisafi",
+        "available_online": "2016-2-6",
+        "cover_date_start": "2016-02-06",
+        "created_at": "2022-12-27T09:58:01+08:00",
+        "doi": "10.3390/computation4010010",
+        "en_title": "Localized Polycentric Orbital Basis Set for Quantum Monte Carlo Calculations Derived from the Decomposition of Kohn-Sham Optimized Orbitals",
+        "id": "814556821355233281",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "31076",
+        "publication_name": "Computation _ Computation",
+        "research_categories": "",
+        "zh_title": "基于Kohn-Sham优化轨道分解的量子蒙特卡罗计算的局域多中心轨道基组"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867758741552889957": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | P. Lopez Rios | C. J. Pickard | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2011-04-28",
+        "created_at": "2023-05-23T05:23:26+08:00",
+        "doi": "10.48550/arXiv.1104.5441",
+        "en_title": "Quantum Monte Carlo Study of a Positron in an Electron Gas",
+        "id": "867758741552889957",
+        "keywords": "",
+        "publication_date": "2011-04-28",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "",
+        "zh_title": "电子气中一个正电子的量子蒙特卡罗研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "In diffusion Monte Carlo (DMC) simulations of the positron-in-HEG system performed with a fixed-node constraint and a discrete time step Δt, the proposition is that extrapolating computed DMC energies to zero time step using calculations at multiple finite Δt values removes the leading-order time-step bias so that the reported extrapolated DMC energies accurately approximate the continuous-time (Δt→0) DMC limit within the stated uncertainties.",
+        "content_hash": "781dcb794cf45401b3cae70d7e5bda87131e94455bcb2e4592ddbc2fc21eb047",
+        "id": "gcn_be865f05eaeb4db0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867758741552889957::P11",
+            "package_id": "paper:867758741552889957",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867758741552889957"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider the reported DMC calculations carried out with finite DMC time steps (time steps of 0.04, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for paramagnetic HEGs and 0.01, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for ferromagnetic HEGs) and using single-determinant Slater-Jastrow-backflow trial wave functions that, according to extrapolation of variational Monte Carlo energies to zero energy variance, retrieve more than 99% of the correlation energy. The proposition is: the residual biases arising from the fixed-node approximation and from finite DMC time-step errors (noting that halving the time step was verified to have a negligible effect on the computed energy band) are small compared with the overall uncertainties introduced by the finite-size extrapolation procedure; therefore these residual numerical biases do not materially shift the reported extrapolated thermodynamic-limit effective masses \\\\(m^{*}(\\\\infty)\\\\).",
+        "content_hash": "88ef95b0e1f66d1eedc48ec26181853f6974ba9d11495b0209ae7000a83bf811",
+        "id": "gcn_17c63b5dc2154f15",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P10",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031099324975891997,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the methane dimer the study reports fixed-node DMC interaction energies at two time steps, $0.05\\ \\text{a.u.}$ and $0.01\\ \\text{a.u.}$, and uses the comparison between these two points to assess finite-time-step bias; no systematic extrapolation of DMC energies to the zero-time-step limit was presented, so residual finite-time-step bias may remain.\n      Figure 3",
+        "content_hash": "f08ab934da3e2235c2531e72a694ece364438fa057aa716b965a36cdd082b290",
+        "id": "gcn_c457b3ad93934867",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814556821355233281::P11",
+            "package_id": "paper:814556821355233281",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814556821355233281"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029206349206349208,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let DMC calculations with the fixed-node approximation be carried out for ground and single-particle excited states of a 2D HEG using single-determinant Slater-Jastrow-backflow trial wave functions (real determinants for closed-shell ground states, Jastrow factors with polynomial and plane-wave terms, and polynomial backflow functions). The proposition is: the residual fixed-node errors introduced by the nodal surface of these single-determinant Slater-Jastrow-backflow trial wave functions are sufficiently small and similar in magnitude for the ground and corresponding single-particle excited states that the fixed-node error contributions to the total-energy differences that define the single-quasiparticle band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) are negligible compared with the statistical uncertainties and the finite-size effects analysed; hence fixed-node bias does not materially alter the excitation-energy trends reported within the stated numerical precision.",
+        "content_hash": "865b878c02ad923744f37494335a08903271c434375db686d089623be7435674",
+        "id": "gcn_1f9f0f2db1114bb1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P4",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02712049508554787,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) propagates an importance-sampled imaginary-time Schrödinger equation with a discrete time step τ and yields an estimate E_DMC(τ) that approaches the fixed-node continuum limit E_DMC(0) as τ → 0; the finite-time-step bias δE(τ) ≡ E_DMC(τ) − E_DMC(0) can be non-negligible for practical choices of τ, and for time steps of order τ = 0.125 H^−1 and τ = 0.10 H^−1 (where H^−1 denotes inverse Hartree atomic units) the systematic time-step error can scale approximately as a τ + b τ^2 depending on implementation details, so that if reported DMC energies are obtained at such finite τ without an explicit τ → 0 extrapolation or without demonstrating that δE(τ) ≪ the reported per-dimer energy differences (for example, ≪ 0.02 eV), then the finite-τ bias could be comparable to the small energy differences used to infer energetic preferences.",
+        "content_hash": "40c8e28e99583e4e474b011fff129ddd42b272690d69607740a87b8d1ba28934",
+        "id": "gcn_72f363da0c9442db",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813369004914638849::P3",
+            "package_id": "paper:813369004914638849",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813369004914638849"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026830135039090264,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let τ denote the DMC time step in atomic units and let E_DMC(τ;N) denote the fixed-node DMC energy computed for a cluster of size N at time step τ; the proposition is that selecting a single DMC time step τ = 0.01 au produces a time-step bias ΔE_τ(N) ≡ E_DMC(0.01;N) - lim_{τ→0} E_DMC(τ;N) that is negligible for all cluster sizes considered, specifically that |ΔE_τ(N)| ≪ 1 kJ mol⁻¹ so that no explicit time-step extrapolation beyond the single chosen value was required to obtain chemically accurate energies across N.",
+        "content_hash": "52b62ba355a7d101ef9c81ccc5cd816286e97b04da4e28dcd598675328521536",
+        "id": "gcn_3940081872f144bc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811834570033856513::P3",
+            "package_id": "paper:811834570033856513",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811834570033856513"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025989268947015427,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In fixed-node diffusion Monte Carlo (FN-DMC), let $E_{\\text{DMC}}(\\tau)$ denote the FN-DMC energy estimated with a short time step $\\tau$ (in atomic units). For sufficiently small $\\tau$ where the leading time-step bias is approximately linear in $\\tau$, performing a linear extrapolation of $E_{\\text{DMC}}(\\tau)$ to $\\tau\\to 0$ using two small time steps $\\tau_1=2\\times 10^{-4}$ and $\\tau_2=4\\times 10^{-4}$ yields an estimate of the zero-time-step FN-DMC energy via the formula $E_{\\text{DMC}}(0)=E_{\\text{DMC}}(\\tau_1)-\\dfrac{E_{\\text{DMC}}(\\tau_2)-E_{\\text{DMC}}(\\tau_1)}{\\tau_2-\\tau_1}\\,\\tau_1$, within the quoted statistical uncertainties in the present calculations.",
+        "content_hash": "5b323a2279ebda2e6bd37876dea778a6c78d4f48827b8da20b26c7df15ebb45b",
+        "id": "gcn_a3e2bd56b990463f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813063777716011009::P4",
+            "package_id": "paper:813063777716011009",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813063777716011009"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025893752088205813,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In fixed-node diffusion Monte Carlo (DMC) the discrete imaginary-time step dτ used for walker propagation produces Trotter (time-step) errors that can materially alter computed quasiparticle energy bands and hence the derivative-based effective mass m*: in the authors' calculations for paramagnetic 2D-UEL at r_s = 5 with N = 302 electrons, the DMC band fits obtained using dτ = 0.005 a.u. and dτ = 0.2 a.u. (each run using the same walker ensemble size N_w = 2560 and the same number of propagation steps 25×10^3) exhibit markedly different band-fitting uncertainties and produce differing estimates of m*, demonstrating that insufficient time-step control can bias m* and that the common assumption that time-step errors cancel in excitation-energy differences need not hold.",
+        "content_hash": "fdd53349e8f686dde09763f73ee97147234c25f64192ec1b4496465fe3fcecab",
+        "id": "gcn_7892ddefe73c43f2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_7",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.024269005847953218,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For weak intermolecular interaction energies whose magnitudes are of order $10^{-4}\\ \\text{Hartree}$ (sub-chemical accuracy), the fixed-node DMC calculations reported here indicate that a DMC time step on the order of $0.01\\ \\text{atomic units}$ or smaller is required to reduce finite-time-step bias to below the interaction-energy magnitude; larger time steps such as $0.05\\ \\text{a.u.}$ can leave a residual time-step bias comparable to the interaction-energy values.",
+        "content_hash": "60ec7974f2e1bac2bc4c93fc2c6b7d18e7706abf70ad806c0fc001c2a1eaab84",
+        "id": "gcn_9f82b377a0b54e5d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814556821355233281::conclusion_7",
+            "package_id": "paper:814556821355233281",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814556821355233281"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "e55d2727574128117e8ac9e85facc95c"
+}

@@ -1,0 +1,44 @@
+{
+  "ir_hash": "sha256:d70e0556d7c81e17627d12a1210a04ab5a97a201e8db89588dc4260192448eda",
+  "manifest_schema_version": 1,
+  "package": "twodheg-effective-mass",
+  "premises": [
+    {
+      "content": "For Fermi-liquid parameters F_l, or F_l/m*, of the two-dimensional homogeneous electron gas computed in square periodic simulation cells, the leading systematic finite-size correction from long-range correlation effects scales as N^(-1/4). This supports thermodynamic-limit extrapolations of finite-N results with a form F_l(N)=c+a N^(-1/4), matching the long-range-correlation finite-size analysis associated with Holzmann et al. [@Drummond2013b].",
+      "content_hash": "5ca7acbd616a115298283e7ac0365a3a650c5de8d7e4d44031e68b293f4bc6bd",
+      "exported": false,
+      "interface_hash": "sha256:2d990a2367be223556435c1c5cfc7bde4cfc3e4a2baa129dad3ed893be57cf45",
+      "label": "gcn_219b34bd252c43fa",
+      "qid": "local:twodheg_effective_mass::gcn_219b34bd252c43fa",
+      "required_by": [
+        "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "For finite periodic simulation cells of the two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions, reoptimizing variational Jastrow and backflow parameters for an excited-state configuration can lower the finite-cell DMC energy. Because the optimal short-range correlation functions should be unchanged by a single excitation in the thermodynamic limit, this lowering is a finite-size error that can reduce excitation bandwidths and amplify finite-size bias in quantities such as the quasiparticle effective mass [@Drummond2013a].",
+      "content_hash": "9d43f8916c748ea000b9997e2235421a5ecf4c53c1b927e65878ce4278e2da38",
+      "exported": false,
+      "interface_hash": "sha256:b9fcf62408bb8441e7adb752dcc5b58a96e2542d757c659131c3d543ee703dfe",
+      "label": "gcn_850fc9d9de314026",
+      "qid": "local:twodheg_effective_mass::gcn_850fc9d9de314026",
+      "required_by": [
+        "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f"
+      ],
+      "role": "local_hole"
+    },
+    {
+      "content": "For an added-electron excitation with momentum p above k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy correction delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. In leading order, the corresponding potential-energy correction is independent of p and therefore does not affect the slope of the excitation dispersion used to extract m* from near-k_F fits [@Holzmann2008].",
+      "content_hash": "15b8cc77940683676b22a8921f691a2815d02ff6036e99a9172e84b560c95f50",
+      "exported": false,
+      "interface_hash": "sha256:e6f9c69ff5125129d216278af07d97898b6529b5e91cf21f3cb551b2de82115d",
+      "label": "gcn_da3eecec49114543",
+      "qid": "local:twodheg_effective_mass::gcn_da3eecec49114543",
+      "required_by": [
+        "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f"
+      ],
+      "role": "local_hole"
+    }
+  ],
+  "version": "0.1.0"
+}

@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For a paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5 and in a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC}=1.26(2) a.u. and a diffusion Monte Carlo (DMC) calculation using the same trial wave function with the fixed-node constraint yields m^*_{DMC}=1.24(3) a.u.; the agreement within quoted statistical uncertainties indicates that, at that specific system size and density, the fixed-node DMC procedure with that trial wave function does not introduce a large systematic bias in the per-size effective-mass estimate.",
+      "content_hash": "e462dabf3fec06c0780fd8b260fb50ec97ede163c5d68e7e40cf8d78f55df789",
+      "id": "gcn_678e0e02a7da4c85",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "For a paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5 and in a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC}=1.26(2) a.u. and a diffusion Monte Carlo (DMC) calculation using the same trial wave function with the fixed-node constraint yields m^*_{DMC}=1.24(3) a.u.; the agreement within quoted statistical uncertainties indicates that, at that specific system size and density, the fixed-node DMC procedure with that trial wave function does not introduce a large systematic bias in the per-size effective-mass estimate.",
+              "id": "gcn_678e0e02a7da4c85"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_0429c394bca84669",
+            "premises": [
+              {
+                "content": "If, for a two-dimensional homogeneous electron gas at density parameter r_s=5 and for a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a given Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC} and a diffusion Monte Carlo (DMC) calculation using the same trial wave function and the fixed-node constraint yields m^*_{DMC} such that m^*_{VMC} and m^*_{DMC} agree within their quoted statistical uncertainties (for example, m^*_{VMC}=1.26(2) a.u. and m^*_{DMC}=1.24(3) a.u.), then the fixed-node DMC procedure with that trial wave function introduces at most a small systematic bias in the per-size effective-mass estimate at that specific system size and density; this single-instance agreement, however, does not guarantee the absence of comparable fixed-node biases at other system sizes, densities, or for different trial wave functions.",
+                "id": "gcn_40f6836947ec4abd"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define variational Monte Carlo (VMC) as the method that evaluates expectation values of the many-electron Hamiltonian with respect to a parameterized trial wave function and diffusion Monte Carlo (DMC) as defined previously; define the quasiparticle effective mass $m^{*}$ by $m^{*}=k_{F}/(d\\mathcal{E}/dk)_{k_{F}}$, where $k_{F}$ is the Fermi wave vector of the infinite system and $\\mathcal{E}(k)$ is the energy band as a function of scalar wave number $k=|\\mathbf{k}|$.\nRef. 10",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "State the explicit empirical comparison performed in the paper: for a paramagnetic HEG at density parameter $r_{s}=5$ and fixed finite system size $N=50$ electrons, the authors computed the effective mass using VMC and using DMC with the same Slater-Jastrow-backflow trial wave function; the VMC effective mass was reported as $1.26(2)$ (hartree atomic units) and the DMC effective mass was reported as $1.24(3)$ (hartree atomic units).\nFig. 1",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Infer that because the two different electronic-structure methods (VMC and DMC), using the same trial wave function at the same finite system size, produce effective-mass values that agree within the quoted statistical uncertainties, the finite-$N$ DMC band and the derived finite-$N$ effective mass $m^{*}(N)$ at that system size are reliable; hence the fixed-node DMC procedure with the chosen Slater-Jastrow-backflow trial wave function does not introduce a large systematic bias in the per-size effective-mass estimate at this representative system size.",
+                "step_id": "3"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "A potential concern in relying on DMC band energies is that biases from the trial wave function or from fixed-node errors might distort energy differences used to compute $m^{*}$. Demonstrating agreement between an independent VMC estimate (using the same trial form but a different estimator) and the DMC result at a representative size reduces this concern and supports the use of the DMC finite-$N$ data as inputs to the finite-size extrapolation procedure that yields $m^{*}(\\infty)$.",
+            "id": "paper:813250329280774145::conclusion_13_subproblem",
+            "source_package": "paper:813250329280774145"
+          }
+        ],
+        "source_package": "paper:813250329280774145"
+      }
+    ],
+    "papers": {
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "ade27d109f80d2f33b90de43ce8cfc36"
+}

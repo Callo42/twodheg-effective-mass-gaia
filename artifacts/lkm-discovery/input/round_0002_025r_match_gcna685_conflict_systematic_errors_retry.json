@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1040153207549984782": {
+        "area": "arXiv-Physics",
+        "authors": "M.C. Gordillo | J. Segovia | J.M. Alcaraz-Pelegrina",
+        "available_online": "",
+        "cover_date_start": "2024-09-06",
+        "created_at": "2024-09-09T22:37:30+08:00",
+        "doi": "10.48550/arxiv.2409.04130",
+        "en_title": "A diffusion Monte Carlo calculation of fully heavy pentaquarks",
+        "id": "1040153207549984782",
+        "keywords": "",
+        "publication_date": "2024-09-06",
+        "publication_id": "108494",
+        "publication_name": "High Energy Physics - Phenomenology _ Physics.hep-ph.hep-ph",
+        "research_categories": "",
+        "zh_title": "全重五夸克态的扩散蒙特卡罗计算"
+      },
+      "paper:811151272764768256": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yuhe Zhang | A. Wójs | J. K. Jain",
+        "available_online": "2016-9-8",
+        "cover_date_start": "2016-09-08",
+        "created_at": "2022-12-18T00:25:35+08:00",
+        "doi": "10.1103/physrevlett.117.116803",
+        "en_title": "Landau-Level Mixing and Particle-Hole Symmetry Breaking for Spin Transitions in the Fractional Quantum Hall Effect",
+        "id": "811151272764768256",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "分数量子霍尔效应中自旋跃迁的朗道能级混合和粒子孔对称性破缺"
+      },
+      "paper:812366898397184000": {
+        "area": "Physics and Astrophysics",
+        "authors": "Simone Chiesa | Massimo Mella | Gabriele Morosi",
+        "available_online": "2004-2-2",
+        "cover_date_start": "2004-02-02",
+        "created_at": "2022-12-21T08:56:02+08:00",
+        "doi": "10.1103/physreva.69.022701",
+        "en_title": "Quantum Monte Carlo estimators for the positron-electron annihilation rate in bound and low-energy scattering states",
+        "id": "812366898397184000",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "532",
+        "publication_name": "Physical Review A _ Phys. Rev. A",
+        "research_categories": "",
+        "zh_title": "用于束缚态和低能散射态中正电子 - 电子湮灭率的量子蒙特卡罗估计量"
+      },
+      "paper:867745588345570007": {
+        "area": "arXiv-Physics",
+        "authors": "R. Cruz-Torres | D. Lonardoni | R. Weiss | N. Barnea | D. W. Higinbotham | E. Piasetzky | A. Schmidt | L. B. Weinstein | R. B. Wiringa | O. Hen",
+        "available_online": "",
+        "cover_date_start": "2019-07-08",
+        "created_at": "2023-05-23T04:31:10+08:00",
+        "doi": "10.48550/arXiv.1907.03658",
+        "en_title": "Scale and Scheme Independence and Position-Momentum Equivalence of Nuclear Short-Range Correlations",
+        "id": "867745588345570007",
+        "keywords": "",
+        "publication_date": "2019-07-08",
+        "publication_id": "108503",
+        "publication_name": "Nuclear Theory _ Physics.nucl-th.nucl-th",
+        "research_categories": "",
+        "zh_title": "核短程关联的标度与方案独立性以及位置 - 动量等效性"
+      },
+      "paper:867748725953397471": {
+        "area": "arXiv-Physics",
+        "authors": "Luca Bertini | Dario Bressanini | Massimo Mella | Gabriele Morosi",
+        "available_online": "",
+        "cover_date_start": "2000-11-22",
+        "created_at": "2023-05-23T04:43:38+08:00",
+        "doi": "10.48550/arXiv.physics/0011055",
+        "en_title": "Explicitly correlated trial wave functions in Quantum Monte Carlo calculations of excited states of Be and Be-",
+        "id": "867748725953397471",
+        "keywords": "",
+        "publication_date": "2000-11-22",
+        "publication_id": "108508",
+        "publication_name": "Atomic Physics _ Physics.physics.atom-ph",
+        "research_categories": "",
+        "zh_title": "铍（Be）及其离子（Be⁺）激发态量子蒙特卡罗计算中的显式相关试探波函数"
+      },
+      "paper:867748734023237652": {
+        "area": "arXiv-Physics",
+        "authors": "Travis A. Berger | Joshua E. Schlieder | Daniel Huber | Thomas Barclay",
+        "available_online": "",
+        "cover_date_start": "2023-01-31",
+        "created_at": "2023-05-23T04:43:40+08:00",
+        "doi": "10.48550/arXiv.2302.00009",
+        "en_title": "Evidence that Core-Powered Mass-Loss Dominates Over Photoevaporation in Shaping the Kepler Radius Valley",
+        "id": "867748734023237652",
+        "keywords": "",
+        "publication_date": "2023-01-31",
+        "publication_id": "108478",
+        "publication_name": "Earth and Planetary Astrophysics _ Physics.astro-ph.EP",
+        "research_categories": "[\"Physical Sciences\", \"Space Sciences\"]",
+        "zh_title": "在塑造开普勒半径谷的过程中，核心驱动质量损失比光蒸发占主导地位的证据"
+      },
+      "paper:867749194192913156": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | R. E. Cohen",
+        "available_online": "",
+        "cover_date_start": "2015-09-03",
+        "created_at": "2023-05-23T04:45:30+08:00",
+        "doi": "10.48550/arXiv.1509.00995",
+        "en_title": "Chemical accuracy from quantum Monte Carlo for the Benzene Dimer",
+        "id": "867749194192913156",
+        "keywords": "",
+        "publication_date": "2015-09-03",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\", \"Atomic, Molecular and Optical Physics\", \"Quantum Physics\"]",
+        "zh_title": "苯二聚体量子蒙特卡罗方法的化学精度"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867753536459375225": {
+        "area": "arXiv-Physics",
+        "authors": "Pierre-François Loos | Peter M. W. Gill",
+        "available_online": "",
+        "cover_date_start": "2012-07-04",
+        "created_at": "2023-05-23T05:02:45+08:00",
+        "doi": "10.48550/arXiv.1207.0908",
+        "en_title": "Correlation energy of the one-dimensional Coulomb gas",
+        "id": "867753536459375225",
+        "keywords": "",
+        "publication_date": "2012-07-04",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "一维库仑气体的关联能"
+      },
+      "paper:867759316881375493": {
+        "area": "arXiv-Physics",
+        "authors": "Paolo Umari | Nicola Marzari",
+        "available_online": "",
+        "cover_date_start": "2009-09-02",
+        "created_at": "2023-05-23T05:25:43+08:00",
+        "doi": "10.48550/arXiv.0909.0385",
+        "en_title": "Linear and Non-linear Susceptibilities from Diffusion Quantum Monte Carlo: Application to Periodic Hydrogen Chains",
+        "id": "867759316881375493",
+        "keywords": "",
+        "publication_date": "2009-09-02",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "",
+        "zh_title": "基于扩散量子蒙特卡罗方法的线性与非线性极化率：在周期性氢链中的应用 "
+      }
+    },
+    "variables": [
+      {
+        "content": "Let \"basis-set incompleteness error\" denote errors arising in quantum-chemistry calculations from representing single-particle orbitals in a finite Gaussian basis set and let \"finite-chain extrapolation error\" denote errors from extrapolating results for finite open chains to an infinite periodic chain. The proposition is that in asserting diffusion Monte Carlo (DMC) provides periodic-boundary, basis-set-error-free reference values for dielectric response of the periodic hydrogen-dimer chains, one is implicitly assuming that the other systematic biases intrinsic to DMC — namely the fixed-node approximation, any errors introduced by the non-exact norm-conserving pseudopotential used to represent the proton potential, finite supercell (finite-$N$) errors, finite DMC time-step errors, and finite forward-walking projection-time $\\Delta t$ biases — are negligible compared to the reported Monte Carlo statistical errors for the presented results.",
+        "content_hash": "2259674fee51949fc5751afe338ff15b8bf7c79e12dff69a6e7de89ec25e90e4",
+        "id": "gcn_036ef4d85b5e41a1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759316881375493::P8",
+            "package_id": "paper:867759316881375493",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759316881375493"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028594771241830064,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let τ denote the DMC time step and suppose that a diffusion Monte Carlo calculation produces an estimate Ĥ(τ) for an observable H without performing an explicit τ→0 extrapolation; for the small-system benchmark DMC values reported (for example the ⟨δ_ep⟩ values for Ps− and PsH obtained in the tests) the proposition asserts that any systematic error arising from using a finite τ is negligible compared to the quoted Monte Carlo statistical uncertainties, i.e., the absence of a dedicated time-step-bias extrapolation study does not materially affect the claim that the reported DMC estimates agree with high-accuracy reference values within the reported uncertainties.",
+        "content_hash": "13bd4a45de4011267118d60703343e31a028f6b18a2e369069b81d20e75125b9",
+        "id": "gcn_84f80bafc1f7428d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812366898397184000::P12",
+            "package_id": "paper:812366898397184000",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812366898397184000"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0264808362369338,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The diffusion Monte Carlo (DMC) benchmark results used for numerical validation are produced by a diffusion Monte Carlo algorithm with time-step extrapolation to zero time step and employ a trial wavefunction of the form $\\Psi_{T}=\\Psi_{HF}\\prod_{i<j}\\big(\\sum_{k=1}^{5}c_{k}r_{ij}^{k}\\big)$ whose coefficients $c_{k}$ are optimized by standard procedures. The proposition is that these DMC results approximate the exact ground-state correlation energies to within their reported statistical uncertainties and that residual systematic errors (from finite simulation cell, finite walker population, time-step extrapolation, and trial-wavefunction nodal errors) are small enough not to invalidate millihartree-level comparisons with the ISI functional, assuming that the DMC implementation and extrapolation follow the best-practice protocols cited.\n      [39]\n      [40]\n      [41]",
+        "content_hash": "00687623987f026941d703b20e97567642327faf3d6ccfbc1b3f59441274c253",
+        "id": "gcn_661bd3b9bc154385",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753536459375225::P10",
+            "package_id": "paper:867753536459375225",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753536459375225"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Denote by $\\sigma_{\\mathrm{MC}}$ the statistical standard error from Monte Carlo sampling in a fixed‑phase DMC run for per‑particle energies and by $\\sigma_{\\mathrm{extrap}}$ the uncertainty arising from the finite‑size correction and extrapolation to the thermodynamic limit; for the DMC calculations carried out (system sizes and sampling lengths used), $\\sigma_{\\mathrm{MC}}\\ll\\sigma_{\\mathrm{extrap}}$, so that the quoted error bars and the uncertainty budget are dominated by extrapolation systematics rather than by Monte Carlo statistical noise.",
+        "content_hash": "024580908487a7fc3b8cb55dea02fcb02a0725c36aab3a92c8ef0a0623744570",
+        "id": "gcn_d670686105d54c41",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811151272764768256::P5",
+            "package_id": "paper:811151272764768256",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811151272764768256"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E_s^VMC(R) and E_s^DMC(R) denote the reported variational Monte Carlo and diffusion Monte Carlo energies, respectively, at geometry R for a trial wave-function specification s ∈ {1B+2B, 1B+2B+3B, 1B+2B+3B+BF}. The tabulated energies in Table I are reported with parenthetical uncertainty values for each entry; these parenthetical uncertainties correspond to the estimated stochastic standard errors from Monte Carlo sampling for the VMC numbers and to stochastic uncertainties for the DMC numbers after the authors' stated linear time-step extrapolation from DMC calculations performed at time steps 0.01 a.u. and 0.04 a.u. (the paper reports that DMC results were extrapolated linearly to zero time step). The trial-wave-function parameters were optimized using a two-stage protocol of variance minimization followed by energy minimization, so the reported VMC energies reflect optimization uncertainty to the extent captured by the sampling; accordingly, the parenthetical uncertainty values reported in Table I are intended to encompass the principal stochastic sources of uncertainty relevant for comparing energy differences across wave-function forms and methods (i.e., Monte Carlo sampling error, the residual from linear time-step extrapolation in DMC, and statistical effects of the optimization), while remaining systematic errors such as fixed-node bias from the nodal surface, pseudopotential approximations, and basis-set incompleteness in the underlying orbitals are treated as separate considerations whose magnitudes are discussed elsewhere in the analysis but are not claimed to be larger than the reported stochastic uncertainties for the specific numeric comparisons made in this work.\n      Table I",
+        "content_hash": "c3227df2e715cdbd8c82a274f4bfaa6e6d21a02babb4a07f19d3abe1d2ba8fc6",
+        "id": "gcn_da7d6bc0d9a14fac",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749194192913156::P2",
+            "package_id": "paper:867749194192913156",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749194192913156"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a reported DMC total energy $E_{\\mathrm{DMC}}=\\bar{E}\\pm\\delta E$ where $\\bar{E}$ is the sample mean and $\\delta E$ is the quoted statistical uncertainty (standard error) arising from Monte Carlo sampling, Proposition: The quoted $\\delta E$ typically reflects only the stochastic sampling error and does not by itself account for systematic biases in FN‑DMC such as fixed‑node error (error due to incorrect nodal surfaces), residual time‑step bias after extrapolation, population‑control bias, or other implementation biases. Therefore, interpreting the numerical closeness of $E_{\\mathrm{DMC}}$ to an estimated non‑relativistic limit or experimental value requires consideration of these additional systematic uncertainties, which may be comparable to or exceed the quoted statistical error.",
+        "content_hash": "ae53ad031a9df9b7dd1aa5f1035ee7f8e3ecf8146dbc628775c6f8ce26664eac",
+        "id": "gcn_1d41bc6e31424301",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748725953397471::P10",
+            "package_id": "paper:867748725953397471",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748725953397471"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider the reported DMC calculations carried out with finite DMC time steps (time steps of 0.04, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for paramagnetic HEGs and 0.01, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for ferromagnetic HEGs) and using single-determinant Slater-Jastrow-backflow trial wave functions that, according to extrapolation of variational Monte Carlo energies to zero energy variance, retrieve more than 99% of the correlation energy. The proposition is: the residual biases arising from the fixed-node approximation and from finite DMC time-step errors (noting that halving the time step was verified to have a negligible effect on the computed energy band) are small compared with the overall uncertainties introduced by the finite-size extrapolation procedure; therefore these residual numerical biases do not materially shift the reported extrapolated thermodynamic-limit effective masses \\\\(m^{*}(\\\\infty)\\\\).",
+        "content_hash": "88ef95b0e1f66d1eedc48ec26181853f6974ba9d11495b0209ae7000a83bf811",
+        "id": "gcn_17c63b5dc2154f15",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P10",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the systematic uncertainty procedure used in the contact-ratio extraction as follows: the extracted contacts include contributions from fit-range sensitivity and from differences between Variational Monte Carlo (VMC) and Diffusion Monte Carlo (DMC) or extrapolated $\\rho_A^{NN,\\alpha}(r)$ results, and the analysis imposes a conservative fixed 10% (1σ) uncertainty component to capture the VMC/DMC extrapolation systematic across all extracted contacts; the proposition is that adopting this uniform 10% systematic uncertainty component adequately accounts for VMC/DMC differences and other relevant systematic errors in the extraction of contact ratios and their quoted uncertainties for all nuclei and interactions considered.",
+        "content_hash": "ed8c05718986fd7b4cf5b66dadff8848464700a942605f9221c341a7192433e5",
+        "id": "gcn_7a595eb480e94748",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867745588345570007::P10",
+            "package_id": "paper:867745588345570007",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867745588345570007"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The per-slice gapfit bootstrap uses n = 1000 resamples per mass slice and the overall measurement-uncertainty propagation uses 1000 full Monte Carlo simulations of the entire observed population; across the adopted 15 stellar mass slices and 1000 bootstraps per slice and 1000 Monte Carlo realizations this procedure yields on the order of 15 million α draws and 1 million unique β draws in aggregate. The proposition is that these bootstrap and Monte Carlo sample sizes are sufficient for stable convergence of the empirical (α,β) distribution so that the reported percentile-based uncertainties and KDE contour estimates are not materially affected by finite-sampling noise in the resampling procedures, under the standard assumptions about bootstrap and Monte Carlo convergence behavior and that the dominant sources of variability are captured by the resampling rather than by unmodeled systematic errors.",
+        "content_hash": "d80639d23c4e2ca6ed662cc80072aef7bcd839ab3936ef5fbe25c65b21d70291",
+        "id": "gcn_5536865a06f14c04",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748734023237652::P10",
+            "package_id": "paper:867748734023237652",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748734023237652"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The statistical Monte Carlo errors and the documented systematic uncertainties of the DMC runs (the error bars reported correspond to the last significant figure of each value) are significantly smaller than the typical reported mass excesses and binding energies of interest (tens of MeV), so that the numerical uncertainties do not account for the reported $\\sim$20–60 MeV excesses or the quoted $\\sim$50–100 MeV bindings.",
+        "content_hash": "e4234cf451affa1051b3f49271b0283acc2d073cc7b5a6626eab192cc0d57378",
+        "id": "gcn_400ff92b7e1e4edd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1040153207549984782::P12",
+            "package_id": "paper:1040153207549984782",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1040153207549984782"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "71701b5d69541c9631f5dd5ac4b563d5"
+}

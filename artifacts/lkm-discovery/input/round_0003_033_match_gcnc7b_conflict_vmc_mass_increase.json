@@ -1,0 +1,233 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "Comparing two trial-wave-function protocols for quasiparticle-band calculations of paramagnetic 2D-UEL—(A) using a single trial wave function optimized for the ground state and applied to all k vectors, and (B) reoptimizing the trial wave function by energy minimization separately for each excited-state k-point—shows that reoptimization (B) slightly increases the VMC estimate of the quasiparticle effective mass m* relative to protocol (A), whereas the corresponding impact on fixed-node DMC m* is negligible within statistical uncertainty for the tested cases (for example N = 146 and r_s = 1, 2, 5).",
+        "content_hash": "cf56bc0883d5da618450206fad331ea447549c46628440f87ed297a4f7ae2b67",
+        "id": "gcn_c61048e697524171",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_8",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When Slater–Jastrow–backflow (SJB) trial wave functions are used and their variational parameters are optimized by variance minimization followed by linear least-squares energy minimization (as implemented in the CASINO code), the resulting VMC and fixed-node DMC estimates of the quasiparticle effective mass m* for the studied 2D-UEL system sizes (for example N = 146, 218, 302 for paramagnetic and N = 151 for ferromagnetic) and densities 1 ≤ r_s ≤ 5 agree within the reported statistical uncertainties, indicating that appropriately optimized VMC provides effective-mass estimates consistent with fixed-node DMC for these excitations.",
+        "content_hash": "05aa89f3941e51654a54154524bb6931de8f11068eb64c22c447131a87113f15",
+        "id": "gcn_07574c4c2c8d471e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_4",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03225806451612903,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the Slater–Jastrow–backflow (SJB) trial wave function for an N-electron two-dimensional uniform electron liquid (2D-UEL), the particle coordinates r_i in the Slater determinant are replaced by backflow-shifted coordinates X_i = r_i + ξ_i({r_j}), where each backflow displacement ξ_i({r_j}) is represented by a parametrized function (for example a polynomial) of interelectronic separations and the full trial function is Ψ_SJB({r_i}) = exp[J({r_i})] · det[φ_t(X_j)] with J the Jastrow factor; including this inhomogeneous backflow transformation materially modifies the nodal surface used in fixed-node DMC relative to the bare Slater–Jastrow (SJ) determinant and therefore substantially alters the fixed-node bias in quasiparticle energies and their derivatives. Concretely, for paramagnetic 2D-UEL at low density r_s = 5 the authors' comparisons show that SJ-based VMC and DMC yield m* < 1 whereas SJB-based VMC and DMC yield m* > 1, demonstrating that static correlation incorporated via backflow is crucial to obtain the correct sign and magnitude of mass renormalization in these calculations.",
+        "content_hash": "05516b987454ad504171bfb13212dc2dcf7cb9d24aa02d2dffa56268752b39cf",
+        "id": "gcn_d8fc2999c4124161",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_5",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030776515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5 and in a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC}=1.26(2) a.u. and a diffusion Monte Carlo (DMC) calculation using the same trial wave function with the fixed-node constraint yields m^*_{DMC}=1.24(3) a.u.; the agreement within quoted statistical uncertainties indicates that, at that specific system size and density, the fixed-node DMC procedure with that trial wave function does not introduce a large systematic bias in the per-size effective-mass estimate.",
+        "content_hash": "e462dabf3fec06c0780fd8b260fb50ec97ede163c5d68e7e40cf8d78f55df789",
+        "id": "gcn_678e0e02a7da4c85",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_13",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03055037313432836,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030158730158730156,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m*_{SJB} denote the quasiparticle effective mass obtained from quantum Monte Carlo calculations using a Slater–Jastrow–backflow (SJB) trial wave function for paramagnetic 2D-UEL at low density (for example r_s = 5) in a given simulation-cell geometry and single-particle basis, and let m*_{FCI} denote the hypothetical effective mass that would be obtained if the many-electron wave function were computed by a converged full configuration interaction (FCI) treatment within the same single-particle basis and simulation-cell geometry. The speculative proposition is that m*_{FCI} > m*_{SJB}, i.e., that including all static correlation via a converged FCI would increase the low-density effective mass beyond the SJB-VMC and SJB-DMC estimates reported; this claim is an extrapolation beyond the computed SJB data and is not numerically demonstrated in the calculations reported here.\n      J. J. Shepherd et al., Full configuration interaction perspective on the homogeneous electron gas, Phys. Rev. B 85, 081103(R) (2012).",
+        "content_hash": "33690b012f664e4641a769ae918209a5bf4bb84a0f343fd4165d9ee150afc8a4",
+        "id": "gcn_91358637d8e9481b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030158730158730156,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let N denote the number of electrons in a finite periodic simulation cell used to compute quasiparticle bands by quantum Monte Carlo; for paramagnetic (ζ = 0) 2D-UEL data obtained at N = 146, 218, and 302 electrons and for densities in the metallic range 1 ≤ r_s ≤ 5, the finite-N dependence of the extracted quasiparticle effective mass m*(N) is empirically well described by m*(N) = m*(∞) + α·N^{-3/2} for some constant α, and extrapolation of the VMC and DMC data using this N^{-3/2} scaling yields thermodynamic-limit estimates m*(∞) that increase monotonically with r_s across the studied points, although the VMC-extrapolated and DMC-extrapolated m*(r_s) trends have different slopes.",
+        "content_hash": "326ee75daec56ffc9f2eb17680a11e73e951233c288626342a34ca008f69b7e0",
+        "id": "gcn_38bb7ad1c4504c2a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_2",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03007688828584351,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the 2D-UEL simulations reported, the trial-wave-function optimization protocol consists of (i) variance minimization of the Jastrow parameters and (ii) subsequent linear least-squares energy minimization applied to Slater–Jastrow–backflow (SJB) wave functions characterized by Jastrow and backflow parameters, as implemented in the CASINO package; applying this two-stage optimization procedure yields trial wave functions whose amplitudes and nodal surfaces are sufficiently accurate that VMC and fixed-node DMC estimates of the quasiparticle effective mass m* agree within the quoted statistical uncertainties for the system sizes and densities studied, i.e., the applied optimization sufficiently reduces both amplitude and nodal errors for the purposes of the reported comparisons.\n      C. J. Umrigar et al., Alleviation of the fermion-sign problem by optimization of many-body wave functions, Phys. Rev. Lett. 98, 110201 (2007); R. J. Needs et al., CASINO code paper, J. Chem. Phys. 152, 154106 (2020).",
+        "content_hash": "1fc44dece4259868601be8677dfde32bd2283cfd28a322e872c387cab39eae9a",
+        "id": "gcn_e005adaf95f74a52",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P8",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029877369007803793,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass m* is defined from the derivative of the quasiparticle energy band ε(k) at the Fermi wave vector k_F as m* = k_F · (dε/dk)^{-1}_{k_F}, where k_F is the Fermi wave vector and derivatives are evaluated with respect to the magnitude k of the momentum; in atomic units the bare electron mass m equals 1. For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and density parameter r_s = 1 (where r_s = (1/(πρ))^{1/2} with electron number density ρ), variational Monte Carlo (VMC) and fixed-node diffusion Monte Carlo (DMC) calculations extrapolated to the thermodynamic limit produce values consistent with the bare mass within statistical uncertainty: m*_{VMC}(r_s = 1) = 0.98(1) and m*_{DMC}(r_s = 1) = 0.95(1) (atomic units), indicating negligible mass renormalization from electron–electron interactions at this high density.",
+        "content_hash": "e596de9ff5169a1208ffdbf2eb4ec38a975b3d1c40e0d67a9365777dedb6fae3",
+        "id": "gcn_395e5564603d4a9b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_1",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02919863597612958,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and for density parameters in the metallic interval 1 ≤ r_s ≤ 5, applying Slater–Jastrow–backflow (SJB) trial wave functions, band fitting (quartic or Padé), and the empirical finite-size extrapolation m*(N) = m*(∞) + β·N^{-3/2} to data at N = 146, 218, and 302 yields extrapolated thermodynamic-limit values m*(∞) that form a monotonic increasing function of r_s across the studied discrete points; this monotonicity statement is conditional on those methodological choices (SJB nodal improvements, fitting form, and N^{-3/2} extrapolation) being adequate for the datasets considered.\n      Fig. 7 (this paper)",
+        "content_hash": "1e8c884fed65d7522e2acd5ba07266f1c7d245225316a39e5fb9d3e635ae119b",
+        "id": "gcn_21f80773b87f444c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P9",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024868705591597158,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "8aaa9c6278b2bc85715378c0a35c370b"
+}

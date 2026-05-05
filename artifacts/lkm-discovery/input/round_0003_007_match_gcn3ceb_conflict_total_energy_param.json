@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812442399274958849": {
+        "area": "Physics and Astrophysics",
+        "authors": "Vassilios Fessatidis | Jay D. Mancini | William J. Massano | Samuel P. Bowen",
+        "available_online": "",
+        "cover_date_start": "2002-10-01",
+        "created_at": "2022-12-21T13:56:03+08:00",
+        "doi": "10.1016/s0375-9601(02)01147-7",
+        "en_title": "Ground-state of the single impurity Anderson model with correlated conduction electrons",
+        "id": "812442399274958849",
+        "keywords": "",
+        "publication_date": "2002-10",
+        "publication_id": "604",
+        "publication_name": "Physics Letters A _ Physics Letters A",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "具有关联传导电子的单杂质安德森模型的基态"
+      },
+      "paper:812668078197309442": {
+        "area": "Physics and Astrophysics",
+        "authors": "Zheng Zhu | D. N. Sheng | Inti Sodemann",
+        "available_online": "2020-3-5",
+        "cover_date_start": "2020-03-05",
+        "created_at": "2022-12-22T04:52:50+08:00",
+        "doi": "10.1103/physrevlett.124.097604",
+        "en_title": "Widely Tunable Quantum Phase Transition from Moore-Read to Composite Fermi Liquid in Bilayer Graphene",
+        "id": "812668078197309442",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "双层石墨烯中从摩尔-里德态到复合费米液体的广泛可调谐量子相变"
+      },
+      "paper:813134169444974593": {
+        "area": "Physics and Astrophysics",
+        "authors": "Kris Van Houcke | Igor S. Tupitsyn | Andrey S. Mishchenko | Nikolay V. Prokof'ev",
+        "available_online": "2017-5-16",
+        "cover_date_start": "2017-05-16",
+        "created_at": "2022-12-23T11:44:54+08:00",
+        "doi": "10.1103/physrevb.95.195131",
+        "en_title": "Dielectric function and thermodynamic properties of jellium in the G W approximation",
+        "id": "813134169444974593",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "在GW近似下金属电子气的介电函数和热力学性质 "
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867752125487120915": {
+        "area": "arXiv-Physics",
+        "authors": "N. Matveeva | S. Giorgini",
+        "available_online": "",
+        "cover_date_start": "2012-06-18",
+        "created_at": "2023-05-23T04:57:09+08:00",
+        "doi": "10.48550/arXiv.1206.3904",
+        "en_title": "Liquid and crystal phase of dipolar fermions in two dimensions",
+        "id": "867752125487120915",
+        "keywords": "",
+        "publication_date": "2012-06-18",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维偶极费米子的液相和晶相"
+      },
+      "paper:867760664993595716": {
+        "area": "arXiv-Physics",
+        "authors": "C. Lin | F.-H. Zong | D. M. Ceperley",
+        "available_online": "",
+        "cover_date_start": "2001-01-22",
+        "created_at": "2023-05-23T05:31:05+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0101339",
+        "en_title": "Twist-averaged Boundary Conditions in Continuum Quantum Monte Carlo",
+        "id": "867760664993595716",
+        "keywords": "",
+        "publication_date": "2001-01-22",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "",
+        "zh_title": "连续量子蒙特卡罗中的扭曲平均边界条件"
+      },
+      "paper:867770734955463012": {
+        "area": "arXiv-Physics",
+        "authors": "Hiroyuki Yamase",
+        "available_online": "",
+        "cover_date_start": "2014-01-19",
+        "created_at": "2023-05-23T06:11:06+08:00",
+        "doi": "10.48550/arXiv.1401.4628",
+        "en_title": "Electronic nematic phase transition in the presence of anisotropy",
+        "id": "867770734955463012",
+        "keywords": "",
+        "publication_date": "2014-01-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "存在各向异性时的电子向列相转变"
+      },
+      "paper:967670639689203712": {
+        "area": "arXiv-Physics",
+        "authors": "Jacopo D'Alberto | Lorenzo Cardarelli | Davide Emilio Galli | Gianluca Bertaina | Pierbiagio Pieri",
+        "available_online": "",
+        "cover_date_start": "2024-02-21",
+        "created_at": "2024-02-22T22:17:38+08:00",
+        "doi": "10.48550/arXiv.2402.13664",
+        "en_title": "Quantum Monte Carlo and perturbative study of repulsive two-dimensional Bose-Fermi mixtures",
+        "id": "967670639689203712",
+        "keywords": "",
+        "publication_date": "2024-02-21",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "排斥性二维玻色 - 费米混合物的量子蒙特卡罗与微扰研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let E_{\\text{gs}}(V,U_c) denote the ground-state energy estimated from extrapolated Lanczos lowest eigenvalues for given hybridization V and conduction-electron interaction U_c, and let \\Delta denote the singlet–triplet splitting computed as the difference between the two lowest Lanczos eigenvalues after extrapolation.\n      The proposition is: numerical increases of extrapolated E_{\\text{gs}} with increasing U_c and the reported U_c-dependence of \\Delta(V,U_c) computed from the Lanczos eigenvalue sequences are more appropriately interpreted as a renormalization (rescaling) of low-energy impurity-related parameters in the sense of Landau Fermi-liquid theory—i.e., a change of low-energy scales—rather than as evidence for a qualitative breakdown of Fermi-liquid behavior or a transition to a qualitatively different ground state, provided that the finite-size Lanczos data reflect renormalized Fermi-liquid parameters and are not dominated by finite-truncation artifacts or other non-Fermi-liquid physics.\n      [1,7]",
+        "content_hash": "c5af93ac3c7396f3e645280ff008376af7207c7b41e5473cd7c8b8b08ddbec3c",
+        "id": "gcn_43e866e74854426e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812442399274958849::P6",
+            "package_id": "paper:812442399274958849",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812442399274958849"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03028233151183971,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $G(k,\\omega_n;T)$ be the finite-temperature single-particle Green's function computed at a sequence of temperatures $T$ well below the Fermi energy $\\epsilon_F$, and let the computed total energy per particle $E(T)$ follow Fermi-liquid temperature dependence of the form $E(T)=E_0+a(T/\\epsilon_F)^2+o((T/\\epsilon_F)^2)$ for small $T$. The proposition used when producing ground-state energy benchmarks is that linear fits of $E(T)$ versus $(T/\\epsilon_F)^2$ over the employed low-temperature range, combined with independent numerical-control procedures such as grid and cutoff variations, yield an accurate and unbiased extrapolation to the ground-state energy $E_0$ within the reported numerical error bars.",
+        "content_hash": "85e6d710240c1db8af5726d5bc11f88fd7c97f0d02210f0c56e5034aa249b366",
+        "id": "gcn_a44236e069764bfd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813134169444974593::P9",
+            "package_id": "paper:813134169444974593",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813134169444974593"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030117753623188408,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: Choosing closed-shell (“magic”) ground-state electron numbers and performing calculations at multiple finite system sizes provides sampling of shell-filling oscillatory finite-size effects adequate to permit an extrapolation to the thermodynamic limit when fitting to a model $F(N)=c+aN^{\\gamma}$; specifically, the ground-state electron numbers used were for paramagnetic HEGs $N=26,50,74,114$ and for ferromagnetic HEGs $N=29,57,101$, and computing Fermi liquid parameters at this set of system sizes captures the dominant oscillatory behavior due to discrete reciprocal-lattice sampling that affects extrapolation.",
+        "content_hash": "aff055ad41f58c205dd5539e14eed9ab778daf254bda67be40a2e6c1950246a3",
+        "id": "gcn_161260bfd80a4d3f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P10",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029906956136464335,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A finite-size extrapolation protocol for the two-dimensional (2D) spin-polarized dipolar Fermi liquid at zero temperature combines twist-averaged boundary conditions (TABC) and a Fermi-liquid inspired fit\n      $E_{N}=E_{TL}+\\dfrac{m}{m^{*}}\\Delta T_{N}+\\dfrac{a}{N}$,\n      where $E_{N}$ is the quantum Monte Carlo (fixed-node diffusion Monte Carlo, FN-DMC) total ground-state energy per particle calculated for a finite $N$-particle rectangular simulation cell, $E_{TL}$ is the interacting energy per particle in the thermodynamic limit (TL), $m^{*}$ is the quasiparticle effective mass, $\\Delta T_{N}=E_{N}^{(0)}-E_{TL}^{(0)}$ is the finite-$N$ deviation of the noninteracting kinetic energy (with $E_{N}^{(0)}$ the noninteracting kinetic energy of the finite cell and $E_{TL}^{(0)}$ its TL value), $a$ is a residual $1/N$ coefficient, and $N$ is the particle number; applying this protocol to closed-shell particle numbers $25\\leq N\\leq 81$ and using averages over twist angles in TABC to suppress shell effects produces statistically consistent extrapolations of $E_{TL}$ between periodic boundary condition (PBC) and TABC implementations for the 2D dipolar Fermi liquid.",
+        "content_hash": "f560be63dc39b5b71e1e79f42a5858f26392f8d7a78754360e37a35c765f2e18",
+        "id": "gcn_ad1fa168dfdd4d4c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752125487120915::conclusion_1",
+            "package_id": "paper:867752125487120915",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752125487120915"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.025603392041748205,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Comparisons between thermodynamic quantities computed from the extrapolated Fermi liquid parameters and the same quantities obtained directly from smooth parameterizations of ground-state total DMC energies reveal substantial numerical disagreement.  Explicitly, the isothermal compressibility ratio computed from Fermi-liquid relations,\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{s}}{m^{*}}\\quad\\text{(paramagnetic)}\n      $$\n      or\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}}{m^{*}}\\quad\\text{(ferromagnetic)},\n      $$\n      and the isothermal spin-susceptibility ratio computed from\n      $$\n      \\frac{\\chi}{\\chi^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{a}}{m^{*}},\n      $$\n      differ substantially from the values obtained by evaluating curvature formulas of the ground-state total-energy per electron $E(r_s,\\zeta)$, namely\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{r_s^4}{4(1+\\zeta^2)}\\Big[\\frac{\\partial^2}{\\partial r_s^2}-\\frac{1}{r_s}\\frac{\\partial}{\\partial r_s}\\Big]E(r_s,\\zeta)\n      $$\n      and\n      $$\n      \\frac{\\chi}{\\chi^{*}}=r_s^2\\Big(\\frac{\\partial^2 E}{\\partial\\zeta^2}\\Big)_{\\zeta=0},\n      $$\n      where $\\zeta$ denotes the spin polarization and $m^{*}$ the quasiparticle effective mass.  Because the total-energy curvature estimates obtained from smooth parameterizations of ground-state DMC energies are internally consistent, the observed discrepancies indicate that the extrapolated Fermi liquid parameters obtained from the discrete-angle DMC data and finite-size extrapolations are not numerically reliable determinations of the thermodynamic-limit Fermi liquid parameters.",
+        "content_hash": "fb1486c96321f007f0e1161c787aa119dbc61cae4e2b92b5148a06caf1fa35fa",
+        "id": "gcn_1433bf70abae4ee0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define a conventional two-dimensional Fermi liquid as a fermionic ground state whose low-energy excitations are Landau quasiparticles with finite quasiparticle weight and for which the noninteracting single-particle density of states diverges at a van Hove saddle point. The proposition is that if the fluctuation-renormalized fRG solution in a parameter region where the noninteracting band would place the Fermi level at a van Hove saddle point shows no Griffiths wing (i.e., no critical-end line and no first-order coexistence region), then the ground state in that region is plausibly a non-Fermi liquid (a state in which the quasiparticle description breaks down) rather than a Fermi liquid whose divergence is merely masked by finite-size or numerical effects; equivalently, suppression of the mean-field wing by fluctuations is evidence suggestive of an anomalous non-Fermi-liquid ground state in that parameter region.",
+        "content_hash": "ffb26cad776fa77eb4117323ca8b4b87dda6a82e14889b02972f912a49b6ee41",
+        "id": "gcn_5d5d79e4ad2f48df",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867770734955463012::P10",
+            "package_id": "paper:867770734955463012",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867770734955463012"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider Quantum Monte Carlo simulations of a two-dimensional Bose–Fermi mixture in a square box of area $L^{2}$ with periodic boundary conditions, with fermion density $n_{\\mathrm{F}}=N_{\\mathrm{F}}/L^{2}$ and boson concentration $x=N_{\\mathrm{B}}/N_{\\mathrm{F}}$. Let $\\varepsilon(N_{\\mathrm{F}},N_{\\mathrm{B}};L)$ be the ground-state energy per fermion in the finite box, and let $\\Delta t(N_{\\mathrm{F}};L)$ be the kinetic-energy difference per fermion between $N_{\\mathrm{F}}$ noninteracting fermions in the same finite box and the thermodynamic limit at the same density $n_{\\mathrm{F}}$. The finite-size extrapolation ansatz is\n      $\n      \\varepsilon(N_{\\mathrm{F}},N_{\\mathrm{B}};L)=\\varepsilon_{\\infty}(n_{\\mathrm{F}},x)-b\\,\\Delta t(N_{\\mathrm{F}};L),\n      $\n      where $\\varepsilon_{\\infty}(n_{\\mathrm{F}},x)$ is the thermodynamic-limit energy per fermion and the coefficient $b$ is identified with the inverse effective-mass ratio $m/m^{*}$ of the Fermi-liquid-like fermionic component.\n      Because scans in $N_{\\mathrm{F}}$ and $N_{\\mathrm{B}}$ at fixed density do not keep $x$ exactly constant, $\\varepsilon_{\\infty}(n_{\\mathrm{F}},x)$ is modeled locally by a linear expansion around a chosen reference concentration $x_i$ and combined with an explicit thermodynamic-limit bosonic contribution. Specifically, for data with $x$ near $x_i$ the fitted form is\n      $\n      \\varepsilon(N_{\\mathrm{F}},N_{\\mathrm{B}},L)=\\frac{\\varepsilon_{\\mathrm{F}}}{2}+\\varepsilon_{\\mathrm{B}}(n_{\\mathrm{B}})\\,x+\\varepsilon_i+c_i(x-x_i)-b_i\\,\\Delta t(N_{\\mathrm{F}};L),\n      $\n      where $\\varepsilon_{\\mathrm{F}}=k_{\\mathrm{F}}^{2}/(2m_{\\mathrm{F}})$ is the noninteracting Fermi energy, $n_{\\mathrm{B}}=x n_{\\mathrm{F}}$, $\\varepsilon_{\\mathrm{B}}(n_{\\mathrm{B}})=\\mathcal{E}_{\\mathrm{B}}/n_{\\mathrm{B}}$ is the thermodynamic-limit energy per boson of the interacting bosonic system without fermions, and $\\varepsilon_i$, $c_i$, and $b_i$ are fit parameters. The procedure assumes that finite-size effects associated purely with the bosonic subsystem are negligible for the small bosonic concentrations considered, so that $\\varepsilon_{\\mathrm{B}}(n_{\\mathrm{B}})$ can be taken directly in the thermodynamic limit when fitting $b_i$.",
+        "content_hash": "5927658edbeb435898c213decb9d43ce182d5b744f8f02ec635b3ee41e151e9e",
+        "id": "gcn_1e23285e8cf041a4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:967670639689203712::conclusion_5",
+            "package_id": "paper:967670639689203712",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:967670639689203712"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For interacting fermion systems whose low-lying excitations are described by Fermi-liquid theory, the thermodynamic-limit ground-state energy $E_{\\infty}$ estimated by twist-averaged QMC coincides with the $E_{\\infty}$ obtained by the Fermi-liquid extrapolation ansatz\n      $$\n      E_N = E_{\\infty} + (m/m^{*})\\Delta T_N + \\epsilon N^{-\\nu},\n      $$\n      where $\\Delta T_N$ is the finite-$N$ deviation of the non-interacting kinetic energy, $m/m^{*}$ is the quasiparticle renormalization factor extractable from finite-$N$ twist dependence, and the residual finite-size corrections are modeled by a single power law $\\epsilon N^{-\\nu}$; numerical VMC studies of the three-dimensional electron gas reported in the calculations show agreement between $E_{\\infty}$ obtained from direct TABC and from the Fermi-liquid extrapolation fits. Because TABC provides twist-averaged estimates from the full twist domain at a single moderate particle number $N$, it permits obtaining the thermodynamic-limit estimate $E_{\\infty}$ without performing multiple large-$N$ calculations required by the extrapolation method, making TABC more practical when computational resources limit accessible $N$.",
+        "content_hash": "0def8c37bbfa38fd9fed4199abba9d5fb3b30b1c1f28e5cc9b418ac24deb7a4d",
+        "id": "gcn_9670f710188e44a4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867760664993595716::conclusion_8",
+            "package_id": "paper:867760664993595716",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867760664993595716"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider an interacting many-electron Hamiltonian projected into a single or a small set of Landau-level orbitals on a finite torus with particle number N in the range tractable by exact diagonalization (typically N≤12); the standard finite-size diagnostics used to identify incompressible fractional quantum Hall phases (for example, the MR Pfaffian) versus compressible composite-Fermi-liquid (CFL) phases—namely the low-energy spectral structure (presence or absence of a robust many-body energy gap separating a low-energy manifold from excited states), characteristic ground-state degeneracy patterns on the torus, and the many-body momentum quantum numbers of putative ground states—provide useful indicators of the thermodynamic-phase identity but are subject to substantial finite-size uncertainty because level rearrangements, shell-filling effects, and model-dependent finite-size splittings can alter these diagnostics so that extrapolation to the infinite-system limit remains nontrivial.",
+        "content_hash": "9591da6ace169093e562f291bc33c06704ceb767e2b7eb126dadb266f0a29a55",
+        "id": "gcn_290968ff90774d06",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812668078197309442::P3",
+            "package_id": "paper:812668078197309442",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812668078197309442"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: Parameterizations of the ground-state total energy per electron $E(r_s,\\zeta)$ obtained from independent quantum Monte Carlo (QMC) studies (specifically the smooth correlation-energy parameterizations reported in the literature) produce isothermal compressibility ratios $\\kappa/\\kappa^*$ and spin-susceptibility ratios $\\chi/\\chi^*$ via the total-energy curvature formulas\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{r_{s}^{4}}{4(1+\\zeta^{2})}\\left[\\frac{\\partial^{2}}{\\partial r_{s}^{2}}-\\frac{1}{r_{s}}\\frac{\\partial}{\\partial r_{s}}\\right]E(r_{s},\\zeta)\n      $$\n      and\n      $$\n      \\frac{\\chi}{\\chi^{*}}=r_{s}^{2}\\left(\\frac{\\partial^{2}E}{\\partial\\zeta^{2}}\\right)_{\\zeta=0},\n      $$\n      that are accurate to within the quoted parameterization uncertainties and are mutually consistent across the two independent parameterizations, so that disagreements with compressibility and susceptibility values computed from extrapolated Fermi liquid parameters are likely attributable to deficiencies in the finite-size-extrapolated Fermi liquid parameters rather than to errors in these total-energy parameterizations.\n      Ref. 23; Ref. 24",
+        "content_hash": "a0ef54bbc0520c574e4cfa7fcaaa22275d8bf43fce4cc9476e4dd0611f7b4350",
+        "id": "gcn_ad424f363b6848a4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P7",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "0322e28bcc03124e5fb09f6880688f42"
+}

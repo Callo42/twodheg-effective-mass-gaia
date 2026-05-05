@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811623956246167556": {
+        "area": "Physics and Astrophysics",
+        "authors": "T. A. Alvesalo | T. Haavasoja | P. C. Main | M. T. Manninen | J. Ray | Leila M. M. Rehn",
+        "available_online": "1979-11-12",
+        "cover_date_start": "1979-11-12",
+        "created_at": "2022-12-19T07:43:51+08:00",
+        "doi": "10.1103/physrevlett.43.1509",
+        "en_title": "Observation of Anomalous Heat Capacity in Liquid He 3 near the Superfluid Transition",
+        "id": "811623956246167556",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "在超流转变附近液态³He中反常热容量的观测"
+      },
+      "paper:811932959278891009": {
+        "area": "Physics and Astrophysics",
+        "authors": "V. R. Shaginyan | A. Z. Msezane | K. G. Popov | V. A. Stephanovich",
+        "available_online": "2008-3-6",
+        "cover_date_start": "2008-03-06",
+        "created_at": "2022-12-20T04:11:42+08:00",
+        "doi": "10.1103/physrevlett.100.096406",
+        "en_title": "Universal Behavior of Two-Dimensional He 3 at Low Temperatures",
+        "id": "811932959278891009",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维³He在低温下的普适行为"
+      },
+      "paper:812021854981062660": {
+        "area": "Material science",
+        "authors": "V.R. Shaginyan | V.A. Stephanovich | E.V. Kirichenko",
+        "available_online": "",
+        "cover_date_start": "2007-09-01",
+        "created_at": "2022-12-20T10:04:57+08:00",
+        "doi": "10.1016/j.jallcom.2006.08.347",
+        "en_title": "The peculiarities of the phase diagram of heavy fermion metal CeCoIn5",
+        "id": "812021854981062660",
+        "keywords": "[{\"ch_name\":\"重费米子\",\"en_name\":\"Heavy fermions\"},{\"ch_name\":\"非费米液体行为\",\"en_name\":\"Non-Fermi-liquid behavior\"},{\"ch_name\":\"量子相变\",\"en_name\":\"Quantum phase transition\"},{\"ch_name\":\"超导\",\"en_name\":\"Superconductivity\"}]",
+        "publication_date": "2007-9",
+        "publication_id": "2082",
+        "publication_name": "Journal of Alloys and Compounds _ Journal of Alloys and Compounds",
+        "research_categories": "",
+        "zh_title": "重费米子金属CeCoIn5相图的特性"
+      },
+      "paper:812446779197882369": {
+        "area": "Physics and Astrophysics",
+        "authors": "D.N. Tripathy | L.K. Mishra",
+        "available_online": "",
+        "cover_date_start": "1990-07-01",
+        "created_at": "2022-12-21T14:13:27+08:00",
+        "doi": "10.1016/0921-4526(90)90025-p",
+        "en_title": "A self-consistent method of determining the effective mass of a helium atom in normal liquid 3He",
+        "id": "812446779197882369",
+        "keywords": "",
+        "publication_date": "1990-7",
+        "publication_id": "615",
+        "publication_name": "Physica B: Condensed Matter _ Physica B: Condensed Matter",
+        "research_categories": "",
+        "zh_title": "一种确定正常液态³He中氦原子有效质量的自洽方法"
+      },
+      "paper:812760966331629570": {
+        "area": "Physics and Astrophysics",
+        "authors": "A B Voitkiv | V A Pazdzersky",
+        "available_online": "1999-1-1",
+        "cover_date_start": "1988-03-28",
+        "created_at": "2022-12-22T11:01:56+08:00",
+        "doi": "10.1088/0953-4075/21/6/005",
+        "en_title": "Threshold photodecay in the case of continuum perturbation by a nearby single-particle level",
+        "id": "812760966331629570",
+        "keywords": "",
+        "publication_date": "1988-3-28",
+        "publication_id": "624",
+        "publication_name": "Journal of Physics B: Atomic, Molecular and Optical Physics _ J. Phys. B: At. Mol. Opt. Phys.",
+        "research_categories": "",
+        "zh_title": "在附近单粒子能级的连续扰动情况下的阈下光衰变"
+      },
+      "paper:813159066888044544": {
+        "area": "Physics and Astrophysics",
+        "authors": "Lhoussine Limouny | Abdelhamid El Kaaouachi | Chi-Te Liang",
+        "available_online": "2014-2-28",
+        "cover_date_start": "2014-02-01",
+        "created_at": "2022-12-23T13:23:50+08:00",
+        "doi": "10.3938/jkps.64.424",
+        "en_title": "Effective mass and Landé g-factor in Si-MOSFETs near the critical density",
+        "id": "813159066888044544",
+        "keywords": "",
+        "publication_date": "2014-2",
+        "publication_id": "754",
+        "publication_name": "Journal of the Korean Physical Society _ Journal of the Korean Physical Society",
+        "research_categories": "",
+        "zh_title": "临界密度附近硅金属氧化物半导体场效应晶体管中的有效质量和朗德g因子"
+      },
+      "paper:867751092878836318": {
+        "area": "arXiv-Physics",
+        "authors": "A.H.Castro Neto | Eduardo Fradkin",
+        "available_online": "",
+        "cover_date_start": "1993-07-02",
+        "created_at": "2023-05-23T04:53:03+08:00",
+        "doi": "10.48550/arXiv.cond-mat/9307005",
+        "en_title": "Bosonization of Fermi liquids",
+        "id": "867751092878836318",
+        "keywords": "",
+        "publication_date": "1993-07-02",
+        "publication_id": "108638",
+        "publication_name": "Condensed Matter _ Physics.cond-mat.cond-mat",
+        "research_categories": "",
+        "zh_title": "费米液体的玻色化"
+      },
+      "paper:867752569940738222": {
+        "area": "arXiv-Physics",
+        "authors": "S. Hill | J. S. Brooks | Z. Q. Mao | Y. Maeno",
+        "available_online": "",
+        "cover_date_start": "1999-05-12",
+        "created_at": "2023-05-23T04:58:55+08:00",
+        "doi": "10.48550/arXiv.cond-mat/9905147",
+        "en_title": "Cyclotron Resonance in the Layered Perovskite Superconductor Sr2RuO4",
+        "id": "867752569940738222",
+        "keywords": "",
+        "publication_date": "1999-05-12",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "层状钙钛矿超导体Sr2RuO4中的回旋共振"
+      },
+      "paper:867772368787866009": {
+        "area": "arXiv-Physics",
+        "authors": "Z. Qian | G. Vignale | D. C. Marinescu",
+        "available_online": "",
+        "cover_date_start": "2004-03-13",
+        "created_at": "2023-05-23T06:17:35+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0403342",
+        "en_title": "The Spin Mass of an Electron Liquid",
+        "id": "867772368787866009",
+        "keywords": "",
+        "publication_date": "2004-03-13",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "电子液体的自旋质量"
+      },
+      "paper:908418336960807106": {
+        "area": "arXiv-Physics",
+        "authors": "A. N. Afanasiev | P. S. Alekseev | A. A. Greshnov | M. A. Semina",
+        "available_online": "",
+        "cover_date_start": "2023-09-08",
+        "created_at": "2023-09-12T10:10:44+08:00",
+        "doi": "10.48550/arXiv.2309.04582",
+        "en_title": "New type of Bernstein modes in two-dimensional electron liquid",
+        "id": "908418336960807106",
+        "keywords": "",
+        "publication_date": "2023-09-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维电子液体中的新型伯恩斯坦模式"
+      }
+    },
+    "variables": [
+      {
+        "content": "In a Galilean-invariant two-dimensional Fermi liquid with bare effective mass $m^{(0)}$, the interaction-renormalized quasiparticle effective mass $m$ is related to the spin-symmetric dipole Landau parameter $F_{1}$ by the Landau relation $m=(1+F_{1})m^{(0)}$, where $F_{1}$ is the $n=1$ angular-harmonic Landau parameter entering the expansion $f_{s}(\\overline{\\mathbf{p}\\mathbf{p}^{\\prime}})=D^{-1}\\sum_{n}F_{n}e^{\\mathrm{i}n(\\theta-\\theta^{\\prime})}$ and $D$ is the two-dimensional density of states; this relation holds under the standard assumptions of Landau Fermi-liquid theory and Galilean invariance.\n      [33]",
+        "content_hash": "81b9639168bf4bc9e089a1b95155c1169d62b0c4aef473d5f8f62748a002525b",
+        "id": "gcn_761af88a0e8b4470",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:908418336960807106::P7",
+            "package_id": "paper:908418336960807106",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:908418336960807106"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031099324975891997,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In applying the Landau-level relation to the emitter two-dimensional electron gas and extracting parameters such as the leverage factor f and the Fermi energy, the conduction-band effective mass m* entering the expression ħ e B / m* is taken to be the bulk-GaAs conduction-band effective mass (or a single value close to it), which implies that corrections to m* arising from confinement in the accumulation layer, strain, band nonparabolicity, or many-body renormalisation are neglected for the purpose of fitting the observed Landau-fan data.",
+        "content_hash": "a51ef39bd61a096d4dad3bc59acf1f00c5ed6372207fe87d292bf47d038242fa",
+        "id": "gcn_0f474eeac979401c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812760966331629570::P7",
+            "package_id": "paper:812760966331629570",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812760966331629570"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028083267871170464,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a quasi-two-dimensional interacting Fermi liquid, define the thermodynamic effective mass at the Fermi energy as $m^{*}$ (entering the density of states and specific heat), the cyclotron mass measured in a center-of-mass cyclotron-resonance experiment as $m_{c}$, and the $\\ell=1$ symmetric Landau parameter as $F_{1}^{s}$; the Fermi-liquid relation\n      $\\dfrac{m^{*}}{m_{c}}=1+\\dfrac{F_{1}^{s}}{3}$\n      is invoked together with the additional assumption that the Landau parameter $F_{1}^{s}$ scales approximately with the thermodynamic density of states so that $F_{1}^{s}\\propto m^{*}$ for a two-dimensional system, and under these assumptions observed enhancements of $m^{*}$ relative to $m_{c}$ for the $\\beta$ and $\\gamma$ sheets are attributed primarily to electron–electron (Fermi-liquid) interaction effects; this chain of interpretation presumes approximate applicability of single-band FL formulas to the multi-band lattice system and neglects some band-mixing or lattice-correction effects.\n      [10]",
+        "content_hash": "1e24504d56f296df08e9a5e0c7c25ab6080b3f5bf8d1b5f639002811beaf9449",
+        "id": "gcn_d852324a2f254c42",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752569940738222::P8",
+            "package_id": "paper:867752569940738222",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752569940738222"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02761904761904762,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the Landau Fermi-liquid framework, for a fermionic system with quasiparticle effective mass $M^{*}$, bare particle mass $M$, Fermi momentum $p_F$, and the $p$-wave ($\\ell=1$) component of the Landau interaction amplitude evaluated at the Fermi surface $F^{1}(p_F,p_F)$, the effective mass is related to these quantities by the Landau effective-mass relation\n      $$\n      \\frac{M^{*}}{M}=\\frac{1}{1-\\tfrac{1}{3}N_{0}F^{1}(p_F,p_F)},\n      $$\n      where $N_{0}$ denotes the free-fermion density of states at the Fermi level (in three spatial dimensions $N_{0}=p_F^{2}/(\\pi^{2}v_F)$ with $v_F$ the Fermi velocity); this relation holds under the usual Landau assumptions of well-defined quasiparticles near the Fermi surface, validity of the Landau kinetic equation, and absence of additional symmetry-breaking instabilities, and it is asserted to be applicable to the low-temperature quasiparticles of the two-dimensional helium-3 films considered here when the Landau description remains appropriate.",
+        "content_hash": "c41503dbc02b4e7349ad3710505a148d9c4a8a791e17e633c880f580c6313900",
+        "id": "gcn_1e2aea3ecbf44751",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811932959278891009::P1",
+            "package_id": "paper:811932959278891009",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811932959278891009"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027236652236652236,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assuming the standard Landau Fermi-liquid relation that the low-temperature linear specific-heat coefficient \\gamma is proportional to the quasiparticle density of states at the Fermi surface (hence proportional to the quasiparticle effective mass m^{*}), the measured value \\gamma=2.11\\ \\mathrm{K}^{-1} implies an effective-mass ratio m^{*}/m\\approx 2.12 (where m is the bare fermion mass) and, under the usual formulas that relate the effective mass renormalization to the first Landau Fermi-liquid parameter, yields F_{1}\\approx 3.36.",
+        "content_hash": "f689f88d12bf20bc60ce78ec01cddb6c5ea4c7a26c8eb810a4411075fbb2173b",
+        "id": "gcn_800070efac5e476d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811623956246167556::conclusion_3",
+            "package_id": "paper:811623956246167556",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811623956246167556"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.025561706284597852,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The renormalizations of the Landé factor and effective mass for the two-dimensional electron gas are parametrized by the Landau Fermi-liquid relations g/g_0 = 1/(1 + F_0^a) and m/m_b = 1 + F_1^s, where g_0 denotes the bare (bulk-silicon) Landé factor used as the noninteracting reference and m_b = 0.19 m_e denotes the conduction-band mass (with m_e the free-electron mass), and these parametrizations are assumed to be applicable for the low-density, large-r_s regime probed in the reported measurements so that algebraic inversion of these relations can be used to obtain g and m from measured A and g m.",
+        "content_hash": "de91e232dd486a0340231637da7d0c7bbd05e20612eb83ad2b074dd738922a53",
+        "id": "gcn_e17f7541d2ba4950",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813159066888044544::P4",
+            "package_id": "paper:813159066888044544",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813159066888044544"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a homogeneous three-dimensional electron Fermi liquid with bare electron mass $M$, Landau-quasiparticle effective mass $M^{*}$, Fermi momentum $p_{\\mathrm{F}}$, and noninteracting density of states at the Fermi level $N_{0}$, and with $F^{1}(p_{\\mathrm{F}},p_{\\mathrm{F}})$ denoting the $p$-wave ($\\ell=1$) component of the Landau interaction amplitude evaluated at equal incoming and outgoing momenta $p_{\\mathrm{F}}$, the quasiparticle effective mass satisfies the Landau–Fermi–liquid relation\n      $$\n      \\frac{M^{*}}{M}=\\frac{1}{1-\\dfrac{N_{0}F^{1}(p_{\\mathrm{F}},p_{\\mathrm{F}})}{3}}.\n      $$\n      [8]",
+        "content_hash": "7f7698801a85450cb554b3cb759f6c4753c0fe7cac1083b2029636545f9bb070",
+        "id": "gcn_191c05f1a103426b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812021854981062660::P1",
+            "package_id": "paper:812021854981062660",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812021854981062660"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In a homogeneous, Galilean-invariant electron liquid where the microscopic Hamiltonian conserves total momentum and electrons have bare band mass $m_b$, define the quasiparticle effective mass $m^*$ entering the low-energy dispersion of quasiparticles near the Fermi surface. The proposition is: for the $\\ell=1$ density channel Landau parameter $F_1^s$ (defined as $F_1^s=\\tfrac{1}{2}(F_1^{\\uparrow\\uparrow}+F_1^{\\uparrow\\downarrow})$), the relation $\\frac{m_b}{m^*}=\\frac{1}{1+F_1^s/d}$ holds (with $d$ the spatial dimensionality), i.e. the usual Fermi-liquid identity connecting band mass, quasiparticle mass, and $F_1^s$ is valid.",
+        "content_hash": "7dc2a08506e88078184d0151a8e472a9eaaf1b580994de4dd32e36dd3233544c",
+        "id": "gcn_0691b43fe8584150",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772368787866009::P6",
+            "package_id": "paper:867772368787866009",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772368787866009"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the Landau relation $(m^*/m)=1+F_{1}^{s}/3$, the calculated effective-mass ratio $\\tilde m=2.99$ implies the Landau parameter\n      $F_{1}^{s}=3(\\tilde m-1)=5.97$.",
+        "content_hash": "b7b3e18aa098f8943da53e4eb9254a16dbabb85a473ea2d829c4a6e25e8b296c",
+        "id": "gcn_52b2ef977e8c43a5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446779197882369::conclusion_7",
+            "package_id": "paper:812446779197882369",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446779197882369"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Enforcing Galilean invariance in the bosonic Fermi-surface formulation yields the standard Landau relations between effective mass $m^{*}$ and bare mass $m$ in terms of the first harmonic $F_{1}$ of the dimensionless Landau interaction $F(\\theta)=N(0)f(\\theta)$. Specifically, with $F_{1}=N(0)f_{1}$ (where $f_{1}$ is the $n=1$ angular harmonic of the quasiparticle interaction) one obtains\n      $$\n      \\frac{m^{*}}{m}=1+\\frac{F_{1}}{3}\\quad\\text{in three dimensions,}\n      $$\n      and\n      $$\n      \\frac{m^{*}}{m}=1+\\frac{F_{1}}{2}\\quad\\text{in two dimensions,}\n      $$\n      reproducing the familiar Landau effective-mass relations.",
+        "content_hash": "72acef613684ca31b3143c2130be8ae7636839216d2844e863f90b75da2a4da4",
+        "id": "gcn_2b1475c07f9847fe",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751092878836318::conclusion_10",
+            "package_id": "paper:867751092878836318",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751092878836318"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "838336c1acd9256a5bf6aaebdc6cd9bf"
+}

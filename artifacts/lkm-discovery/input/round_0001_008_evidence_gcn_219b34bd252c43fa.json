@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+      "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+      "id": "gcn_219b34bd252c43fa",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "8dab5e0e9097bc455709aa90925d9039"
+}

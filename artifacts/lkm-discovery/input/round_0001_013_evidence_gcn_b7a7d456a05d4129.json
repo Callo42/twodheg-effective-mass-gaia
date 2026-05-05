@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+      "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+      "id": "gcn_b7a7d456a05d4129",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+              "id": "gcn_b7a7d456a05d4129"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_59dedf8a0cba48b3",
+            "premises": [
+              {
+                "content": "When fitting the finite-\\\\(N\\\\) effective-mass data \\\\(m^{*}(N)\\\\) to the scaling form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\), the proposition is: performing repeated fits with Monte Carlo resampling of the statistical error bars on the input finite-\\\\(N\\\\) \\\\(m^{*}(N)\\\\) values yields uncertainty estimates for the fitted thermodynamic-limit parameter \\\\(m^{*}(\\\\infty)\\\\) that accurately capture the dominant contribution of the statistical variability in the data; these Monte Carlo-derived error bars are sufficiently conservative to represent the quoted statistical uncertainties in the extrapolated \\\\(m^{*}(\\\\infty)\\\\), while acknowledging that they may not fully account for model-selection or other systematic sources of error.",
+                "id": "gcn_a685639571304474"
+              },
+              {
+                "content": "Consider the reported DMC calculations carried out with finite DMC time steps (time steps of 0.04, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for paramagnetic HEGs and 0.01, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for ferromagnetic HEGs) and using single-determinant Slater-Jastrow-backflow trial wave functions that, according to extrapolation of variational Monte Carlo energies to zero energy variance, retrieve more than 99% of the correlation energy. The proposition is: the residual biases arising from the fixed-node approximation and from finite DMC time-step errors (noting that halving the time step was verified to have a negligible effect on the computed energy band) are small compared with the overall uncertainties introduced by the finite-size extrapolation procedure; therefore these residual numerical biases do not materially shift the reported extrapolated thermodynamic-limit effective masses \\\\(m^{*}(\\\\infty)\\\\).",
+                "id": "gcn_17c63b5dc2154f15"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Take the empirical finite-size scaling form $m^{*}(N)=m^{*}(\\infty)+b\\,N^{-\\gamma}$ with the adopted exponent $\\gamma=3/2$ (conclusion 4) as the basis for extrapolation to the thermodynamic limit; the fitted parameter $m^{*}(\\infty)$ obtained from this fit is the thermodynamic-limit quasiparticle effective mass to be reported.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Apply the quartic-fit-derived finite-$N$ effective masses $m^{*}(N)$ for the various system sizes at each density and spin polarization to the finite-size scaling fit with $\\gamma=3/2$, performing the statistical fitting procedure (including Monte Carlo sampling of the error bars) to obtain $m^{*}(\\infty)$ and its uncertainty for each case; the fitting results are summarized in the table of extrapolated quasiparticle effective masses. \nTable II",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Report the extrapolated thermodynamic-limit quasiparticle effective masses $m^{*}(\\infty)$ (in atomic units) obtained from these fits at the densities and spin polarizations considered: for the paramagnetic (unpolarized) HEG, $m^{*}(r_{s}=1)=0.955(2)$, $m^{*}(r_{s}=5)=1.04(2)$, and $m^{*}(r_{s}=10)=1.03(4)$; for the fully spin-polarized (ferromagnetic) HEG, $m^{*}(r_{s}=1)=0.851(5)$, $m^{*}(r_{s}=5)=0.74(1)$, and $m^{*}(r_{s}=10)=0.70(3)$. \nTable II",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "State that these numerical values are the principal thermodynamic-limit benchmarks reported in the work, and note that the revised paramagnetic effective masses differ from the authors' earlier work because the present higher-precision data allowed observation and removal of systematic finite-size errors by extrapolation. \n[20]",
+                "step_id": "4"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Determining reliable numerical benchmarks for the quasiparticle effective mass in the infinite 2D HEG is essential both for testing analytic and perturbative theories (such as various GW approximations) and for interpreting experiments on low-disorder 2D electron systems. Previous computational estimates were limited by statistical noise and finite-size uncertainty so that extrapolated $m^{*}$ values differed among authors and from experiment; some prior results indicated a strong enhancement of $m^{*}$ at low density for paramagnetic HEGs while others did not. High-precision, systematically extrapolated DMC values of $m^{*}(\\infty)$ are therefore required to settle these discrepancies and to provide reference numbers for further theoretical and experimental comparison.",
+            "id": "paper:867751779943579657::conclusion_5_subproblem",
+            "source_package": "paper:867751779943579657"
+          }
+        ],
+        "source_package": "paper:867751779943579657"
+      }
+    ],
+    "papers": {
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "6be918a6d9065039e557efcb1f75f691"
+}

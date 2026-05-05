@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Within the fixed-node diffusion Monte Carlo approximation, in which the nodal surface of the trial wave function constrains the fermionic solution, two considerations indicate that residual fixed-node errors in the extracted quasiparticle effective masses m* are likely to be small for the 3D-HEG results reported here: (i) backflow coordinate transformations applied to a single-determinant Slater wave function of plane waves modify the nodal surface continuously without changing its topological class (connectivity and number of nodal pockets), so the Slater-Jastrow-backflow (SJB) trial WF does not introduce qualitative nodal changes relative to the Slater-Jastrow (SJ) WF; and (ii) the observed near-equality of DMC m* computed with SJ and with SJB trial WFs at finite system sizes (for example N = 178) implies that quantitative nodal errors in the effective masses are small, and, under the assumption of adiabatic continuity between noninteracting Hartree–Fock states and the interacting Fermi liquid, no topological nodal errors affecting low-lying quasiparticle excitations are expected; together with the formal result that fixed-node energy errors are second order in nodal-surface displacement, these arguments support the conclusion that remaining fixed-node biases in the DMC m* values are small.",
+      "content_hash": "a3a395aaf5954a6cceb637bd5e431755d3ff67404a3454d6800e6e775d1e9f30",
+      "id": "gcn_4d007d5de51146c1",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Within the fixed-node diffusion Monte Carlo approximation, in which the nodal surface of the trial wave function constrains the fermionic solution, two considerations indicate that residual fixed-node errors in the extracted quasiparticle effective masses m* are likely to be small for the 3D-HEG results reported here: (i) backflow coordinate transformations applied to a single-determinant Slater wave function of plane waves modify the nodal surface continuously without changing its topological class (connectivity and number of nodal pockets), so the Slater-Jastrow-backflow (SJB) trial WF does not introduce qualitative nodal changes relative to the Slater-Jastrow (SJ) WF; and (ii) the observed near-equality of DMC m* computed with SJ and with SJB trial WFs at finite system sizes (for example N = 178) implies that quantitative nodal errors in the effective masses are small, and, under the assumption of adiabatic continuity between noninteracting Hartree–Fock states and the interacting Fermi liquid, no topological nodal errors affecting low-lying quasiparticle excitations are expected; together with the formal result that fixed-node energy errors are second order in nodal-surface displacement, these arguments support the conclusion that remaining fixed-node biases in the DMC m* values are small.",
+              "id": "gcn_4d007d5de51146c1"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_daaab7ee08214dd0",
+            "premises": [
+              {
+                "content": "Let m*_{SJ}(N=178) and m*_{SJB}(N=178) denote diffusion Monte Carlo effective masses computed in the same finite N = 178 paramagnetic 3D-HEG cell using (respectively) a Slater-Jastrow (SJ) trial wave function and a Slater-Jastrow-backflow (SJB) trial wave function, with both trial WFs optimized as in P1. The empirical near-equality m*_{SJ}(N=178) ≈ m*_{SJB}(N=178) implies that inclusion of the backflow transformation does not alter any qualitative features (topological characteristics) of the nodal surface that are relevant to the low-lying single-quasiparticle excitations in the thermodynamic limit, and therefore qualitative nodal errors affecting m* in the infinite-system limit are unlikely.",
+                "id": "gcn_84c5b0f0b9544809"
+              },
+              {
+                "content": "Consider a single-determinant Slater wave function constructed from plane-wave orbitals for an N-electron system; a backflow transformation defines new quasiparticle coordinates for each electron as a smooth function of all electron positions, and the Slater determinant is evaluated at these backflow coordinates. Such backflow coordinate transformations, when applied to a single Slater determinant of plane waves, modify the nodal surface continuously but do not change its topological class (connectivity and number of nodal pockets), so the nodal topology is preserved under continuous backflow deformations of the determinant.",
+                "id": "gcn_33a6d7f09fcc4f75"
+              },
+              {
+                "content": "If Landau Fermi-liquid theory (adiabatic continuity) holds for the homogeneous electron gas at a given density—meaning that the interacting ground state and low-lying excited states are connected continuously to the noninteracting Hartree–Fock (HF) plane-wave Slater-determinant states without a quantum phase transition—then the sections of the interacting many-electron nodal surface that are relevant to low-lying single-quasiparticle excitations have the same topology as the HF nodal surface, so qualitative (topological) nodal errors relative to HF are absent for these excitations under the assumption of Fermi-liquid behavior.",
+                "id": "gcn_799b18c56fae4054"
+              },
+              {
+                "content": "In fixed-node diffusion Monte Carlo (DMC), let Ψ_T be the trial wave function with nodal surface N_T and let the exact many-body eigenstate in the same symmetry sector have nodal surface N_exact; the fixed-node ground-state energy error scales as the square of the displacement between N_T and N_exact (i.e., it is second order in the nodal-surface error), and this quadratic smallness carries over to total-energy differences used to compute single-particle excitation energies near the Fermi surface so that the resulting bias in the extracted derivative (dE/dk)_{k_F} and the effective mass m* is substantially reduced relative to what would follow from a hypothetical first-order nodal-surface error.",
+                "id": "gcn_b467ab1dec4f4cfa"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Treat the previously established result (conclusion 2) as known: the DMC calculations for a representative paramagnetic system at finite size ($N=178$) produced very similar quasiparticle effective masses $m^{*}$ when using Slater-Jastrow (SJ) and Slater-Jastrow-backflow (SJB) trial WFs, indicating weak sensitivity of $m^{*}$ to inclusion of backflow at those conditions.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the fixed-node approximation in DMC as the constraint that the nodal surface of the wave function used in the projection is fixed to that of an approximate trial WF; note that the fixed-node DMC energy is an upper bound on the true energy of the state having the same symmetry as the trial WF and that the fixed-node error in energy is formally second order in the nodal-surface error.\n[13]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Note that backflow transformations modify quasiparticle coordinates and the trial WF amplitudes but do not change the nodal topology (they cannot change the topology of the nodal surface); therefore the small quantitative changes in $m^{*}$ observed between SJ and SJB do not indicate a qualitative change in nodal topology relevant to low-lying excitations.\n[32]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Invoke the physical argument of adiabatic continuity from noninteracting to interacting Fermi liquids: if Landau Fermi-liquid theory is valid, the nodal topology relevant to low-lying excitations should be the same as that of the Hartree-Fock (single-determinant plane-wave) wave function; combined with the numerical insensitivity of $m^{*}$ to inclusion of backflow, this motivates the expectation that qualitative nodal errors are unlikely to be important for the computed effective masses.",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Conclude that the remaining fixed-node errors in the DMC $m^{*}$ values reported are expected to be small, supporting the reliability of the DMC-derived quasiparticle effective masses within the fixed-node approximation.\n[40]",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "The fixed-node approximation is the principal uncontrolled approximation in DMC for fermions: if nodal errors were large or if the nodal topology of the exact low-energy states differed qualitatively from that of a single Slater determinant, computed excitation energies and derived $m^{*}$ could be significantly biased. Showing that inclusion of backflow (which cannot change nodal topology) produces only small quantitative changes, and arguing from the expected adiabatic connection that nodal topology relevant to low-lying excitations should match the HF determinant, addresses the concern that fixed-node errors might compromise conclusions about $m^{*}$.",
+            "id": "paper:867767318044737939::conclusion_9_subproblem",
+            "source_package": "paper:867767318044737939"
+          }
+        ],
+        "source_package": "paper:867767318044737939"
+      }
+    ],
+    "papers": {
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "45bc150c1916c195fa369186950c852e"
+}

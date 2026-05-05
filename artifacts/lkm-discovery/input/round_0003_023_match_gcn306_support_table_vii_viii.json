@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1223973263428812843": {
+        "area": "arXiv-Computer Science",
+        "authors": "Kailash A. Hambarde | Hugo Proença",
+        "available_online": "",
+        "cover_date_start": "2026-01-29",
+        "created_at": "2026-01-30T04:32:46+08:00",
+        "doi": "10.48550/arXiv.2601.21405",
+        "en_title": "Rectifying Geometry-Induced Similarity Distortions for Real-World Aerial-Ground Person Re-Identification",
+        "id": "1223973263428812843",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108637",
+        "publication_name": "Computer Science",
+        "research_categories": "",
+        "zh_title": "纠正现实世界中航空-地面人员重新识别的几何诱导相似性扭曲"
+      },
+      "paper:811262231411949569": {
+        "area": "Engineering Technology",
+        "authors": "Erfan Maleki | Nasim Maleki",
+        "available_online": "2016-6-21",
+        "cover_date_start": "2016-06-21",
+        "created_at": "2022-12-18T07:46:28+08:00",
+        "doi": "10.1007/s11664-016-4718-8",
+        "en_title": "Artificial Neural Network Modeling of Pt/C Cathode Degradation in PEM Fuel Cells",
+        "id": "811262231411949569",
+        "keywords": "[{\"en_name\": \"artificial neural network\", \"ch_name\": \"\"}, {\"en_name\": \"cathode degradation\", \"ch_name\": \"\"}, {\"en_name\": \"modeling\", \"ch_name\": \"\"}, {\"en_name\": \"PEM fuel cell\", \"ch_name\": \"\"}]",
+        "publication_date": "2016-8",
+        "publication_id": "4499",
+        "publication_name": "Journal of Electronic Materials _ Journal of Elec Materi",
+        "research_categories": "",
+        "zh_title": "质子交换膜燃料电池中Pt/C阴极降解的人工神经网络建模"
+      },
+      "paper:812069582498955265": {
+        "area": "Geoscience",
+        "authors": "S. N. Tiwary | M. Kumar | D. D. Singh | P. Kumar",
+        "available_online": "",
+        "cover_date_start": "1993-01-01",
+        "created_at": "2022-12-20T13:14:36+08:00",
+        "doi": "10.1007/bf02455852",
+        "en_title": "Oscillator strengths for P V, S VI, Cl VII, Ar VIII and K IX",
+        "id": "812069582498955265",
+        "keywords": "",
+        "publication_date": "1993-1",
+        "publication_id": "17815",
+        "publication_name": "Il Nuovo Cimento D _ Il Nuovo Cimento D",
+        "research_categories": "",
+        "zh_title": "P V、S VI、Cl VII、Ar VIII和K IX的振子强度"
+      },
+      "paper:813150505231450114": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. S. Korhonen | Yu. M. Bunkov | V. V. Dmitriev | Y. Kondo | M. Krusius | Yu. M. Mukharskiy | Ü. Parts | E. V. Thuneberg",
+        "available_online": "1992-12-1",
+        "cover_date_start": "1992-12-01",
+        "created_at": "2022-12-23T12:49:48+08:00",
+        "doi": "10.1103/physrevb.46.13983",
+        "en_title": "Homogeneous spin precession in rotating vortex-free He 3 - B : Measurement of the superfluid density anisotropy",
+        "id": "813150505231450114",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "旋转无涡旋He 3 - B中的均匀自旋进动：超流密度各向异性的测量"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867753603186557358": {
+        "area": "arXiv-Physics",
+        "authors": "Alireza Mohamaditabar | F. Taghavi-Shahri | Hamzeh Khanpour | Maryam Soleymaninia",
+        "available_online": "",
+        "cover_date_start": "2018-08-28",
+        "created_at": "2023-05-23T05:03:01+08:00",
+        "doi": "10.48550/arXiv.1808.09255",
+        "en_title": "Determination of contributions from residual light charged hadrons to inclusive charged hadrons from $e^+e^-$ annihilation data",
+        "id": "867753603186557358",
+        "keywords": "",
+        "publication_date": "2018-08-28",
+        "publication_id": "108494",
+        "publication_name": "High Energy Physics - Phenomenology _ Physics.hep-ph.hep-ph",
+        "research_categories": "[\"Physical Sciences\", \"Nuclear and Plasma Physics\", \"Particle and High Energy Physics\"]",
+        "zh_title": "从 $e^+e^-$ 湮灭数据确定残余轻带电强子对包含带电强子的贡献"
+      }
+    },
+    "variables": [
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective masses m^{*} reported in the literature from DMC fits to the single-particle energy band and the ground-state total-energy parametrizations reported in the literature as continuous functions E_{\\mathrm{corr}}(r_s,\\zeta) of density parameter r_s and spin polarization \\zeta are mutually consistent within their stated uncertainties and can be combined algebraically via standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic HEG and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta)) to produce numerical estimates of the dimensionless Fermi liquid parameters F_l for the 2D HEG.\n      Refs. 11,23,24",
+        "content_hash": "831e8e3eb5c04947a3beade00657fe61580c31f91b9b24b8531c03cc72ee541b",
+        "id": "gcn_f39401296385496c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P8",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031754032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Several input shape parameters α_i in the residual charged‑hadron parametrization were fixed at their best‑fit values because the analyzed SIA data did not provide sufficient constraint; in particular the fits fixed α_{u+ū} and α_g at NLO and NNLO (and some other parameters during minimization) and these fixed parameters are reported explicitly and marked with an asterisk in Tables VII and VIII of the analysis.Table VII; Table VIII",
+        "content_hash": "1318598a6953b693d71f42fe9bc6b2d737de40754a9b29c0a9d26507731d44d1",
+        "id": "gcn_629cd8b95c5841db",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753603186557358::P5",
+            "package_id": "paper:867753603186557358",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753603186557358"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: across the ablation experiments that compare baseline SeCap, baseline+GCPG, baseline+GIQT, and baseline+GCPG+GIQT on the evaluated datasets and protocols, the consistent observation is that geometry-conditioned prompts (GCPG) provide the larger single-component gains, GIQT provides smaller but reliable gains, and the combined GCPG+GIQT yields the best overall performance; this observed complementarity holds under the reported datasets and training conditions but the magnitudes and relative importance of each component remain dataset- and configuration-dependent.\n      Table VI;Table VII;Table VIII;Table V",
+        "content_hash": "f91b8ba1b000ae48f2ecc8fe0b37e3fa744bf0eeb4863ef24f10c1db6288f5bd",
+        "id": "gcn_865ae856d2b94558",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1223973263428812843::P12",
+            "package_id": "paper:1223973263428812843",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1223973263428812843"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+        "content_hash": "b91e49651e9919fd43236efc34209fb4d01669b2208edac4b705bf9ae139fce3",
+        "id": "gcn_ff9edeb262af4bd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_7",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When producing numerical theoretical curves for $g_{Hv}$ to compare with the experimentally measured reduced anisotropy $\\delta\\rho^{s}/(2H^{2})$, specific numerical values of Fermi-liquid parameters $F_j^{s,a}$ were adopted from literature sources (for example, $F_1^{s}$ from Greywall and $F_0^{s}$ from other tabulated values) and the antisymmetric second-harmonic parameter $F_2^{a}$ was set to zero as an input. The claim is that (i) the uncertainty introduced by adopting these literature $F_j$ values and (ii) the neglect or zeroing of $F_2^{a}$ do not materially alter the theoretical curves in a way that would qualitatively change the comparison with experiment over the parameter ranges studied.",
+        "content_hash": "7416658cd390763cde90a6c31cde682799681a7e728ba1b94572d6fdcac66272",
+        "id": "gcn_b99271db2e244bc0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813150505231450114::P6",
+            "package_id": "paper:813150505231450114",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813150505231450114"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The explicit analytical forms used in the calculations are the Slater-type orbital (STO) one-electron radial expansion\n      $P_{n l}(r)=\\sum_{j=1}^{k} C_{j n l}\\, r^{I_{j n l}} e^{-\\xi_{j n l} r}$\n      with numerical coefficients $C_{j n l}$, integer powers $I_{j n l}$ and exponential exponents $\\xi_{j n l}$, and the configuration-interaction many-electron expansion\n      $\\Psi(L S)=\\sum_{i=1}^{M} a_i \\Phi_i(\\alpha_i L S)$\n      with numerical expansion coefficients $a_i$ and configuration state functions $\\Phi_i(\\alpha_i L S)$; when those numerical STO parameters and CI coefficients (the full numeric arrays for the bound-orbital expansions and for the CI weights of the excited $^{2}P^{o}$ state that specify the $a_i$ values and configuration labels) are supplied as input to a standard configuration-interaction implementation such as the CIV3 program using conventional orbital orthonormality and matrix-element conventions, evaluation of the length-form and velocity-form transition integrals from the resulting $\\Psi^{\\mathrm{i}}$ and $\\Psi^{\\mathrm{f}}$ reproduces the numerical oscillator-strength pairs reported above for P V, S VI, Cl VII, Ar VIII and K IX (HF and CI values: P V HF $f_{\\mathrm{L}}=0.076$, $f_{\\mathrm{V}}=0.068$; P V CI $0.083$, $0.083$; S VI HF $0.076$, $0.068$; S VI CI $0.094$, $0.095$; Cl VII HF $0.075$, $0.068$; Cl VII CI $0.094$, $0.096$; Ar VIII HF $0.074$, $0.067$; Ar VIII CI $0.093$, $0.095$; K IX HF $0.072$, $0.066$; K IX CI $0.092$, $0.094$) without invoking any additional unpublished program-specific options.\n      Table I, Table II, Table III, Table IV, Table V, Table VI, Table VII, Table VIII, Table IX, Table X, Table XI",
+        "content_hash": "ad05735571b8fc1e7c57283af591906c83b29b2220160312bf8f4ab0db29f968",
+        "id": "gcn_f37e6ffe6f48486b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812069582498955265::P1",
+            "package_id": "paper:812069582498955265",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812069582498955265"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The trial-and-error procedure for selecting ANN architecture and hyperparameters (including hidden-layer neuron counts, transfer functions, and training rates) is assumed to have compared candidate networks using only training-set-derived performance statistics, with no use of the seven held-out testing samples (sample indices 22–28) at any stage of architecture or hyperparameter selection.\n      Table VI, Table VII, Table VIII",
+        "content_hash": "0224576ef9156739e767172e7fdf2e0009f340ee974dde1c2951e53cb23a8bd3",
+        "id": "gcn_b1b56ac3a40349e6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811262231411949569::P3",
+            "package_id": "paper:811262231411949569",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811262231411949569"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi liquid parameters divided by the quasiparticle effective mass, $\\;F_{l}^{s,a}/m^{*}$ (symmetric and antisymmetric channels for the paramagnetic HEG) and $F_{l}/m^{*}$ (ferromagnetic HEG), were obtained from the discrete-angle DMC interaction functions by first computing the Fourier components\n      $$\n      a_{l}^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_{0}^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta,\n      $$\n      and then using the relations for an $N$-electron paramagnetic finite cell of density parameter $r_s$\n      $$\n      \\frac{F_{l}^{s,a}}{m^{*}}=\\frac{r_s^2}{4}\\big[a_{l}^{\\uparrow\\uparrow}\\pm a_{l}^{\\uparrow\\downarrow}\\big],\n      $$\n      and for a ferromagnetic finite cell\n      $$\n      \\frac{F_l}{m^{*}}=\\frac{r_s^2}{4}a_{l}^{\\uparrow\\uparrow},\n      $$\n      where $m^{*}$ denotes the quasiparticle effective mass.  Numerical angular integration of the available nonuniform discrete angles $\\{\\theta_i\\}$ was performed using a generalized composite Simpson's rule (piecewise quadratic interpolation adapted to a nonuniform grid), and the result was compared with a generalized composite trapezoidal rule to place an upper bound on the quadrature error.  Finite-size values of $F_l/m^{*}$ obtained at multiple closed-shell electron counts were extrapolated to the thermodynamic limit $N\\to\\infty$ by fitting the finite-$N$ data to the model $F_l(N)=c+aN^{\\gamma}$ with the exponent fixed at $\\gamma=-1/4$ (i.e., leading finite-size correction $\\propto N^{-1/4}$) motivated by theoretical analyses of long-range-correlation contributions; ordinary (unweighted) least-squares fits were used because oscillatory shell-filling deviations of the finite-size data are larger than the nominal Monte Carlo error bars, and the quoted uncertainties on the extrapolated parameters reflect the scatter of the finite-$N$ data under these fits.",
+        "content_hash": "4cc3ad14db079e132af2b29e1f01abb9b83fa37852979b41df74488064d99a4c",
+        "id": "gcn_64dc5d5e0d904476",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_3",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "575a2142bf1e13ecd6c4ee451380d16b"
+}

@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812339268134371331": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. Tonello | E. Lipparini",
+        "available_online": "2004-8",
+        "cover_date_start": "2004-08-01",
+        "created_at": "2022-12-21T07:06:15+08:00",
+        "doi": "10.1103/physrevb.70.081201",
+        "en_title": "Spin-orbit splitting of the cyclotron resonance in GaAs",
+        "id": "812339268134371331",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\", \"Nuclear and Plasma Physics\"]",
+        "zh_title": "砷化镓中回旋共振的自旋轨道分裂"
+      },
+      "paper:812339793550639104": {
+        "area": "Physics and Astrophysics",
+        "authors": "Zhixin Qian | Giovanni Vignale | D. C. Marinescu",
+        "available_online": "2004-9-2",
+        "cover_date_start": "2004-09-02",
+        "created_at": "2022-12-21T07:08:20+08:00",
+        "doi": "10.1103/physrevlett.93.106601",
+        "en_title": "Spin Mass of an Electron Liquid",
+        "id": "812339793550639104",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "电子液体的自旋质量"
+      },
+      "paper:812385160031895552": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yupeng Wang",
+        "available_online": "2012-1-25",
+        "cover_date_start": "1998-12-30",
+        "created_at": "2022-12-21T10:08:36+08:00",
+        "doi": "10.1142/s0217979298002817",
+        "en_title": "Fermi-Liquid Features of the One-Dimensional Luttinger Liquid",
+        "id": "812385160031895552",
+        "keywords": "",
+        "publication_date": "1998-12-30",
+        "publication_id": "713",
+        "publication_name": "International Journal of Modern Physics B _ Int. J. Mod. Phys. B",
+        "research_categories": "",
+        "zh_title": "一维卢廷格液体的费米液体特征"
+      },
+      "paper:812701510184992769": {
+        "area": "Physics and Astrophysics",
+        "authors": "C. Lin | F. H. Zong | D. M. Ceperley",
+        "available_online": "2001-6-18",
+        "cover_date_start": "2001-06-18",
+        "created_at": "2022-12-22T07:05:41+08:00",
+        "doi": "10.1103/physreve.64.016702",
+        "en_title": "Twist-averaged boundary conditions in continuum quantum Monte Carlo algorithms",
+        "id": "812701510184992769",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "565",
+        "publication_name": "Physical Review E _ Phys. Rev. E",
+        "research_categories": "",
+        "zh_title": "连续量子蒙特卡罗算法中的扭曲平均边界条件"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:814577651460079618": {
+        "area": "Physics and Astrophysics",
+        "authors": "Dominik Kreil | Raphael Hobbiger | Jürgen T. Drachta | Helga M. Böhm",
+        "available_online": "2015-11-23",
+        "cover_date_start": "2015-11-23",
+        "created_at": "2022-12-27T11:20:47+08:00",
+        "doi": "10.1103/physrevb.92.205426",
+        "en_title": "Excitations in a spin-polarized two-dimensional electron gas",
+        "id": "814577651460079618",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "自旋极化二维电子气中的激发"
+      },
+      "paper:867748607682412869": {
+        "area": "arXiv-Physics",
+        "authors": "H. P. Dahal | S. Gaudio | J. D. Feldmann | K. S. Bedell",
+        "available_online": "",
+        "cover_date_start": "2008-06-30",
+        "created_at": "2023-05-23T04:43:10+08:00",
+        "doi": "10.48550/arXiv.0807.0018",
+        "en_title": "Spin Collective Modes of Two-Species Fermi Liquids: Helium-3 and Atomic Gases near the Feshbach Resonance",
+        "id": "867748607682412869",
+        "keywords": "",
+        "publication_date": "2008-06-30",
+        "publication_id": "108485",
+        "publication_name": "Other Condensed Matter _ Physics.cond-mat.other",
+        "research_categories": "",
+        "zh_title": "两分量费米液体的自旋集体模式：氦-3以及费什巴赫共振附近的原子气体"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867757619392020695": {
+        "area": "arXiv-Physics",
+        "authors": "Simo Huotari | J. Aleksi Soininen | Tuomas Pylkkänen | Keijo Hämäläinen | Arezki Issolah | Andrey Titov | Jeremy McMinis | Jeongnim Kim | Ken Esler | David M. Ceperley | Markus Holzmann | Valerio Olevano",
+        "available_online": "",
+        "cover_date_start": "2010-06-29",
+        "created_at": "2023-05-23T05:18:59+08:00",
+        "doi": "10.48550/arXiv.1006.5591",
+        "en_title": "Momentum Distribution and Renormalization Factor in Sodium and the Electron Gas",
+        "id": "867757619392020695",
+        "keywords": "",
+        "publication_date": "2010-06-29",
+        "publication_id": "108485",
+        "publication_name": "Other Condensed Matter _ Physics.cond-mat.other",
+        "research_categories": "",
+        "zh_title": "钠和电子气中的动量分布与重整化因子"
+      },
+      "paper:937409596379627733": {
+        "area": "arXiv-Physics",
+        "authors": "Jiho Sung | Jue Wang | Ilya Esterlis | Pavel A. Volkov | Giovanni Scuri | You Zhou | Elise Brutschea | Takashi Taniguchi | Kenji Watanabe | Yubo Yang | Miguel A. Morales | Shiwei Zhang | Andrew J. Millis | Mikhail D. Lukin | Philip Kim | Eugene Demler | Hongkun Park",
+        "available_online": "",
+        "cover_date_start": "2023-11-29",
+        "created_at": "2023-12-01T10:14:27+08:00",
+        "doi": "10.48550/arXiv.2311.18069",
+        "en_title": "Observation of an electronic microemulsion phase emerging from a quantum crystal-to-liquid transition",
+        "id": "937409596379627733",
+        "keywords": "",
+        "publication_date": "2023-11-29",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "观察量子晶体到液体转变过程中出现的电子微乳液相"
+      }
+    },
+    "variables": [
+      {
+        "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+        "content_hash": "b91e49651e9919fd43236efc34209fb4d01669b2208edac4b705bf9ae139fce3",
+        "id": "gcn_ff9edeb262af4bd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_7",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03047794966520434,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028814262023217248,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $k$ be the effective interaction parameter defined by $k=k_{0}-k_{1}[1-(2S_{z}/N)^{2}]$, and let $F_{1}^{s}$ and $F_{1}^{a}$ be the Landau Fermi-liquid parameters for the two-dimensional electron gas. The proposition asserts that one can identify $k$ with the combinations $-F_{1}^{s}/(2+F_{1}^{s})$ and $-F_{1}^{a}/(2+F_{1}^{s})$ from Landau theory, and that using available quantum Monte Carlo calculations of these Landau parameters for the homogeneous two-dimensional electron gas yields an estimate $k\\simeq-2\\times10^{-2}$ at carrier density $N_{s}=3.32\\times10^{-11}\\ \\mathrm{cm}^{-2}$. This mapping and numerical identification is approximate and assumes that the homogeneous-electron-gas Monte Carlo results apply (after straightforward identification) to the experimental confined space-charge-layer systems.\n      [41]",
+        "content_hash": "5b44eb20fd853fff6c2bd5361065ef159e126f4b00833e244c84fb296823a0a5",
+        "id": "gcn_552450ffd8954458",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812339268134371331::P10",
+            "package_id": "paper:812339268134371331",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812339268134371331"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02832415420928403,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing the measured reduced susceptibility data in the high-density liquid to fixed-node diffusion QMC predictions for a homogeneous two-dimensional electron gas parameterized by conduction-band g-factor g, effective mass m^*, and dielectric constant ε, the proposition is that the reported quantitative agreement between experiment and QMC is robust against reasonable variations of these input parameters: moderate adjustments of ε within experimentally plausible bounds or modest changes in the assumed m^* around 0.7 m_0 do not eliminate the quantitative agreement between the measured χ/χ_0 and the QMC curve, supporting the conclusion that the high-density state behaves as a clean, strongly interacting Fermi liquid rather than being an artifact of over-fitting poorly constrained parameters.",
+        "content_hash": "63d1a942ed84a2b77b2e4d9c4d11ce6ff40464c3fbb92e68658641e10f591bc2",
+        "id": "gcn_be05e6588d854310",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:937409596379627733::P14",
+            "package_id": "paper:937409596379627733",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:937409596379627733"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027500922849760058,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Landau phenomenological Fermi-liquid theory, specialized to one dimension for low-energy quasiparticles near the two Fermi points $p=\\pm p_{\\mathrm{F}}$ and restricted to forward-scattering quasiparticle interactions represented by the Fermi-point values of the Landau function $f_{ps,p's'}$, reproduces the thermodynamic relations, the bosonic collective Hamiltonian, the finite-size excitation spectrum, and the boundary scaling dimensions of Luttinger-liquid theory. Under these restrictions, standard Luttinger-liquid results for thermodynamics, sound velocities, stiffness constants, bulk critical exponents, and impurity scaling laws are recovered from the one-dimensional Fermi-liquid description through explicit identification of the parameters.",
+        "content_hash": "ce1266187ced55d7eb3a3b95241c7dc56b3feeb99d039f67566ecd3c07766046",
+        "id": "gcn_d212d01ab86a4807",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812385160031895552::conclusion_8",
+            "package_id": "paper:812385160031895552",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812385160031895552"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In diffusion QMC calculations of the momentum distribution for periodic simulation cells of bulk sodium and for the homogeneous electron gas, finite-size effects modify momentum-space structure near the Fermi momentum $p_{F}$; applying standard finite-size correction procedures such as twist averaging over boundary conditions, extrapolation in system size, and other corrections as implemented in the reported QMC workflow yields a converged estimate of the jump at the Fermi surface with uncertainty comparable to the quoted QMC statistical and systematic errorbars, enabling the reported value $\\zeta_{\\mathrm{QMC}}^{\\mathrm{Na}}=0.68(2)$.\n      [22]",
+        "content_hash": "d3be81462fac1848e42376b6d2d0f8fc580fbcc66c2767e38d06be38c1e96a36",
+        "id": "gcn_14f879e32c0c4c1d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757619392020695::P11",
+            "package_id": "paper:867757619392020695",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757619392020695"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $\\nu_{NI}$ and amplitude statistics $(a_{NI},b_{NI},c_{NI})$ be the exponents and scaled-error statistics determined from numerical studies of noninteracting (NI) fermions or Hartree-Fock (HF) mean-field Coulomb systems over particle numbers $N\\in[10,10^{4}]$ in a cubic cell of side $L$. The proposition is: these NI/HF-derived parameters $\\nu_{NI},a_{NI},b_{NI},c_{NI}$ provide predictive estimates for the finite-size decay exponent and typical amplitudes of kinetic-energy-related finite-size errors in fully interacting correlated-electron continuum QMC simulations (VMC/DMC) of the same density and geometry, i.e., one may use NI/HF tabulated values to forecast the magnitude and scaling of shell-related kinetic finite-size errors in correlated QMC, under the assumption that Fermi-liquid-type correspondence between NI and interacting excitations holds.",
+        "content_hash": "af61da1435e0c0e704b68195b628ce85beccbe046f2dfce8074afe4f59eb43b4",
+        "id": "gcn_61621a6d6d804d0a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812701510184992769::P4",
+            "package_id": "paper:812701510184992769",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812701510184992769"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $F_{1}^{s}$ and $F_{1}^{a}$ be the $\\ell=1$ dimensionless Landau parameters for a homogeneous paramagnetic electron liquid, defined by $F_{\\ell}^{\\sigma\\tau}\\equiv N^{*}(0)\\int\\frac{d\\Omega}{4\\pi}f_{\\vec p\\sigma,\\vec p'\\tau}P_{\\ell}(\\cos\\theta)$ with $N^{*}(0)$ the quasiparticle density of states at the Fermi surface and $f$ the Landau interaction function. Assume that the numerical values tabulated in previously published calculations (diagrammatic calculations in three dimensions and variational quantum Monte Carlo calculations in two dimensions) provide sufficiently accurate estimates of $F_{1}^{s}$ and $F_{1}^{a}$ for $1\\le r_{s}\\le 5$ that the derived values of $m_{s}/m_{b}=(1+F_{1}^{s}/d)/(1+F_{1}^{a}/d)$ are meaningful to the quoted digits, acknowledging the known limitations of those methods (diagrammatic truncation, finite-size and trial-wavefunction bias in VMC) but asserting adequacy for semi-quantitative estimates.",
+        "content_hash": "e1bd21c7748ea7185a112d19a6772a49131b56dd69dbcfbddc384bec23939afa",
+        "id": "gcn_a962bd3c28d846f1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812339793550639104::P8",
+            "package_id": "paper:812339793550639104",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812339793550639104"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let an experimentally realized ultracold atomic gas of 6Li atoms be confined in a trapping potential that produces a spatially varying density n(\\mathbf{r}) and a local Fermi wave vector k_F(\\mathbf{r}), while the theoretical calculations are performed for an ideal three-dimensional homogeneous Fermi liquid with constant k_F and uniform density. The proposition is that the inhomogeneity and finite-size effects introduced by realistic harmonic (or similar) trapping potentials do not significantly modify the computed antisymmetric Landau parameters F_0^a and F_1^a as functions of the experimentally tunable bare scattering length a_s, nor do they qualitatively alter the predicted behavior (gaps, stiffness scaling, and tunability) of the transverse spin collective modes; consequently the homogeneous-gas Landau-Fermi-liquid predictions apply to trapped gases without material qualitative change.\n      [13]",
+        "content_hash": "9479a46a22ea0d959ececee6405d86db6ae4c8a49a708e1a8624afc342491efb",
+        "id": "gcn_aac541cc3fce4bba",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748607682412869::P9",
+            "package_id": "paper:867748607682412869",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748607682412869"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The claim: Suppose the spin-resolved static structure factors for a two-dimensional electron gas admit the long-wavelength expansion in reduced wave number $\\bar{q}=q/k_{\\mathrm{F}}$,\n      $$\n      S_{\\sigma\\sigma'}(\\bar{q}\\!\\to\\!0)=\\tilde{\\xi}_{\\sigma\\sigma'}\\frac{\\bar{q}}{\\pi}+\\frac{\\sqrt{n_{\\sigma}n_{\\sigma'}}}{n}\\frac{\\bar{q}^{3/2}}{2^{3/4}\\sqrt{r_{\\mathrm{s}}}}+\\mathcal{O}(\\bar{q}^{2}),\n      $$\n      with coefficients $\\tilde{\\xi}_{\\sigma\\sigma'}$ depending on spin polarization $P$, and if the spin-weighted matrix relation\n      $$\n      \\overline{\\mathbf{V}}(q)=\\frac{\\hbar^{2}q^{2}}{4mn}\\bigl(\\mathbf{S}^{-2}(q)-\\mathbf{S}^{0-2}(q)\\bigr)\n      $$\n      is applied and algebraically simplified in the $q\\rightarrow0$ limit, then the Landau-like parameters defined by\n      $$\n      F_{\\sigma\\sigma'}\\equiv\\frac{n}{\\epsilon_{\\mathrm{F}}}\\lim_{q\\rightarrow0}\\bigl[V_{\\sigma\\sigma'}(q)-v(q)\\bigr]\n      $$\n      take the closed forms\n      $$\n      F_{\\uparrow\\uparrow}=\\frac{\\pi^{2}}{8}(1-P)^{2}-\\frac{\\pi^{2}}{4},\\quad\n      F_{\\downarrow\\downarrow}=\\frac{\\pi^{2}}{8}(1+P)^{2}-\\frac{\\pi^{2}}{4},\\quad\n      F_{\\uparrow\\downarrow}=\\frac{\\pi^{2}}{8}(P^{2}-1),\n      $$\n      where $v(q)=2\\pi e^{2}/(\\epsilon_{\\text{b}}q)$ is the bare Coulomb interaction; this result follows from performing the matrix algebra and retaining the leading-order terms in the small-$q$ expansion.\n      Phys. Rev. B 92, 205426 (2015)",
+        "content_hash": "87f8452ac3608e41ffb42a3d2bb571c3bc936a05376e0fd639ecaa00f74e2309",
+        "id": "gcn_236cdd11a1dc4727",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814577651460079618::P7",
+            "package_id": "paper:814577651460079618",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814577651460079618"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "bd075808f47935d3a6c211ba9add2f48"
+}

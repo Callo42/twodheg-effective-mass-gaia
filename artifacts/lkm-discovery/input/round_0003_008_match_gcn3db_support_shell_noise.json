@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751368390082706": {
+        "area": "arXiv-Physics",
+        "authors": "I.G. Gurtubay | R. Gaudoin | J.M. Pitarke",
+        "available_online": "",
+        "cover_date_start": "2010-01-27",
+        "created_at": "2023-05-23T04:54:08+08:00",
+        "doi": "10.48550/arXiv.1001.5002",
+        "en_title": "Benchmark Quantum Monte Carlo calculations of the ground-state kinetic, interaction, and total energy of the three-dimensional electron gas",
+        "id": "867751368390082706",
+        "keywords": "",
+        "publication_date": "2010-01-27",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "三维电子气基态动能、相互作用能和总能量的基准量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi liquid parameters divided by the quasiparticle effective mass, $\\;F_{l}^{s,a}/m^{*}$ (symmetric and antisymmetric channels for the paramagnetic HEG) and $F_{l}/m^{*}$ (ferromagnetic HEG), were obtained from the discrete-angle DMC interaction functions by first computing the Fourier components\n      $$\n      a_{l}^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_{0}^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta,\n      $$\n      and then using the relations for an $N$-electron paramagnetic finite cell of density parameter $r_s$\n      $$\n      \\frac{F_{l}^{s,a}}{m^{*}}=\\frac{r_s^2}{4}\\big[a_{l}^{\\uparrow\\uparrow}\\pm a_{l}^{\\uparrow\\downarrow}\\big],\n      $$\n      and for a ferromagnetic finite cell\n      $$\n      \\frac{F_l}{m^{*}}=\\frac{r_s^2}{4}a_{l}^{\\uparrow\\uparrow},\n      $$\n      where $m^{*}$ denotes the quasiparticle effective mass.  Numerical angular integration of the available nonuniform discrete angles $\\{\\theta_i\\}$ was performed using a generalized composite Simpson's rule (piecewise quadratic interpolation adapted to a nonuniform grid), and the result was compared with a generalized composite trapezoidal rule to place an upper bound on the quadrature error.  Finite-size values of $F_l/m^{*}$ obtained at multiple closed-shell electron counts were extrapolated to the thermodynamic limit $N\\to\\infty$ by fitting the finite-$N$ data to the model $F_l(N)=c+aN^{\\gamma}$ with the exponent fixed at $\\gamma=-1/4$ (i.e., leading finite-size correction $\\propto N^{-1/4}$) motivated by theoretical analyses of long-range-correlation contributions; ordinary (unweighted) least-squares fits were used because oscillatory shell-filling deviations of the finite-size data are larger than the nominal Monte Carlo error bars, and the quoted uncertainties on the extrapolated parameters reflect the scatter of the finite-$N$ data under these fits.",
+        "content_hash": "4cc3ad14db079e132af2b29e1f01abb9b83fa37852979b41df74488064d99a4c",
+        "id": "gcn_64dc5d5e0d904476",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_3",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.031099324975891997,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective masses m^{*} reported in the literature from DMC fits to the single-particle energy band and the ground-state total-energy parametrizations reported in the literature as continuous functions E_{\\mathrm{corr}}(r_s,\\zeta) of density parameter r_s and spin polarization \\zeta are mutually consistent within their stated uncertainties and can be combined algebraically via standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic HEG and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta)) to produce numerical estimates of the dimensionless Fermi liquid parameters F_l for the 2D HEG.\n      Refs. 11,23,24",
+        "content_hash": "831e8e3eb5c04947a3beade00657fe61580c31f91b9b24b8531c03cc72ee541b",
+        "id": "gcn_f39401296385496c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P8",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031009615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The diffusion Monte Carlo data for Fourier-projected Fermi liquid quantities display large, nonmonotonic fluctuations as functions of finite-system particle number N that exceed the per-run statistical error bars: the statistical uncertainties from individual DMC runs are generally much smaller than the observed shell-filling oscillations and other finite-size \"noise.\" A theoretical finite-size scaling proportional to N^{-1/4} (the exponent -1/4 predicted for long-range-correlation-dominated finite-size errors) is consistent with all DMC data in a global fit (the best-fit common exponent found by simultaneous \\chi^2 fitting of the DMC data is \\gamma = -0.24(10)), but the fit quality is poor (\\chi^2 per data point \\gg 1) because the shell-filling oscillations and related finite-size noise are not captured by the statistical error bars; a naive ordinary least-squares fit with equal weighting of data points yields a very different effective exponent. Consequently, these finite-size effects constitute a serious obstacle to a quantitatively accurate, direct determination of Fermi liquid parameters from finite-cell QMC calculations: extrapolated Fermi liquid parameters obtained by simple power-law fits have large uncertainties and in many cases are inconsistent with related thermodynamic quantities obtained directly from parametrizations of the ground-state total energy per electron.",
+        "content_hash": "30eefee1ccd63db33ea9950861254ea7e118b166b731903158e65947e6d51cc8",
+        "id": "gcn_3db07703d3684507",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_4",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03009207275993712,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028258706467661692,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Landau interaction functions f_{\\sigma\\sigma'}(\\theta) for a two-dimensional homogeneous electron gas (2D HEG) were evaluated at a discrete set of angles \\theta using diffusion Monte Carlo (DMC) total-energy differences according to the estimator\n      $$\n      f_{\\sigma\\sigma'}(\\theta_i)=-\\big[E_{\\sigma\\sigma'}(\\mathbf{k}_i,\\mathbf{k}_i')+E_0-E_{+}(\\mathbf{k}_i)-E_{-}(\\mathbf{k}_i')\\big],\n      $$\n      where $E_0$ denotes the ground-state total energy per simulation cell, $E_{\\sigma\\sigma'}(\\mathbf{k}_i,\\mathbf{k}_i')$ denotes the total energy of the finite-cell excited state obtained by promoting an electron from wavevector $\\mathbf{k}_i'$ just inside the Fermi surface to wavevector $\\mathbf{k}_i$ just outside it (the angle between $\\mathbf{k}_i$ and $\\mathbf{k}_i'$ is $\\theta_i$), and $E_{+}(\\mathbf{k}_i)$ and $E_{-}(\\mathbf{k}_i')$ denote the total energies of the finite cell with one electron added at $\\mathbf{k}_i$ and one electron removed from $\\mathbf{k}_i'$, respectively; here DMC denotes the projector Monte Carlo simulation in imaginary time performed with the fixed-node approximation.  These DMC-calculated discrete-angle interaction functions were obtained for unpolarized (paramagnetic, spin polarization $\\zeta=0$) and fully spin-polarized (ferromagnetic, $\\zeta=1$) 2D HEGs at density parameters $r_{s}=1$, $5$, and $10$ using square periodic simulation cells; the results are presented as plots of $N\\,f_{\\sigma\\sigma'}(\\theta)$ versus $\\theta$, where $N$ is the number of electrons in the simulation cell.  The DMC data sets include multiple finite system sizes chosen as closed-shell (“magic”) electron counts and report values separately for the parallel-spin ($\\sigma=\\sigma'$) and antiparallel-spin ($\\sigma\\neq\\sigma'$) channels.",
+        "content_hash": "bb6a4d3db5ab5ca21136ccedd820fc6df4b90d283c5c3ab2fd43e16af82d3959",
+        "id": "gcn_c03d88189a3648e7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_1",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.024481265860576206,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the same HEG systems and trial wave functions defined above, applying the three-parameter extrapolation model\n      $E_N = E_\\infty + b_1\\,\\Delta T_{\\mathrm{HF}}(N) + b_2/N$\n      to DMC energies but fixing the finite-size coefficients $b_1$ and $b_2$ to the values obtained from VMC fits produces extrapolated DMC thermodynamic-limit energies that are spuriously low compared to extrapolations obtained by fitting $b_1$ and $b_2$ directly to the DMC data: using VMC $b_1,b_2$ yields DMC extrapolations DMC-SJ* $E_\\infty^{\\mathrm{DMC-SJ*}} = 0.00266(1)$ Ha/e and DMC-SJB* $E_\\infty^{\\mathrm{DMC-SJB*}} = 0.001380(8)$ Ha/e, whereas fitting $b_1,b_2$ to the DMC data gives DMC-SJ $E_\\infty^{\\mathrm{DMC-SJ}} = 0.00301(1)$ Ha/e and DMC-SJB $E_\\infty^{\\mathrm{DMC-SJB}} = 0.001621(7)$ Ha/e; therefore the hypothesis that VMC and DMC share identical finite-size dependences ($b_1,b_2$) is invalid for these systems and reusing VMC parameters biases DMC $E_\\infty$ downward beyond the quoted uncertainties.",
+        "content_hash": "f101902dee7c3a4f7fce2ef2d3148fa9f7d69f3cd316daf38ace8b55d0f7961b",
+        "id": "gcn_915aa950051d4d8b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751368390082706::conclusion_2",
+            "package_id": "paper:867751368390082706",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751368390082706"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.023284147827264113,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The occupied single-particle energy band $\\mathcal{E}(k)$ of the interacting two-dimensional homogeneous electron gas (2D HEG) was computed using the diffusion quantum Monte Carlo (DMC) method by taking total-energy differences on adding or removing a single electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\!\\cdot\\!\\mathbf{r})$; the resulting discrete DMC band values for the occupied states were described by a least-squares fit to the quartic form $\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4}$, where $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitted coefficients.  These DMC calculations were performed for both the paramagnetic (unpolarized) and the ferromagnetic (fully spin-polarized) 2D HEGs at density-parameter values $r_{s}=1$, $5$, and $10$ (atomic units, where lengths are given in Bohr radii).  The fitted quartic shows clear nonquadratic behavior: for the paramagnetic fluid $\\alpha_{4}>0$ at $r_{s}=5$ and $r_{s}=10$, for the ferromagnetic fluid $\\alpha_{4}<0$ at all three densities studied, and for the paramagnetic fluid at $r_{s}=1$ the fitted DMC band is very close to the free-electron dispersion $\\mathcal{E}(k)=k^{2}/2$ (all energies in Hartree atomic units).",
+        "content_hash": "29e6e03824edb3ac6db57222ead17481273cc725318eacd27514758a299de0eb",
+        "id": "gcn_bf915935b1fd4326",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_1",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Reoptimization of the explicit correlation parameters in finite-cell excited-state trial wave functions produces a measurable lowering of the DMC total energy of that finite cell and thereby increases the finite-size bias of excitation energies computed as total-energy differences. Concretely, when the Jastrow-factor and backflow-function parameters were reoptimized after removing an electron from wavevector \\\\(\\\\mathbf{k}=0\\\\) in a paramagnetic 26-electron 2D HEG at density parameter \\\\(r_{s}=1\\\\), the DMC total energy was lowered by 0.000854(4) atomic units (a.u.), which reduced the finite-cell bandwidth and therefore increased the finite-size error in the derived excitation energies. Consequently, to avoid introducing this additional finite-cell bias into excitation-energy estimates, the Jastrow and backflow parameters were optimized once in the closed-shell ground state for each density and system size and then held fixed for all corresponding excited-state DMC calculations.",
+        "content_hash": "6eb39dab02623431e9aa5a3884f020a5b9d0ee04910fbeb2ac64ff95361c34d5",
+        "id": "gcn_8fdb8c6b76f74960",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_2",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "506b195fce29eb1a21067877dfbfe70b"
+}

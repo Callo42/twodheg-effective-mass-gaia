@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812139083798151169": {
+        "area": "Chemistry",
+        "authors": "Thomas M. Henderson | Rodney J. Bartlett *",
+        "available_online": "",
+        "cover_date_start": "2005-08-10",
+        "created_at": "2022-12-20T17:50:46+08:00",
+        "doi": "10.1080/09500340500131442",
+        "en_title": "Theory of the short-range correlation hole model",
+        "id": "812139083798151169",
+        "keywords": "",
+        "publication_date": "2005-8-10",
+        "publication_id": "3534",
+        "publication_name": "Molecular Physics _ Molecular Physics",
+        "research_categories": "",
+        "zh_title": "短程关联空穴模型理论"
+      },
+      "paper:812461776552591362": {
+        "area": "Engineering Technology",
+        "authors": "C.Y. Pan | H.Q. Lin",
+        "available_online": "",
+        "cover_date_start": "1995-01-01",
+        "created_at": "2022-12-21T15:13:03+08:00",
+        "doi": "10.1109/20.489887",
+        "en_title": "A renormalization-group study of the Haldane gap antiferromagnets",
+        "id": "812461776552591362",
+        "keywords": "",
+        "publication_date": "1995",
+        "publication_id": "4357",
+        "publication_name": "IEEE Transactions on Magnetics _ IEEE Trans. Magn.",
+        "research_categories": "",
+        "zh_title": "对霍尔丹能隙反铁磁体的重整化群研究"
+      },
+      "paper:812733165431947264": {
+        "area": "Physics and Astrophysics",
+        "authors": "A. Juozapavičius | L. Urba | S. Caprara | A. Rosengren",
+        "available_online": "1999-12-1",
+        "cover_date_start": "1999-12-01",
+        "created_at": "2022-12-22T09:11:28+08:00",
+        "doi": "10.1103/physrevb.60.14771",
+        "en_title": "Critical properties and phase diagram of quantum anisotropic XY spin chain in a random magnetic field: A density-matrix renormalization-group analysis",
+        "id": "812733165431947264",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "随机磁场中量子各向异性XY自旋链的临界性质和相图：密度矩阵重整化群分析"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867759149339902399": {
+        "area": "arXiv-Physics",
+        "authors": "P. Ziesche | F. Tasnadi",
+        "available_online": "",
+        "cover_date_start": "2003-12-19",
+        "created_at": "2023-05-23T05:25:03+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0312519",
+        "en_title": "The 2-matrix of the spin-polarized electron gas: contraction sum rules and spectral resolutions",
+        "id": "867759149339902399",
+        "keywords": "",
+        "publication_date": "2003-12-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "自旋极化电子气的2×2矩阵：收缩求和规则与谱分解"
+      },
+      "paper:867770481464312432": {
+        "area": "arXiv-Physics",
+        "authors": "Wojciech Brzezicki | Andrzej M. Oleś",
+        "available_online": "",
+        "cover_date_start": "2014-05-06",
+        "created_at": "2023-05-23T06:10:05+08:00",
+        "doi": "10.48550/arXiv.1405.1401",
+        "en_title": "Locally tunable disorder and entanglement in the one-dimensional plaquette orbital model",
+        "id": "867770481464312432",
+        "keywords": "",
+        "publication_date": "2014-05-06",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "一维棋盘格轨道模型中的局域可调无序与纠缠"
+      }
+    },
+    "variables": [
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03007688828584351,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the reduced dimer Hamiltonian on a chain and the definition of the single-defect gap $\\Delta$ as the energy difference between the uniform ground-sector and the sector with one flipped classical label, the additivity of excitation energies for two defects separated by more than two sites (energy $\\approx2\\Delta$) observed in perturbation theory and in finite-size calculations for $L\\leq12$ is expected to persist in the thermodynamic limit $L\\to\\infty$ and therefore is not an artifact of small-system size or of periodic boundary conditions, because the underlying mechanism is locality of the first-order linear contribution and the short-range nature of quantum correlations.",
+        "content_hash": "ce8db671c059ab07feb2be25d029df41e18672b9aa190f6952322dbaba42c1b3",
+        "id": "gcn_248ae092f0b54edd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867770481464312432::P14",
+            "package_id": "paper:867770481464312432",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867770481464312432"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider a two-dimensional homogeneous electron gas (2D HEG) in the thermodynamic limit defined by taking the particle number \\\\(N\\\\to\\\\infty\\\\) while holding the electron density fixed. Let the Slater-Jastrow-backflow trial many-electron wave function depend on finite-dimensional real parameter vectors \\\\(J\\\\) (the Jastrow-factor parameters controlling explicit two-body correlation terms, with polynomial and plane-wave expansions in interelectron distances cut off at the simulation-cell inscribed-circle radius) and \\\\(B\\\\) (the backflow-function parameters controlling polynomial backflow coordinate transformations). The proposition is: creating a single-particle excitation by adding or removing one electron at a definite wavevector \\\\(\\\\mathbf{k}\\\\) (changing the occupation by one at that \\\\(\\\\mathbf{k}\\\\) while preserving the thermodynamic-limit density) leaves the values of the optimal correlation-parameter vectors \\\\((J,B)\\\\) that minimize the ground-state energy per particle unchanged to leading order; equivalently, a single isolated quasiparticle excitation has a negligible effect on the optimal short- and medium-range two-body correlation functions and backflow transformations in the infinite 2D HEG.",
+        "content_hash": "a1db8d34e9a8435493a6dba850865fbb83ef24d57084e895a95cd73b6e60ab70",
+        "id": "gcn_25de7aa13e4d4e91",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P1",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the spin-$2$ isotropic Heisenberg chain $H=J\\sum_{i=1}^{N}\\bigl(S_i^xS_{i+1}^x+S_i^yS_{i+1}^y+S_i^zS_{i+1}^z\\bigr)$, the RSRG-computed thermodynamic-limit excitation gap $G^{RG}$ is assumed to be sufficiently accurate and unbiased that qualitative agreement between $G^{RG}$ and an independently extrapolated exact-diagonalization estimate $G^{ED}(\\infty)$ provides meaningful support for the numerical value of the true gap $G(\\infty)$.",
+        "content_hash": "17b436b52de60adae1d05e2934b32496accc52278419f7cd10e62ab02dc667c3",
+        "id": "gcn_ef6c3c37359b41f3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812461776552591362::P13",
+            "package_id": "paper:812461776552591362",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812461776552591362"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the HEG be as defined above and define the two-body operator\n      ĤX = (1/2) ∫ d^3 r_1 d^3 r_2 ρ̂_↑(r_1) ρ̂_↓(r_2) (r_1^2 - r_2^2)/r_{12}^2 · (ε^2 / r_{12}),\n      where ρ̂_s(r) = ψ̂_s^†(r) ψ̂_s(r) is the spin-s density operator and r_{12} = |r_1 - r_2|. Then the expectation value per particle x = ⟨ĤX⟩/N scales as x = O(N^{-2/3}) in the thermodynamic limit under the standard HEG volume scaling Ω ∝ N, provided the finite-volume spin-resolved pair correlation function g_Ω(R,r,ξ) decays sufficiently rapidly at large center-of-mass coordinate R so that integrals over R scale with the surface area ∝ Ω^{2/3}. Concretely, writing ⟨ĤX⟩/N in center-of-mass R and relative r variables yields an R-integral that scales like Ω^{2/3}, and dividing by N ∝ Ω gives the N^{-2/3} behavior; this estimate holds under the stated decay assumption on g_Ω(R,r,ξ).",
+        "content_hash": "37a477aa42fe35e879285308a381a6a870f213d60b9fda9156efcb536684f568",
+        "id": "gcn_5bb563a01eef4254",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759149339902399::P2",
+            "package_id": "paper:867759149339902399",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759149339902399"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In finite periodic simulation cells for a two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions that contain variational parameters in the Jastrow and backflow factors, reoptimizing those variational parameters for an excited-state configuration (created by adding or removing an electron in a specified Bloch state) can yield a lower total DMC energy in that finite cell relative to using the ground-state-optimized parameters; because, in the thermodynamic limit, the optimal short-range correlation functions are unchanged by a single excitation, this finite-cell energy lowering is a manifestation of finite-size error and can reduce computed excitation bandwidths and therefore amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass.",
+        "content_hash": "b13271b3449ea0dde4af2a827d5ce200b738ef18fbc54292a8a36c1305cf0a40",
+        "id": "gcn_850fc9d9de314026",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the clean system without randomness (h_0=0) the single-particle excitation gap in the thermodynamic limit is G_0(\\gamma)=1-\\gamma (with J=1); density-matrix renormalization-group (DMRG) finite-kept-state data G(s,\\gamma) are well described by the linear-in-1/s ansatz\n      $$\n      G(s,\\gamma)=a(\\gamma)+\\frac{b(\\gamma)}{s},\n      $$\n      so that the extrapolated value a(\\gamma) at s\\to\\infty recovers the analytic clean-limit gap G_0(\\gamma)=1-\\gamma within the reported numerical uncertainty.",
+        "content_hash": "4aee5ec86de67dfe34deee28497ef328381f44b872b5c1bed57795457eb7e96e",
+        "id": "gcn_532b75398a0749ef",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812733165431947264::conclusion_4",
+            "package_id": "paper:812733165431947264",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812733165431947264"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assuming the Perdew–Burke–Wang (PBW) gradient correction (with coupling-constant average removed) is representative of gradient-corrected HEG correlation-hole models that one would apply in the short-range replacement (the SRCH short-range replacement being the construction that uses a local-HEG model for the short-range part of the correlation hole multiplied by a short-range cut-off function $f(u)$), the observed facts that PBW leaves the on-top ($u=0$) hole unchanged and is positive at small $u$ imply that gradient corrections of the PBW type do not remedy the principal LDA deficiency in the on-top hole and therefore provide no net benefit when combined with the SRCH short-range replacement as formulated in this work.",
+        "content_hash": "8aea2ac99b4cd1c70a5b708e9b21e305625dd5a87854b9a4669036203d9bb5e9",
+        "id": "gcn_8a50b84a9aaa4e8a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812139083798151169::P3",
+            "package_id": "paper:812139083798151169",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812139083798151169"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "5ac898e54c4aa29c0fffe524cb68c4c7"
+}

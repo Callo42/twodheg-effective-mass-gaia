@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "When comparing the measured reduced susceptibility data in the high-density liquid to fixed-node diffusion QMC predictions for a homogeneous two-dimensional electron gas parameterized by conduction-band g-factor g, effective mass m^*, and dielectric constant ε, the proposition is that the reported quantitative agreement between experiment and QMC is robust against reasonable variations of these input parameters: moderate adjustments of ε within experimentally plausible bounds or modest changes in the assumed m^* around 0.7 m_0 do not eliminate the quantitative agreement between the measured χ/χ_0 and the QMC curve, supporting the conclusion that the high-density state behaves as a clean, strongly interacting Fermi liquid rather than being an artifact of over-fitting poorly constrained parameters.",
+      "content_hash": "63d1a942ed84a2b77b2e4d9c4d11ce6ff40464c3fbb92e68658641e10f591bc2",
+      "id": "gcn_be05e6588d854310",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "84cdd266b6bdd5bb43b0d4addf4bc2e3"
+}

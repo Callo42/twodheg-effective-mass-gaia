@@ -1,0 +1,249 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867752125487120915": {
+        "area": "arXiv-Physics",
+        "authors": "N. Matveeva | S. Giorgini",
+        "available_online": "",
+        "cover_date_start": "2012-06-18",
+        "created_at": "2023-05-23T04:57:09+08:00",
+        "doi": "10.48550/arXiv.1206.3904",
+        "en_title": "Liquid and crystal phase of dipolar fermions in two dimensions",
+        "id": "867752125487120915",
+        "keywords": "",
+        "publication_date": "2012-06-18",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维偶极费米子的液相和晶相"
+      }
+    },
+    "variables": [
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Comparisons between thermodynamic quantities computed from the extrapolated Fermi liquid parameters and the same quantities obtained directly from smooth parameterizations of ground-state total DMC energies reveal substantial numerical disagreement.  Explicitly, the isothermal compressibility ratio computed from Fermi-liquid relations,\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{s}}{m^{*}}\\quad\\text{(paramagnetic)}\n      $$\n      or\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}}{m^{*}}\\quad\\text{(ferromagnetic)},\n      $$\n      and the isothermal spin-susceptibility ratio computed from\n      $$\n      \\frac{\\chi}{\\chi^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{a}}{m^{*}},\n      $$\n      differ substantially from the values obtained by evaluating curvature formulas of the ground-state total-energy per electron $E(r_s,\\zeta)$, namely\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{r_s^4}{4(1+\\zeta^2)}\\Big[\\frac{\\partial^2}{\\partial r_s^2}-\\frac{1}{r_s}\\frac{\\partial}{\\partial r_s}\\Big]E(r_s,\\zeta)\n      $$\n      and\n      $$\n      \\frac{\\chi}{\\chi^{*}}=r_s^2\\Big(\\frac{\\partial^2 E}{\\partial\\zeta^2}\\Big)_{\\zeta=0},\n      $$\n      where $\\zeta$ denotes the spin polarization and $m^{*}$ the quasiparticle effective mass.  Because the total-energy curvature estimates obtained from smooth parameterizations of ground-state DMC energies are internally consistent, the observed discrepancies indicate that the extrapolated Fermi liquid parameters obtained from the discrete-angle DMC data and finite-size extrapolations are not numerically reliable determinations of the thermodynamic-limit Fermi liquid parameters.",
+        "content_hash": "fb1486c96321f007f0e1161c787aa119dbc61cae4e2b92b5148a06caf1fa35fa",
+        "id": "gcn_1433bf70abae4ee0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: Taking quasiparticle effective masses $m^{*}$ reported in prior DMC energy-band calculations (for example, numerical values reported in the literature) and combining them with isothermal compressibility and spin-susceptibility ratios computed from QMC-based ground-state total-energy parameterizations, then solving the Landau relations\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{s}}{m^{*}},\\qquad\n      \\frac{\\chi}{\\chi^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{a}}{m^{*}},\\qquad\n      m^{*}=1+F_{1}^{s}\\ \\text{(paramagnetic) or}\\ m^{*}=1+F_{1}\\ \\text{(ferromagnetic)},\n      $$\n      yields numerical values of the Fermi liquid parameters $F_0^{s}$, $F_0^{a}$, $F_1^{s}$ (paramagnetic) and $F_0$, $F_1$ (ferromagnetic) that serve as pragmatic “best available” recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable; here all quantities are evaluated at the same density parameter $r_s$ and spin polarization $\\zeta$.\n      Ref. 11",
+        "content_hash": "62ff0d4093293afa75a12b0af615ab9e2e09f65128a073b49c27743bf105753c",
+        "id": "gcn_836bae7457044c7a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P8",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031754032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The diffusion Monte Carlo data for Fourier-projected Fermi liquid quantities display large, nonmonotonic fluctuations as functions of finite-system particle number N that exceed the per-run statistical error bars: the statistical uncertainties from individual DMC runs are generally much smaller than the observed shell-filling oscillations and other finite-size \"noise.\" A theoretical finite-size scaling proportional to N^{-1/4} (the exponent -1/4 predicted for long-range-correlation-dominated finite-size errors) is consistent with all DMC data in a global fit (the best-fit common exponent found by simultaneous \\chi^2 fitting of the DMC data is \\gamma = -0.24(10)), but the fit quality is poor (\\chi^2 per data point \\gg 1) because the shell-filling oscillations and related finite-size noise are not captured by the statistical error bars; a naive ordinary least-squares fit with equal weighting of data points yields a very different effective exponent. Consequently, these finite-size effects constitute a serious obstacle to a quantitatively accurate, direct determination of Fermi liquid parameters from finite-cell QMC calculations: extrapolated Fermi liquid parameters obtained by simple power-law fits have large uncertainties and in many cases are inconsistent with related thermodynamic quantities obtained directly from parametrizations of the ground-state total energy per electron.",
+        "content_hash": "30eefee1ccd63db33ea9950861254ea7e118b166b731903158e65947e6d51cc8",
+        "id": "gcn_3db07703d3684507",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_4",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030776515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective masses m^{*} reported in the literature from DMC fits to the single-particle energy band and the ground-state total-energy parametrizations reported in the literature as continuous functions E_{\\mathrm{corr}}(r_s,\\zeta) of density parameter r_s and spin polarization \\zeta are mutually consistent within their stated uncertainties and can be combined algebraically via standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic HEG and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta)) to produce numerical estimates of the dimensionless Fermi liquid parameters F_l for the 2D HEG.\n      Refs. 11,23,24",
+        "content_hash": "831e8e3eb5c04947a3beade00657fe61580c31f91b9b24b8531c03cc72ee541b",
+        "id": "gcn_f39401296385496c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P8",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027809742999616416,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+        "content_hash": "b91e49651e9919fd43236efc34209fb4d01669b2208edac4b705bf9ae139fce3",
+        "id": "gcn_ff9edeb262af4bd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_7",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027598020555767037,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A finite-size extrapolation protocol for the two-dimensional (2D) spin-polarized dipolar Fermi liquid at zero temperature combines twist-averaged boundary conditions (TABC) and a Fermi-liquid inspired fit\n      $E_{N}=E_{TL}+\\dfrac{m}{m^{*}}\\Delta T_{N}+\\dfrac{a}{N}$,\n      where $E_{N}$ is the quantum Monte Carlo (fixed-node diffusion Monte Carlo, FN-DMC) total ground-state energy per particle calculated for a finite $N$-particle rectangular simulation cell, $E_{TL}$ is the interacting energy per particle in the thermodynamic limit (TL), $m^{*}$ is the quasiparticle effective mass, $\\Delta T_{N}=E_{N}^{(0)}-E_{TL}^{(0)}$ is the finite-$N$ deviation of the noninteracting kinetic energy (with $E_{N}^{(0)}$ the noninteracting kinetic energy of the finite cell and $E_{TL}^{(0)}$ its TL value), $a$ is a residual $1/N$ coefficient, and $N$ is the particle number; applying this protocol to closed-shell particle numbers $25\\leq N\\leq 81$ and using averages over twist angles in TABC to suppress shell effects produces statistically consistent extrapolations of $E_{TL}$ between periodic boundary condition (PBC) and TABC implementations for the 2D dipolar Fermi liquid.",
+        "content_hash": "f560be63dc39b5b71e1e79f42a5858f26392f8d7a78754360e37a35c765f2e18",
+        "id": "gcn_ad1fa168dfdd4d4c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752125487120915::conclusion_1",
+            "package_id": "paper:867752125487120915",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752125487120915"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02478580171358629,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi liquid parameters divided by the quasiparticle effective mass, $\\;F_{l}^{s,a}/m^{*}$ (symmetric and antisymmetric channels for the paramagnetic HEG) and $F_{l}/m^{*}$ (ferromagnetic HEG), were obtained from the discrete-angle DMC interaction functions by first computing the Fourier components\n      $$\n      a_{l}^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_{0}^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta,\n      $$\n      and then using the relations for an $N$-electron paramagnetic finite cell of density parameter $r_s$\n      $$\n      \\frac{F_{l}^{s,a}}{m^{*}}=\\frac{r_s^2}{4}\\big[a_{l}^{\\uparrow\\uparrow}\\pm a_{l}^{\\uparrow\\downarrow}\\big],\n      $$\n      and for a ferromagnetic finite cell\n      $$\n      \\frac{F_l}{m^{*}}=\\frac{r_s^2}{4}a_{l}^{\\uparrow\\uparrow},\n      $$\n      where $m^{*}$ denotes the quasiparticle effective mass.  Numerical angular integration of the available nonuniform discrete angles $\\{\\theta_i\\}$ was performed using a generalized composite Simpson's rule (piecewise quadratic interpolation adapted to a nonuniform grid), and the result was compared with a generalized composite trapezoidal rule to place an upper bound on the quadrature error.  Finite-size values of $F_l/m^{*}$ obtained at multiple closed-shell electron counts were extrapolated to the thermodynamic limit $N\\to\\infty$ by fitting the finite-$N$ data to the model $F_l(N)=c+aN^{\\gamma}$ with the exponent fixed at $\\gamma=-1/4$ (i.e., leading finite-size correction $\\propto N^{-1/4}$) motivated by theoretical analyses of long-range-correlation contributions; ordinary (unweighted) least-squares fits were used because oscillatory shell-filling deviations of the finite-size data are larger than the nominal Monte Carlo error bars, and the quoted uncertainties on the extrapolated parameters reflect the scatter of the finite-$N$ data under these fits.",
+        "content_hash": "4cc3ad14db079e132af2b29e1f01abb9b83fa37852979b41df74488064d99a4c",
+        "id": "gcn_64dc5d5e0d904476",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_3",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using a stripe variational ansatz with plane-wave modulation along the stripe direction and Gaussian localization across stripes (with the optimal stripe separation found at $k_{F}\\Delta y=\\sqrt{4\\pi}$), and performing FN-DMC simulations with extrapolation to the thermodynamic limit via linear $1/N$ fits, the energy per particle of the stripe state was found to be higher than both the Fermi-liquid and Wigner-crystal energies for all investigated interaction strengths $k_{F}r_{0}$ near freezing, so the stripe phase is not energetically favorable in the examined parameter window.",
+        "content_hash": "0bbbdab647a8d1268bf3eb00de521b26a2dfbf2472ef812b26455b63e290b62f",
+        "id": "gcn_7779b7b3623548e8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752125487120915::conclusion_8",
+            "package_id": "paper:867752125487120915",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752125487120915"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "ab258cd21c1a3c8187601ec8ab33a395"
+}

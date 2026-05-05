@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812139883257659392": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-9-15",
+        "cover_date_start": "2005-09-15",
+        "created_at": "2022-12-20T17:53:57+08:00",
+        "doi": "10.1103/physrevb.72.115317",
+        "en_title": "Exchange instabilities in electron systems: Bloch versus Stoner ferromagnetism",
+        "id": "812139883257659392",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "电子系统中的交换不稳定性：布洛赫铁磁性与斯托纳铁磁性"
+      },
+      "paper:812592835810295808": {
+        "area": "Physics and Astrophysics",
+        "authors": "John J. Deisz | Adolfo G. Eguiluz | Werner Hanke",
+        "available_online": "1993-10-25",
+        "cover_date_start": "1993-10-25",
+        "created_at": "2022-12-21T23:53:50+08:00",
+        "doi": "10.1103/physrevlett.71.2793",
+        "en_title": "Quasiparticle theory versus density-functional theory at a metal surface",
+        "id": "812592835810295808",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "金属表面的准粒子理论与密度泛函理论"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:813258886571098112": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Bauer | J. Keeling | M. M. Parish | P. López Ríos | P. B. Littlewood",
+        "available_online": "2013-1-7",
+        "cover_date_start": "2013-01-07",
+        "created_at": "2022-12-23T20:00:29+08:00",
+        "doi": "10.1103/physrevb.87.035302",
+        "en_title": "Optical recombination of biexcitons in semiconductors",
+        "id": "813258886571098112",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "半导体中双激子的光学复合"
+      },
+      "paper:814644944001040386": {
+        "area": "Physics and Astrophysics",
+        "authors": "Andrey Krakovsky | Jerome K. Percus",
+        "available_online": "1996-3-15",
+        "cover_date_start": "1996-03-15",
+        "created_at": "2022-12-27T15:48:11+08:00",
+        "doi": "10.1103/physrevb.53.7352",
+        "en_title": "Quasiparticle effective mass for the two- and three-dimensional electron gas",
+        "id": "814644944001040386",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维和三维电子气的准粒子有效质量"
+      },
+      "paper:867756227956835092": {
+        "area": "arXiv-Physics",
+        "authors": "Bikash Padhi | Philip Phillips",
+        "available_online": "",
+        "cover_date_start": "2018-10-01",
+        "created_at": "2023-05-23T05:13:27+08:00",
+        "doi": "10.48550/arXiv.1810.00884",
+        "en_title": "Pressure-Induced Metal-Insulator Transition in Twisted Bi-layer Graphene",
+        "id": "867756227956835092",
+        "keywords": "",
+        "publication_date": "2018-10-01",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "扭曲双层石墨烯中压力诱导的金属-绝缘体转变"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let $m^{*}$ denote the quasiparticle effective mass for the homogeneous electron gas and let $q_{\\parallel}$ be the in-plane wave vector of an image-state quasiparticle; because $m^{*}\\approx m$ (the effective-mass renormalization is small) for the homogeneous electron gas and because mass-enhancement effects are expected to be even weaker for a quasiparticle located far into the vacuum, a computed small energy shift $E_{\\mathrm{QP}}-E_{v}$ at $q_{\\parallel}=0$ (for example, $0.02\\ \\mathrm{eV}$) will remain small for other $q_{\\parallel}$ values relevant to the image-state dispersion, so the smallness of the quasiparticle energy shift is not restricted to a single computed $q_{\\parallel}$ point.\n      [3]",
+        "content_hash": "c2a9d7e6c79c7deced1efc875430bc237b2f57a8c765c39a63d1c8715666b0d1",
+        "id": "gcn_492e739cff19432d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812592835810295808::P8",
+            "package_id": "paper:812592835810295808",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812592835810295808"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030330882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective-mass ratio $m^{*}/m$ computed by enforcing the Friedel sum rule on scattering in the Sjölander–Stott effective potential for a clean, zero-temperature two-dimensional homogeneous electron gas is treated as directly comparable to effective-mass values extracted from experimental magnetoconductivity measurements (for example, the magnetoconductivity data of Smith and Stiles) without applying significant corrections for finite temperature, disorder scattering, electron–electron scattering beyond the homogeneous jellium model, or possible differences between thermodynamic or transport effective-mass definitions and the quasiparticle mass obtained from the scattering-based Friedel-sum enforcement.",
+        "content_hash": "b82a5227627c69f5239784dcdeeaa02079a160460b935dcbea1f63a1f610cf14",
+        "id": "gcn_639c497f05874cb0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814644944001040386::P9",
+            "package_id": "paper:814644944001040386",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814644944001040386"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029437229437229435,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02921395544346364,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N quasiparticle effective masses m^*(N) produced by quartic fits to DMC energy bands and fitting m^*(N)=m^*(∞)+b N^{-γ} yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.955(2) in hartree atomic units (a.u.), where m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the Fermi wave vector of the infinite system.",
+        "content_hash": "7859b0b106dad377c477ad6afe8e3774af8cb07138426e0b7daf7af4d7730e8c",
+        "id": "gcn_2feeb72d724846cf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_4",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02878726010616578,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028083267871170464,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5, the same extrapolation procedure applied to the DMC quartic-fit band data yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.04(2) a.u., with m^* defined as m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "6387e2dcf84ae7d2424eccc92c312224cfbd583aac1fb1ee1a3fe9946e390e0f",
+        "id": "gcn_e24d7ff647144aee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_5",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02797067901234568,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=5, the thermodynamic-limit quasiparticle effective mass obtained by extrapolating finite-N DMC quartic-fit results is m^*(∞)=0.74(1) a.u., using m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector.",
+        "content_hash": "0eb54583a6b53a006ba8d20615260d038847d96ae4baf9a0d0acbd34253b7e32",
+        "id": "gcn_38bbf14d5dc448f0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_8",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025989268947015427,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In RPA calculations for the homogeneous electron gas in 2D and 3D, the interacting static spin susceptibility satisfies χ^{*}=g^{*}m^{*} with g^{*} the interacting Landé g-factor and m^{*} the quasiparticle effective mass; numerically within RPA the divergence of χ^{*} occurs at substantially smaller r_{s} than the divergence of m^{*} — specifically, χ^{*} and g^{*} diverge at r_{s}≈7.3 (2D) and r_{s}≈18.7 (3D) while m^{*} diverges later at r_{s}≈18.1 (2D) and r_{s}≈49.9 (3D) — and therefore, within the RPA framework applied to the homogeneous electron gas, the Stoner-type susceptibility divergence is driven primarily by a divergent interacting Landé factor g^{*} rather than by an effective-mass m^{*} divergence.",
+        "content_hash": "afedc1b0c8cef66098ea07f385d25cf0cfba2a955848e88dcf10c9fd7fbf219e",
+        "id": "gcn_3dfb87ccad6440e7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812139883257659392::conclusion_4",
+            "package_id": "paper:812139883257659392",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812139883257659392"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a four-particle electron–hole system (two electrons and two holes) treated within the effective-mass approximation with Coulomb interactions, the variational Monte Carlo (VMC) trial wave function class $\\Psi_{\\mathrm{BE}}(\\mathbf{R})=\\exp[J(\\mathbf{R})]\\Psi_S(\\mathbf{R})$, where $J(\\mathbf{R})$ is a two-body Jastrow factor of the Drummond–Towler–Needs functional form (introducing electron–electron, hole–hole, and electron–hole two-body correlation factors with adjustable parameters chosen to satisfy short-range cusp conditions) and $\\Psi_S(\\mathbf{R})$ is the symmetrized pairing product of two pairing orbitals $\\phi_n(r)$ with variational parameters, when optimized by standard VMC energy-minimization methods, captures the dominant correlation physics of the biexciton ground state and recovers a large fraction of the exact binding energy, providing reliable overlaps for radiative-rate integrals within estimated variational error bounds.\n      N. D. Drummond, M. D. Towler, and R. J. Needs, Phys. Rev. B 70, 235119 (2004); R. J. Needs et al., J. Phys.: Condens. Matter 22, 023201 (2010).",
+        "content_hash": "6c080a98ed712a3444a0c2635e4709b4790e5b516cbd965d7c3e181b5a8289a5",
+        "id": "gcn_8768bd0922994cdb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813258886571098112::P7",
+            "package_id": "paper:813258886571098112",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813258886571098112"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The threshold value for triangular Wigner crystallization in a two-dimensional homogeneous electron gas is adopted as $r_s^{\\mathrm{crit}}\\approx37$, with an associated quoted uncertainty of order $\\delta r_s^{\\mathrm{crit}}\\sim5$ arising from finite-size and fixed-node quantum Monte Carlo errors; this canonical threshold is used as the reference criterion for asserting when the computed $r_s(P)$ places the system in the Wigner-crystal regime.\n      Tanatar & Ceperley, Phys. Rev. B 39, 5005 (1989); Drummond & Needs, Phys. Rev. Lett. 102, 126402 (2009).",
+        "content_hash": "5b64ba6b1ba2ce0f7b27b9c1411995cf0ae6cfd072bbf7fb8d5b3c016807e3f0",
+        "id": "gcn_39a3c2f57ca24c70",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867756227956835092::P15",
+            "package_id": "paper:867756227956835092",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867756227956835092"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "d06b2a59e004d501022389e6b6cb2b75"
+}

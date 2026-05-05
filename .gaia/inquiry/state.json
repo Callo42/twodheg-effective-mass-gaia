@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "focus": null,
+  "focus_kind": null,
+  "focus_resolved_id": null,
+  "mode": "auto",
+  "last_review_id": "2026-05-05T15-32-09Z_d70e0556_auto",
+  "baseline_review_id": "2026-05-05T14-58-26Z_d98983cb_auto",
+  "focus_stack": [],
+  "synthetic_obligations": [],
+  "synthetic_hypotheses": [
+    {
+      "qid": "hyp_48dea765",
+      "content": "Which finite-size correction or extrapolation law correctly applies to 2D HEG effective-mass estimates when comparing N^{-1/4} analytic excitation corrections with empirical N^{-3/2} QMC mass extrapolations?",
+      "scope_qid": "local::gcn_28b9e01bd2f8487f",
+      "created_at": "2026-05-05T14:55:09Z"
+    },
+    {
+      "qid": "hyp_ad1fd503",
+      "content": "Can finite-cell 2D HEG effective masses above unity at r_s=5 be reconciled quantitatively with thermodynamic-limit values near unity once the same band fitting, finite-size correction, and extrapolation protocol are applied?",
+      "scope_qid": "local::gcn_28b9e01bd2f8487f",
+      "created_at": "2026-05-05T14:55:09Z"
+    },
+    {
+      "qid": "hyp_126365a5",
+      "content": "Do ideal strictly 2D HEG calculations that find little thermodynamic-limit mass enhancement and quasi-2D experimental electron liquids that show density-dependent mass enhancement become consistent after finite width, disorder, temperature, and measurement protocol are matched?",
+      "scope_qid": "local::gcn_28b9e01bd2f8487f",
+      "created_at": "2026-05-05T14:55:09Z"
+    },
+    {
+      "qid": "hyp_1d268608",
+      "content": "Does the apparent paramagnetic low-density 2D HEG mass enhancement in earlier DMC survive the later high-precision finite-size extrapolation protocol, or is it removed by revised finite-size/statistical treatment?",
+      "scope_qid": "local::older_dmc_enhancement_vs_revised_dmc_benchmarks",
+      "created_at": "2026-05-05T15:09:51Z"
+    },
+    {
+      "qid": "hyp_66a4c7bb",
+      "content": "When does the theoretical N^(-1/4) finite-size law become a reliable extrapolation protocol rather than only an asymptotic guide overwhelmed by shell-filling noise?",
+      "scope_qid": "local::n_quarter_scaling_vs_shell_filling_noise",
+      "created_at": "2026-05-05T15:21:08Z"
+    }
+  ],
+  "synthetic_rejections": []
+}

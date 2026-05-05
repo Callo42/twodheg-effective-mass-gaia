@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1060803047791263760": {
+        "area": "arXiv-Physics",
+        "authors": "Elyjah Kiyooka | Chotivut Tangchingchai | Leo Noirot | Axel Leblanc | Boris Brun | Simon Zihlmann | Romain Maurand | Vivien Schmitt | Étienne Dumur | Jean-Michel Hartmann | Francois Lefloch | Silvano De Franceschi",
+        "available_online": "",
+        "cover_date_start": "2024-11-04",
+        "created_at": "2024-11-05T22:12:37+08:00",
+        "doi": "10.48550/arxiv.2411.02367",
+        "en_title": "Gatemon qubit on a germanium quantum-well heterostructure",
+        "id": "1060803047791263760",
+        "keywords": "",
+        "publication_date": "2024-11-04",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "锗量子阱异质结构上的Gatemon量子比特"
+      },
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811624106372890625": {
+        "area": "Physics and Astrophysics",
+        "authors": "A. L. Efros",
+        "available_online": "1992-5-15",
+        "cover_date_start": "1992-05-15",
+        "created_at": "2022-12-19T07:44:27+08:00",
+        "doi": "10.1103/physrevb.45.11354",
+        "en_title": "Homogeneous and inhomogeneous states of a two-dimensional electron liquid in a strong magnetic field",
+        "id": "811624106372890625",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "强磁场中二维电子液体的均匀态和非均匀态"
+      },
+      "paper:812139883257659392": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-9-15",
+        "cover_date_start": "2005-09-15",
+        "created_at": "2022-12-20T17:53:57+08:00",
+        "doi": "10.1103/physrevb.72.115317",
+        "en_title": "Exchange instabilities in electron systems: Bloch versus Stoner ferromagnetism",
+        "id": "812139883257659392",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "电子系统中的交换不稳定性：布洛赫铁磁性与斯托纳铁磁性"
+      },
+      "paper:812428475653685249": {
+        "area": "Engineering Technology",
+        "authors": "D R Hang | C F Huang | W K Hung | Y H Chang | J C Chen | H C Yang | Y F Chen | D K Shih | T Y Chu | H H Lin",
+        "available_online": "2002-8-9",
+        "cover_date_start": "2002-08-09",
+        "created_at": "2022-12-21T13:00:43+08:00",
+        "doi": "10.1088/0268-1242/17/9/317",
+        "en_title": "Shubnikov de Haas oscillations of two-dimensional electron gas in an InAsN/InGaAs single quantum well",
+        "id": "812428475653685249",
+        "keywords": "",
+        "publication_date": "2002-9-1",
+        "publication_id": "4380",
+        "publication_name": "Semiconductor Science and Technology _ Semicond. Sci. Technol.",
+        "research_categories": "",
+        "zh_title": "InAsN/InGaAs单量子阱中二维电子气的舒布尼科夫-德哈斯振荡"
+      },
+      "paper:812778893005029376": {
+        "area": "Physics and Astrophysics",
+        "authors": "A. A. Shashkin | S. V. Kravchenko | T. M. Klapwijk",
+        "available_online": "2001-12-6",
+        "cover_date_start": "2001-12-06",
+        "created_at": "2022-12-22T12:13:08+08:00",
+        "doi": "10.1103/physrevlett.87.266402",
+        "en_title": "Metal-Insulator Transition in a 2D Electron Gas: Equivalence of Two Approaches for Determining the Critical Point",
+        "id": "812778893005029376",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维电子气中的金属-绝缘体转变：确定临界点的两种方法的等效性"
+      },
+      "paper:813060374432579584": {
+        "area": "Comprehensive Periodical",
+        "authors": "Sébastien Toussaint | Frederico Martins | Sébastien Faniel | Marco G. Pala | Ludovic Desplanque | Xavier Wallart | Hermann Sellier | Serge Huant | Vincent Bayot | Benoit Hackens",
+        "available_online": "2018-2-14",
+        "cover_date_start": "2018-02-14",
+        "created_at": "2022-12-23T06:51:39+08:00",
+        "doi": "10.1038/s41598-018-21250-y",
+        "en_title": "On the origins of transport inefficiencies in mesoscopic networks",
+        "id": "813060374432579584",
+        "keywords": "",
+        "publication_date": "2018-12",
+        "publication_id": "9354",
+        "publication_name": "Scientific Reports _ Sci Rep",
+        "research_categories": "",
+        "zh_title": "关于介观网络中传输效率低下的起源"
+      },
+      "paper:813191512652251144": {
+        "area": "Physics and Astrophysics",
+        "authors": "Wei-min Jin | Jun-ming Zhou | Yi Huang | Li-hong Cai",
+        "available_online": "1988-12-15",
+        "cover_date_start": "1988-12-15",
+        "created_at": "2022-12-23T15:32:45+08:00",
+        "doi": "10.1103/physrevb.38.13086",
+        "en_title": "Quantum transport in neutron-irradiated modulation-doped heterojunctions. I. Fast neutrons",
+        "id": "813191512652251144",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "中子辐照调制掺杂异质结中的量子输运。I. 快中子"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867772473339281929": {
+        "area": "arXiv-Physics",
+        "authors": "B Jenichen | U Jahn | A Nikulin | R Hey | P V Santos | K J Friedland",
+        "available_online": "",
+        "cover_date_start": "2019-07-22",
+        "created_at": "2023-05-23T06:18:00+08:00",
+        "doi": "10.48550/arXiv.1907.09368",
+        "en_title": "Inhomogeneous micro-strain in cylindrical semiconductor heterostructures and its influence on the adiabatic motion of electrons",
+        "id": "867772473339281929",
+        "keywords": "",
+        "publication_date": "2019-07-22",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "圆柱形半导体异质结构中的非均匀微应变及其对电子绝热运动的影响"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02749266862170088,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional, noninteracting electron gas with effective mass m^* and carrier density N the zero-temperature Fermi energy is E_F = (pi ħ^2 N) / m^*, so a small density change delta N produces a chemical-potential change delta mu_F = (pi ħ^2 / m^*) delta N. Using the GaAs effective electron mass m^* = 0.067 m_e (with m_e the free-electron rest mass) and substituting delta N = 0.7 × 10^14 m^{-2} gives delta mu_F ≈ 0.22 meV; the proposition is that this 2D free-electron relation with m^* = 0.067 m_e is applicable as an estimate for the high-density quantum-well HM2DEG in the studied parameter range.\n      Standard 2D electron gas relations; Jenichen et al., Section III.B",
+        "content_hash": "4b95a284d747e90167ed65759167e2494323ec65285b93571c85c476c2e8a5bd",
+        "id": "gcn_d49d56923a4a46f3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772473339281929::P9",
+            "package_id": "paper:867772473339281929",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772473339281929"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02661064425770308,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi wavelength λ_F used to infer resonance orders from the measured sheet density n_{2D} is computed from the strictly two‑dimensional free‑electron relation λ_F = sqrt{2π / n_{2D}}, an expression that assumes a homogeneous two‑dimensional electron gas of sheet density n_{2D} and neglects corrections arising from transverse quantization, changes in subband occupation, and effective‑mass renormalization that would modify the relation between the local one‑dimensional Fermi wavevector and the measured n_{2D} in a quasi‑one‑dimensional cavity.",
+        "content_hash": "6cf13473fe15eb50e51dd78e111cd3b6124357ce8e1fe3c389865a8e214a7207",
+        "id": "gcn_1fe66d8349d74cf6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813060374432579584::P5",
+            "package_id": "paper:813060374432579584",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813060374432579584"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the single-particle density of states for an ideal two-dimensional electron gas as D_0 = 2m/(πħ^2), where m is the electron effective mass and ħ is the reduced Planck constant. The proposition is that the effective mass m entering D_0 can be taken to have the value m = 0.19 m_e (with m_e the free electron mass) independently of the application of a strong in-plane magnetic field sufficient to fully polarize spins (B > B_sat), so that comparisons of the measured D* to multiples of D_0 using m = 0.19 m_e remain valid in both unpolarized and fully spin-polarized regimes; this assumes that interaction and polarization effects do not significantly renormalize m under the experimental conditions.",
+        "content_hash": "2af501126774ae38985a5d3798c94e5330c362cc7e08c86519fdfa8c972bac4f",
+        "id": "gcn_3893ecfe0418429b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812778893005029376::P12",
+            "package_id": "paper:812778893005029376",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812778893005029376"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In RPA calculations for the homogeneous electron gas in 2D and 3D, the interacting static spin susceptibility satisfies χ^{*}=g^{*}m^{*} with g^{*} the interacting Landé g-factor and m^{*} the quasiparticle effective mass; numerically within RPA the divergence of χ^{*} occurs at substantially smaller r_{s} than the divergence of m^{*} — specifically, χ^{*} and g^{*} diverge at r_{s}≈7.3 (2D) and r_{s}≈18.7 (3D) while m^{*} diverges later at r_{s}≈18.1 (2D) and r_{s}≈49.9 (3D) — and therefore, within the RPA framework applied to the homogeneous electron gas, the Stoner-type susceptibility divergence is driven primarily by a divergent interacting Landé factor g^{*} rather than by an effective-mass m^{*} divergence.",
+        "content_hash": "afedc1b0c8cef66098ea07f385d25cf0cfba2a955848e88dcf10c9fd7fbf219e",
+        "id": "gcn_3dfb87ccad6440e7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812139883257659392::conclusion_4",
+            "package_id": "paper:812139883257659392",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812139883257659392"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi energy E_F of a two-dimensional electron gas with sheet density n and effective mass m* is given, under the parabolic-dispersion approximation with energy-independent effective mass, by E_F = π ℏ^2 n / m* (measured from the subband bottom); substituting n = 2.85 × 10^11 cm^-2 and m* = 0.10 m_0 yields E_F = 6.75 meV.",
+        "content_hash": "d8f80fff7fae42dcd9abe048ad6933583e953d455c97084bb6b08e8d46cce35d",
+        "id": "gcn_b087ff5fe8cf4aa2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812428475653685249::P8",
+            "package_id": "paper:812428475653685249",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812428475653685249"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For semiclassical estimates of the Fermi velocity in the two-dimensional hole gas we take an effective hole mass $m^{*}\\approx0.10\\,m_{e}$ (where $m_{e}$ is the electron rest mass) and compute the Fermi velocity as $v_{f}=h k_{f}/m^{*}$ with $k_{f}=\\sqrt{2\\pi\\rho_{2D}}$ for a two-dimensional carrier density $\\rho_{2D}$; this proposition assumes a single parabolic band with $m^{*}\\approx0.10\\,m_{e}$ adequately describes the low-energy dispersion of the hole gas for the carrier-density range of interest.",
+        "content_hash": "df6c6eb885ec6cfd7d2fcce8fc7af15a4ccb45ece4a30cc174b171c8ddf63169",
+        "id": "gcn_f221865c72ff4ed9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1060803047791263760::P5",
+            "package_id": "paper:1060803047791263760",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1060803047791263760"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m*_{SJB} denote the quasiparticle effective mass obtained from quantum Monte Carlo calculations using a Slater–Jastrow–backflow (SJB) trial wave function for paramagnetic 2D-UEL at low density (for example r_s = 5) in a given simulation-cell geometry and single-particle basis, and let m*_{FCI} denote the hypothetical effective mass that would be obtained if the many-electron wave function were computed by a converged full configuration interaction (FCI) treatment within the same single-particle basis and simulation-cell geometry. The speculative proposition is that m*_{FCI} > m*_{SJB}, i.e., that including all static correlation via a converged FCI would increase the low-density effective mass beyond the SJB-VMC and SJB-DMC estimates reported; this claim is an extrapolation beyond the computed SJB data and is not numerically demonstrated in the calculations reported here.\n      J. J. Shepherd et al., Full configuration interaction perspective on the homogeneous electron gas, Phys. Rev. B 85, 081103(R) (2012).",
+        "content_hash": "33690b012f664e4641a769ae918209a5bf4bb84a0f343fd4165d9ee150afc8a4",
+        "id": "gcn_91358637d8e9481b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the zero-magnetic-field chemical potential per electron $E_F(n)$ for a two-dimensional electron gas of areal density $n$ and effective mass $m$ in a medium of dielectric constant $\\kappa$. The proposition is: the approximation\n      $$\n      E_F(n)=\\frac{n\\pi\\hbar^2}{m}-2\\frac{e^2}{\\kappa}\\sqrt{\\frac{2n}{\\pi}},\n      $$\n      provides an adequate interaction-renormalized estimate of the zero-field chemical potential $E_F(n)$ in the electron-density range of order $10^{11}\\ \\mathrm{cm}^{-2}$ for the purpose of computing the zero-field thermodynamic density of states $G(0)=(dE_F/dn)^{-1}$. This formula is taken from prior work and is an approximate, not exact, expression.\n      [11]",
+        "content_hash": "3c13d909d7195cabca80c625a63733636d93c3279aa81e44bca0e816d0305c27",
+        "id": "gcn_995d52243d6f4b5c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811624106372890625::P5",
+            "package_id": "paper:811624106372890625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811624106372890625"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider a two-dimensional electron gas confined at a heterointerface with in-plane motion approximated by a parabolic dispersion of single-particle effective mass $m^*$, let $E_0$ denote the ground-state quantized energy of the confinement potential in the growth ($z$) direction, and let $E_F$ denote the Fermi energy. In the low-temperature limit $T\\ll E_F/k_B$ and when only the lowest confinement subband (0th) is occupied, the in-plane density of states per spin is $g(E)=m^*/(\\pi\\hbar^2)$ and the sheet density contributed by occupied states in the 0th subband is given by\n      $$\n      n_{2D}=(E_F-E_0)\\frac{m^*}{\\pi\\hbar^2},\n      $$\n      such that many-body interactions, band nonparabolicity, and multi-subband occupation can be neglected for the parameter regime of the samples considered.",
+        "content_hash": "a6cb6a5ededf12f4bfc9e0614e5df40aa4bc1d626d20b626faef81cd78111303",
+        "id": "gcn_e416950ad77442b5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813191512652251144::P6",
+            "package_id": "paper:813191512652251144",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813191512652251144"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "1039c9006ec568307f36b1d77864d2e2"
+}

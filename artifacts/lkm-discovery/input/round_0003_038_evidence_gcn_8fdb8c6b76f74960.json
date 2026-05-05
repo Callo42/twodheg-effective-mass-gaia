@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Reoptimization of the explicit correlation parameters in finite-cell excited-state trial wave functions produces a measurable lowering of the DMC total energy of that finite cell and thereby increases the finite-size bias of excitation energies computed as total-energy differences. Concretely, when the Jastrow-factor and backflow-function parameters were reoptimized after removing an electron from wavevector \\\\(\\\\mathbf{k}=0\\\\) in a paramagnetic 26-electron 2D HEG at density parameter \\\\(r_{s}=1\\\\), the DMC total energy was lowered by 0.000854(4) atomic units (a.u.), which reduced the finite-cell bandwidth and therefore increased the finite-size error in the derived excitation energies. Consequently, to avoid introducing this additional finite-cell bias into excitation-energy estimates, the Jastrow and backflow parameters were optimized once in the closed-shell ground state for each density and system size and then held fixed for all corresponding excited-state DMC calculations.",
+      "content_hash": "6eb39dab02623431e9aa5a3884f020a5b9d0ee04910fbeb2ac64ff95361c34d5",
+      "id": "gcn_8fdb8c6b76f74960",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Reoptimization of the explicit correlation parameters in finite-cell excited-state trial wave functions produces a measurable lowering of the DMC total energy of that finite cell and thereby increases the finite-size bias of excitation energies computed as total-energy differences. Concretely, when the Jastrow-factor and backflow-function parameters were reoptimized after removing an electron from wavevector \\\\(\\\\mathbf{k}=0\\\\) in a paramagnetic 26-electron 2D HEG at density parameter \\\\(r_{s}=1\\\\), the DMC total energy was lowered by 0.000854(4) atomic units (a.u.), which reduced the finite-cell bandwidth and therefore increased the finite-size error in the derived excitation energies. Consequently, to avoid introducing this additional finite-cell bias into excitation-energy estimates, the Jastrow and backflow parameters were optimized once in the closed-shell ground state for each density and system size and then held fixed for all corresponding excited-state DMC calculations.",
+              "id": "gcn_8fdb8c6b76f74960"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_b876f29425b44c05",
+            "premises": [
+              {
+                "content": "Consider a two-dimensional homogeneous electron gas (2D HEG) in the thermodynamic limit defined by taking the particle number \\\\(N\\\\to\\\\infty\\\\) while holding the electron density fixed. Let the Slater-Jastrow-backflow trial many-electron wave function depend on finite-dimensional real parameter vectors \\\\(J\\\\) (the Jastrow-factor parameters controlling explicit two-body correlation terms, with polynomial and plane-wave expansions in interelectron distances cut off at the simulation-cell inscribed-circle radius) and \\\\(B\\\\) (the backflow-function parameters controlling polynomial backflow coordinate transformations). The proposition is: creating a single-particle excitation by adding or removing one electron at a definite wavevector \\\\(\\\\mathbf{k}\\\\) (changing the occupation by one at that \\\\(\\\\mathbf{k}\\\\) while preserving the thermodynamic-limit density) leaves the values of the optimal correlation-parameter vectors \\\\((J,B)\\\\) that minimize the ground-state energy per particle unchanged to leading order; equivalently, a single isolated quasiparticle excitation has a negligible effect on the optimal short- and medium-range two-body correlation functions and backflow transformations in the infinite 2D HEG.",
+                "id": "gcn_25de7aa13e4d4e91"
+              },
+              {
+                "content": "Let a Slater-Jastrow-backflow trial wave function for a finite periodic simulation cell be parameterized by Jastrow and backflow parameters that were optimized by variational Monte Carlo (VMC) for the closed-shell ground state; denote these ground-state-optimized parameter vectors by \\\\((J_{\\\\mathrm{GS}},B_{\\\\mathrm{GS}})\\\\). The proposition is: when computing excitation energies in that finite simulation cell (energy differences between excited and ground states obtained by DMC), using the same fixed parameter values \\\\((J_{\\\\mathrm{GS}},B_{\\\\mathrm{GS}})\\\\) for the excited-state trial wave functions introduces less additional finite-size bias into the excitation energies than performing an independent reoptimization of \\\\(J,B\\\\) in each excited-state finite cell, because excited-state reoptimization in a finite cell can exploit finite-size-dependent changes in correlation that do not persist in the thermodynamic limit.",
+                "id": "gcn_a4747d52e91f45e5"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define \"Jastrow factor\" as the part of a trial many-electron wave function consisting of explicit two-body correlation terms (here consisting of polynomial and plane-wave expansions in the interelectron distances) and define \"backflow function\" as the part of the trial wave function that replaces electron coordinates by collective coordinates via polynomial expansions in the interelectron distances; the trial wave function used is a Slater-Jastrow-backflow single-determinant form and the authors report that the Jastrow factor and backflow function contained 35 and 17 free parameters for paramagnetic HEGs and 27 and 8 free parameters for ferromagnetic HEGs, respectively. \n[11-13]",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "State that for each density, system size, and spin polarization the wave function parameters were optimized in the ground state by first minimizing the variance of the energy and then the energy expectation value with respect to the free parameters, and that, except for a couple of test cases, the resulting Jastrow and backflow functions were used unchanged in all excited-state calculations; this establishes the baseline procedure of optimizing only in the ground state. \n[14-16]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Observe that reoptimization of Jastrow and backflow parameters in a finite simulation cell when the system is placed in an excited state is a finite-size effect, because in the thermodynamic (infinite-system) limit an isolated single excitation does not alter the optimal many-body correlations; hence any lowering of the DMC total energy due to reoptimizing in an excited finite cell is a manifestation of finite-size error. \n[23,24]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Provide the explicit quantitative example reported: when an electron was removed from the $\\mathbf{k}=0$ state in a 26-electron paramagnetic homogeneous electron gas at density parameter $r_{s}=1$, reoptimizing the wave function in that excited state lowered the diffusion Monte Carlo (DMC) total energy by $0.000854(4)\\,\\mathrm{a.u.}$, and this lowering reduced the DMC bandwidth in that finite cell and therefore increased the finite-size error in excitation energies; this effect is illustrated by the inset to the energy-band panel for $N=26$ in the figure showing the paramagnetic bands. \nFig. 1",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Conclude, from the preceding observation that excited-state reoptimization produces an observable lowering of the finite-cell DMC energy and hence increases finite-size bias in excitation energies, that to avoid introducing extra finite-size error the Jastrow and backflow parameters were therefore optimized only in the ground state and then held fixed for all reported excited-state DMC calculations.",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "When evaluating single-particle excitation energies in finite QMC simulation cells, it is common practice to consider whether trial-wave-function parameters should be reoptimized for each excited-state configuration. If reoptimization changes the many-body correlation description in a way that depends on system size, the resulting change in total energy is a finite-size artifact that does not represent the thermodynamic-limit excitation energy. Prior calculations did not systematically quantify how reoptimization in excited states affects finite-size errors in DMC excitation energies. Without such quantification, choices about reoptimization introduce uncontrolled bias into computed energy bands and hence into derived quantities such as $m^{*}$.",
+            "id": "paper:867751779943579657::conclusion_2_subproblem",
+            "source_package": "paper:867751779943579657"
+          }
+        ],
+        "source_package": "paper:867751779943579657"
+      }
+    ],
+    "papers": {
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "b4c8d740e51a62e3b7c9cd6988ab27f1"
+}

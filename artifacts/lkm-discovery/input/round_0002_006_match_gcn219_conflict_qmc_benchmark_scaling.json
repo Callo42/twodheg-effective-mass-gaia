@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:1229502851013672970": {
+        "area": "arXiv-Physics",
+        "authors": "Lucas Madeira",
+        "available_online": "",
+        "cover_date_start": "2024-07-02",
+        "created_at": "2026-02-14T10:45:22+08:00",
+        "doi": "10.48550/arXiv.2407.02135",
+        "en_title": "The role of the effective range in strongly-interacting few-body systems",
+        "id": "1229502851013672970",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108508",
+        "publication_name": "Atomic Physics",
+        "research_categories": "",
+        "zh_title": "有效范围在强相互作用少体系统中的作用"
+      },
+      "paper:812698776165679105": {
+        "area": "Physics and Astrophysics",
+        "authors": "F. Bolton",
+        "available_online": "1996-8-15",
+        "cover_date_start": "1996-08-15",
+        "created_at": "2022-12-22T06:54:49+08:00",
+        "doi": "10.1103/physrevb.54.4780",
+        "en_title": "Fixed-phase quantum Monte Carlo method applied to interacting electrons in a quantum dot",
+        "id": "812698776165679105",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "固定相量子蒙特卡罗方法应用于量子点中的相互作用电子"
+      },
+      "paper:812701510184992769": {
+        "area": "Physics and Astrophysics",
+        "authors": "C. Lin | F. H. Zong | D. M. Ceperley",
+        "available_online": "2001-6-18",
+        "cover_date_start": "2001-06-18",
+        "created_at": "2022-12-22T07:05:41+08:00",
+        "doi": "10.1103/physreve.64.016702",
+        "en_title": "Twist-averaged boundary conditions in continuum quantum Monte Carlo algorithms",
+        "id": "812701510184992769",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "565",
+        "publication_name": "Physical Review E _ Phys. Rev. E",
+        "research_categories": "",
+        "zh_title": "连续量子蒙特卡罗算法中的扭曲平均边界条件"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867748836351672346": {
+        "area": "arXiv-Physics",
+        "authors": "Saeed H. Abedinpour | Reza Asgari | B. Tanatar | Marco Polini",
+        "available_online": "",
+        "cover_date_start": "2012-09-29",
+        "created_at": "2023-05-23T04:44:05+08:00",
+        "doi": "10.48550/arXiv.1210.0110",
+        "en_title": "Ground-state and dynamical properties of two-dimensional dipolar Fermi liquids",
+        "id": "867748836351672346",
+        "keywords": "",
+        "publication_date": "2012-09-29",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维偶极费米液体的基态和动力学性质"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867757619392020695": {
+        "area": "arXiv-Physics",
+        "authors": "Simo Huotari | J. Aleksi Soininen | Tuomas Pylkkänen | Keijo Hämäläinen | Arezki Issolah | Andrey Titov | Jeremy McMinis | Jeongnim Kim | Ken Esler | David M. Ceperley | Markus Holzmann | Valerio Olevano",
+        "available_online": "",
+        "cover_date_start": "2010-06-29",
+        "created_at": "2023-05-23T05:18:59+08:00",
+        "doi": "10.48550/arXiv.1006.5591",
+        "en_title": "Momentum Distribution and Renormalization Factor in Sodium and the Electron Gas",
+        "id": "867757619392020695",
+        "keywords": "",
+        "publication_date": "2010-06-29",
+        "publication_id": "108485",
+        "publication_name": "Other Condensed Matter _ Physics.cond-mat.other",
+        "research_categories": "",
+        "zh_title": "钠和电子气中的动量分布与重整化因子"
+      },
+      "paper:937409596379627733": {
+        "area": "arXiv-Physics",
+        "authors": "Jiho Sung | Jue Wang | Ilya Esterlis | Pavel A. Volkov | Giovanni Scuri | You Zhou | Elise Brutschea | Takashi Taniguchi | Kenji Watanabe | Yubo Yang | Miguel A. Morales | Shiwei Zhang | Andrew J. Millis | Mikhail D. Lukin | Philip Kim | Eugene Demler | Hongkun Park",
+        "available_online": "",
+        "cover_date_start": "2023-11-29",
+        "created_at": "2023-12-01T10:14:27+08:00",
+        "doi": "10.48550/arXiv.2311.18069",
+        "en_title": "Observation of an electronic microemulsion phase emerging from a quantum crystal-to-liquid transition",
+        "id": "937409596379627733",
+        "keywords": "",
+        "publication_date": "2023-11-29",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "观察量子晶体到液体转变过程中出现的电子微乳液相"
+      }
+    },
+    "variables": [
+      {
+        "content": "The diffusion Monte Carlo data for Fourier-projected Fermi liquid quantities display large, nonmonotonic fluctuations as functions of finite-system particle number N that exceed the per-run statistical error bars: the statistical uncertainties from individual DMC runs are generally much smaller than the observed shell-filling oscillations and other finite-size \"noise.\" A theoretical finite-size scaling proportional to N^{-1/4} (the exponent -1/4 predicted for long-range-correlation-dominated finite-size errors) is consistent with all DMC data in a global fit (the best-fit common exponent found by simultaneous \\chi^2 fitting of the DMC data is \\gamma = -0.24(10)), but the fit quality is poor (\\chi^2 per data point \\gg 1) because the shell-filling oscillations and related finite-size noise are not captured by the statistical error bars; a naive ordinary least-squares fit with equal weighting of data points yields a very different effective exponent. Consequently, these finite-size effects constitute a serious obstacle to a quantitatively accurate, direct determination of Fermi liquid parameters from finite-cell QMC calculations: extrapolated Fermi liquid parameters obtained by simple power-law fits have large uncertainties and in many cases are inconsistent with related thermodynamic quantities obtained directly from parametrizations of the ground-state total energy per electron.",
+        "content_hash": "30eefee1ccd63db33ea9950861254ea7e118b166b731903158e65947e6d51cc8",
+        "id": "gcn_3db07703d3684507",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_4",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03076923076923077,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing the measured reduced susceptibility data in the high-density liquid to fixed-node diffusion QMC predictions for a homogeneous two-dimensional electron gas parameterized by conduction-band g-factor g, effective mass m^*, and dielectric constant ε, the proposition is that the reported quantitative agreement between experiment and QMC is robust against reasonable variations of these input parameters: moderate adjustments of ε within experimentally plausible bounds or modest changes in the assumed m^* around 0.7 m_0 do not eliminate the quantitative agreement between the measured χ/χ_0 and the QMC curve, supporting the conclusion that the high-density state behaves as a clean, strongly interacting Fermi liquid rather than being an artifact of over-fitting poorly constrained parameters.",
+        "content_hash": "63d1a942ed84a2b77b2e4d9c4d11ce6ff40464c3fbb92e68658641e10f591bc2",
+        "id": "gcn_be05e6588d854310",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:937409596379627733::P14",
+            "package_id": "paper:937409596379627733",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:937409596379627733"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02946236559139785,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+        "content_hash": "b91e49651e9919fd43236efc34209fb4d01669b2208edac4b705bf9ae139fce3",
+        "id": "gcn_ff9edeb262af4bd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_7",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02750455373406193,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In diffusion QMC calculations of the momentum distribution for periodic simulation cells of bulk sodium and for the homogeneous electron gas, finite-size effects modify momentum-space structure near the Fermi momentum $p_{F}$; applying standard finite-size correction procedures such as twist averaging over boundary conditions, extrapolation in system size, and other corrections as implemented in the reported QMC workflow yields a converged estimate of the jump at the Fermi surface with uncertainty comparable to the quoted QMC statistical and systematic errorbars, enabling the reported value $\\zeta_{\\mathrm{QMC}}^{\\mathrm{Na}}=0.68(2)$.\n      [22]",
+        "content_hash": "d3be81462fac1848e42376b6d2d0f8fc580fbcc66c2767e38d06be38c1e96a36",
+        "id": "gcn_14f879e32c0c4c1d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757619392020695::P11",
+            "package_id": "paper:867757619392020695",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757619392020695"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quantum Monte Carlo data sets of Matveeva and Giorgini (cited in the main text as Ref. [22]) for the pair distribution function g(r) and static structure factor S(k) of the spin-polarized 2D dipolar Fermi gas are taken to accurately represent the thermodynamic-limit ground-state properties (i.e. finite-size, time-step, and fixed-node or related QMC approximations introduce errors small compared with the discrepancies under investigation) for coupling strengths up to at least \\lambda\\approx 20, and therefore these QMC results are an appropriate benchmark for assessing the quantitative accuracy of FHNC/\\alpha 3 predictions.\n      [22]",
+        "content_hash": "d529bc13f68c7c4aecac064061379db52175ea4f6db122e6b5711340a12a2e96",
+        "id": "gcn_032b29609d874a04",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748836351672346::P5",
+            "package_id": "paper:867748836351672346",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748836351672346"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For three identical bosons, the quantum Monte Carlo (QMC) dimensionless ratio\n      $\\dfrac{E_{3}^{\\mathrm{QMC}}(1/a,r_{0},\\nu)}{E_{3}^{\\mathrm{QMC}}(0,r_{0},\\nu)}$,\n      constructed using the QMC unitarity reference energy $E_{3}^{\\mathrm{QMC}}(0,r_{0},\\nu)$, is directly comparable to the STM-derived scaling function\n      $F(x,y)=\\dfrac{E_{3}(1/a,r_{0},\\nu)}{E_{3}(0,r_{0},\\nu)}$\n      when both are evaluated at the same dimensionless coordinates\n      $x=\\dfrac{\\hbar}{a\\sqrt{-mE_{3}(0,r_{0},\\nu)}}$ and $y=\\dfrac{r_{0}\\sqrt{-mE_{3}(0,r_{0},\\nu)}}{\\hbar}$,\n      so that the two normalizations and coordinate definitions allow a direct comparison between QMC and STM results.",
+        "content_hash": "ed68580dc946aff2a966bf2a0f95c15dfd411a85ae1dfcedb22e2aa996c45ab8",
+        "id": "gcn_405cf2341f2d4720",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1229502851013672970::P16",
+            "package_id": "paper:1229502851013672970",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1229502851013672970"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $\\nu_{NI}$ and amplitude statistics $(a_{NI},b_{NI},c_{NI})$ be the exponents and scaled-error statistics determined from numerical studies of noninteracting (NI) fermions or Hartree-Fock (HF) mean-field Coulomb systems over particle numbers $N\\in[10,10^{4}]$ in a cubic cell of side $L$. The proposition is: these NI/HF-derived parameters $\\nu_{NI},a_{NI},b_{NI},c_{NI}$ provide predictive estimates for the finite-size decay exponent and typical amplitudes of kinetic-energy-related finite-size errors in fully interacting correlated-electron continuum QMC simulations (VMC/DMC) of the same density and geometry, i.e., one may use NI/HF tabulated values to forecast the magnitude and scaling of shell-related kinetic finite-size errors in correlated QMC, under the assumption that Fermi-liquid-type correspondence between NI and interacting excitations holds.",
+        "content_hash": "af61da1435e0c0e704b68195b628ce85beccbe046f2dfce8074afe4f59eb43b4",
+        "id": "gcn_61621a6d6d804d0a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812701510184992769::P4",
+            "package_id": "paper:812701510184992769",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812701510184992769"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider the two-electron Hamiltonian specified above with parameters m^*, \\omega_0, \\omega_c, and Coulomb interaction e^2/(4\\pi\\varepsilon\\varepsilon_0 r_{12}). The independent exact-diagonalization results supplied by D. Darnhofer and used for benchmarking the two-electron spectrum were computed with the same Hamiltonian parameters as the Monte Carlo calculations and are numerically converged; therefore those exact-diagonalization data serve as accurate numerical benchmarks for validating the fixed-phase DMC two-electron energies, with residual numerical error in the diagonalization being negligible compared with the quoted Monte Carlo uncertainties.",
+        "content_hash": "e96713169a1b73c3432432acdaa438a5a580257cd8780fe95d9500b499d471e2",
+        "id": "gcn_b03b5b3565194fc7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812698776165679105::P9",
+            "package_id": "paper:812698776165679105",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812698776165679105"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "913890d5d27cb92ec9c3b483b6d1922d"
+}

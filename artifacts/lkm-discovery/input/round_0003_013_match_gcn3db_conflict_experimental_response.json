@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812112176339746816": {
+        "area": "Physics and Astrophysics",
+        "authors": "F. Perez | B. Jusserand | D. Richards | G. Karczewski",
+        "available_online": "",
+        "cover_date_start": "2006-03-01",
+        "created_at": "2022-12-20T16:03:51+08:00",
+        "doi": "10.1002/pssb.200564603",
+        "en_title": "Spin waves of the spin-polarized electron gas in semimagnetic quantum wells",
+        "id": "812112176339746816",
+        "keywords": "",
+        "publication_date": "2006-3",
+        "publication_id": "671",
+        "publication_name": "physica status solidi (b) _ phys. stat. sol. (b)",
+        "research_categories": "",
+        "zh_title": "半磁量子阱中自旋极化电子气的自旋波"
+      },
+      "paper:813129265078861826": {
+        "area": "Physics and Astrophysics",
+        "authors": "Hema C. P. Movva | Babak Fallahazad | Kyounghwan Kim | Stefano Larentis | Takashi Taniguchi | Kenji Watanabe | Sanjay K. Banerjee | Emanuel Tutuc",
+        "available_online": "2017-6-15",
+        "cover_date_start": "2017-06-15",
+        "created_at": "2022-12-23T11:25:24+08:00",
+        "doi": "10.1103/physrevlett.118.247701",
+        "en_title": "Density-Dependent Quantum Hall States and Zeeman Splitting in Monolayer and Bilayer WSe 2",
+        "id": "813129265078861826",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "单层和双层WSe₂中密度依赖的量子霍尔态与塞曼分裂"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867745807611200196": {
+        "area": "arXiv-Physics",
+        "authors": "L. Shulenburger | M. Casula | G. Senatore | R. M. Martin",
+        "available_online": "",
+        "cover_date_start": "2008-03-10",
+        "created_at": "2023-05-23T04:32:03+08:00",
+        "doi": "10.48550/arXiv.0803.1211",
+        "en_title": "Correlation effects in quasi one dimensional electron wires",
+        "id": "867745807611200196",
+        "keywords": "",
+        "publication_date": "2008-03-10",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "准一维电子线中的关联效应"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:937409596379627733": {
+        "area": "arXiv-Physics",
+        "authors": "Jiho Sung | Jue Wang | Ilya Esterlis | Pavel A. Volkov | Giovanni Scuri | You Zhou | Elise Brutschea | Takashi Taniguchi | Kenji Watanabe | Yubo Yang | Miguel A. Morales | Shiwei Zhang | Andrew J. Millis | Mikhail D. Lukin | Philip Kim | Eugene Demler | Hongkun Park",
+        "available_online": "",
+        "cover_date_start": "2023-11-29",
+        "created_at": "2023-12-01T10:14:27+08:00",
+        "doi": "10.48550/arXiv.2311.18069",
+        "en_title": "Observation of an electronic microemulsion phase emerging from a quantum crystal-to-liquid transition",
+        "id": "937409596379627733",
+        "keywords": "",
+        "publication_date": "2023-11-29",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "观察量子晶体到液体转变过程中出现的电子微乳液相"
+      }
+    },
+    "variables": [
+      {
+        "content": "The proposition: Parameterizations of the ground-state total energy per electron $E(r_s,\\zeta)$ obtained from independent quantum Monte Carlo (QMC) studies (specifically the smooth correlation-energy parameterizations reported in the literature) produce isothermal compressibility ratios $\\kappa/\\kappa^*$ and spin-susceptibility ratios $\\chi/\\chi^*$ via the total-energy curvature formulas\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{r_{s}^{4}}{4(1+\\zeta^{2})}\\left[\\frac{\\partial^{2}}{\\partial r_{s}^{2}}-\\frac{1}{r_{s}}\\frac{\\partial}{\\partial r_{s}}\\right]E(r_{s},\\zeta)\n      $$\n      and\n      $$\n      \\frac{\\chi}{\\chi^{*}}=r_{s}^{2}\\left(\\frac{\\partial^{2}E}{\\partial\\zeta^{2}}\\right)_{\\zeta=0},\n      $$\n      that are accurate to within the quoted parameterization uncertainties and are mutually consistent across the two independent parameterizations, so that disagreements with compressibility and susceptibility values computed from extrapolated Fermi liquid parameters are likely attributable to deficiencies in the finite-size-extrapolated Fermi liquid parameters rather than to errors in these total-energy parameterizations.\n      Ref. 23; Ref. 24",
+        "content_hash": "a0ef54bbc0520c574e4cfa7fcaaa22275d8bf43fce4cc9476e4dd0611f7b4350",
+        "id": "gcn_ad424f363b6848a4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P7",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031754032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the high-density electron liquid in the MoSe2 monolayer the experimentally measured reduced spin susceptibility χ/χ_0, where χ_0 ≡ (g μ_B / 2)^2 m^*/(π ħ^2) is the non-interacting two-dimensional electron gas (2DEG) susceptibility defined using the conduction-band g-factor g and an effective mass m^*, was measured as a function of density; using m^* = 0.7 m_0, g = 4.3, and a dielectric constant ε ≈ 4 in fixed-node diffusion quantum Monte Carlo (QMC) calculations produces quantitative agreement between the measured χ/χ_0 and the QMC predictions in the liquid regime, confirming that the high-density state is well described as a clean, strongly interacting Fermi liquid for the stated material parameters.",
+        "content_hash": "69b9bb503673db499c240b8ea6fb7b99b70972fec00de05a30d984960da11356",
+        "id": "gcn_0c6bd678f1684c03",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:937409596379627733::conclusion_6",
+            "package_id": "paper:937409596379627733",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:937409596379627733"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03131881575727918,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing the measured reduced susceptibility data in the high-density liquid to fixed-node diffusion QMC predictions for a homogeneous two-dimensional electron gas parameterized by conduction-band g-factor g, effective mass m^*, and dielectric constant ε, the proposition is that the reported quantitative agreement between experiment and QMC is robust against reasonable variations of these input parameters: moderate adjustments of ε within experimentally plausible bounds or modest changes in the assumed m^* around 0.7 m_0 do not eliminate the quantitative agreement between the measured χ/χ_0 and the QMC curve, supporting the conclusion that the high-density state behaves as a clean, strongly interacting Fermi liquid rather than being an artifact of over-fitting poorly constrained parameters.",
+        "content_hash": "63d1a942ed84a2b77b2e4d9c4d11ce6ff40464c3fbb92e68658641e10f591bc2",
+        "id": "gcn_be05e6588d854310",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:937409596379627733::P14",
+            "package_id": "paper:937409596379627733",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:937409596379627733"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030886196246139225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030017921146953404,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Two independent procedures for evaluating thermodynamic response ratios produce significantly different results for the paramagnetic two-dimensional homogeneous electron gas: (i) the total-energy approach, which evaluates the isothermal compressibility ratio \\kappa/\\kappa^{*} and the spin-susceptibility ratio \\chi/\\chi^{*} directly from parametrizations of the ground-state total energy per electron E(r_s,\\zeta) reported in the literature, using formulas such as\n      \\kappa/\\kappa^{*} = \\frac{r_s^4}{4(1+\\zeta^2)}\\Bigl[\\frac{\\partial^2}{\\partial r_s^2} - \\frac{1}{r_s}\\frac{\\partial}{\\partial r_s}\\Bigr] E(r_s,\\zeta)\n      and\n      \\chi/\\chi^{*} = r_s^2\\Bigl(\\frac{\\partial^2 E}{\\partial \\zeta^2}\\Bigr)_{\\zeta=0},\n      and (ii) the Fermi-liquid approach, which computes the same ratios from the Fermi liquid relations\n      \\kappa/\\kappa^{*} = 1/m^{*} + F_0^{s}/m^{*},\\qquad \\chi/\\chi^{*} = 1/m^{*} + F_0^{a}/m^{*},\n      using the extrapolated F_0^{s}/m^{*} and F_0^{a}/m^{*} reported above together with independently determined effective masses m^{*}. These two approaches give markedly different numerical values: for example, for the paramagnetic r_s = 5 system the total-energy approach yields \\kappa/\\kappa^{*} = -1.735 and \\chi/\\chi^{*} = 0.296, whereas the Fermi-liquid approach using the extrapolated Fermi liquid parameters and literature effective masses yields \\kappa/\\kappa^{*} = 1.7(8) and \\chi/\\chi^{*} = 3.0(7). These discrepancies indicate that the extrapolated Fermi liquid parameters obtained from the finite-cell QMC Landau-function procedure are not quantitatively consistent with ground-state total-energy parametrizations.",
+        "content_hash": "e8a7184924a70133bb27ea04e814742f1abbdc3ae19a12429de3a25440ffdbdd",
+        "id": "gcn_661f396c22554ce7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_6",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02919863597612958,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the reduced spin susceptibility χ/χ_0 where χ is the experimentally measured spin susceptibility and χ_0 = (g μ_B / 2)^2 m^*/(π ħ^2) is the non-interacting 2DEG susceptibility computed for chosen parameters g and effective mass m^*. For densities in the interval n_* < n < n_FL (with n_* ≃ 0.82×10^12 cm^-2 and n_FL ≃ 1.5×10^12 cm^-2 at the temperatures studied), the experimentally measured χ/χ_0 exhibits a substantially stronger dependence on density and temperature than that predicted by fixed-node diffusion QMC calculations and by conventional Fermi-liquid theory computed for material parameters close to those used in the paper (g ≃ 4.3, m^* ≃ 0.7 m_0, dielectric constant ε ≈ 4). The proposition asserts that this discrepancy cannot be explained by plausible uncertainties in the choice of m^* or ε within their reasonable experimental ranges and therefore indicates anomalous behavior of the electron liquid in this density window.",
+        "content_hash": "73e40ca30542989e9850f943c80f9abf762f4f9a07ef4df5cfd51a2a64e139a5",
+        "id": "gcn_68697d8ae4b54bed",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:937409596379627733::P9",
+            "package_id": "paper:937409596379627733",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:937409596379627733"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028693528693528692,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Linear-response calculations within the Local Spin Density Approximation (LSDA), using Quantum Monte Carlo (QMC)-based parameterizations of the exchange-correlation energy for the spin-polarized two-dimensional homogeneous electron gas (Attaccalite et al., 2002), were performed for an electron gas with areal density n_{2D}=4.4×10^{11} cm^{-2}; these calculations produce transverse spin susceptibilities χ_{±}(q,ω) for rotating magnetic fields and a 2×2 density–longitudinal-spin susceptibility matrix\n      $$\n      \\begin{pmatrix}\n      \\chi_{ee} & \\chi_{ez} \\\\\n      \\chi_{ze} & \\chi_{zz}\n      \\end{pmatrix},\n      $$\n      where collective excitations appear as poles of the corresponding response functions, and the calculated q- and B-dependent poles quantitatively reproduce the measured Raman peak and edge positions for the reported sample density without the use of adjustable empirical fitting parameters.",
+        "content_hash": "031ce74c5c2ef37a6e50345ca8203132f70a539536f6aa3f85315f58c9feb94a",
+        "id": "gcn_57531b276c224bde",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812112176339746816::conclusion_4",
+            "package_id": "paper:812112176339746816",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812112176339746816"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028665028665028666,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the charge compressibility $\\chi_\\rho$ and spin susceptibility $\\chi_\\sigma$ of a one-dimensional electron gas (density $\\rho=\\tfrac{1}{2r_s}$ and Fermi velocity $v_F$) in the usual way as thermodynamic response functions: $\\chi_\\rho$ is the change of density with chemical potential and $\\chi_\\sigma$ the change of magnetization with magnetic field (the computations below use their reciprocals or related combinations). Two independent numerical procedures produce consistent values for $\\chi_\\rho$ and $\\chi_\\sigma$: (i) taking numerical second derivatives of the ground-state total energy (computed by quantum Monte Carlo) with respect to density for $\\chi_\\rho$ and with respect to spin polarization for $\\chi_\\sigma$, and (ii) extracting the long-wavelength collective-mode dispersions $\\omega_{\\rho}(k\\to0)$ and $\\omega_{\\sigma}(k\\to0)$ from projected-excitation QMC using Feynman-type projected states $\\rho(k)|\\Psi_0\\rangle$ and $\\sigma(k)|\\Psi_0\\rangle$ and applying the exact small-$k$ sum-rule relations\n      $$\n      \\omega_{\\rho}(k\\to0)=v_F|k|\\sqrt{\\rho_F V(k\\to0)+\\frac{\\chi_0}{\\chi_\\rho}},\\qquad\n      \\omega_{\\sigma}(k\\to0)=v_F|k|\\sqrt{\\frac{\\chi_0}{\\chi_\\sigma}},\n      $$\n      where $\\rho_F$ is the free-electron density of states at the Fermi energy $E_F$, $V(k\\to0)$ is the Fourier transform of the interaction in the $k\\to0$ limit, and $\\chi_0=16r_s^3/\\pi^2$ is the noninteracting compressibility combination used in these sum rules. The numerical results obtained by these two methods show (a) electronic correlations reduce the inverse charge stiffness (the system is \"softer\", i.e. $\\chi_\\rho^{-1}$ is smaller) compared to Hartree–Fock near the liquid–quasi-crystal crossover, and (b) the charge compressibility $\\chi_\\rho$ of the unpolarized wire approaches the value appropriate for a spinless (fully polarized) gas at low density, while the spin susceptibility $\\chi_\\sigma$ (equivalently the spin-mode velocity $v_\\sigma$) decreases rapidly with decreasing density so that the ratio $\\chi_0/\\chi_\\sigma$ becomes exponentially small in the low-density quasi-localized regime.",
+        "content_hash": "8e7b0ec5ed665e5612501722fd16b87c0c2fe3b208d93737fe5afdfa165612b7",
+        "id": "gcn_bd24360651b34c67",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867745807611200196::conclusion_3",
+            "package_id": "paper:867745807611200196",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867745807611200196"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02804284323271665,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quantum Monte Carlo (QMC) results for the interaction-enhanced spin susceptibility computed for an ideal two-dimensional, single-component electron gas (parameterized by $r_s=1/(\\sqrt{\\pi p}\\,a_B^*)$, where $a_B^*$ is the medium-modified Bohr radius) can be applied, after multiplication by a material band $g_b$, to predict the interaction-enhanced effective $|g^*|$ of holes in monolayer or bilayer WSe$_2$; this proposition asserts that differences between the QMC model (ideal 2D single-component electron gas) and the real WSe$_2$ hole system (valley structure, strong spin-orbit coupling, finite layer thickness and dielectric asymmetry) do not qualitatively invalidate the comparison of $|g^*|(r_s)$ when the QMC susceptibility is scaled by an appropriate $g_b$.",
+        "content_hash": "5c2fb721e2622fd463466319e851f17e1b5cad4da20a8e35b1ade3663690ab8a",
+        "id": "gcn_c0b9e364c0d94ae9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813129265078861826::P9",
+            "package_id": "paper:813129265078861826",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813129265078861826"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027583600982429624,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Comparisons between thermodynamic quantities computed from the extrapolated Fermi liquid parameters and the same quantities obtained directly from smooth parameterizations of ground-state total DMC energies reveal substantial numerical disagreement.  Explicitly, the isothermal compressibility ratio computed from Fermi-liquid relations,\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{s}}{m^{*}}\\quad\\text{(paramagnetic)}\n      $$\n      or\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}}{m^{*}}\\quad\\text{(ferromagnetic)},\n      $$\n      and the isothermal spin-susceptibility ratio computed from\n      $$\n      \\frac{\\chi}{\\chi^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{a}}{m^{*}},\n      $$\n      differ substantially from the values obtained by evaluating curvature formulas of the ground-state total-energy per electron $E(r_s,\\zeta)$, namely\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{r_s^4}{4(1+\\zeta^2)}\\Big[\\frac{\\partial^2}{\\partial r_s^2}-\\frac{1}{r_s}\\frac{\\partial}{\\partial r_s}\\Big]E(r_s,\\zeta)\n      $$\n      and\n      $$\n      \\frac{\\chi}{\\chi^{*}}=r_s^2\\Big(\\frac{\\partial^2 E}{\\partial\\zeta^2}\\Big)_{\\zeta=0},\n      $$\n      where $\\zeta$ denotes the spin polarization and $m^{*}$ the quasiparticle effective mass.  Because the total-energy curvature estimates obtained from smooth parameterizations of ground-state DMC energies are internally consistent, the observed discrepancies indicate that the extrapolated Fermi liquid parameters obtained from the discrete-angle DMC data and finite-size extrapolations are not numerically reliable determinations of the thermodynamic-limit Fermi liquid parameters.",
+        "content_hash": "fb1486c96321f007f0e1161c787aa119dbc61cae4e2b92b5148a06caf1fa35fa",
+        "id": "gcn_1433bf70abae4ee0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027212143650499815,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "6e73a2f822849a746bc0368efae59383"
+}

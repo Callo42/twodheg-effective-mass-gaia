@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811906562355363846": {
+        "area": "Chemistry",
+        "authors": "Floyd A. Fayton | Ainsley A. Gibson | John A. W. Harkless",
+        "available_online": "",
+        "cover_date_start": "2009-01-01",
+        "created_at": "2022-12-20T02:26:48+08:00",
+        "doi": "10.1002/qua.21765",
+        "en_title": "Prediction of excited state energies for molecular nitrogen using quantum Monte Carlo methods",
+        "id": "811906562355363846",
+        "keywords": "[{\"en_name\": \"Ab initio\", \"ch_name\": \"\"}, {\"en_name\": \"Excited states\", \"ch_name\": \"\"}, {\"en_name\": \"Nitrogen\", \"ch_name\": \"\"}, {\"en_name\": \"QMC\", \"ch_name\": \"\"}, {\"en_name\": \"Quantum Monte Carlo\", \"ch_name\": \"\"}]",
+        "publication_date": "2009",
+        "publication_id": "3507",
+        "publication_name": "International Journal of Quantum Chemistry _ Int. J. Quantum Chem.",
+        "research_categories": "",
+        "zh_title": "使用量子蒙特卡罗方法预测分子氮的激发态能量"
+      },
+      "paper:812321291536171009": {
+        "area": "Physics and Astrophysics",
+        "authors": "Lorenzo Zecca | Paola Gori-Giorgi | Saverio Moroni | Giovanni B. Bachelet",
+        "available_online": "2004-11-24",
+        "cover_date_start": "2004-11-24",
+        "created_at": "2022-12-21T05:54:49+08:00",
+        "doi": "10.1103/physrevb.70.205127",
+        "en_title": "Local density functional for the short-range part of the electron-electron interaction",
+        "id": "812321291536171009",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\"]",
+        "zh_title": "电子-电子相互作用短程部分的局域密度泛函"
+      },
+      "paper:813217273182420992": {
+        "area": "Physics and Astrophysics",
+        "authors": "Claudio Attaccalite | Saverio Moroni | Paola Gori-Giorgi | Giovanni B. Bachelet",
+        "available_online": "2002-6-5",
+        "cover_date_start": "2002-06-05",
+        "created_at": "2022-12-23T17:15:07+08:00",
+        "doi": "10.1103/physrevlett.88.256601",
+        "en_title": "Correlation Energy and Spin Polarization in the 2D Electron Gas",
+        "id": "813217273182420992",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维电子气中的关联能与自旋极化"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5 and in a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC}=1.26(2) a.u. and a diffusion Monte Carlo (DMC) calculation using the same trial wave function with the fixed-node constraint yields m^*_{DMC}=1.24(3) a.u.; the agreement within quoted statistical uncertainties indicates that, at that specific system size and density, the fixed-node DMC procedure with that trial wave function does not introduce a large systematic bias in the per-size effective-mass estimate.",
+        "content_hash": "e462dabf3fec06c0780fd8b260fb50ec97ede163c5d68e7e40cf8d78f55df789",
+        "id": "gcn_678e0e02a7da4c85",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_13",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If, for a two-dimensional homogeneous electron gas at density parameter r_s=5 and for a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a given Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC} and a diffusion Monte Carlo (DMC) calculation using the same trial wave function and the fixed-node constraint yields m^*_{DMC} such that m^*_{VMC} and m^*_{DMC} agree within their quoted statistical uncertainties (for example, m^*_{VMC}=1.26(2) a.u. and m^*_{DMC}=1.24(3) a.u.), then the fixed-node DMC procedure with that trial wave function introduces at most a small systematic bias in the per-size effective-mass estimate at that specific system size and density; this single-instance agreement, however, does not guarantee the absence of comparable fixed-node biases at other system sizes, densities, or for different trial wave functions.",
+        "content_hash": "876c2078f1f5b1b3c0dd9ff3eb04934d9902d44540a81e0b56fe1c64af642e1c",
+        "id": "gcn_40f6836947ec4abd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P3",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03125763125763126,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03021353930031804,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028814262023217248,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5, the same extrapolation procedure applied to the DMC quartic-fit band data yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.04(2) a.u., with m^* defined as m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "6387e2dcf84ae7d2424eccc92c312224cfbd583aac1fb1ee1a3fe9946e390e0f",
+        "id": "gcn_e24d7ff647144aee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_5",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027149321266968326,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass m* is defined from the derivative of the quasiparticle energy band ε(k) at the Fermi wave vector k_F as m* = k_F · (dε/dk)^{-1}_{k_F}, where k_F is the Fermi wave vector and derivatives are evaluated with respect to the magnitude k of the momentum; in atomic units the bare electron mass m equals 1. For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and density parameter r_s = 1 (where r_s = (1/(πρ))^{1/2} with electron number density ρ), variational Monte Carlo (VMC) and fixed-node diffusion Monte Carlo (DMC) calculations extrapolated to the thermodynamic limit produce values consistent with the bare mass within statistical uncertainty: m*_{VMC}(r_s = 1) = 0.98(1) and m*_{DMC}(r_s = 1) = 0.95(1) (atomic units), indicating negligible mass renormalization from electron–electron interactions at this high density.",
+        "content_hash": "e596de9ff5169a1208ffdbf2eb4ec38a975b3d1c40e0d67a9365777dedb6fae3",
+        "id": "gcn_395e5564603d4a9b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_1",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026397515527950312,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A comprehensive set of fixed-node diffusion Monte Carlo (FN-DMC) total energies for the liquid phase of the ideal two-dimensional electron gas (strictly 2D electrons interacting via a $1/r$ potential in a uniform neutralizing background) was generated covering densities $r_s=1,2,5,10$ (with about 20 particle numbers $N$ and 10–12 spin-polarization values $\\zeta=(N^\\uparrow-N^\\downarrow)/N$ for each $r_s$), supplemented by data at $r_s=20,30$ (taken from previously published FN-DMC results) and by an additional selected point at $r_s=40,\\zeta=1$ (independently extrapolated to the thermodynamic limit), yielding a total of 122 FN-DMC energy data inputs. These FN-DMC energies were corrected for finite imaginary-time-step bias (time step $\\tau$) and finite walker-population bias (population size $M$) and computed with Slater–Jastrow trial wave functions whose Slater determinants use plane-wave single-particle orbitals; for selected densities, FN-DMC energies with backflow-correlated (BF) nodes were also obtained for $N=58$ at $\\zeta=0$ and $N=57$ at $\\zeta=1$. The set of 122 bias-corrected FN-DMC energies constitutes the numerical input used to obtain thermodynamic-limit energies and analytic parametrizations.",
+        "content_hash": "c1af53efdf501249fb5aaeff74e8ace1214cf80d619c9a3e9fcea49665525003",
+        "id": "gcn_e4bd1dc711114ad4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813217273182420992::conclusion_1",
+            "package_id": "paper:813217273182420992",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813217273182420992"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In FN-DMC simulations of the uniform electron gas with short-range interaction v_SR(r)=erfc(μ r)/r, the imaginary-time discretization parameter Δτ and the finite walker-population N_w introduce systematic errors (time-step bias and population-control bias) that can be decreased by reducing Δτ and increasing N_w; the proposition is that, for each FN-DMC data point reported in the dataset, Δτ and N_w were chosen so that these systematic errors are much smaller than the target statistical uncertainty used as the precision benchmark (taken to be comparable to the statistical uncertainty of the Ceperley–Alder jellium results), and therefore the residual time-step and finite-walker-population biases are negligible at the claimed precision.",
+        "content_hash": "356c40aba64de7e30093e321dc748e78bcc62135ab60cdbb4976cb1ae5d8c013",
+        "id": "gcn_481374d6deb14571",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812321291536171009::P3",
+            "package_id": "paper:812321291536171009",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812321291536171009"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the fixed-node DMC simulations reported for molecular nitrogen, the authors used a normalized population of walkers described as \"sufficiently large for population control bias to be negligible\"; therefore, for the DMC excitation energies presented, population-control bias arising from finite walker-number and the employed population-control procedures is negligible compared to the reported statistical uncertainties and does not materially bias the published DMC excitation energies.",
+        "content_hash": "1d28dfd1479efe1d92c34a38e0a491bfe23655a8d95f84b723ab6829531dd35c",
+        "id": "gcn_9562daf83e1c4342",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811906562355363846::P3",
+            "package_id": "paper:811906562355363846",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811906562355363846"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) calculations using the fixed-node projection algorithm and Slater-Jastrow-backflow trial wave functions produced single-particle energy bands E(𝗸) (the Landau quasiparticle energy for Bloch wave vector 𝗸 and spin σ) for paramagnetic and fully spin-polarized two-dimensional homogeneous electron gases (2D HEGs) with substantially reduced statistical uncertainties compared with earlier work; when these bands are computed in square periodic simulation cells containing N electrons the sampled bandwidth (defined as the maximum minus the minimum of the sampled E(𝗸) values over the simulation-cell Brillouin-zone sampling) increases systematically with N, indicating that finite-N bands are biased by finite-size effects and that raw finite-N bandwidths therefore lead to biased finite-N estimates of the quasiparticle effective mass. Here N denotes the total number of electrons in the periodic simulation cell.",
+        "content_hash": "e4b2ddb673380d4b5d2164921f5efc769db47b188ae67853cfbcda5bbc794736",
+        "id": "gcn_a32f461987e04f71",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_1",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "499a6470b137330014217c822302f8bd"
+}

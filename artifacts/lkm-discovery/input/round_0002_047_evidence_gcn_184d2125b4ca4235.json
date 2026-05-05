@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "In extracting the quasiparticle effective mass m* from dispersion fits and finite-size energy differences, the practice of enlarging uncertainty bars (for example, by up to 0.02) when removing some particle sizes or momenta changes outputs beyond quoted uncertainties, and of including phenomenological finite-size correction terms proportional to 1/N or 1/N^2 in fit models, is assumed to be sufficient to account for finite-size systematic errors, discrete momentum-grid induced bias, and sensitivity to the chosen fitting range or functional form, so that the remaining quoted uncertainties realistically reflect the total error budget for m*.",
+      "content_hash": "1da00709c176f91cbc5285d71fa10f2bc4f970985f661767cb3b806fa5e26067",
+      "id": "gcn_184d2125b4ca4235",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "7629e058d841afbd6e7f45db81a343a2"
+}

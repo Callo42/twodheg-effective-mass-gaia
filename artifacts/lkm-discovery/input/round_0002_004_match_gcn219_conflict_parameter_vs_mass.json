@@ -1,0 +1,265 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812411249605214208": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Morishita | K. Ishida | K. Yawata | H. Nagatani | Hiroshi Fukuyama",
+        "available_online": "",
+        "cover_date_start": "1998-01-01",
+        "created_at": "2022-12-21T11:52:16+08:00",
+        "doi": "10.1023/a:1022597019453",
+        "en_title": "Low Temperature Heat-Capacities of Liquid 3He Thin Films",
+        "id": "812411249605214208",
+        "keywords": "",
+        "publication_date": "1998",
+        "publication_id": "645",
+        "publication_name": "Journal of Low Temperature Physics _ ",
+        "research_categories": "",
+        "zh_title": "液态³He薄膜的低温热容"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective masses m^{*} reported in the literature from DMC fits to the single-particle energy band and the ground-state total-energy parametrizations reported in the literature as continuous functions E_{\\mathrm{corr}}(r_s,\\zeta) of density parameter r_s and spin polarization \\zeta are mutually consistent within their stated uncertainties and can be combined algebraically via standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic HEG and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta)) to produce numerical estimates of the dimensionless Fermi liquid parameters F_l for the 2D HEG.\n      Refs. 11,23,24",
+        "content_hash": "831e8e3eb5c04947a3beade00657fe61580c31f91b9b24b8531c03cc72ee541b",
+        "id": "gcn_f39401296385496c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P8",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03125763125763126,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03125763125763126,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029437229437229435,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02904040404040404,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028958333333333336,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), the leading finite-size error in Fermi-liquid-derived quantities such as the angular-momentum Fermi liquid parameters F_l or the Fourier-projected quantities F_l/m^{*} behaves asymptotically as a power law in the finite-system particle number N with exponent -1/4; equivalently,\n      \\Delta F_l(N) \\equiv F_l(N)-F_l(\\infty) \\propto N^{-1/4},\n      so that fitting computed F_l(N) values to the form c + a N^{-1/4} yields an estimate of the thermodynamic-limit intercept c = F_l(\\infty). This statement adopts the theoretical asymptotic exponent \\gamma = -1/4 predicted for long-range-correlation-dominated finite-size errors.\n      Refs. 13,14",
+        "content_hash": "5d35c92260764bcb7f6ff7e8faf67af9d71f7400ea2dbb873a0034fae3ee4b32",
+        "id": "gcn_3ceb44ae3f404964",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P2",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02862400327131466,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi liquid parameters divided by the quasiparticle effective mass, $\\;F_{l}^{s,a}/m^{*}$ (symmetric and antisymmetric channels for the paramagnetic HEG) and $F_{l}/m^{*}$ (ferromagnetic HEG), were obtained from the discrete-angle DMC interaction functions by first computing the Fourier components\n      $$\n      a_{l}^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_{0}^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta,\n      $$\n      and then using the relations for an $N$-electron paramagnetic finite cell of density parameter $r_s$\n      $$\n      \\frac{F_{l}^{s,a}}{m^{*}}=\\frac{r_s^2}{4}\\big[a_{l}^{\\uparrow\\uparrow}\\pm a_{l}^{\\uparrow\\downarrow}\\big],\n      $$\n      and for a ferromagnetic finite cell\n      $$\n      \\frac{F_l}{m^{*}}=\\frac{r_s^2}{4}a_{l}^{\\uparrow\\uparrow},\n      $$\n      where $m^{*}$ denotes the quasiparticle effective mass.  Numerical angular integration of the available nonuniform discrete angles $\\{\\theta_i\\}$ was performed using a generalized composite Simpson's rule (piecewise quadratic interpolation adapted to a nonuniform grid), and the result was compared with a generalized composite trapezoidal rule to place an upper bound on the quadrature error.  Finite-size values of $F_l/m^{*}$ obtained at multiple closed-shell electron counts were extrapolated to the thermodynamic limit $N\\to\\infty$ by fitting the finite-$N$ data to the model $F_l(N)=c+aN^{\\gamma}$ with the exponent fixed at $\\gamma=-1/4$ (i.e., leading finite-size correction $\\propto N^{-1/4}$) motivated by theoretical analyses of long-range-correlation contributions; ordinary (unweighted) least-squares fits were used because oscillatory shell-filling deviations of the finite-size data are larger than the nominal Monte Carlo error bars, and the quoted uncertainties on the extrapolated parameters reflect the scatter of the finite-$N$ data under these fits.",
+        "content_hash": "4cc3ad14db079e132af2b29e1f01abb9b83fa37852979b41df74488064d99a4c",
+        "id": "gcn_64dc5d5e0d904476",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_3",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02862400327131466,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The conversion of the fitted linear coefficient $\\gamma = 0.11\\ \\mathrm{J/K^2}$ to an effective quasiparticle mass $m^* = 3.2\\,m_3$ (with $m_3$ the bare mass of a $^3$He atom) and to a Fermi temperature $T_F \\approx 600\\ \\mathrm{mK}$ assumes that a second-layer $^3$He film at areal density $\\rho=15.0\\ \\mathrm{nm}^{-2}$ behaves as an ideal, homogeneous two-dimensional Fermi liquid over $0.1\\ \\mathrm{mK}\\lesssim T\\lesssim 80\\ \\mathrm{mK}$ and that the standard low-temperature proportionality between the linear-in-$T$ heat-capacity coefficient $\\gamma$ and the quasiparticle effective mass $m^*$ for a two-dimensional Fermi gas at that areal density holds without significant modification by substrate coupling, finite-size effects, strong vertex corrections, or anomalous non-Fermi-liquid contributions.",
+        "content_hash": "89eb793ecdb2242594291773de370c058f780a47dc197faa04c82d9f65307bd3",
+        "id": "gcn_d53dcba2c7e4480d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812411249605214208::P2",
+            "package_id": "paper:812411249605214208",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812411249605214208"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02817460317460317,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "8e49b6e50d071929e9d926c0a883a42d"
+}

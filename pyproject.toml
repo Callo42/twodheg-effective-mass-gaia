@@ -1,0 +1,20 @@
+[project]
+name = "twodheg-effective-mass-gaia"
+version = "0.1.0"
+description = "Gaia knowledge package generated from LKM evidence chains for 2D homogeneous electron gas effective mass."
+requires-python = ">=3.12"
+
+[tool.gaia]
+namespace = "local"
+type = "knowledge-package"
+uuid = "f12b54bb-ffce-43e3-8592-20349626558b"
+generated_by = "lkm-to-gaia"
+generated_from_search = "2D electron gas effective mass finite size extrapolation"
+generated_from_roots = ["gcn_28b9e01bd2f8487f"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/twodheg_effective_mass"]

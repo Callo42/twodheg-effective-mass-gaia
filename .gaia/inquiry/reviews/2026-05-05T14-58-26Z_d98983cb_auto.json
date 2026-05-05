@@ -1,0 +1,95 @@
+{
+  "review_id": "2026-05-05T14-58-26Z_d98983cb_auto",
+  "created_at": "2026-05-05T14:58:26Z",
+  "ir_hash": "sha256:d98983cbde0da0340c3e3555c98503c9e3865446e51c470de296fa846f4bd5ce",
+  "ir": {
+    "knowledges": [
+      {
+        "id": "local:twodheg_effective_mass::gcn_da3eecec49114543",
+        "label": "gcn_da3eecec49114543",
+        "type": "claim",
+        "content": "For an added-electron excitation with momentum p above k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy correction delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. In leading order, the corresponding potential-energy correction is independent of p and therefore does not affect the slope of the excitation dispersion used to extract m* from near-k_F fits [@Holzmann2008].",
+        "metadata": {
+          "lkm_id": "gcn_da3eecec49114543",
+          "source_paper": "paper:867753636627743508",
+          "provenance_source": "lkm",
+          "lkm_original": "For an added-electron excitation of momentum \\mathbf{p} with |\\mathbf{p}|>k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy term\n      \\delta T_{\\mathbf p}^N=\\frac{\\hbar^2 p^2}{2m}\\,Z_{\\mathbf p}^N\\big[e^{-\\Delta_N}-1\\big],\n      where Z_{\\mathbf p}^N is the finite-N quasiparticle weight at \\mathbf{p} and \\Delta_N is the missing-small-q integral defined above; in leading order the corresponding potential-energy correction is independent of \\mathbf{p} and therefore does not affect the slope of the excitation dispersion used to extract the effective mass m^{*} from near-k_F fits.Eq. (12)",
+          "source_package": "paper:867753636627743508",
+          "prior": 0.82,
+          "prior_justification": "LKM chain premise from Holzmann et al. 2008 analytic finite-size correction; specific derivation claim with clear provenance, pending reviewer calibration. TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Holzmann2008"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+        "label": "gcn_28b9e01bd2f8487f",
+        "type": "claim",
+        "content": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum p above k_F to the N-particle ground state produces a finite-size correction to the kinetic-energy contribution of the excitation, delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. Because Delta_N scales as N^(-1/4), the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m* also scales as N^(-1/4). Therefore, extrapolations that assume faster-vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m* - m for typical accessible system sizes [@Holzmann2008].",
+        "metadata": {
+          "lkm_id": "gcn_28b9e01bd2f8487f",
+          "source_paper": "paper:867753636627743508",
+          "provenance_source": "lkm",
+          "lkm_original": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum \\mathbf{p} (|\\mathbf{p}|>k_F) to the N-particle ground state produces a finite-size correction to the total kinetic-energy contribution of the excitation given by\n      \\delta T_{\\mathbf{p}}^{N}=\\frac{\\hbar^{2}\\mathbf{p}^{2}}{2m}\\;Z_{\\mathbf{p}}^{N}\\big[e^{-\\Delta_{N}}-1\\big],\n      where Z_{\\mathbf{p}}^{N} is the finite-N quasiparticle weight at momentum \\mathbf{p} and \\Delta_{N} is the missing-small-q integral defined in conclusion 1. Because \\Delta_{N}\\sim N^{-1/4} for large N, the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m^{*} (via the linearized relation \\varepsilon_{\\mathbf{k}}\\approx\\hbar^{2}k_F(k-k_F)/m^{*}) also scales as N^{-1/4}; therefore, extrapolations that assume faster vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m^{*}-m for typical accessible system sizes.",
+          "source_package": "paper:867753636627743508",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Holzmann2008"
+              ]
+            }
+          }
+        },
+        "exported": true
+      },
+      {
+        "id": "local:twodheg_effective_mass::__implication_result_a4d9b50e",
+        "label": "__implication_result_a4d9b50e",
+        "type": "claim",
+        "content": "implies(local:twodheg_effective_mass::gcn_da3eecec49114543,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
+        "metadata": {
+          "generated": true,
+          "generated_kind": "helper_claim",
+          "intermediate_role": "implication_result",
+          "visibility": "formal_internal",
+          "canonical_name": "implies(local:twodheg_effective_mass::gcn_da3eecec49114543,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
+          "owning_strategy_type": "deduction",
+          "helper_kind": "implication_result",
+          "helper_visibility": "formal_internal",
+          "prior": 0.95,
+          "owning_strategy_id": "lcs_41fa142365c3d6b9"
+        },
+        "exported": false
+      }
+    ],
+    "strategies": [
+      {
+        "id": "",
+        "conclusion": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+        "premises": [
+          "local:twodheg_effective_mass::gcn_da3eecec49114543"
+        ],
+        "background": []
+      }
+    ],
+    "operators": []
+  },
+  "beliefs": [
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+      "label": "gcn_28b9e01bd2f8487f",
+      "belief": 0.888721
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_da3eecec49114543",
+      "label": "gcn_da3eecec49114543",
+      "belief": 0.82
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812278218907189248": {
+        "area": "Engineering Technology",
+        "authors": "M Dragosavac | D J Paul | M Pepper | A B Fowler | D A Buchanan",
+        "available_online": "2005-5-16",
+        "cover_date_start": "2005-05-16",
+        "created_at": "2022-12-21T03:03:39+08:00",
+        "doi": "10.1088/0268-1242/20/8/002",
+        "en_title": "Electron effective mass in ultrathin oxide silicon MOSFET inversion layers",
+        "id": "812278218907189248",
+        "keywords": "",
+        "publication_date": "2005-8-1",
+        "publication_id": "4380",
+        "publication_name": "Semiconductor Science and Technology _ Semicond. Sci. Technol.",
+        "research_categories": "",
+        "zh_title": "超薄氧化物硅MOSFET反型层中的电子有效质量"
+      },
+      "paper:812597314186117123": {
+        "area": "Physics and Astrophysics",
+        "authors": "I. V. Kukushkin | S. Schmult",
+        "available_online": "2020-6-22",
+        "cover_date_start": "2020-06-22",
+        "created_at": "2022-12-22T00:11:38+08:00",
+        "doi": "10.1103/physrevb.101.235152",
+        "en_title": "Renormalization of the spectrum of in-depth excitations below the Fermi level in a two-dimensional electron system with strong interaction",
+        "id": "812597314186117123",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "具有强相互作用的二维电子系统中费米能级以下深度激发谱的重整化"
+      },
+      "paper:812783249255301121": {
+        "area": "Physics and Astrophysics",
+        "authors": "V. E. Bisti",
+        "available_online": "2019-4-22",
+        "cover_date_start": "2019-01-01",
+        "created_at": "2022-12-22T12:30:27+08:00",
+        "doi": "10.1134/s002136401902005x",
+        "en_title": "Quasiholes in a MgZnO/ZnO Heterojunction as Vacancions",
+        "id": "812783249255301121",
+        "keywords": "",
+        "publication_date": "2019-1",
+        "publication_id": "675",
+        "publication_name": "JETP Letters _ Jetp Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "作为空位的MgZnO/ZnO异质结中的准空穴"
+      },
+      "paper:814672465090314240": {
+        "area": "Physics and Astrophysics",
+        "authors": "Wei Xie | Shun Wang | Xin Zhang | C. Leighton | C. Daniel Frisbie",
+        "available_online": "2014-12-10",
+        "cover_date_start": "2014-12-10",
+        "created_at": "2022-12-27T17:37:33+08:00",
+        "doi": "10.1103/physrevlett.113.246602",
+        "en_title": "High Conductance 2D Transport around the Hall Mobility Peak in Electrolyte-Gated Rubrene Crystals",
+        "id": "814672465090314240",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "电解质门控红荧烯晶体中霍尔迁移率峰值附近的高电导率二维输运"
+      },
+      "paper:867749698805432434": {
+        "area": "arXiv-Physics",
+        "authors": "Md. S. Hossain | M. K. Ma | K. A. Villegas Rosales | Y. J. Chung | L. N. Pfeiffer | K. W. West | K. W. Baldwin | M. Shayegan",
+        "available_online": "",
+        "cover_date_start": "2020-11-13",
+        "created_at": "2023-05-23T04:47:30+08:00",
+        "doi": "10.48550/arXiv.2011.06721",
+        "en_title": "Observation of spontaneous valley polarization of itinerant electrons",
+        "id": "867749698805432434",
+        "keywords": "",
+        "publication_date": "2020-11-13",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "巡游电子自发谷极化的观测"
+      },
+      "paper:867758141402514095": {
+        "area": "arXiv-Physics",
+        "authors": "Nguyen Thanh Son | Nguyen Quoc Khanh",
+        "available_online": "",
+        "cover_date_start": "2005-08-04",
+        "created_at": "2023-05-23T05:21:03+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0508121",
+        "en_title": "Electron and Spin Correlations in Semiconductor Heterostructures: Quantum Singwi-Tosi-Land-Sjolander Theory",
+        "id": "867758141402514095",
+        "keywords": "",
+        "publication_date": "2005-08-04",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "半导体异质结构中的电子与自旋关联：量子辛维 - 托西 - 兰德 - 肖兰德理论"
+      },
+      "paper:867759403850268842": {
+        "area": "arXiv-Physics",
+        "authors": "S. J. Papadakis | E. P. De Poortere | M. Shayegan | R. Winkler",
+        "available_online": "",
+        "cover_date_start": "1999-11-16",
+        "created_at": "2023-05-23T05:26:04+08:00",
+        "doi": "10.48550/arXiv.cond-mat/9911239",
+        "en_title": "Anisotropic magnetoresistance of GaAs two-dimensional holes",
+        "id": "867759403850268842",
+        "keywords": "",
+        "publication_date": "1999-11-16",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "砷化镓二维空穴的各向异性磁阻"
+      },
+      "paper:867765518935785557": {
+        "area": "arXiv-Physics",
+        "authors": "S. Hellmüller | D. Bischoff | T. Müller | M. Beck | K. Ensslin | T. Ihn",
+        "available_online": "",
+        "cover_date_start": "2015-09-27",
+        "created_at": "2023-05-23T05:50:22+08:00",
+        "doi": "10.48550/arXiv.1509.08096",
+        "en_title": "Spin pairs in a weakly coupled many-electron quantum dot",
+        "id": "867765518935785557",
+        "keywords": "",
+        "publication_date": "2015-09-27",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "弱耦合多电子量子点中的自旋对"
+      },
+      "paper:867773410632008271": {
+        "area": "arXiv-Physics",
+        "authors": "P. M. Shmakov | A. P. Dmitriev | V. Yu. Kachorovskii",
+        "available_online": "",
+        "cover_date_start": "2010-05-27",
+        "created_at": "2023-05-23T06:21:43+08:00",
+        "doi": "10.48550/arXiv.1005.5138",
+        "en_title": "Spin waves in diluted magnetic quantum wells",
+        "id": "867773410632008271",
+        "keywords": "",
+        "publication_date": "2010-05-27",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "稀磁量子阱中的自旋波"
+      }
+    },
+    "variables": [
+      {
+        "content": "The measured quasiparticle effective mass m* of two-dimensional electrons confined in a silicon (100) inversion layer is described, over the experimentally accessible interaction-parameter interval r_s ≈ 1.7 to 3.3, by the empirical linear relation m*/m_b = 0.96 + γ r_s, where m_b = 0.19 m_e is the bare in-plane band mass, m_e is the free electron mass, r_s is the two-dimensional interaction parameter defined by r_s = 1/(a_B sqrt(π n_s)) with a_B the semiconductor Bohr radius and n_s the sheet electron density, and γ is a dimensionless prefactor that parameterizes the rate of increase of the normalized effective mass with r_s.",
+        "content_hash": "134ac1e132364f41eee3acbd93d3ca50fe4b74590789c96926c41288e624da95",
+        "id": "gcn_9d6cf6952d6a4cc6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812278218907189248::conclusion_1",
+            "package_id": "paper:812278218907189248",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812278218907189248"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02967032967032967,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the two-dimensional interaction parameter r_s for a two-dimensional hole system of sheet density p (units cm^-2) by r_s ≡ E_{e-e}/E_F, where the characteristic electron–electron interaction energy is taken as E_{e-e} = (e^2/4π ε_r ε_0) √(π p) and the Fermi energy for two-dimensional holes is taken as E_F = π ħ^2 p/(2 m_h^*), with ε_r the material relative permittivity, ε_0 the vacuum permittivity, ħ the reduced Planck constant, and m_h^* the two-dimensional hole effective mass. The proposition is: numerically estimating r_s from these formulas to obtain r_s ≈ 10 at p = 2.5×10^13 cm^-2 requires selecting specific numerical values for ε_r and m_h^* that are uncertain for the rubrene surface in the experimental gating geometry (the ionic-liquid environment and surface bandstructure can alter dielectric screening and effective mass); therefore the numerical statement \"r_s ≈ 10\" is contingent on these parameter choices and carries uncertainty proportional to the uncertainties in ε_r and m_h^*.",
+        "content_hash": "83ddb3d21d096a66298c3691fc07f7bae29a5e4caf168f4a210ca88bf687f744",
+        "id": "gcn_2fa467a52c7e41e9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814672465090314240::P7",
+            "package_id": "paper:814672465090314240",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814672465090314240"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02821939586645469,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the two-dimensional interaction parameter r_{s} by r_{s} = \\dfrac{\\displaystyle \\frac{m e^{2}}{4\\pi\\hbar^{2}\\kappa\\varepsilon_{0}}}{\\displaystyle (\\pi n)^{1/2}}, where m is the electron band effective mass (in units of the free electron mass), e is the elementary charge, ħ is the reduced Planck constant, κ is the material dielectric constant, ε_{0} is vacuum permittivity, and n is the two-dimensional electron density in units of cm^{-2}. For m = 0.46 and κ = 10, substituting n = n_{V} ≃ 6.3×10^{10} cm^{-2} into the formula yields r_{s} of order twenty (r_{s} ≃ 20); this statement assumes the use of the isotropic in-plane effective mass average and neglects small corrections from anisotropy in the definition of r_{s}.",
+        "content_hash": "95575f115fb896ef577f496be2b4d12dc372a28cf175f5b6f85dd581cbe9a96f",
+        "id": "gcn_7f6cc916397c4ccc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749698805432434::P8",
+            "package_id": "paper:867749698805432434",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749698805432434"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028068137824235385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The two-dimensional electron-gas interaction parameter $r_s$ for areal density $n_{\\rm s}$ is defined as $r_s = 1/\\bigl(\\sqrt{\\pi n_{\\rm s}}\\,a_{\\rm B}^*\\bigr)$ where the effective Bohr radius is $a_{\\rm B}^* = a_{\\rm B}\\,\\epsilon_r\\,m_0/m^*$ with $a_{\\rm B}$ the vacuum Bohr radius, $\\epsilon_r$ the relative dielectric constant of GaAs, $m_0$ the free-electron mass and $m^*$ the GaAs effective mass; inserting $n_{\\rm s}=4.8\\times10^{15}\\ \\text{m}^{-2}$ and standard GaAs material parameters for $\\epsilon_r$ and $m^*$ yields $r_s\\approx0.8$, which serves as an appropriate measure of the relative interaction strength of electrons in the heterostructure two-dimensional electron gas for low-order interaction estimates.",
+        "content_hash": "11c555d1b3ecfb3303c9f63587a79f8020008ba053f92d3dd832f333ac3f159f",
+        "id": "gcn_3e0537c34b7e49d0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765518935785557::P5",
+            "package_id": "paper:867765518935785557",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765518935785557"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02581612258494337,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the dimensionless interaction parameter r_s for a two-dimensional carrier system as r_s = a/a_B^*, where the average intercarrier spacing a = 1/√(π p) for two-dimensional density p and the effective Bohr radius a_B^* = 4πϵ ħ^2/(m^* e^2) depends inversely on the effective mass m^*; the proposition is that computing r_s using a fixed, unrenormalized effective mass m^* = 0.2 m_e (with m_e the free-electron mass) yields the r_s estimates used to compare regimes across materials in this study, but these r_s estimates may be underestimated if interactions renormalize m^* upward in the dilute GaAs two-dimensional hole system.\n      B. E. Cole et al., Phys. Rev. B 55, 2503 (1997).",
+        "content_hash": "f79a360a23f3901d908f5abf7dc9548aefb42598d8737e8e617f02a73e1786aa",
+        "id": "gcn_1d656da051884c26",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759403850268842::P9",
+            "package_id": "paper:867759403850268842",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759403850268842"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025062266500622665,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In a two-dimensional electron Fermi liquid realized in GaAs/AlGaAs quantum wells, the density-of-states effective mass m_{e}^{\\mathrm{FL}} defined by m_{e}^{\\mathrm{FL}}=\\dfrac{\\pi\\hbar^{2} n_{S}}{E_{F}} (where n_{S} is the two-dimensional electron concentration, E_{F} is the spectroscopic Fermi energy measured from the size-quantization band bottom, \\hbar is Planck’s constant divided by 2\\pi, and all quantities refer to a single occupied subband) increases as the electron density decreases; equivalently, m_{e}^{\\mathrm{FL}} increases with the interaction parameter r_{S}=1/\\bigl[a_{B}(\\pi n_{S})^{1/2}\\bigr] (where a_{B} is the Bohr radius). Quantitatively, when r_{S} is increased from about 1 to about 4.5 the measured m_{e}^{\\mathrm{FL}} increases by approximately 35% relative to the band cyclotron mass in GaAs (the standard GaAs band cyclotron mass used for comparison is m_{e}=0.067\\,m_{0}, where m_{0} is the free-electron mass).",
+        "content_hash": "ab6a6ed9cc9b19ed4ba25e6efb30b90a4cddb788b1eec29a310e3f537a5f25cd",
+        "id": "gcn_5db5b479b43e45c2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812597314186117123::conclusion_1",
+            "package_id": "paper:812597314186117123",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812597314186117123"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The exchange interaction among itinerant electrons in the two-dimensional electron gas is represented at the mean-field level by an isotropic effective precession frequency contribution\n      $$\n      \\boldsymbol{\\omega}_{ee}(\\mathbf{r},t)=-2G\\,n_{e}\\,\\nu^{-1}\\mathbf{s}_{0}(\\mathbf{r},t),\n      $$\n      where $G$ is the dimensionless electron–electron interaction constant (taken to satisfy $G<0$ and $|G|<1$), $n_{e}$ is the electron two-dimensional concentration, $\\nu=m/2\\pi\\hbar^{2}$ is the two-dimensional density of states for electron effective mass $m$, and $\\mathbf{s}_{0}(\\mathbf{r},t)$ is the local averaged electron spin density. This isotropic, local approximation neglects momentum-dependent, anisotropic, retardation, and correlation corrections to electron–electron exchange beyond the simple Fermi-liquid-like parametrization by the single number $G$.",
+        "content_hash": "6207b042f115ebaea4dcf5557a2d65d12b0f7178cdd91b274dd52adb00746c6f",
+        "id": "gcn_94e9180372e0496a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867773410632008271::P4",
+            "package_id": "paper:867773410632008271",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867773410632008271"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Over the experimentally accessed two-dimensional interaction-parameter interval r_s = 1/(a_B sqrt(π n_s)) with r_s ∈ [1.7, 3.3] (where a_B is the semiconductor Bohr radius and n_s is the sheet density expressed in cm^−2), the dependence of the renormalized effective mass on r_s is accurately represented, within the experimental uncertainties of the reported data, by the single-linear-parameter empirical model m*/m_b = 0.96 + γ r_s, where m_b = 0.19 m_e.",
+        "content_hash": "f4a70ec3bfdcaed78a866ddab985a45c4cc7fdc78b8601a7625483db4f427a60",
+        "id": "gcn_787613a4e6e146ee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812278218907189248::P7",
+            "package_id": "paper:812278218907189248",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812278218907189248"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two‑dimensional electron system in a MgZnO/ZnO heterojunction the dimensionless interparticle spacing is $r_s=(\\pi n_s)^{-1/2}/a_{\\rm B}$, where $n_s$ is the areal electron density and $a_{\\rm B}=\\epsilon\\hbar^2/(me^2)$ is the effective Bohr radius for ZnO with dielectric constant $\\epsilon$ and electron effective mass $m$; at the experimentally relevant value $r_s\\approx 6.4$ the electronic ground state is a triangular Wigner crystal (possibly a glassy Wigner state) because calculations including impurity effects indicate that disorder shifts the liquid–crystal transition from the clean‑limit value $r_s\\approx 37$ down to approximately $r_s\\approx 7$, making crystallization plausible at $r_s\\approx 6.4$.\n      [5]\n      [6]",
+        "content_hash": "40d160fc8cc5b403a6b58406229cc5022b768e97b37f26937c2b40f9701e8cdd",
+        "id": "gcn_43655e6f7d2c4ec1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812783249255301121::P1",
+            "package_id": "paper:812783249255301121",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812783249255301121"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The spin-density static structure factor \\tilde{S}(q) was computed self-consistently within the QSTLS formalism for two geometries: (i) a strictly two-dimensional (2D) electron liquid obtained by setting the form factor F(q)=1 in the effective interaction V(q), and (ii) a quasi-two-dimensional (Q2D) electron liquid in which F(q) is the finite-thickness form factor obtained from Bastard's variational envelope-function treatment of the confinement normal to the plane; calculations were performed at zero temperature for the dimensionless density parameters r_{s}=1,2,3,4 (with r_{s}=1/\\sqrt{\\pi n a_{B}^{2}} and a_{B} the effective Bohr radius appropriate to the averaged dielectric constant and chosen effective mass), and the Q2D \\tilde{S}(q) shows a significant modification across a broad range of q relative to the strictly 2D \\tilde{S}(q) for these densities.",
+        "content_hash": "b5b86964f9d22ce0181d58516b5dab638a71b1669123c2478dd8cc3fd3369b46",
+        "id": "gcn_77cd9841d29144b8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867758141402514095::conclusion_2",
+            "package_id": "paper:867758141402514095",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867758141402514095"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "15ef7d959574547422b1895c0ee437d6"
+}

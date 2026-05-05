@@ -1,0 +1,46 @@
+"""paper_holzmann2008 - claims and deductions from Holzmann et al. 2008.
+
+Source: Renormalization factor and effective mass of the two-dimensional electron gas
+DOI: 10.48550/arXiv.0810.2450
+Authors: Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley
+Reference key (CSL): Holzmann2008
+"""
+from gaia.lang import claim, deduction
+
+
+gcn_da3eecec49114543 = claim(
+    'For an added-electron excitation with momentum p above k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy correction delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. In leading order, the corresponding potential-energy correction is independent of p and therefore does not affect the slope of the excitation dispersion used to extract m* from near-k_F fits [@Holzmann2008].',
+    lkm_id="gcn_da3eecec49114543",
+    source_paper="paper:867753636627743508",
+    provenance_source="lkm",
+    lkm_original='For an added-electron excitation of momentum \\mathbf{p} with |\\mathbf{p}|>k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy term\n      \\delta T_{\\mathbf p}^N=\\frac{\\hbar^2 p^2}{2m}\\,Z_{\\mathbf p}^N\\big[e^{-\\Delta_N}-1\\big],\n      where Z_{\\mathbf p}^N is the finite-N quasiparticle weight at \\mathbf{p} and \\Delta_N is the missing-small-q integral defined above; in leading order the corresponding potential-energy correction is independent of \\mathbf{p} and therefore does not affect the slope of the excitation dispersion used to extract the effective mass m^{*} from near-k_F fits.Eq. (12)',
+    source_package="paper:867753636627743508",
+)
+
+
+gcn_28b9e01bd2f8487f = claim(
+    'For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum p above k_F to the N-particle ground state produces a finite-size correction to the kinetic-energy contribution of the excitation, delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. Because Delta_N scales as N^(-1/4), the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m* also scales as N^(-1/4). Therefore, extrapolations that assume faster-vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m* - m for typical accessible system sizes [@Holzmann2008].',
+    lkm_id="gcn_28b9e01bd2f8487f",
+    source_paper="paper:867753636627743508",
+    provenance_source="lkm",
+    lkm_original='For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum \\mathbf{p} (|\\mathbf{p}|>k_F) to the N-particle ground state produces a finite-size correction to the total kinetic-energy contribution of the excitation given by\n      \\delta T_{\\mathbf{p}}^{N}=\\frac{\\hbar^{2}\\mathbf{p}^{2}}{2m}\\;Z_{\\mathbf{p}}^{N}\\big[e^{-\\Delta_{N}}-1\\big],\n      where Z_{\\mathbf{p}}^{N} is the finite-N quasiparticle weight at momentum \\mathbf{p} and \\Delta_{N} is the missing-small-q integral defined in conclusion 1. Because \\Delta_{N}\\sim N^{-1/4} for large N, the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m^{*} (via the linearized relation \\varepsilon_{\\mathbf{k}}\\approx\\hbar^{2}k_F(k-k_F)/m^{*}) also scales as N^{-1/4}; therefore, extrapolations that assume faster vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m^{*}-m for typical accessible system sizes.',
+    source_package="paper:867753636627743508",
+)
+
+
+gfac_290d88db6d0d4237 = deduction(
+    premises=[gcn_da3eecec49114543],
+    conclusion=gcn_28b9e01bd2f8487f,
+    reason='1. Start from the established finite-size correction relation for the renormalization factor $Z_{k_F}^{\\infty}\\simeq Z_{k_F}^{N}e^{-\\Delta_{N}}$ and from the small-$q$ structure of $\\delta(q)$ and its $N^{-1/4}$ asymptotic scaling for $\\Delta_{N}$; treat these results as known inputs for analyzing finite-size errors in single-particle excitation energies and the effective mass.\n2. Define the single-particle excitation energy for adding an electron with momentum $\\mathbf{p}$ (with $|\\mathbf{p}|>k_F$) to the $N$-particle ground state as\n$$\n\\varepsilon_{\\mathbf{p}}=E_{\\mathbf{p}}^{N+1}-\\left(E_0^{N}+\\mu\\right),\n$$\nwhere $E_{\\mathbf{p}}^{N+1}$ is the total energy of the $N+1$-particle excited state, $E_0^{N}$ the $N$-particle ground-state energy, and $\\mu$ the chemical potential; the effective mass $m^{*}$ near $k_F$ is obtained from the expansion of $\\varepsilon_{\\mathbf{p}}$ in powers of $p-k_F$.\n3. Show that the finite-size error in the total kinetic energy associated with such an added electron is directly related to the finite-size renormalization of the quasiparticle weight: the additional finite-size error in the kinetic energy for an excitation at momentum $\\mathbf{p}$ is\n$$\n\\delta T_{\\mathbf{p}}^{N}=\\frac{\\hbar^{2}\\mathbf{p}^{2}}{2m}\\;Z_{\\mathbf{p}}^{N}\\big[e^{-\\Delta_{N}}-1\\big],\n$$\nwhere $Z_{\\mathbf{p}}^{N}$ is the finite-$N$ quasiparticle weight at momentum $\\mathbf{p}$ (defined analogously to $Z_{k_F}^{N}$). This formula follows from the same analysis of omitted small-$q$ Jastrow/structure-factor contributions that produced the $Z$ correction, applied to the change in kinetic energy when adding a particle.\n4. Use the asymptotic scaling $\\Delta_{N}\\propto N^{-1/4}$ to infer that the leading finite-size corrections to excitation energies, and therefore to the extracted effective mass $m^{*}$ (obtained from the near-$k_F$ expansion of $\\varepsilon_{\\mathbf{p}}$), scale as $N^{-1/4}$. In particular, because potential-energy corrections are independent of $\\mathbf{p}$ to leading order, the kinetic-energy finite-size correction given above dominates the finite-size behavior of the slope of $\\varepsilon_{\\mathbf{p}}$ near $k_F$, and thus of $m^{*}$.\n5. Observe empirically that applying the analytic size correction reduces the apparent finite-size dependence of the inverse effective mass $m/m^{*}$ versus system size and reverses the qualitative finite-$N$ tendency (for instance, raw finite-$N$ data suggesting $m^{*}<m$ for $N\\lesssim 100$ can become $m^{*}>m$ in the thermodynamic limit once the $e^{-\\Delta_{N}}$ correction is applied), as illustrated by the plotted comparisons of corrected and uncorrected effective-mass estimates.\nFig. 3',
+    prior=0.95,
+)
+gfac_290d88db6d0d4237.metadata.update(
+    {
+        "judgment": "accepted",
+        "justification": (
+            "Accepted as an LKM factor-derived warrant: the chain supplies a usable "
+            "premise, ordered reasoning steps, and explicit source-package provenance; "
+            "warrant strength remains reviewer-calibrated at prior 0.95."
+        ),
+    }
+)

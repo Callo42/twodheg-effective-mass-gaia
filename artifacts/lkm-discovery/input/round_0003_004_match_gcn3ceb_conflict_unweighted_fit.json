@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811675049172926464": {
+        "area": "Physics and Astrophysics",
+        "authors": "G. Bertaina | S. Giorgini",
+        "available_online": "2011-3-16",
+        "cover_date_start": "2011-03-16",
+        "created_at": "2022-12-19T11:06:53+08:00",
+        "doi": "10.1103/physrevlett.106.110403",
+        "en_title": "BCS-BEC Crossover in a Two-Dimensional Fermi Gas",
+        "id": "811675049172926464",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维费米气体中的BCS-BEC渡越 "
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:813314063575547905": {
+        "area": "Physics and Astrophysics",
+        "authors": "Wen-Yu Wen | Shang-Yu Wu",
+        "available_online": "",
+        "cover_date_start": "2012-06-01",
+        "created_at": "2022-12-23T23:39:44+08:00",
+        "doi": "10.1016/j.physletb.2012.04.064",
+        "en_title": "Dipole coupling effect of holographic fermion in charged dilatonic gravity",
+        "id": "813314063575547905",
+        "keywords": "",
+        "publication_date": "2012-6",
+        "publication_id": "516",
+        "publication_name": "Physics Letters B _ Physics Letters B",
+        "research_categories": "",
+        "zh_title": "带电伸缩子引力中全息费米子的偶极耦合效应"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867760133566890751": {
+        "area": "arXiv-Physics",
+        "authors": "Caspar P. Heidbrink | Götz S. Uhrig",
+        "available_online": "",
+        "cover_date_start": "2001-11-06",
+        "created_at": "2023-05-23T05:28:58+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0111078",
+        "en_title": "Landau's quasi-particle mapping: Fermi liquid approach and Luttinger liquid behavior",
+        "id": "867760133566890751",
+        "keywords": "",
+        "publication_date": "2001-11-06",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "朗道准粒子映射：费米液体方法与卢廷格液体行为"
+      },
+      "paper:867766664756724494": {
+        "area": "arXiv-Physics",
+        "authors": "Shi-Quan Su | Daniel E. Sheehy | Juana Moreno | Mark Jarrell",
+        "available_online": "",
+        "cover_date_start": "2009-12-17",
+        "created_at": "2023-05-23T05:54:55+08:00",
+        "doi": "10.48550/arXiv.0912.3476",
+        "en_title": "Dynamical Cluster Quantum Monte Carlo Study of the Single Particle Spectra of Strongly Interacting Fermion Gases",
+        "id": "867766664756724494",
+        "keywords": "",
+        "publication_date": "2009-12-17",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "强相互作用费米气体单粒子谱的动力学团簇量子蒙特卡罗研究"
+      },
+      "paper:867774221713932322": {
+        "area": "arXiv-Physics",
+        "authors": "P. Prelovsek",
+        "available_online": "",
+        "cover_date_start": "2000-07-03",
+        "created_at": "2023-05-23T06:24:57+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0007032",
+        "en_title": "Normal State Properties of Cuprates: t-J Model vs. Experiment",
+        "id": "867774221713932322",
+        "keywords": "",
+        "publication_date": "2000-07-03",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "铜酸盐的正常态性质：t-J模型与实验对比"
+      }
+    },
+    "variables": [
+      {
+        "content": "The diffusion Monte Carlo data for Fourier-projected Fermi liquid quantities display large, nonmonotonic fluctuations as functions of finite-system particle number N that exceed the per-run statistical error bars: the statistical uncertainties from individual DMC runs are generally much smaller than the observed shell-filling oscillations and other finite-size \"noise.\" A theoretical finite-size scaling proportional to N^{-1/4} (the exponent -1/4 predicted for long-range-correlation-dominated finite-size errors) is consistent with all DMC data in a global fit (the best-fit common exponent found by simultaneous \\chi^2 fitting of the DMC data is \\gamma = -0.24(10)), but the fit quality is poor (\\chi^2 per data point \\gg 1) because the shell-filling oscillations and related finite-size noise are not captured by the statistical error bars; a naive ordinary least-squares fit with equal weighting of data points yields a very different effective exponent. Consequently, these finite-size effects constitute a serious obstacle to a quantitatively accurate, direct determination of Fermi liquid parameters from finite-cell QMC calculations: extrapolated Fermi liquid parameters obtained by simple power-law fits have large uncertainties and in many cases are inconsistent with related thermodynamic quantities obtained directly from parametrizations of the ground-state total energy per electron.",
+        "content_hash": "30eefee1ccd63db33ea9950861254ea7e118b166b731903158e65947e6d51cc8",
+        "id": "gcn_3db07703d3684507",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_4",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), the leading finite-size error in Fermi-liquid-derived quantities such as the angular-momentum Fermi liquid parameters F_l or the Fourier-projected quantities F_l/m^{*} behaves asymptotically as a power law in the finite-system particle number N with exponent -1/4; equivalently,\n      \\Delta F_l(N) \\equiv F_l(N)-F_l(\\infty) \\propto N^{-1/4},\n      so that fitting computed F_l(N) values to the form c + a N^{-1/4} yields an estimate of the thermodynamic-limit intercept c = F_l(\\infty). This statement adopts the theoretical asymptotic exponent \\gamma = -1/4 predicted for long-range-correlation-dominated finite-size errors.\n      Refs. 13,14",
+        "content_hash": "5d35c92260764bcb7f6ff7e8faf67af9d71f7400ea2dbb873a0034fae3ee4b32",
+        "id": "gcn_3ceb44ae3f404964",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P2",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028177225029148854,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027443609022556388,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The interaction parameter entering the perturbative expansion for the fermionic energy per particle is defined as η = log(k_F a_{2\\mathrm{D}}), and any comparison of the fitted second-order coefficient A to analytic expressions reported in prior literature requires matching this definition, since constant additive shifts in the logarithm (i.e., different conventions for the multiplicative constant inside the logarithm) can produce apparent numerical discrepancies unless such offsets are correctly accounted for.",
+        "content_hash": "163e37f4ed9d3408621d9bfe93ce3ec61d0e8e3af6f7db4698b1bd0da21246a0",
+        "id": "gcn_40dbb06c1589490a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811675049172926464::P15",
+            "package_id": "paper:811675049172926464",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811675049172926464"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The momentum distribution n(k) computed from the spectral function by n(k) = ∫_{−∞}^{∞} dω n_F(ω) A(k,ω), with the Fermi occupation n_F(ω) = 1/(1 + e^{β ω}) and k_F estimated by k_F = (3π^2 n)^{1/3} for density n=0.3, is at unitarity well fitted at large k by the empirical form c_0 + c_1/(|k/k_F| + c_2)^4 with best-fit parameters c_0 = 0.019, c_1 = 0.148, and c_2 = −0.057, consistent with the large-k asymptote n(k) ∼ C/k^4 predicted by Tan; using the theoretical relation c_1 = 2 ζ / (5 π) that connects the fit coefficient c_1 to the interaction-dependent coefficient ζ appearing in the near-unitarity expansion of the energy per particle E/N = (3/5) E_F [ ξ − ζ/(k_F a_s) + O((k_F a_s)^{-2}) ], this fit yields the estimate ζ ≃ 1.16 for the parameters and fitting window used.",
+        "content_hash": "a8a2586f7f93b1ee688ffdcfa70957f545f86799f0e20f047db066f00d86ca7d",
+        "id": "gcn_ce94b9b198014180",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867766664756724494::conclusion_5",
+            "package_id": "paper:867766664756724494",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867766664756724494"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given a set of computed values F_l(N) of a Fourier-projected Fermi liquid quantity at several finite system sizes N that display large, nonmonotonic shell-filling oscillations whose amplitudes substantially exceed the reported per-datum stochastic error bars, performing an ordinary (unweighted) least-squares fit of the form F_l(N) = c + a N^{-1/4} across the available N values (i.e., treating each data point with equal weight rather than weighting by the inverse variance) yields a thermodynamic-limit intercept c whose quoted uncertainty from the fit provides an estimate of the uncertainty associated with finite-size behavior and the extrapolation procedure.",
+        "content_hash": "67445d2668acf92931d7f66f707d9759dc558a3fd2113f2b036c6e3b072db943",
+        "id": "gcn_ddd510334ce64a25",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P7",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: When finite-$N$ estimates of a Fermi liquid parameter $F_l(N)$ exhibit oscillatory deviations due to shell-filling effects that are larger than the nominal Monte Carlo error bars on individual points, performing an ordinary least-squares fit that weights each data point equally (i.e., unweighted residuals) to the model $F_l(N)=c+aN^{\\gamma}$ produces an extrapolated thermodynamic-limit value $c$ whose expectation is a more robust estimator of the true $N\\to\\infty$ value than a weighted $\\chi^2$ fit that uses the nominal error bars, because the nominal error bars do not account for the nonstatistical shell-filling oscillatory variance; here “shell-filling effects” denotes oscillatory finite-size variations arising from discrete reciprocal-lattice sampling in finite simulation cells.",
+        "content_hash": "2bbbc69a8e201fb5f3498028ad34c32ea196b417f3b6766212f5599d22f396b9",
+        "id": "gcn_cf5596ad6bf847ce",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $k_F(p)$ denote the numerically measured Fermi momentum at dipole coupling $p$ for fixed parameters $q=2$, $L=1$, $Q=1$, $m=0$, and let $k_0=2.19213747$ denote the measured Fermi momentum at $p=0$ at frequency $\\omega=-10^{-10}$. Suppose a least-squares fit to the computed data yields\n      $$\n      k_F(p)-k_0\\approx A\\,p^{\\alpha}\n      $$\n      with fitted exponent $\\alpha=1.00161$ and $A=0.66103$. The proposition is: the fitted value $\\alpha=1.00161$ is numerically indistinguishable from $\\alpha=1$ within the uncertainties of the numerical pole-finding and fitting procedure, so the dependence $k_F-k_0\\propto p$ is justified within the reported accuracy.",
+        "content_hash": "3ee3afc956dfcee977ba92d1994ad7053553aa84788f7bb1fb76895b5796da93",
+        "id": "gcn_5d9fe6e1016a4cdb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813314063575547905::P4",
+            "package_id": "paper:813314063575547905",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813314063575547905"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define $\\Delta k:=|k-k_F|$ and consider two fitting ansätze for the deviation of the momentum distribution from half-filling: the Fermi-liquid (FL) inspired ansatz\n      $$\n      |n(k)-1/2|\\approx Z/2+\\Delta k\\big(B\\ln(\\Delta k)+C\\big)\n      $$\n      with fit parameters $(Z,B,C)$, and the Luttinger-liquid (LL) inspired ansatz\n      $$\n      |n(k)-1/2|\\approx B\\,\\Delta k^\\alpha + C\\,\\Delta k\n      $$\n      with fit parameters $(B,C,\\alpha)$. The proposition is: for finite-$N$ numerically computed $n(k)$ obtained via the truncated CUT and discrete momentum sampling, least-squares fitting of the LL ansatz over an appropriately chosen $\\Delta k$ window yields an exponent $\\alpha$ that is an accurate estimator (empirically within the stated numerical uncertainties) of the true Luttinger-liquid exponent of the microscopic model, and the LL ansatz provides a systematically better fit than the FL ansatz in the parameter ranges studied, assuming that finite-size and truncation-induced deviations do not conspire to mimic a genuine power law over the chosen fit window.",
+        "content_hash": "20c3190a086f6105f68f827a9b92b848dd33ab4887d046657668bba716d938cd",
+        "id": "gcn_58c3153792dc488c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867760133566890751::P7",
+            "package_id": "paper:867760133566890751",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867760133566890751"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Within the marginal-Fermi-liquid parametrization $\\mathrm{Im}\\,\\Sigma(\\mathbf{k},\\omega)\\simeq -\\tilde{\\gamma}(|\\omega|+\\xi T)$ for hole excitations, fits to FTLM spectral data on finite clusters yield numerical parameter estimates $\\tilde{\\gamma}\\approx1.4$ and $\\xi\\approx3.5$; these fitted values are sufficiently accurate for use in downstream quantitative analyses (for example estimating $\\Gamma_{\\mathbf{k}}=Z_{\\mathbf{k}}|\\mathrm{Im}\\Sigma|$, verifying the overdamped condition $2\\Gamma(\\epsilon)>\\epsilon$, and entering convolution calculations for $C(\\omega)$) without qualitatively changing the conclusions when modest fitting uncertainties are taken into account.",
+        "content_hash": "8a0bdf3f62c93b9025b25f3ddc286b9b14176acd84e063fc64dad1f103b84d54",
+        "id": "gcn_46be76c73385430e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867774221713932322::P11",
+            "package_id": "paper:867774221713932322",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867774221713932322"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "d37d12b5d3c7a493335b4b022806ea1e"
+}

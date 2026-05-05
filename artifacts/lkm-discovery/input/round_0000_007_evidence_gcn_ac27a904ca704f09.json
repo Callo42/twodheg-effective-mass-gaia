@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+      "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+      "id": "gcn_ac27a904ca704f09",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+              "id": "gcn_ac27a904ca704f09"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_9f7e49ccca424495",
+            "premises": [
+              {
+                "content": "For the two-dimensional uniform electron liquid (2D-UEL) model consisting of N interacting electrons of charge −e and bare mass m in a finite periodic simulation cell of area A (so that the density is ρ = N/A) and with density parameter r_s = (1/(πρ))^{1/2}a_B^{-1} (using atomic units with Bohr radius a_B = 1), the finite-size dependence of the quasiparticle effective mass m*(N) obtained from quantum Monte Carlo band-derivative estimates is taken to follow the empirical form\n      m*(N) = m*(∞) + β·N^{-3/2}\n      for some constant β, and this empirical scaling relation is applied to the authors' simulation data obtained at N = 146, 218, and 302 electrons to extrapolate m*(∞) for densities in the metallic range 1 ≤ r_s ≤ 5.\n      Holzmann et al., Theory of finite size effects for electronic quantum Monte Carlo calculations of liquids and solids, Phys. Rev. B 94, 035126 (2016).",
+                "id": "gcn_cb512194b0bc4df2"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the upstream result that Hartree–Fock exchange introduces pathological oscillatory behavior near $k_{F}$ in finite cells (upstream conclusion: Hartree–Fock exchange causes pathological band behavior near $k_{F}$ that contaminates finite-cell QMC bands), which motivates careful finite-size (FS) treatment of computed quasiparticle bands to recover thermodynamic-limit properties.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the simulation-cell electron number $N$ as the number of electrons in the finite periodic simulation cell used in VMC and DMC; the authors performed calculations at multiple $N$ values (paramagnetic $N=146,218,302$ and ferromagnetic $N=151$) to study and reduce FS errors.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Describe the empirical observation reported by the authors: plotting the extracted quasiparticle effective mass $m^{*}$ as a function of $N^{-3/2}$ yields a systematic approximately linear behavior for the paramagnetic 2D-UEL, leading the authors to adopt the empirical finite-size form $m^{*}(N)=m^{*}(\\infty)+\\beta\\,N^{-3/2}$ for extrapolation to the thermodynamic limit $N\\rightarrow\\infty$.\nFig. 6\n[15]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Report practical observations about the finite-size errors: the authors found that finite-size errors in VMC estimates of $m^{*}$ are smaller than those in DMC estimates for the same $N$, and that finite-size errors increase as the density is reduced (larger $r_{s}$), consistent with larger correlation and stronger sensitivity to nodal/pathological features at low density.\nFig. 6",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Conclude that using the observed $N^{-3/2}$ empirical scaling permits controlled extrapolation of VMC and DMC $m^{*}$ values to the thermodynamic limit, thereby reducing contamination from finite-cell HF-induced oscillations and other finite-size artifacts when reporting $m^{*}$ for the infinite system.",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Finite simulation cells discretize available $k$-space and produce shell and HF-related oscillations of excitation energies near $k_{F}$, preventing direct identification of the $k$-derivative in a single finite-size calculation. Without an empirical or theoretical FS scaling law, thermodynamic-limit $m^{*}$ estimates are ambiguous. The observed $N^{-3/2}$ behavior addresses this gap by providing a reproducible extrapolation protocol for QMC quasiparticle masses.",
+            "id": "paper:1129109501803233307::conclusion_6_subproblem",
+            "source_package": "paper:1129109501803233307"
+          }
+        ],
+        "source_package": "paper:1129109501803233307"
+      }
+    ],
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "3931ded4c8fcd0576dcdb50bfdd95d09"
+}

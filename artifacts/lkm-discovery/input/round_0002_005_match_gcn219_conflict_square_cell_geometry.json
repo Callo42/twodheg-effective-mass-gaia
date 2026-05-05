@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811865973547073537": {
+        "area": "Engineering Technology",
+        "authors": "Vita Pi-Ho Hu | Yu-Sheng Wu | Pin Su",
+        "available_online": "2009-3-17",
+        "cover_date_start": "2009-03-17",
+        "created_at": "2022-12-19T23:45:32+08:00",
+        "doi": "10.1088/0268-1242/24/4/045017",
+        "en_title": "Investigation of electrostatic integrity for ultra-thin-body GeOI MOSFET using analytical solution of Poisson's equation",
+        "id": "811865973547073537",
+        "keywords": "",
+        "publication_date": "2009-4-1",
+        "publication_id": "4380",
+        "publication_name": "Semiconductor Science and Technology _ Semicond. Sci. Technol.",
+        "research_categories": "",
+        "zh_title": "基于泊松方程解析解的超薄体锗绝缘层上硅金属氧化物半导体场效应晶体管静电完整性研究"
+      },
+      "paper:811957406467620864": {
+        "area": "Geoscience",
+        "authors": "A. Ghorbanpour Arani | R. Rahmani | A. Arefmanesh",
+        "available_online": "",
+        "cover_date_start": "2008-05-01",
+        "created_at": "2022-12-20T05:48:51+08:00",
+        "doi": "10.1016/j.physe.2007.11.011",
+        "en_title": "Elastic buckling analysis of single-walled carbon nanotube under combined loading by using the ANSYS software",
+        "id": "811957406467620864",
+        "keywords": "[{\"en_name\": \"ANSYS software\", \"ch_name\": \"\"}, {\"en_name\": \"Buckling\", \"ch_name\": \"\"}, {\"en_name\": \"Carbon nanotube\", \"ch_name\": \"\"}, {\"en_name\": \"Cylindrical shell\", \"ch_name\": \"\"}, {\"en_name\": \"Nonlocal shell model\", \"ch_name\": \"\"}]",
+        "publication_date": "2008-5",
+        "publication_id": "98276",
+        "publication_name": "Physica E: Low dimensional Systems and Nanostructures _ Physica E: Low-dimensional Systems and Nanostructures",
+        "research_categories": "[\"Engineering\", \"Aerospace Engineering\", \"Maritime Engineering\"]",
+        "zh_title": "使用ANSYS软件对单壁碳纳米管在组合载荷作用下的弹性屈曲分析"
+      },
+      "paper:812578828978225153": {
+        "area": "Chemistry",
+        "authors": "Tilak Das | Xavier Rocquefelte | Stéphane Jobic",
+        "available_online": "2020-8-17",
+        "cover_date_start": "2020-08-17",
+        "created_at": "2022-12-21T22:58:11+08:00",
+        "doi": "10.1021/acs.jpcc.0c04003",
+        "en_title": "Ab Initio Positioning of the Valence and Conduction Bands of Bulk Photocatalysts: Proposition of Absolute Reference Energy",
+        "id": "812578828978225153",
+        "keywords": "",
+        "publication_date": "2020-9-10",
+        "publication_id": "3449",
+        "publication_name": "The Journal of Physical Chemistry C _ J. Phys. Chem. C",
+        "research_categories": "",
+        "zh_title": "块状光催化剂价带和导带的从头算定位：绝对参考能量的提出"
+      },
+      "paper:812745759450464257": {
+        "area": "Engineering Technology",
+        "authors": "Elizabeth M. C. Hillman | Jeremy C. Hebden | Florian E. W. Schmidt | Simon R. Arridge | Martin Schweiger | Hamid Dehghani | David T. Delpy",
+        "available_online": "",
+        "cover_date_start": "2000-09-01",
+        "created_at": "2022-12-22T10:01:31+08:00",
+        "doi": "10.1063/1.1287748",
+        "en_title": "Calibration techniques and datatype extraction for time-resolved optical tomography",
+        "id": "812745759450464257",
+        "keywords": "",
+        "publication_date": "2000-9",
+        "publication_id": "4371",
+        "publication_name": "Review of Scientific Instruments _ Review of Scientific Instruments",
+        "research_categories": "",
+        "zh_title": "用于时间分辨光学层析成像的校准技术和数据类型提取"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:814631196813164544": {
+        "area": "Physics and Astrophysics",
+        "authors": "Dan Wang | Dong Han | Xian-Bin Li | Sheng-Yi Xie | Nian-Ke Chen | Wei Quan Tian | Damien West | Hong-Bo Sun | S. B. Zhang",
+        "available_online": "2015-5-12",
+        "cover_date_start": "2015-05-12",
+        "created_at": "2022-12-27T14:53:33+08:00",
+        "doi": "10.1103/physrevlett.114.196801",
+        "en_title": "Determination of Formation and Ionization Energies of Charged Defects in Two-Dimensional Materials",
+        "id": "814631196813164544",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维材料中带电缺陷的形成能和电离能的测定"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867762865245782852": {
+        "area": "arXiv-Physics",
+        "authors": "Lia Corrales | Frits Paerels",
+        "available_online": "",
+        "cover_date_start": "2013-11-21",
+        "created_at": "2023-05-23T05:39:49+08:00",
+        "doi": "10.48550/arXiv.1311.5588",
+        "en_title": "The Dust Scattering Halo of Cygnus X-3",
+        "id": "867762865245782852",
+        "keywords": "",
+        "publication_date": "2013-11-21",
+        "publication_id": "108476",
+        "publication_name": "Astrophysics of Galaxies _ Physics.astro-ph.GA",
+        "research_categories": "",
+        "zh_title": "天鹅座X-3的尘埃散射晕"
+      },
+      "paper:867769538161148739": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs | A. Sorouri | W. M. C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2008-06-05",
+        "created_at": "2023-05-23T06:06:20+08:00",
+        "doi": "10.48550/arXiv.0806.0957",
+        "en_title": "Finite-size errors in continuum quantum Monte Carlo calculations",
+        "id": "867769538161148739",
+        "keywords": "",
+        "publication_date": "2008-06-05",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "连续统量子蒙特卡罗计算中的有限尺寸误差"
+      }
+    },
+    "variables": [
+      {
+        "content": "For two-dimensional periodic systems of area $P$ containing $N$ electrons, if the small-$k$ translationally averaged static structure factor has the RPA-motivated form $S(k)=\\gamma k^{3/2}+O(k^2)$ with coefficient $\\gamma>0$, then the leading finite-size correction to the Ewald exchange–correlation (XC) energy per particle scales with particle number as $O(N^{-1/4})$ and has the explicit large-$N$ form\n      $$\n      \\Delta V_{\\mathrm{Ew}}=\\frac{C_{2\\mathrm{D}}}{2\\pi r_s^3}\\left(\\frac{2}{\\pi N}\\right)^{1/4}+O(N^{-1/2}),\n      $$\n      where $r_s$ is defined in 2D by $P/N=\\pi r_s^2$ or as otherwise appropriate for the 2D density and $C_{2\\mathrm{D}}$ is a geometry-dependent constant (e.g., $C_{2\\mathrm{D}}\\approx3.9852$ for a square cell and $\\approx3.9590$ for a hexagonal cell). The corresponding leading asymptotic kinetic-energy finite-size correction follows from a small-$k$ Jastrow $u(k)\\sim -a/k^{3/2}$ and is\n      $$\n      \\Delta T=\\frac{C_{2\\mathrm{D}} N a}{4\\pi P^{5/4}}+O(N^{-1/2}),\n      $$\n      implying that the energy-per-particle finite-size error in 2D behaves as $O(N^{-5/4})$ asymptotically; for a 2D HEG in the RPA limit $a=\\sqrt{2}\\pi r_s$.",
+        "content_hash": "f7196f8906500c29b998fa362519e2b2bdbbde500d387c579eb38bbe50cf7722",
+        "id": "gcn_3e05150f42e344a3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867769538161148739::conclusion_9",
+            "package_id": "paper:867769538161148739",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867769538161148739"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030679156908665108,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028531243721117136,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A practical correction for finite-geometry 2D:3D datatype mismatch can be obtained by computing 3D:2D datatype ratios or differences from infinite-space Green's functions to obtain the separation-insensitive functional form and then multiplying (rescaling) those Green-function-derived correction magnitudes by constants chosen so that they approximately agree with high-resolution finite-geometry three-dimensional finite-element-method (3D-FEM) derived correction values for the specific geometry under study; this rescaling transfers the inferred functional dependence while correcting the absolute magnitude to account for boundary and finite-size effects.",
+        "content_hash": "d2810eb29e0b3660119fe2574aa63bd94f3eec364c0281d6df3b4d9d413cef25",
+        "id": "gcn_73eda03402104b96",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812745759450464257::P9",
+            "package_id": "paper:812745759450464257",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812745759450464257"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026687875574407917,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $E_{\\mathrm{He}}(d)$ denote the computed He $1s^2$ eigenvalue in a periodic vacuum‑only calculation as a function of the cubic cell side length $d$ (the He–He image distance). The proposition is: the dominant finite‑cell/image‑charge interaction contribution to $E_{\\mathrm{He}}(d)$ decays smoothly with increasing $d$ and can be described by a parameterizable functional form (for example a Lorentz‑like or algebraic tail), permitting a fit of the $d$‑dependence to extract the converged $d\\to\\infty$ limit $E_{\\mathrm{He}}(\\infty)$ and thereby correct finite‑cell slab $E_{\\mathrm{He}}$ values by an image correction $\\delta E_{\\mathrm{image}}$ that is typically of order a few $10^{-2}\\ \\mathrm{eV}$ for the cell sizes used in the present calculations.",
+        "content_hash": "4dca6ee615bcae748d306ea915f1eecf5d6ed3a3e7a7649f5ab75286540110af",
+        "id": "gcn_7f3a5084783f408a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812578828978225153::P7",
+            "package_id": "paper:812578828978225153",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812578828978225153"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For quasi-two-dimensional calculations defined by the geometric regime L_{z}\\gg L_{s} (perpendicular height much larger than the lateral linear dimension) the ionization energy admits the asymptotic form\n      $$\n      I E\\left(L_{s},L_{z}\\right)=I E_{0}+\\frac{\\alpha}{\\sqrt{S}}+\\frac{\\beta L_{z}}{S},\n      $$\n      where S=L_{s}^{2} is the lateral supercell area, I E_{0}=c_{0,0} is the infinite-cell ionization energy, \\alpha=c_{-1,0} is the coefficient of the leading algebraic finite-size correction that scales as 1/L_{s} (equivalently 1/\\sqrt{S}), and \\beta=c_{-2,1} is the coefficient multiplying the plane-like linear-in-L_{z} divergence divided by area; this three-term asymptotic (constant, 1/\\sqrt{S}, and L_{z}/S) is the two-parameter form used to extrapolate charged-defect ionization energies in quasi-two-dimensional computational geometries, with the 1/\\sqrt{S} and L_{z}/S terms retained as the leading finite-size corrections.",
+        "content_hash": "c7125be9776fc717203efd99bd4137496086352fce97f92c3c0a254075533e94",
+        "id": "gcn_94eb4cc6375f43c7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814631196813164544::conclusion_5",
+            "package_id": "paper:814631196813164544",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814631196813164544"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The two-dimensional corrective potential $\\phi_{\\mathrm{ch,2}}(x,y)$ is represented by the separable modal expansion\n      $$\n      \\phi_{\\mathrm{ch,2}}(x,y)=\\sum_{n=1}^{\\infty}\\Big\\{\\,[c_{n}\\sinh(\\gamma_{n}y)+c_{n}'\\sinh(\\gamma_{n}(L_{g}-y))]\\sin(\\gamma_{n}x)+e_{n}\\sinh(\\lambda_{n}(T_{\\mathrm{ch}}+(\\varepsilon_{\\mathrm{ch}}/\\varepsilon_{i})T_{i}-x))\\sin(\\lambda_{n}y)\\,\\},\n      $$\n      with $\\lambda_{n}=n\\pi/L_{g}$ and $\\gamma_{n}=n\\pi/(T_{\\mathrm{ch}}+(\\varepsilon_{\\mathrm{ch}}/\\varepsilon_{i})T_{i})$, and this expansion is assumed to form a sufficiently complete basis such that truncation of the series at a finite number of retained modes provides an accurate numerical representation of the two-dimensional correction for the geometries ($T_{\\mathrm{ch}}$, $L_{g}$, $T_{i}$) and boundary data used in the reported calculations.",
+        "content_hash": "4e54291fca3b1c82fdc23c35ff93863c40c113397b5240169d97f3f2eb6086cb",
+        "id": "gcn_3b7a92a7a6df4ab9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811865973547073537::P3",
+            "package_id": "paper:811865973547073537",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811865973547073537"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "To obtain case-specific corrective coefficients from the finite-element examples, the corrective coefficient $\\beta$ is assumed to be representable either as a scalar constant ($\\beta=k$) or as a simple linear function of the geometry ratio $D/L$ (i.e., $\\beta=k'\\,(D/L)$, $\\beta=k''\\,(D/L)$, or $\\beta=k'''\\,(D/L)$), and the numerical fits reported for the four cases were obtained by computing $\\beta=\\sigma_{\\mathrm{cr,FE}}/\\sigma_{\\mathrm{cr,theoretical}}$ for each case and fitting the reported scalar or linear-in-geometry forms to those discrete values; these fitted forms are assumed to summarize the geometry dependence of the correction even though they are derived from only the four tabulated examples.",
+        "content_hash": "53c47110657ab65773b074d59f3a71411c87ce34ae8861c929449c49e6bca136",
+        "id": "gcn_1ee99ce3f3f24f91",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811957406467620864::P5",
+            "package_id": "paper:811957406467620864",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811957406467620864"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The spectral normalization used to determine the absorbed apparent flux $F_a$ relied on the Chandra High Energy Grating (HEG) arms only (the Medium Energy Grating, MEG, was excluded from the forward spectral normalization because of MEG/HEG disagreement attributed to pileup in the grating-free zeroth-order comparison), and a pileup correction model (`simple_gpile2`) was applied to the HEG spectrum; based on the brightest time intervals the authors estimate an HEG pileup fraction up to $\\sim7\\%$ in the 4–5 keV region and therefore treat the HEG-only flux calibration as accurate at the $\\sim5\\%$ level, implying that uncertainties in pileup correction and the choice to exclude MEG may bias the absolute flux normalization entering halo model predictions.\n      Section 2.1; Section 3",
+        "content_hash": "a7026aee994657c3089c4d8f7766504fef8cbe5602809f530ac190cf6dcc09a4",
+        "id": "gcn_ec396138883f4677",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867762865245782852::P3",
+            "package_id": "paper:867762865245782852",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867762865245782852"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider a finite square simulation cell of area A used to model a two-dimensional homogeneous electron gas (2D HEG) with ground-state electron number N and density parameter r_s defined by A = \\pi r_s^2 N. If an excitation is formed by promoting a single electron from an occupied finite-cell momentum state \\mathbf{k}' near the finite-cell Fermi surface to an unoccupied state \\mathbf{k} (a \"single-electron promotion\"), the finite-cell density N/A remains unchanged, whereas adding or removing two electrons (double addition or double removal) changes N and hence the finite-cell density N/A. Consequently, total-energy differences computed for single-electron promotions incur smaller finite-size errors arising from spurious density changes than total-energy differences computed for double additions or double removals, making promotions preferable for computing Landau interaction functions via total-energy differences.",
+        "content_hash": "b467c41b1de4585de5a831c0dd6c2a8974a6c4fc50de3d7afbc6b6179556c798",
+        "id": "gcn_e234eaa14d4a493f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P3",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "f12468c58fac3e97a40307970bd14571"
+}

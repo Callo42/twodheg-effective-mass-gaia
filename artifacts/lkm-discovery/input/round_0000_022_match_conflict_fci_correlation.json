@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811804710762708992": {
+        "area": "Physics and Astrophysics",
+        "authors": "Vassilios Fessatidis | Norman J.M. Horing | Makoto Sawamura",
+        "available_online": "",
+        "cover_date_start": "2010-01-01",
+        "created_at": "2022-12-19T19:42:06+08:00",
+        "doi": "10.1016/j.phpro.2010.01.175",
+        "en_title": "Drift instability of a 2D magnetoplasma in a periodic potential",
+        "id": "811804710762708992",
+        "keywords": "",
+        "publication_date": "2010-1",
+        "publication_id": "20427",
+        "publication_name": "Physics Procedia _ Physics Procedia",
+        "research_categories": "[\"Physical Sciences\", \"Astronomical Sciences\"]",
+        "zh_title": "二维磁等离子体在周期势场中的漂移不稳定性"
+      },
+      "paper:811997631709446145": {
+        "area": "Geoscience",
+        "authors": "Massimo Rontani | Guido Goldoni",
+        "available_online": "",
+        "cover_date_start": "2007-01-01",
+        "created_at": "2022-12-20T08:28:41+08:00",
+        "doi": "10.1063/1.2730147",
+        "en_title": "A high-performance full-configuration-interaction study of Wigner crystallization in quantum dots",
+        "id": "811997631709446145",
+        "keywords": "[{\"ch_name\":\"电子关联\",\"en_name\":\"Electron correlation\"},{\"ch_name\":\"全构型相互作用\",\"en_name\":\"Full configuration interaction\"},{\"ch_name\":\"量子点\",\"en_name\":\"Quantum dots\"},{\"ch_name\":\"维格纳分子\",\"en_name\":\"Wigner molecule\"}]",
+        "publication_date": "2007",
+        "publication_id": "96345",
+        "publication_name": "AIP Conference Proceedings _ ",
+        "research_categories": "[\"Physical Sciences\", \"Atomic, Molecular and Optical Physics\", \"Condensed Matter Physics\"]",
+        "zh_title": "量子点中维格纳结晶的高性能全组态相互作用研究"
+      },
+      "paper:812117406523588608": {
+        "area": "Geoscience",
+        "authors": "A. K. Savchenko | E. A. Galaktionov | G. D. Allison | M. M. Fogler | S. S. Safonov | M. Y. Simmons | D. A. Ritchie",
+        "available_online": "2006-1-30",
+        "cover_date_start": "2006-01-30",
+        "created_at": "2022-12-20T16:24:38+08:00",
+        "doi": "10.1002/pssc.200562760",
+        "en_title": "Effects of interactions and disorder on the compressibility of two‐dimensional electron and hole systems",
+        "id": "812117406523588608",
+        "keywords": "",
+        "publication_date": "2006-2",
+        "publication_id": "32031",
+        "publication_name": "physica status solidi c _ Phys. Status Solidi (c)",
+        "research_categories": "",
+        "zh_title": "相互作用和无序对二维电子及空穴系统压缩性的影响"
+      },
+      "paper:812123848521547776": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-12-15",
+        "cover_date_start": "2005-12-15",
+        "created_at": "2022-12-20T16:50:14+08:00",
+        "doi": "10.1103/physrevlett.95.256603",
+        "en_title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+        "id": "812123848521547776",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "半导体结构中载流子有效质量的自旋极化依赖性：自旋电子学有效质量"
+      },
+      "paper:812394568736571394": {
+        "area": "Physics and Astrophysics",
+        "authors": "Garnett W. Bryant | D.B. Murray | A.H. MacDonald",
+        "available_online": "",
+        "cover_date_start": "1987-01-01",
+        "created_at": "2022-12-21T10:45:59+08:00",
+        "doi": "10.1016/0749-6036(87)90060-7",
+        "en_title": "Electronic structure of single ultrasmall electron devices and device arrays",
+        "id": "812394568736571394",
+        "keywords": "",
+        "publication_date": "1987-1",
+        "publication_id": "601",
+        "publication_name": "Superlattices and Microstructures _ Superlattices and Microstructures",
+        "research_categories": "",
+        "zh_title": "单个超小型电子器件及器件阵列的电子结构"
+      },
+      "paper:812448140757041152": {
+        "area": "Chemistry",
+        "authors": "J.M. Shi | F.M. Peeters | J.T. Devreese",
+        "available_online": "",
+        "cover_date_start": "1994-03-01",
+        "created_at": "2022-12-21T14:18:52+08:00",
+        "doi": "10.1016/0039-6028(94)90888-5",
+        "en_title": "Transition energies of D− centers in a superlattice",
+        "id": "812448140757041152",
+        "keywords": "",
+        "publication_date": "1994-3",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "超晶格中D−中心的跃迁能量"
+      },
+      "paper:812603787049959424": {
+        "area": "Physics and Astrophysics",
+        "authors": "David M.-T. Kuo | Yia-Chung Chang",
+        "available_online": "",
+        "cover_date_start": "2000-03-15",
+        "created_at": "2022-12-22T00:37:21+08:00",
+        "doi": "10.1063/1.372281",
+        "en_title": "Intersubband electroabsorption spectra of semiconductor quantum wells",
+        "id": "812603787049959424",
+        "keywords": "",
+        "publication_date": "2000-3-15",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "",
+        "zh_title": "半导体量子阱的子带间电吸收光谱"
+      },
+      "paper:812753016552685569": {
+        "area": "Physics and Astrophysics",
+        "authors": "Hou-zhi Zheng | Aimin Song | Fu-hua Yang | Yue-xia Li",
+        "available_online": "1994-1-15",
+        "cover_date_start": "1994-01-15",
+        "created_at": "2022-12-22T10:30:21+08:00",
+        "doi": "10.1103/physrevb.49.1802",
+        "en_title": "Density of states of the two-dimensional electron gas studied by magnetocapacitances of biased double-barrier structures",
+        "id": "812753016552685569",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "通过偏置双势垒结构的磁电容研究二维电子气的态密度"
+      },
+      "paper:867757275215823669": {
+        "area": "arXiv-Physics",
+        "authors": "A. Janotti | L. Bjaalie | L. Gordon | C. G. Van de Walle",
+        "available_online": "",
+        "cover_date_start": "2012-12-24",
+        "created_at": "2023-05-23T05:17:36+08:00",
+        "doi": "10.48550/arXiv.1212.5947",
+        "en_title": "Controlling the density of the 2DEG at the SrTiO3/LaAlO3 interface",
+        "id": "867757275215823669",
+        "keywords": "",
+        "publication_date": "2012-12-24",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "控制SrTiO₃/LaAlO₃界面处二维电子气（2DEG）的密度"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let m*_{SJB} denote the quasiparticle effective mass obtained from quantum Monte Carlo calculations using a Slater–Jastrow–backflow (SJB) trial wave function for paramagnetic 2D-UEL at low density (for example r_s = 5) in a given simulation-cell geometry and single-particle basis, and let m*_{FCI} denote the hypothetical effective mass that would be obtained if the many-electron wave function were computed by a converged full configuration interaction (FCI) treatment within the same single-particle basis and simulation-cell geometry. The speculative proposition is that m*_{FCI} > m*_{SJB}, i.e., that including all static correlation via a converged FCI would increase the low-density effective mass beyond the SJB-VMC and SJB-DMC estimates reported; this claim is an extrapolation beyond the computed SJB data and is not numerically demonstrated in the calculations reported here.\n      J. J. Shepherd et al., Full configuration interaction perspective on the homogeneous electron gas, Phys. Rev. B 85, 081103(R) (2012).",
+        "content_hash": "33690b012f664e4641a769ae918209a5bf4bb84a0f343fd4165d9ee150afc8a4",
+        "id": "gcn_91358637d8e9481b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron gas confined in the quantum well with in-well effective mass $m_{W}^{*}$ and at temperature $T$ small compared with intersubband spacings, the noninteracting effective-mass relation between two-dimensional areal density $N_{2D}$ and Fermi energy gives the chemical potential $\\mu_{F}$ measured from the ground bound-state energy $E_{0}$; using $N_{2D}=3\\times 10^{11}\\ \\mathrm{cm}^{-2}$ and $m_{W}^{*}=0.067\\,m_{e}$ this noninteracting estimate yields $\\mu_{F}\\approx 9.381\\ \\mathrm{meV}$ above $E_{0}$, with exchange and correlation corrections neglected.",
+        "content_hash": "c3fc87f645598a33afa11eea9407edd94698940abc2c0b12c5b2fdd0780666fe",
+        "id": "gcn_2b962246b7d94719",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812603787049959424::P13",
+            "package_id": "paper:812603787049959424",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812603787049959424"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028006267136701922,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The 2D calculations assume an ideal strictly two-dimensional electron gas with the bare Coulomb interaction $v_{q}=2\\pi e^{2}/q$ and therefore omit finite quasi-2D layer-width form-factor corrections that, for a realistic quasi-2D quantum well or heterostructure, modify the effective interaction at large wavevectors $q$. The explicitly stated quantitative effect of such finite-width form factors is to reduce the 2D many-body renormalization by factors on the order of roughly 1.2–2 depending on carrier density and confinement details; the weak point is the assumption that omitting these finite-width form factors does not change the qualitative conclusions about the spin-polarization dependence of the effective mass (majority mass decreasing with $\\zeta$, minority mass nonmonotonic).\n      [14]",
+        "content_hash": "292cc980d059d043cc1d0908a2b4e0da15c1ac36a746c2af6c0baee319feb1f2",
+        "id": "gcn_04d9c68545784e07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812123848521547776::P4",
+            "package_id": "paper:812123848521547776",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812123848521547776"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026419626007891578,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A parallel full-configuration-interaction (FCI) computational capability was implemented to compute many-body eigenstates of the two-dimensional effective-mass envelope-function Hamiltonian\n      $H=\\sum_{i=1}^{N}\\bigl(\\tfrac{\\boldsymbol{p}_{i}^{2}}{2m^{*}}+\\tfrac{1}{2}m^{*}\\omega_{0}^{2}r_{i}^{2}\\bigr)+\\tfrac{1}{2}\\sum_{i\\neq j}\\tfrac{e^{2}}{\\kappa|\\boldsymbol{r}_{i}-\\boldsymbol{r}_{j}|}$,\n      where $N$ is the number of conduction electrons, $m^{*}$ is the conduction-band effective mass, $\\omega_{0}$ is the 2D harmonic confinement frequency, $e$ is the elementary charge, $\\kappa$ is the static relative dielectric constant, $\\boldsymbol{r}_{i}$ and $\\boldsymbol{p}_{i}$ are the two-dimensional position and canonical momentum of electron $i$, and the dimensionless density parameter is $\\lambda=\\ell_{\\mathrm{QD}}/a_{\\ast}$ with $\\ell_{\\mathrm{QD}}=(\\hbar/(m^{*}\\omega_{0}))^{1/2}$ the characteristic dot radius and $a_{\\ast}=\\hbar^{2}\\kappa/(m^{*}e^{2})$ the effective Bohr radius; this FCI implementation employs large bases of Fock–Darwin (FD) single-particle orbitals (FD orbitals are the eigenfunctions of the single-particle Hamiltonian $H_{0}=\\boldsymbol{p}^{2}/(2m^{*})+\\tfrac{1}{2}m^{*}\\omega_{0}^{2}r^{2}$) and a parallelized diagonalization workflow to handle the large number of Slater determinants arising at low electronic density, and it was used with basis examples of the 36 lowest spin-degenerate FD orbitals for the $N=3$ calculation and the 21 lowest FD orbitals for the $N=8$ calculation to obtain FCI results that reach the low-density (large-$\\lambda$) Wigner regime for electron number up to $N\\leq 8$ and density parameter up to $\\lambda\\leq 10$.",
+        "content_hash": "b5c68a549ca7283e0647a54cb3dade141328aff32ae8a9c48ea324d81a8a2bef",
+        "id": "gcn_97237f12bfe14a37",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811997631709446145::conclusion_1",
+            "package_id": "paper:811997631709446145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811997631709446145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The correlation energy per particle $E_c(n)$ that enters $\\Delta d_{cor}=(\\varepsilon\\varepsilon_0/e^2)\\,\\mathrm{d}^2\\bigl(nE_c(n)\\bigr)/\\mathrm{d}n^2$ is taken from an interpolation formula that was fitted to quantum Monte Carlo results for the homogeneous two-dimensional electron liquid (the interpolation of Tanatar and Ceperley), and this interpolation, when evaluated with the appropriate hole effective mass $m^*$ and dielectric constant $\\varepsilon$, provides an accurate representation of $E_c(n)$ for the two-dimensional hole gas (2DHG) carrier densities corresponding to $r_s$ in the range $10\\text{–}30$ so that no additional hole-specific many-body corrections (for example, arising from nonparabolic valence-band dispersion, multiband effects, or spin–orbit coupling) are required to compute $\\Delta d_{cor}$ in the analysis. \n      [7]",
+        "content_hash": "73078024167025cb7abb32175479bf6ad8c83b122195a288a80a4fd28792d344",
+        "id": "gcn_b0e6769df2ca49c6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812117406523588608::P5",
+            "package_id": "paper:812117406523588608",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812117406523588608"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the purpose of predicting the integrated two-dimensional electron gas (2DEG) areal density $n_{2D}$ at the SrTiO$_{3}$/LaAlO$_{3}$ interface, omission of multiorbital details (for example explicit treatment of separate $d_{xy}$ versus $d_{xz}/d_{yz}$ subbands), anisotropic effective masses, and many-body correlation effects in the one-dimensional effective-mass Schrödinger–Poisson model does not materially change the predicted integrated occupied conduction-band charge density (the total $n_{2D}$ obtained by integrating occupied subband charge along $[001]$) compared to the full many-orbital, correlated first-principles calculation, even though such simplifications will affect detailed subband splittings and effective-mass anisotropies.",
+        "content_hash": "582086c40313e26bd6bb0c6d622a8a760e1a967e7d2ed4a5ea6584ea44c14909",
+        "id": "gcn_047a84d103724778",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757275215823669::P11",
+            "package_id": "paper:867757275215823669",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757275215823669"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron gas with effective mass $m^{*}$ at sufficiently low temperature (thermal smearing small compared to the Fermi energy) and single-subband occupancy, the difference between the Fermi energy $E_{F}$ and the subband edge $E_{0}$ is approximated by the parabolic-band relation\n      $$\n      E_{F}-E_{0}\\approx \\frac{\\pi\\hbar^{2}}{m^{*}}N_{2D},\n      $$\n      where $N_{2D}$ is the areal electron density. This relation neglects exchange-correlation corrections and finite-temperature effects and is used to rewrite the electrostatic bias–density relation in the donor-density fitting step.",
+        "content_hash": "1c759dbac163835841c8d8b59bd4f0e46eda48b2fd54c1b7ee376b10b9072cc3",
+        "id": "gcn_66c8d6bb5f934cda",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812753016552685569::P11",
+            "package_id": "paper:812753016552685569",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812753016552685569"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The collective-mode calculation employs the random-phase approximation (RPA), i.e., the dynamical density response $\\Pi(\\overline{\\mathbf{q}},\\omega)$ is computed from noninteracting Landau-quantized single-particle propagators (ring diagrams only) while neglecting exchange-correlation vertex corrections and higher-order interaction diagrams; for long-wavelength low-$\\bar{q}$ magnetoplasmon modes in a two-dimensional electron gas with areal density $n_{2D}\\sim 3.16\\times10^{15}\\ \\mathrm{m}^{-2}$, effective mass $m=0.07\\,m_{\\mathrm{e}}$, and embedding dielectric constant $\\kappa$, this RPA description is assumed to provide an accurate account of the dispersion.",
+        "content_hash": "1420296c9aacd9baff4893cf7fb57e7e5b3916722723c15b86c3cc5171d34733",
+        "id": "gcn_72ea09d659894926",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811804710762708992::P3",
+            "package_id": "paper:811804710762708992",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811804710762708992"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-electron system confined to a strictly two-dimensional rectangular infinite hard-wall well and treated within the effective-mass approximation using electron effective mass m=0.067\\,m_{0} (where m_{0} is the free-electron mass) and background dielectric constant \\varepsilon=13.1, configuration-interaction (CI) diagonalization of the interacting effective-mass Hamiltonian in a truncated Slater-determinant basis (total spin S=0 and even parity in x and y) yields the following: (a) the fully relaxed ground-state energy E_{r} obtained by CI is substantially lower than the frozen interacting energy E_{f} (the energy of the lowest noninteracting Slater determinant with the Coulomb interaction included but without configuration mixing), demonstrating that electronic correlation beyond a single frozen determinant makes a large quantitative contribution to the ground-state energy; (b) the one-particle density \\sigma(\\vec r), defined as the probability density of finding one electron at two-dimensional position \\vec r after tracing out the other electron, evolves as the well side L increases from a distribution close to the noninteracting free-particle density for small L to a distribution peaked nearer the rectangle diagonals when L is larger, with an explicit example being that for L=0.1\\ \\mu\\mathrm{m} the computed \\sigma(\\vec r) peaks nearly halfway from the center toward the corners; and (c) the two-particle conditional density \\sigma(\\vec r,\\vec r_{0})—the probability density at \\vec r of one electron when the other electron is fixed at \\vec r_{0}—shows strong spatial anti-correlation when Coulomb interactions dominate, i.e., fixing one electron at \\vec r_{0} localizes the other electron preferentially to positions maximally distant from \\vec r_{0}.",
+        "content_hash": "f83e7ef76e0d10a9101362779dc3601129f1c685950022ea92b4c5e051357d9f",
+        "id": "gcn_7798bd2d8bfd4857",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812394568736571394::conclusion_2",
+            "package_id": "paper:812394568736571394",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812394568736571394"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a spin‑singlet two‑electron donor state in a magnetic field along the growth axis, the dominant short‑range electron–electron correlation effects relevant to the low‑energy D^{-} spectrum are captured to leading order by multiplying the symmetrized product of single‑electron orbitals, ψ_i(r_1)ψ_j(r_2)+ψ_j(r_1)ψ_i(r_2), by the quadratic correlation prefactor 1+μ(z_1-z_2)^2+ν(ρ_1-ρ_2)^2, where μ and ν are variational parameters and (ρ_k,z_k) denote the cylindrical radial and axial coordinates of electron k, so that higher‑order or non‑polynomial correlation factors are not essential to obtain the low‑energy variational results presented.",
+        "content_hash": "45a5f8f681ebf861adc962e53db4c0eb71aa538a5f6b3070652977d3f00f5686",
+        "id": "gcn_aa6b03afda254737",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812448140757041152::P2",
+            "package_id": "paper:812448140757041152",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812448140757041152"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "76a106791ed760765742e38dbef8d502"
+}

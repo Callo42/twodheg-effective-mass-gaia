@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812288398881456129": {
+        "area": "Physics and Astrophysics",
+        "authors": "Fernando A. Reboredo | Andrew J. Williamson",
+        "available_online": "2005-3-23",
+        "cover_date_start": "2005-03-23",
+        "created_at": "2022-12-21T03:44:06+08:00",
+        "doi": "10.1103/physrevb.71.121105",
+        "en_title": "Optimized nonorthogonal localized orbitals for linear scaling quantum Monte Carlo calculations",
+        "id": "812288398881456129",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "用于线性标度量子蒙特卡罗计算的优化非正交定域轨道"
+      },
+      "paper:812705993593978881": {
+        "area": "Physics and Astrophysics",
+        "authors": "V. Natoli | Richard M. Martin | D. M. Ceperley",
+        "available_online": "1993-3-29",
+        "cover_date_start": "1993-03-29",
+        "created_at": "2022-12-22T07:23:30+08:00",
+        "doi": "10.1103/physrevlett.70.1952",
+        "en_title": "Crystal structure of atomic hydrogen",
+        "id": "812705993593978881",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "原子氢的晶体结构"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867748261803327718": {
+        "area": "arXiv-Physics",
+        "authors": "E. Sola | J. Casulleras | J. Boronat",
+        "available_online": "",
+        "cover_date_start": "2006-04-03",
+        "created_at": "2023-05-23T04:41:48+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0604034",
+        "en_title": "Ground-state energy and stability limit of small 3He drops",
+        "id": "867748261803327718",
+        "keywords": "",
+        "publication_date": "2006-04-03",
+        "publication_id": "108485",
+        "publication_name": "Other Condensed Matter _ Physics.cond-mat.other",
+        "research_categories": "",
+        "zh_title": "小$$^{3}He$$液滴的基态能量和稳定性极限"
+      },
+      "paper:867751368390082706": {
+        "area": "arXiv-Physics",
+        "authors": "I.G. Gurtubay | R. Gaudoin | J.M. Pitarke",
+        "available_online": "",
+        "cover_date_start": "2010-01-27",
+        "created_at": "2023-05-23T04:54:08+08:00",
+        "doi": "10.48550/arXiv.1001.5002",
+        "en_title": "Benchmark Quantum Monte Carlo calculations of the ground-state kinetic, interaction, and total energy of the three-dimensional electron gas",
+        "id": "867751368390082706",
+        "keywords": "",
+        "publication_date": "2010-01-27",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "三维电子气基态动能、相互作用能和总能量的基准量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867762442359275655": {
+        "area": "arXiv-Physics",
+        "authors": "Luca Salasnich | Flavio Toigo",
+        "available_online": "",
+        "cover_date_start": "2008-09-10",
+        "created_at": "2023-05-23T05:38:08+08:00",
+        "doi": "10.48550/arXiv.0809.1820",
+        "en_title": "Extended Thomas-Fermi Density Functional for the Unitary Fermi Gas",
+        "id": "867762442359275655",
+        "keywords": "",
+        "publication_date": "2008-09-10",
+        "publication_id": "108485",
+        "publication_name": "Other Condensed Matter _ Physics.cond-mat.other",
+        "research_categories": "",
+        "zh_title": "幺正费米气体的扩展托马斯-费米密度泛函"
+      },
+      "paper:867763633608720475": {
+        "area": "arXiv-Physics",
+        "authors": "R. Gaudoin | J. M. Pitarke",
+        "available_online": "",
+        "cover_date_start": "2009-07-06",
+        "created_at": "2023-05-23T05:42:53+08:00",
+        "doi": "10.48550/arXiv.0907.0879",
+        "en_title": "An efficient method for the Quantum Monte Carlo evaluation of the static density-response function of a many-electron system",
+        "id": "867763633608720475",
+        "keywords": "",
+        "publication_date": "2009-07-06",
+        "publication_id": "108485",
+        "publication_name": "Other Condensed Matter _ Physics.cond-mat.other",
+        "research_categories": "",
+        "zh_title": "一种用于多电子系统静态密度响应函数的量子蒙特卡罗评估的有效方法"
+      },
+      "paper:867763932935225933": {
+        "area": "arXiv-Physics",
+        "authors": "Hilla De-Leon | Francesco Pederiva",
+        "available_online": "",
+        "cover_date_start": "2022-10-31",
+        "created_at": "2023-05-23T05:44:04+08:00",
+        "doi": "10.48550/arXiv.2211.00165",
+        "en_title": "Equation of State of a Strongly Interacting many-Boson System from an Effective Interaction",
+        "id": "867763932935225933",
+        "keywords": "",
+        "publication_date": "2022-10-31",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "[\"Physical Sciences\", \"Nuclear and Plasma Physics\"]",
+        "zh_title": "基于有效相互作用的强相互作用多玻色子系统的状态方程"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let $E(R_{cut})$ be the DMC total energy per electron for the homogeneous electron gas (HEG) at density parameter $r_s$ and let $E_\\infty$ be the converged energy per electron. For the HEG calculations performed with nonorthogonal orbitals constructed and DMC settings as described above, the truncation $R_{cut}=7.0$ (units consistent with the HEG data reported) at $r_s=2$ produces an energy difference $E(R_{cut})-E_\\infty$ of approximately $2\\ \\mathrm{meV}$ per electron, with this numeric reading subject to the typical plotting, finite-sample, and basis-supercell uncertainties inherent in the reported data.",
+        "content_hash": "5c3665aa74133134f5b399232c1011ff83e8d98d7b249fd243142d7e0a5678ea",
+        "id": "gcn_1d9cb32a1213425a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812288398881456129::P11",
+            "package_id": "paper:812288398881456129",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812288398881456129"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02628900949796472,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the same HEG systems and trial wave functions defined above, applying the three-parameter extrapolation model\n      $E_N = E_\\infty + b_1\\,\\Delta T_{\\mathrm{HF}}(N) + b_2/N$\n      to DMC energies but fixing the finite-size coefficients $b_1$ and $b_2$ to the values obtained from VMC fits produces extrapolated DMC thermodynamic-limit energies that are spuriously low compared to extrapolations obtained by fitting $b_1$ and $b_2$ directly to the DMC data: using VMC $b_1,b_2$ yields DMC extrapolations DMC-SJ* $E_\\infty^{\\mathrm{DMC-SJ*}} = 0.00266(1)$ Ha/e and DMC-SJB* $E_\\infty^{\\mathrm{DMC-SJB*}} = 0.001380(8)$ Ha/e, whereas fitting $b_1,b_2$ to the DMC data gives DMC-SJ $E_\\infty^{\\mathrm{DMC-SJ}} = 0.00301(1)$ Ha/e and DMC-SJB $E_\\infty^{\\mathrm{DMC-SJB}} = 0.001621(7)$ Ha/e; therefore the hypothesis that VMC and DMC share identical finite-size dependences ($b_1,b_2$) is invalid for these systems and reusing VMC parameters biases DMC $E_\\infty$ downward beyond the quoted uncertainties.",
+        "content_hash": "f101902dee7c3a4f7fce2ef2d3148fa9f7d69f3cd316daf38ace8b55d0f7961b",
+        "id": "gcn_915aa950051d4d8b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751368390082706::conclusion_2",
+            "package_id": "paper:867751368390082706",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751368390082706"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.023973585989089864,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The diffusion Monte Carlo data for Fourier-projected Fermi liquid quantities display large, nonmonotonic fluctuations as functions of finite-system particle number N that exceed the per-run statistical error bars: the statistical uncertainties from individual DMC runs are generally much smaller than the observed shell-filling oscillations and other finite-size \"noise.\" A theoretical finite-size scaling proportional to N^{-1/4} (the exponent -1/4 predicted for long-range-correlation-dominated finite-size errors) is consistent with all DMC data in a global fit (the best-fit common exponent found by simultaneous \\chi^2 fitting of the DMC data is \\gamma = -0.24(10)), but the fit quality is poor (\\chi^2 per data point \\gg 1) because the shell-filling oscillations and related finite-size noise are not captured by the statistical error bars; a naive ordinary least-squares fit with equal weighting of data points yields a very different effective exponent. Consequently, these finite-size effects constitute a serious obstacle to a quantitatively accurate, direct determination of Fermi liquid parameters from finite-cell QMC calculations: extrapolated Fermi liquid parameters obtained by simple power-law fits have large uncertainties and in many cases are inconsistent with related thermodynamic quantities obtained directly from parametrizations of the ground-state total energy per electron.",
+        "content_hash": "30eefee1ccd63db33ea9950861254ea7e118b166b731903158e65947e6d51cc8",
+        "id": "gcn_3db07703d3684507",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_4",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For fixed-node HF-based DMC calculations of the interaction energy per electron $U_N$ for the 3D HEG at $r_s=2$ and system sizes up to $N=226$, the stated statistical uncertainties of order $0.1$ mHa/e accurately reflect the total stochastic sampling error under the employed computational protocol (which used a DMC time step of 0.003 a.u., a target population of 800 configurations to make population-control bias negligible, and the MPC interaction in the branching factors), and there are no substantially larger unreported statistical instabilities (for example arising from insufficient population size, time-step bias at the chosen time step, or history truncation effects) that would increase the true uncertainty beyond the reported values.",
+        "content_hash": "d1baa768376e39a8a49e47ac8f143c79d09f46d2d32d77cba4ce0eb480b9fedb",
+        "id": "gcn_ef5c3ef45a5649ce",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751368390082706::P11",
+            "package_id": "paper:867751368390082706",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751368390082706"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Modeling the finite-N odd–even ground-state energy splitting in a spherical harmonic trap of frequency ω by the scaling law ΔE = γ N^{1/9} ħω and fitting the full fixed-node diffusion Monte Carlo (FN-DMC) dataset that contains both even and odd N using an even-N ETF baseline with parameters ξ = 0.455 and λ = 0.13 produces the best-fit dimensionless coefficient γ = 0.856.",
+        "content_hash": "32df4176456d5cde97bc722bf3f4d662cde590becbd09550c266054dd81f0d7d",
+        "id": "gcn_d2ff745e8af448ef",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867762442359275655::conclusion_4",
+            "package_id": "paper:867762442359275655",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867762442359275655"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the growth-estimator Hellmann–Feynman sampling in fixed-node DMC, diagonal elements of the static density-response function were computed for an unpolarized homogeneous electron gas (HEG) at electron-density parameters $r_{s}=2$, $5$, and $10$ in simple-cubic simulation cells with $N=114$ electrons; the calculations covered all 119 independent $k$-vectors between $k=0$ and $k=5k_{F}$.  The numerical results show pronounced finite-size shell structure in $\\chi$ (the same type of shell signatures are present for the non-interacting finite-size $\\chi$ even at $N=4218$), and the fixed-node DMC response $\\chi^{fn}$ is systematically smaller than the corresponding non-fixed-node responses, with fixed-node suppression of the response magnitude especially strong for wavevectors $k\\lesssim 3k_{F}$.  These fixed-node DMC $\\chi^{fn}$ data were compared with the infinite-cell non-interacting Lindhard function $\\chi_{0}$, finite-size non-interacting $\\chi_{0}^{fs}$, the random-phase-approximation $\\chi_{RPA}$, and the fixed-node Lindhard $\\chi_{0}^{fn}$ to analyze finite-size and nodal effects.",
+        "content_hash": "1d898f8b08bb94ec3f7e93906f0d076a5e86659978aedb27d9b63544764a64e5",
+        "id": "gcn_1bfebab773f64f1f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763633608720475::conclusion_4",
+            "package_id": "paper:867763633608720475",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763633608720475"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed FN-DMC total energy per particle $E/N$ as a function of atom number $N$ exhibits nonmonotonicities (kinks) associated with shell structure at $N=30$ and at $N=40$ (the latter corresponding to a doubly magic configuration with $N_{\\uparrow}=N_{\\downarrow}=20$), while in the intermediate regime $30\\le N\\le 40$ the discrete DMC data follow a smooth trend that is well reproduced by a second-degree (quadratic) polynomial fit used as a guide to the eye.",
+        "content_hash": "28958c146524923cb3593284dee5dbcb6d727af86cd6e72d606c083fe23b5d13",
+        "id": "gcn_98ac98a41f444e9b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748261803327718::conclusion_5",
+            "package_id": "paper:867748261803327718",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748261803327718"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) calculations, where DMC denotes the stochastic imaginary-time projection algorithm used to obtain ground-state energies, were performed for ${}^{4}$He droplets with particle numbers $N=4,5,6,7$ using the calibrated LO contact Hamiltonian above and Gaussian regulators $e^{-r^{2}\\Lambda^{2}}$; the Bohr radius is denoted $a_{0}$. For regulator values $\\Lambda\\gtrsim0.24\\ a_{0}^{-1}$ the DMC-computed binding energies per particle for these droplets approach the corresponding binding energies obtained with the realistic HFDHE2 interatomic potential by Aziz et al., i.e., the central DMC energies computed with the LO contact interaction are close to the HFDHE2 benchmarks across $N=4\\text{--}7$, while the statistical uncertainties of the DMC estimates increase with increasing $\\Lambda$.",
+        "content_hash": "db42662f1b3df814ff51ed5620fe89f39549a09211a0ff58c1a16cdf402df195",
+        "id": "gcn_bbd19490cd394155",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763932935225933::conclusion_2",
+            "package_id": "paper:867763932935225933",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763932935225933"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E_VMC and E_DMC denote variational and fixed-node diffusion Monte Carlo total energies per atom. Released-node calculations performed for the homogeneous electron gas (HEG) report an empirical scaling relation that the fixed-node error (the difference between the true fermionic ground-state energy and the fixed-node DMC energy) is approximately 0.1 × (E_VMC − E_DMC) for that system; the proposition adopted here is that this empirical proportionality factor of 0.1 relating released-node corrections to the variational-to-DMC energy difference for the HEG applies with similar accuracy to crystalline atomic hydrogen at r_s = 1.31, so that one may estimate the fixed-node error in the hydrogen-crystal DMC calculations by multiplying the observed quantity (E_VMC − E_DMC) by 0.1.\n      [18]",
+        "content_hash": "35ca5b256ba1a6adadeb182498071583f490a405dfac0bcea8b45b05c26b4dbb",
+        "id": "gcn_1690586109424017",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812705993593978881::P4",
+            "package_id": "paper:812705993593978881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812705993593978881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "6617a8d7ee7a5c7f16f262312d90f305"
+}

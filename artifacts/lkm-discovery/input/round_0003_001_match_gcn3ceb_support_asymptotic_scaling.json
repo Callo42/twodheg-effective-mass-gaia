@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867750469496209686": {
+        "area": "arXiv-Physics",
+        "authors": "R. M. Lee | N. D. Drummond",
+        "available_online": "",
+        "cover_date_start": "2011-02-18",
+        "created_at": "2023-05-23T04:50:34+08:00",
+        "doi": "10.48550/arXiv.1102.3854",
+        "en_title": "Ground state properties of the one-dimensional electron liquid",
+        "id": "867750469496209686",
+        "keywords": "",
+        "publication_date": "2011-02-18",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "一维电子液体的基态性质"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867753237489385868": {
+        "area": "arXiv-Physics",
+        "authors": "Tim Gould | John F. Dobson",
+        "available_online": "",
+        "cover_date_start": "2011-06-01",
+        "created_at": "2023-05-23T05:01:34+08:00",
+        "doi": "10.48550/arXiv.1106.0327",
+        "en_title": "Efficient, long-range correlation from occupied wavefunctions only",
+        "id": "867753237489385868",
+        "keywords": "",
+        "publication_date": "2011-06-01",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "仅从占据波函数出发的高效、长程关联"
+      },
+      "paper:867759127584047751": {
+        "area": "arXiv-Physics",
+        "authors": "T. R. Kirkpatrick | D. Belitz",
+        "available_online": "",
+        "cover_date_start": "2012-08-19",
+        "created_at": "2023-05-23T05:24:58+08:00",
+        "doi": "10.48550/arXiv.1208.3872",
+        "en_title": "Anomalous Density-of-States Fluctuations in Two-Dimensional Clean Metals",
+        "id": "867759127584047751",
+        "keywords": "",
+        "publication_date": "2012-08-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维纯净金属中反常的态密度涨落"
+      },
+      "paper:867764772613914894": {
+        "area": "arXiv-Physics",
+        "authors": "D. Belitz | T.R. Kirkpatrick",
+        "available_online": "",
+        "cover_date_start": "1997-03-17",
+        "created_at": "2023-05-23T05:47:24+08:00",
+        "doi": "10.48550/arXiv.cond-mat/9703164",
+        "en_title": "Theory of many-fermion systems",
+        "id": "867764772613914894",
+        "keywords": "",
+        "publication_date": "1997-03-17",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "多费米子系统理论"
+      }
+    },
+    "variables": [
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02804284323271665,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the homogeneous electron gas (HEG) have Fermi wavevector k_{F} and Fermi velocity v_{F}. Construct the CM response from occupied-orbital-derived ground-state quantities n^{0} and the kinetic stress tensor. In the asymptotic regime of long wavelength q\\ll k_{F} and high frequency \\omega \\gg v_{F}q (so that the frequency lies above the particle–hole continuum at that q), the CM linear response equals the true HEG bare response χ_{0} in this limit, reproducing the metallic infinite polarizability χ_{0}\\to\\infty as q\\to 0; this equality of asymptotic responses allows analytic evaluation of coupled two-dimensional plasmon dispersions and yields the thin-metal dRPA asymptotic scaling \\bar{\\epsilon}(D)\\propto\\sqrt{N_{s}}(D+s)^{-5/2}.",
+        "content_hash": "06f7f88cbcc1b1acee6782addd13fa83593e6f2bac1fcf7af2eca543760cfe13",
+        "id": "gcn_abec36d611194ee6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753237489385868::P8",
+            "package_id": "paper:867753237489385868",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753237489385868"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02532051282051282,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025035205758097326,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), the leading finite-size error in Fermi-liquid-derived quantities such as the angular-momentum Fermi liquid parameters F_l or the Fourier-projected quantities F_l/m^{*} behaves asymptotically as a power law in the finite-system particle number N with exponent -1/4; equivalently,\n      \\Delta F_l(N) \\equiv F_l(N)-F_l(\\infty) \\propto N^{-1/4},\n      so that fitting computed F_l(N) values to the form c + a N^{-1/4} yields an estimate of the thermodynamic-limit intercept c = F_l(\\infty). This statement adopts the theoretical asymptotic exponent \\gamma = -1/4 predicted for long-range-correlation-dominated finite-size errors.\n      Refs. 13,14",
+        "content_hash": "5d35c92260764bcb7f6ff7e8faf67af9d71f7400ea2dbb873a0034fae3ee4b32",
+        "id": "gcn_3ceb44ae3f404964",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P2",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite-system electron numbers used in the calculations—N = 26, 50, 74, 114 for paramagnetic HEGs and N = 29, 57, 101 for ferromagnetic HEGs—provide multiple system sizes at each density and spin polarization such that the computed values F_l^{s,a}/m^{*}(N) display the onset of finite-size behavior consistent with long-range-correlation-dominated scaling (for example an N^{-1/4} trend), and therefore these system sizes were treated as sufficient for attempting an extrapolation to the thermodynamic limit using the assumed N^{-1/4} dependence.",
+        "content_hash": "6d5e9bef097e04b66e50264296b0a7ecd445aa771a795abb6ef33d573abb8c6b",
+        "id": "gcn_be865fd471c743ca",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P13",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the one-dimensional homogeneous electron gas (1D HEG) with long-range interaction possessing a 1/|x| asymptotic tail, the momentum density n(k) near the Fermi wave vector k_{\\mathrm F} admits the Tomonaga-Luttinger liquid asymptotic form\n      n(k) = n(k_{\\mathrm F}) + A\\,\\mathrm{sign}(k-k_{\\mathrm F})\\,|k-k_{\\mathrm F}|^{\\alpha}\n      with exponent 0<\\alpha<1 and amplitude A; fitting this functional form to finite-k numerical data in windows around k_{\\mathrm F} and extrapolating yields a meaningful estimate of the TL exponent α for the long-range-interacting 1D HEG studied here.\n      [3],[66]",
+        "content_hash": "518aec5e1d552560727b166480c75d758f7e927d6971f4e3e144835ccd4060e2",
+        "id": "gcn_3081ff0251e447ae",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750469496209686::P13",
+            "package_id": "paper:867750469496209686",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750469496209686"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The leading nonanalytic corrections to scaling near the disordered Fermi–liquid fixed point are determined by the dynamical exponent $z=2$ and the least irrelevant operator of scale dimension $-(d-2)$, which implies the following asymptotically exact leading behaviors for $d>2$ in the long–wavelength, low–frequency limit:\n      - Dynamical conductivity (frequency dependence at low $\\\\omega$):\n        \\[\n        \\\\sigma(\\\\omega)=\\\\mathrm{const.}+\\\\omega^{(d-2)/2}.\n        \\]\n      - Specific heat coefficient (temperature dependence at low $T$):\n        \\[\n        \\\\gamma_{V}(T)=\\\\mathrm{const.}+T^{(d-2)/2}.\n        \\]\n      - Single–particle density of states (energy dependence measured from the Fermi level; Coulomb anomaly):\n        \\[\n        N(\\\\omega)=\\\\mathrm{const.}+\\\\omega^{(d-2)/2}.\n        \\]\n      - Wavevector–dependent spin susceptibility (small $|\\\\mathbf{q}|$ behavior):\n        \\[\n        \\\\chi_{s}(\\\\mathbf{q})=\\\\mathrm{const.}+|\\\\mathbf{q}|^{(d-2)}.\n        \\]\n      These nonanalytic forms are the universal leading corrections to scaling arising from the sigma–model least irrelevant operator and hence are asymptotically exact in the regime controlled by the disordered Fermi–liquid fixed point.",
+        "content_hash": "28d9c0f39358755fbada24914510a9557916deaa3a209a48a6a72c7665bbf8b0",
+        "id": "gcn_a9390c0a68934015",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867764772613914894::conclusion_8",
+            "package_id": "paper:867764772613914894",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867764772613914894"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $Z(N)$ denote the discontinuity in the momentum-distribution function at the Fermi edge computed in a finite periodic simulation cell containing $N$ electrons using variational Monte Carlo (VMC) with the Slater-Jastrow(-backflow) trial wave functions used in these calculations; the proposition is that the VMC calculations reproduce the finite-size scaling behavior $Z(N)-Z(\\infty)\\propto N^{-1/4}$ reported by Holzmann et al. for the paramagnetic 2D HEG at the densities considered, i.e., the observed $Z(N)$ versus $N$ data are consistent with an $O(N^{-1/4})$ finite-size dependence within the statistical uncertainty of the VMC results.\n      [11] M. Holzmann et al., Phys. Rev. B 79, 041308(R) (2009)",
+        "content_hash": "f91de1a3ff06a6b5379c78bc3d242a5c08892796125a612e4fe23c3a0a2650b8",
+        "id": "gcn_aee438dbc0e74d4b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P12",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Although dynamically screened long-range interactions can produce dangerous irrelevant variables (DIVs) that affect certain observables (e.g., the order-parameter susceptibility), the leading nonanalytic $|\\omega|$ scaling of the two-dimensional density-of-states correction $\\delta N(\\omega)\\propto|\\omega|$ is not altered by such DIVs: in other words, the $|\\omega|$ dependence is an exact leading correction-to-scaling at the Fermi-liquid fixed point in $d=2$, and any DIVs (such as the Coulomb coupling parameter $u$) can at most renormalize the numerical prefactor multiplying $|\\omega|$ but cannot change the $|\\omega|$ power law itself. Here $\\delta N(\\omega)=N(\\omega)-2N_{F}$, $N_{F}$ is the density of states per spin at the Fermi level, and the statement pertains to the asymptotic small-$\\omega$ behavior.",
+        "content_hash": "51fc4cfd021489370c01f4db978e24b550fb48118b6a58eee1ed11b369a99b2f",
+        "id": "gcn_c4b88dc694a94523",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759127584047751::P12",
+            "package_id": "paper:867759127584047751",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759127584047751"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "25b68018c6311bec174ae1d9c7556f09"
+}

@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "In finite periodic simulation cells for a two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions that contain variational parameters in the Jastrow and backflow factors, reoptimizing those variational parameters for an excited-state configuration (created by adding or removing an electron in a specified Bloch state) can yield a lower total DMC energy in that finite cell relative to using the ground-state-optimized parameters; because, in the thermodynamic limit, the optimal short-range correlation functions are unchanged by a single excitation, this finite-cell energy lowering is a manifestation of finite-size error and can reduce computed excitation bandwidths and therefore amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass.",
+      "content_hash": "b13271b3449ea0dde4af2a827d5ce200b738ef18fbc54292a8a36c1305cf0a40",
+      "id": "gcn_850fc9d9de314026",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "0f3103f550758fc1d91f2b0e47d7e49c"
+}

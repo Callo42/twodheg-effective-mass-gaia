@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812264893649518595": {
+        "area": "Physics and Astrophysics",
+        "authors": "Zhixin Qian",
+        "available_online": "2005-8-10",
+        "cover_date_start": "2005-08-10",
+        "created_at": "2022-12-21T02:10:42+08:00",
+        "doi": "10.1103/physrevb.72.075115",
+        "en_title": "Dynamical exchange-correlation potentials in the spin channel for the two-dimensional electron liquid",
+        "id": "812264893649518595",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气自旋通道中的动力学交换关联势"
+      },
+      "paper:812448723123568641": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Taut",
+        "available_online": "",
+        "cover_date_start": "1994-01-01",
+        "created_at": "2022-12-21T14:21:11+08:00",
+        "doi": "10.1016/0038-1098(94)90680-7",
+        "en_title": "On the paired Wigner crystal",
+        "id": "812448723123568641",
+        "keywords": "",
+        "publication_date": "1994-1",
+        "publication_id": "653",
+        "publication_name": "Solid State Communications _ Solid State Communications",
+        "research_categories": "",
+        "zh_title": "关于配对维格纳晶体"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:813244807878017024": {
+        "area": "Geoscience",
+        "authors": "W. Hanke | A. Muramatsu | G. Dopf",
+        "available_online": "2013-2-19",
+        "cover_date_start": "1991-12-01",
+        "created_at": "2022-12-23T19:04:32+08:00",
+        "doi": "10.1002/phbl.19910471208",
+        "en_title": "Das Jülicher Computer-Projekt: Neue Erkenntnisse über die Hochtemperatur-Supraleitung",
+        "id": "813244807878017024",
+        "keywords": "",
+        "publication_date": "1991-12",
+        "publication_id": "30545",
+        "publication_name": "Physik Journal _ Phys. Bl.",
+        "research_categories": "",
+        "zh_title": "于利希计算机项目：关于高温超导的新认识"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867766029395165625": {
+        "area": "arXiv-Physics",
+        "authors": "Yangzheng Lin | R. E. Cohen | Stephen Stackhouse | Kevin P. Driver | Burkhard Militzer | Luke Shulenburger | Jeongnim Kim",
+        "available_online": "",
+        "cover_date_start": "2014-07-22",
+        "created_at": "2023-05-23T05:52:24+08:00",
+        "doi": "10.48550/arXiv.1407.6070",
+        "en_title": "Equations of state and stability of MgSiO$_3$ perovskite and post-perovskite phases from quantum Monte Carlo simulations",
+        "id": "867766029395165625",
+        "keywords": "",
+        "publication_date": "2014-07-22",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "基于量子蒙特卡罗模拟的硅酸镁钙钛矿和后钙钛矿相的状态方程及稳定性"
+      },
+      "paper:867772751656518235": {
+        "area": "arXiv-Physics",
+        "authors": "C. Wellenhofer | D. R. Phillips | A. Schwenk",
+        "available_online": "",
+        "cover_date_start": "2020-06-02",
+        "created_at": "2023-05-23T06:19:06+08:00",
+        "doi": "10.48550/arXiv.2006.01429",
+        "en_title": "From weak to strong: constrained extrapolation of perturbation series with applications to dilute Fermi systems",
+        "id": "867772751656518235",
+        "keywords": "",
+        "publication_date": "2020-06-02",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "从弱到强：微扰级数的约束外推及其在稀薄费米系统中的应用"
+      },
+      "paper:937409596379627733": {
+        "area": "arXiv-Physics",
+        "authors": "Jiho Sung | Jue Wang | Ilya Esterlis | Pavel A. Volkov | Giovanni Scuri | You Zhou | Elise Brutschea | Takashi Taniguchi | Kenji Watanabe | Yubo Yang | Miguel A. Morales | Shiwei Zhang | Andrew J. Millis | Mikhail D. Lukin | Philip Kim | Eugene Demler | Hongkun Park",
+        "available_online": "",
+        "cover_date_start": "2023-11-29",
+        "created_at": "2023-12-01T10:14:27+08:00",
+        "doi": "10.48550/arXiv.2311.18069",
+        "en_title": "Observation of an electronic microemulsion phase emerging from a quantum crystal-to-liquid transition",
+        "id": "937409596379627733",
+        "keywords": "",
+        "publication_date": "2023-11-29",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "观察量子晶体到液体转变过程中出现的电子微乳液相"
+      }
+    },
+    "variables": [
+      {
+        "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+        "content_hash": "b91e49651e9919fd43236efc34209fb4d01669b2208edac4b705bf9ae139fce3",
+        "id": "gcn_ff9edeb262af4bd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_7",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Published quantum Monte Carlo (QMC) total-energy data for the homogeneous Fermi liquid (spin-polarized and unpolarized) serve as accurate benchmarks for the liquid-phase ground-state energy per electron as a function of $r_{s}$ and can be directly compared to the harmonic-level crystalline energies computed here, taking into account the reported QMC statistical and systematic uncertainties.",
+        "content_hash": "d1697e923dc3ac67fa095b02627beb92b3d991d802a10ecd533a34e875f7268e",
+        "id": "gcn_cb17384c0daf4a00",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812448723123568641::P10",
+            "package_id": "paper:812448723123568641",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812448723123568641"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029411764705882353,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: Taking quasiparticle effective masses $m^{*}$ reported in prior DMC energy-band calculations (for example, numerical values reported in the literature) and combining them with isothermal compressibility and spin-susceptibility ratios computed from QMC-based ground-state total-energy parameterizations, then solving the Landau relations\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{s}}{m^{*}},\\qquad\n      \\frac{\\chi}{\\chi^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{a}}{m^{*}},\\qquad\n      m^{*}=1+F_{1}^{s}\\ \\text{(paramagnetic) or}\\ m^{*}=1+F_{1}\\ \\text{(ferromagnetic)},\n      $$\n      yields numerical values of the Fermi liquid parameters $F_0^{s}$, $F_0^{a}$, $F_1^{s}$ (paramagnetic) and $F_0$, $F_1$ (ferromagnetic) that serve as pragmatic “best available” recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable; here all quantities are evaluated at the same density parameter $r_s$ and spin polarization $\\zeta$.\n      Ref. 11",
+        "content_hash": "62ff0d4093293afa75a12b0af615ab9e2e09f65128a073b49c27743bf105753c",
+        "id": "gcn_836bae7457044c7a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P8",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029386529386529386,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The diffusion Monte Carlo data for Fourier-projected Fermi liquid quantities display large, nonmonotonic fluctuations as functions of finite-system particle number N that exceed the per-run statistical error bars: the statistical uncertainties from individual DMC runs are generally much smaller than the observed shell-filling oscillations and other finite-size \"noise.\" A theoretical finite-size scaling proportional to N^{-1/4} (the exponent -1/4 predicted for long-range-correlation-dominated finite-size errors) is consistent with all DMC data in a global fit (the best-fit common exponent found by simultaneous \\chi^2 fitting of the DMC data is \\gamma = -0.24(10)), but the fit quality is poor (\\chi^2 per data point \\gg 1) because the shell-filling oscillations and related finite-size noise are not captured by the statistical error bars; a naive ordinary least-squares fit with equal weighting of data points yields a very different effective exponent. Consequently, these finite-size effects constitute a serious obstacle to a quantitatively accurate, direct determination of Fermi liquid parameters from finite-cell QMC calculations: extrapolated Fermi liquid parameters obtained by simple power-law fits have large uncertainties and in many cases are inconsistent with related thermodynamic quantities obtained directly from parametrizations of the ground-state total energy per electron.",
+        "content_hash": "30eefee1ccd63db33ea9950861254ea7e118b166b731903158e65947e6d51cc8",
+        "id": "gcn_3db07703d3684507",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_4",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029273504273504274,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing the measured reduced susceptibility data in the high-density liquid to fixed-node diffusion QMC predictions for a homogeneous two-dimensional electron gas parameterized by conduction-band g-factor g, effective mass m^*, and dielectric constant ε, the proposition is that the reported quantitative agreement between experiment and QMC is robust against reasonable variations of these input parameters: moderate adjustments of ε within experimentally plausible bounds or modest changes in the assumed m^* around 0.7 m_0 do not eliminate the quantitative agreement between the measured χ/χ_0 and the QMC curve, supporting the conclusion that the high-density state behaves as a clean, strongly interacting Fermi liquid rather than being an artifact of over-fitting poorly constrained parameters.",
+        "content_hash": "63d1a942ed84a2b77b2e4d9c4d11ce6ff40464c3fbb92e68658641e10f591bc2",
+        "id": "gcn_be05e6588d854310",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:937409596379627733::P14",
+            "package_id": "paper:937409596379627733",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:937409596379627733"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02452153110047847,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Vinet equation‑of‑state parameters $F_0$, $V_0$, $K_0$ and $K_0'$ at 300 K reported for perovskite were obtained by fitting Helmholtz free energies assembled from QMC infinite‑cell static energies plus DFPT phonons, and the quoted one‑sigma uncertainties are the result of propagating the QMC statistical errors through the fitting procedure; it is implicitly assumed that unquantified systematic error sources — including pseudopotential approximation, fixed‑node approximation, choice of DFPT exchange–correlation functional, limitations of the quasi‑harmonic approximation, and uncertainty in finite‑size extrapolation — are smaller than or comparable to the reported statistical error bars and therefore do not materially increase the stated one‑sigma uncertainty ranges for the 300 K Vinet parameters.\n      Table III",
+        "content_hash": "f71f81cc02d1a71dcfe27671a3f2b033c60835ef469496b0b5cfc3633c1402d4",
+        "id": "gcn_129d550df94545a4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867766029395165625::P6",
+            "package_id": "paper:867766029395165625",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867766029395165625"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The inference that the doped system at model hole concentration x ≈ 0.25 exhibits non‑Fermi‑liquid character (drastically increased quasiparticle decay rates) is based on two numerical inputs: (i) a QMC‑extracted dispersion E(k) computed for model doping x = 0.25 that is compared to ARPES measurements performed on Bi2Sr2CaCu2O8 at an experimental hole concentration of about 20%, and (ii) quasiparticle decay rates obtained from exact diagonalization calculations performed on very small clusters (10–20 orbitals); this route to the non‑Fermi‑liquid conclusion therefore rests on the assumption that finite‑size, finite‑temperature QMC and small‑cluster ED results reliably reflect infinite‑system quasiparticle lifetimes and scattering rates.\n      Fig. 4",
+        "content_hash": "13c0f22fcc5f9e52a85114edccd946fade83386c691f5cc627cd05d70d2db9e5",
+        "id": "gcn_d608731f4a894ba6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813244807878017024::P4",
+            "package_id": "paper:813244807878017024",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813244807878017024"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Landau Fermi-liquid parameters F_{\\ell}^{s} and F_{\\ell}^{a} for \\ell=0,1,2 obtained in the quantum Monte Carlo study by Kwon, Ceperley, and Martin provide numerical values that, when substituted into the Landau-parameter relations\n      $$\n      \\operatorname{Re}B^{L}(0)=\\frac{E_{F}}{4n}\\frac{F_{2}^{a}+4F_{0}^{a}-3F_{1}^{s}}{1+F_{1}^{s}/2},\\qquad\n      \\operatorname{Re}B^{T}(0)=\\frac{E_{F}}{4n}\\frac{F_{2}^{a}-F_{1}^{s}}{1+F_{1}^{s}/2},\n      $$\n      yield reliable numerical estimates of \\operatorname{Re}B^{L,T}(0) for the range of densities considered (for example r_{s}=1–5).",
+        "content_hash": "413f456ec3715f221b9b6a13c379a05c448fef8c3e9f23c473b75ac15140fcd5",
+        "id": "gcn_4b12bd8f7cfc4487",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812264893649518595::P14",
+            "package_id": "paper:812264893649518595",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812264893649518595"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let F(x)=E/E_0 denote the ground-state energy ratio for the three-dimensional dilute Fermi gas as a function of the rescaled interaction parameter x. Suppose available numerical estimates from quantum Monte Carlo (QMC) or experimental analyses give the leading strong-coupling coefficients as d_1≈-0.9 with uncertainty ≃0.05 and d_2≈-0.8 with uncertainty ≃0.1. These approximate values (with their stated uncertainties) can be used as input constraints in the ODME prescription to determine order-dependent parameters α(N) and thereby materially improve low-order extrapolants for F(x), under the assumption that the quoted QMC/experimental determinations are representative of the asymptotic 1/x and 1/x^2 coefficients entering the strong-coupling expansion used by ODME.\n      (QMC/experimental estimates as discussed in the paper and Refs. [10,11,13])",
+        "content_hash": "9093cd24c36a90ee08d24a00102c4b5f79e52515e05c2d3e87320648f5f201db",
+        "id": "gcn_729401d230554696",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772751656518235::P6",
+            "package_id": "paper:867772751656518235",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772751656518235"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "ef3c95cf6a9badf0326467f9641903e4"
+}

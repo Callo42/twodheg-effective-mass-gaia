@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+      "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+      "id": "gcn_4589e711a3d4446d",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "3926b331dd3cc9276d5f4a48e5f71f3a"
+}

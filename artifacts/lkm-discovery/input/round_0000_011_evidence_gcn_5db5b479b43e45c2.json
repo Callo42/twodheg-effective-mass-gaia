@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "In a two-dimensional electron Fermi liquid realized in GaAs/AlGaAs quantum wells, the density-of-states effective mass m_{e}^{\\mathrm{FL}} defined by m_{e}^{\\mathrm{FL}}=\\dfrac{\\pi\\hbar^{2} n_{S}}{E_{F}} (where n_{S} is the two-dimensional electron concentration, E_{F} is the spectroscopic Fermi energy measured from the size-quantization band bottom, \\hbar is Planck’s constant divided by 2\\pi, and all quantities refer to a single occupied subband) increases as the electron density decreases; equivalently, m_{e}^{\\mathrm{FL}} increases with the interaction parameter r_{S}=1/\\bigl[a_{B}(\\pi n_{S})^{1/2}\\bigr] (where a_{B} is the Bohr radius). Quantitatively, when r_{S} is increased from about 1 to about 4.5 the measured m_{e}^{\\mathrm{FL}} increases by approximately 35% relative to the band cyclotron mass in GaAs (the standard GaAs band cyclotron mass used for comparison is m_{e}=0.067\\,m_{0}, where m_{0} is the free-electron mass).",
+      "content_hash": "ab6a6ed9cc9b19ed4ba25e6efb30b90a4cddb788b1eec29a310e3f537a5f25cd",
+      "id": "gcn_5db5b479b43e45c2",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "a7f3cc56a9a021c0cdc83b9927496888"
+}

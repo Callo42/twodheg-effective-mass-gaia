@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811145370531790848": {
+        "area": "",
+        "authors": "Dario Bressanini | Massimo Mella | Gabriele Morosi",
+        "available_online": "",
+        "cover_date_start": "1995-07-01",
+        "created_at": "2022-12-18T00:02:08+08:00",
+        "doi": "10.1016/0009-2614(95)00561-h",
+        "en_title": "Many-electron correlated exponential wavefunctions. A quantum Monte Carlo application to H2 and He2+",
+        "id": "811145370531790848",
+        "keywords": "",
+        "publication_date": "1995-7",
+        "publication_id": "101269",
+        "publication_name": "Chemical Physics Letters _ Chemical Physics Letters",
+        "research_categories": "",
+        "zh_title": "多电子相关指数波函数。量子蒙特卡罗方法在H₂和He₂⁺中的应用 "
+      },
+      "paper:812078702744567811": {
+        "area": "Physics and Astrophysics",
+        "authors": "Anthony Scemama | Claudia Filippi",
+        "available_online": "2006-6-13",
+        "cover_date_start": "2006-06-13",
+        "created_at": "2022-12-20T13:50:50+08:00",
+        "doi": "10.1103/physrevb.73.241101",
+        "en_title": "Simple and efficient approach to the optimization of correlated wave functions",
+        "id": "812078702744567811",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "优化相关波函数的简单有效方法"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:813295441054531586": {
+        "area": "Physics and Astrophysics",
+        "authors": "S. D. Kenny | G. Rajagopal | R. J. Needs",
+        "available_online": "1995-3-1",
+        "cover_date_start": "1995-03-01",
+        "created_at": "2022-12-23T22:25:44+08:00",
+        "doi": "10.1103/physreva.51.1898",
+        "en_title": "Relativistic corrections to atomic energies from quantum Monte Carlo calculations",
+        "id": "813295441054531586",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "532",
+        "publication_name": "Physical Review A _ Phys. Rev. A",
+        "research_categories": "",
+        "zh_title": "量子蒙特卡罗计算对原子能量的相对论修正"
+      },
+      "paper:814713395637911553": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jaron T. Krogel | Jeongnim Kim | Fernando A. Reboredo",
+        "available_online": "2014-7-17",
+        "cover_date_start": "2014-07-17",
+        "created_at": "2022-12-27T20:20:11+08:00",
+        "doi": "10.1103/physrevb.90.035125",
+        "en_title": "Energy density matrix formalism for interacting quantum systems: Quantum Monte Carlo study",
+        "id": "814713395637911553",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "相互作用量子系统的能量密度矩阵形式：量子蒙特卡罗研究"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867768181819703346": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2010-02-10",
+        "created_at": "2023-05-23T06:00:57+08:00",
+        "doi": "10.48550/arXiv.1002.2122",
+        "en_title": "Quantum Monte Carlo study of the ground state of the two-dimensional Fermi fluid",
+        "id": "867768181819703346",
+        "keywords": "",
+        "publication_date": "2010-02-10",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体基态的量子蒙特卡罗研究"
+      },
+      "paper:867770228312900263": {
+        "area": "arXiv-Physics",
+        "authors": "Monika Dash | Saverio Moroni | Anthony Scemama | Claudia Filippi",
+        "available_online": "",
+        "cover_date_start": "2018-04-25",
+        "created_at": "2023-05-23T06:09:05+08:00",
+        "doi": "10.48550/arXiv.1804.09610",
+        "en_title": "Perturbatively selected configuration-interaction wave functions for efficient geometry optimization in quantum Monte Carlo",
+        "id": "867770228312900263",
+        "keywords": "",
+        "publication_date": "2018-04-25",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\", \"Atomic, Molecular and Optical Physics\"]",
+        "zh_title": "用于量子蒙特卡罗中高效几何优化的微扰选择组态相互作用波函数"
+      }
+    },
+    "variables": [
+      {
+        "content": "In finite periodic simulation cells using Slater-Jastrow-backflow trial wave functions (where the Jastrow and backflow factors each contain variational parameters), reoptimizing the Jastrow and backflow parameters for an excited-state configuration (an excitation produced by adding or removing an electron in a particular Bloch state) can lower the total DMC energy in that finite cell—for example, removing an electron from 𝗸=0 in a 26-electron paramagnetic 2D HEG at density parameter r_s=1 reduced the DMC total energy by 0.000854(4) hartree atomic units (a.u.)—but this finite-cell energy lowering is a manifestation of finite-size error and tends to reduce the computed excitation bandwidth and thus amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass; therefore, to avoid introducing extra finite-size bias the Jastrow and backflow parameters are optimized in the ground state and then reused unchanged for excited-state energy evaluations.",
+        "content_hash": "2fb363e4c29c4548b29305c0ef0248f309c8300fcd21ab0e2c3d4afdbe645f42",
+        "id": "gcn_c7b10e47e2ab45e1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_3",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Reoptimization of the explicit correlation parameters in finite-cell excited-state trial wave functions produces a measurable lowering of the DMC total energy of that finite cell and thereby increases the finite-size bias of excitation energies computed as total-energy differences. Concretely, when the Jastrow-factor and backflow-function parameters were reoptimized after removing an electron from wavevector \\\\(\\\\mathbf{k}=0\\\\) in a paramagnetic 26-electron 2D HEG at density parameter \\\\(r_{s}=1\\\\), the DMC total energy was lowered by 0.000854(4) atomic units (a.u.), which reduced the finite-cell bandwidth and therefore increased the finite-size error in the derived excitation energies. Consequently, to avoid introducing this additional finite-cell bias into excitation-energy estimates, the Jastrow and backflow parameters were optimized once in the closed-shell ground state for each density and system size and then held fixed for all corresponding excited-state DMC calculations.",
+        "content_hash": "6eb39dab02623431e9aa5a3884f020a5b9d0ee04910fbeb2ac64ff95361c34d5",
+        "id": "gcn_8fdb8c6b76f74960",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_2",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the three-electron molecular ion He$_2^+$ at fixed bond distance $R=2.0625$ bohr in its ground $^2\\Sigma_{\\text{u}}^+$ state, the variance-minimized explicitly correlated exponential expansions produce optimized VMC energies with representative values $E_{L=1}=-4.98078$ hartree, $E_{L=12}=-4.99400$ hartree, and $E_{L=23}=-4.99436$ hartree, relative to a Hartree–Fock reference value $E_{\\text{HF}}=-4.92270$ hartree; a single-term expansion recovers about $80\\%$ of the correlation energy relative to that Hartree–Fock limit, and a 12-term expansion already attains an energy lower than a reported literature CI value $-4.99389$ hartree. Fixed-node diffusion Monte Carlo (DMC) simulations using these optimized exponential trial functions (with the authors' statement that reported DMC numbers are after elimination of time-step bias) produce DMC energies that improve with the number of terms: reported DMC results are DMC$_{1}=-4.99422$ hartree, DMC$_{4}=-4.99435$ hartree, and DMC$_{8}=-4.99455$ hartree, and the 8-term DMC result is numerically similar to high-accuracy literature values such as $-4.994598$ hartree obtained with a 320-term stochastic exponentially correlated shifted Gaussian (SECSG) calculation.",
+        "content_hash": "783b2168efda5034dcc9cca17119a60dcc382174eec8b43c652acf58edd942f5",
+        "id": "gcn_ffc7942e6fe64c44",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811145370531790848::conclusion_4",
+            "package_id": "paper:811145370531790848",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811145370531790848"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02632034632034632,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the $1^{1}B_{u}$ excited state of trans-hexatriene (C6H8), simultaneous optimization of orbitals and configuration-interaction (CI) coefficients was performed with large parameter sets (604 parameters optimized for the ground state and 493 parameters optimized for the excited state). The fully optimized excited-state variational Monte Carlo and diffusion Monte Carlo energies are reported as $E_{\\mathrm{VMC}}=-38.495(1)$ hartree and $E_{\\mathrm{DMC}}=-38.6069(8)$ hartree (parentheses denote one-standard-error sampling uncertainties), yielding a DMC vertical excitation energy $\\Delta E=5.23(3)\\,\\text{eV}$ relative to the correspondingly optimized ground state; this DMC excitation energy agrees with the experiment-derived vertical excitation energy of $5.22\\,\\text{eV}$. By contrast, a reference CASSCF(2,2) wave function (two electrons in two orbitals, unoptimized) yields $\\Delta E=5.63(3)\\,\\text{eV}$, and an unoptimized CAS(6,6) wave function with the leading five CSFs retained gives markedly worse VMC and DMC energies ($E_{\\mathrm{VMC}}=-38.438(1)$ and $E_{\\mathrm{DMC}}=-38.560(2)$ hartree), demonstrating that reoptimization of both determinant orbitals and CI linear coefficients is essential to recover accurate excitation energies for this system.",
+        "content_hash": "1639fd4ebaa3211c5ab3c43ed27908bc7c98c730d6a00da6b73bb3de52caafbd",
+        "id": "gcn_9635e003012e4994",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812078702744567811::conclusion_6",
+            "package_id": "paper:812078702744567811",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812078702744567811"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026171741361614778,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.025816993464052286,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a finite interacting HEG, denote the occupied-state occupation energies by \\mathcal{E}_k for crystal-momentum states k with |k|<k_F. Fitting the computed \\mathcal{E}_k over the occupied k range to the parabolic dispersion model\n      $$\n      \\mathcal{E}_k \\approx \\frac{\\hbar^2 k^2}{2 m^*}\n      $$\n      yields an effective mass parameter m^*; in the reported fit to DMC data for r_s=3.0 the fitted value is m^*=0.84\\,m_e. This procedure assumes the occupied-state dispersion is well approximated by a parabola over the fitted range and that constant background energy shifts and finite-size discretization have been properly accounted for in the fit.",
+        "content_hash": "e3220dca24a555a2737b428d8099286c2232027d6a8d898fb94167e763700192",
+        "id": "gcn_53fbaeaa9b8246e4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814713395637911553::P8",
+            "package_id": "paper:814713395637911553",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814713395637911553"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-electron systems the DMC values of the combined mass-velocity and electron–nucleus Darwin contribution $\\varepsilon_{2}+\\varepsilon_{3}$ (in hartree) are: He $-0.000115$ (exact $-0.0001143$), $Be^{2+}$ $-0.00248$ (exact $-0.00243$), and $Ne^{8+}$ $-0.116$ (exact $-0.1158$). The close numerical agreement indicates that when the exact nonrelativistic nodal structure is available the DMC evaluation of the dominant mass-velocity and electron–nucleus Darwin terms reproduces essentially exact values.",
+        "content_hash": "d642412c03d2d239372d16e4746cc799a264fc6b9a91366cdd32a24052d3def8",
+        "id": "gcn_c5eee2aecb3a452f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813295441054531586::conclusion_5",
+            "package_id": "paper:813295441054531586",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813295441054531586"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For Jastrow-CIPSI trial functions at fixed optimized geometries obtained with a two-body Jastrow factor, augmenting the Jastrow factor to include explicit electron–electron–nucleus three-body terms and fully reoptimizing all wave-function parameters produces a measurable VMC energy lowering but leaves DMC total energies unchanged within the reported Monte Carlo statistical uncertainties: specifically, for N=2,048 determinants the reported change in VMC energy upon adding three-body terms is ΔE_VMC=−0.00522(29) hartree and the reported change in DMC energy is ΔE_DMC=−0.00015(26) hartree; for N=5,114 determinants ΔE_VMC=−0.00353(33) hartree and ΔE_DMC=+0.00012(18) hartree. These observations indicate that, for the high-quality CIPSI determinantal components considered here, the two-body Jastrow factor already recovers the bulk of dynamical correlation relevant to the nodal quality governing fixed-node DMC energies in these tests.",
+        "content_hash": "1452941a4ed07a0c6561b09993170901c3d06c0ef52ce8c64b00cd1c7ba40bda",
+        "id": "gcn_b7b4cda672294555",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867770228312900263::conclusion_5",
+            "package_id": "paper:867770228312900263",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867770228312900263"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The zero-time-step, twist-averaged diffusion Monte Carlo (DMC) ground-state energies per electron for the infinite paramagnetic two-dimensional homogeneous electron gas (2D HEG) at the reported density parameters are: $E(r_{s}=1)= -0.2104(6)$ a.u. per electron, $E(r_{s}=5)= -0.14963(3)$ a.u. per electron, and $E(r_{s}=10)= -0.085399(6)$ a.u. per electron; here $r_{s}$ is the radius (in Hartree atomic units) of the circle containing one electron on average, energies are given in Hartree atomic units, the DMC calculations used Slater-Jastrow-backflow trial wave functions to define the fixed-node constraint, twist averaging where indicated to reduce single-particle finite-size effects, and the reported values have been extrapolated to infinite system size.",
+        "content_hash": "5e30aa2cc08cc67467b9533dfe92a89e5dec1ba8992759ae679026cb6af8fe64",
+        "id": "gcn_f850a5c9c2de487f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768181819703346::conclusion_1",
+            "package_id": "paper:867768181819703346",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768181819703346"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let J_2 denote the two-body Jastrow factor including electron–nucleus and electron–electron polynomial terms enforcing cusp conditions, and J_3 denote the augmented Jastrow factor that additionally includes explicit electron–electron–nucleus three-body terms. For the Jastrow-CIPSI trial functions considered at determinant counts N=2,048 and N=5,114 on the fixed average geometries used in the tests, the reported data show that replacing J_2 with J_3 and fully reoptimizing the wave-function parameters yields VMC energy improvements of order a few×10^{-3} hartree (ΔE_VMC=−0.00522(29) hartree at N=2,048 and ΔE_VMC=−0.00353(33) hartree at N=5,114) while producing changes in fixed-node DMC energies that are within the reported Monte Carlo statistical uncertainties (ΔE_DMC=−0.00015(26) hartree at N=2,048 and ΔE_DMC=+0.00012(18) hartree at N=5,114), implying that J_2 recovers the bulk of dynamical correlation affecting nodal quality in these tested cases.",
+        "content_hash": "aeb30766eeae1f08abf7ff21f9e5728f4b5b9ea51d98d570d24212ee85ffcf7e",
+        "id": "gcn_bf553f56f7184abf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867770228312900263::P9",
+            "package_id": "paper:867770228312900263",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867770228312900263"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "be6cf9dad2e0de9c410178402e5fe27b"
+}

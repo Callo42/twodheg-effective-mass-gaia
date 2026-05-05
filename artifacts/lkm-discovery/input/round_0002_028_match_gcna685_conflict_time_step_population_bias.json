@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:813056829176152065": {
+        "area": "Physics and Astrophysics",
+        "authors": "O. Witham | R. J. Hunt | N. D. Drummond",
+        "available_online": "2018-2-20",
+        "cover_date_start": "2018-02-20",
+        "created_at": "2022-12-23T06:37:34+08:00",
+        "doi": "10.1103/physrevb.97.075424",
+        "en_title": "Stability of trions in coupled quantum wells modeled by two-dimensional bilayers",
+        "id": "813056829176152065",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维双层结构建模的耦合量子阱中三重子的稳定性"
+      },
+      "paper:814588793960005632": {
+        "area": "Physics and Astrophysics",
+        "authors": "Matthew Z. Mayers | Timothy C. Berkelbach | Mark S. Hybertsen | David R. Reichman",
+        "available_online": "2015-10-9",
+        "cover_date_start": "2015-10-09",
+        "created_at": "2022-12-27T12:05:04+08:00",
+        "doi": "10.1103/physrevb.92.161404",
+        "en_title": "Binding energies and spatial structures of small carrier complexes in monolayer transition-metal dichalcogenides via diffusion Monte Carlo",
+        "id": "814588793960005632",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "通过扩散蒙特卡罗方法研究单层过渡金属二硫属化物中小载体复合物的结合能和空间结构"
+      },
+      "paper:867746425499288355": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond",
+        "available_online": "",
+        "cover_date_start": "2022-01-21",
+        "created_at": "2023-05-23T04:34:30+08:00",
+        "doi": "10.48550/arXiv.2201.08743",
+        "en_title": "Low-density Phase Diagram of the Three-Dimensional Electron Gas",
+        "id": "867746425499288355",
+        "keywords": "",
+        "publication_date": "2022-01-21",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Atomic, Molecular and Optical Physics\", \"Quantum Physics\"]",
+        "zh_title": "三维电子气的低密度相图"
+      },
+      "paper:867751368390082706": {
+        "area": "arXiv-Physics",
+        "authors": "I.G. Gurtubay | R. Gaudoin | J.M. Pitarke",
+        "available_online": "",
+        "cover_date_start": "2010-01-27",
+        "created_at": "2023-05-23T04:54:08+08:00",
+        "doi": "10.48550/arXiv.1001.5002",
+        "en_title": "Benchmark Quantum Monte Carlo calculations of the ground-state kinetic, interaction, and total energy of the three-dimensional electron gas",
+        "id": "867751368390082706",
+        "keywords": "",
+        "publication_date": "2010-01-27",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "三维电子气基态动能、相互作用能和总能量的基准量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867754196366000255": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | R. E. Cohen",
+        "available_online": "",
+        "cover_date_start": "2016-06-27",
+        "created_at": "2023-05-23T05:05:23+08:00",
+        "doi": "10.48550/arXiv.1606.08178",
+        "en_title": "Low-pressure phase diagram of crystalline benzene from quantum Monte Carlo",
+        "id": "867754196366000255",
+        "keywords": "",
+        "publication_date": "2016-06-27",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "",
+        "zh_title": "基于量子蒙特卡罗方法的结晶苯低压相图"
+      },
+      "paper:867756991232082377": {
+        "area": "arXiv-Physics",
+        "authors": "Zhiping Wang | Yuxiang Bu",
+        "available_online": "",
+        "cover_date_start": "2021-06-22",
+        "created_at": "2023-05-23T05:16:29+08:00",
+        "doi": "10.48550/arXiv.2106.11822",
+        "en_title": "Quantum Monte Carlo Investigation of the H-transfer Reaction of Criegee Intermediate CH3CHOO: A Benchmark Calculation",
+        "id": "867756991232082377",
+        "keywords": "",
+        "publication_date": "2021-06-22",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Theoretical and Computational Chemistry\", \"Physical Sciences\", \"Atomic, Molecular and Optical Physics\"]",
+        "zh_title": "克里吉中间体CH₃CHOO氢转移反应的量子蒙特卡罗研究：基准计算"
+      },
+      "paper:867757195884757611": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | J. R. Trail | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2016-07-06",
+        "created_at": "2023-05-23T05:17:18+08:00",
+        "doi": "10.48550/arXiv.1607.01544",
+        "en_title": "Trail-Needs pseudopotentials in quantum Monte Carlo calculations with plane-wave/blip basis sets",
+        "id": "867757195884757611",
+        "keywords": "",
+        "publication_date": "2016-07-06",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "在使用平面波/斑点基组的量子蒙特卡罗计算中，Trail-Needs赝势"
+      },
+      "paper:867758741552889957": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | P. Lopez Rios | C. J. Pickard | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2011-04-28",
+        "created_at": "2023-05-23T05:23:26+08:00",
+        "doi": "10.48550/arXiv.1104.5441",
+        "en_title": "Quantum Monte Carlo Study of a Positron in an Electron Gas",
+        "id": "867758741552889957",
+        "keywords": "",
+        "publication_date": "2011-04-28",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "",
+        "zh_title": "电子气中一个正电子的量子蒙特卡罗研究"
+      },
+      "paper:867768181819703346": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2010-02-10",
+        "created_at": "2023-05-23T06:00:57+08:00",
+        "doi": "10.48550/arXiv.1002.2122",
+        "en_title": "Quantum Monte Carlo study of the ground state of the two-dimensional Fermi fluid",
+        "id": "867768181819703346",
+        "keywords": "",
+        "publication_date": "2010-02-10",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体基态的量子蒙特卡罗研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "In diffusion Monte Carlo (DMC) simulations of the positron-in-HEG system performed with a fixed-node constraint and a discrete time step Δt, the proposition is that extrapolating computed DMC energies to zero time step using calculations at multiple finite Δt values removes the leading-order time-step bias so that the reported extrapolated DMC energies accurately approximate the continuous-time (Δt→0) DMC limit within the stated uncertainties.",
+        "content_hash": "781dcb794cf45401b3cae70d7e5bda87131e94455bcb2e4592ddbc2fc21eb047",
+        "id": "gcn_be865f05eaeb4db0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867758741552889957::P11",
+            "package_id": "paper:867758741552889957",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867758741552889957"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03055037313432836,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let τ denote the DMC imaginary time step and N_w(τ) denote the target walker population used in a fixed-node DMC simulation. Varying the target walker population approximately as N_w(τ) ∝ 1/τ during a sequence of DMC runs used to study time-step dependence keeps population-control bias approximately constant across the runs, so that the observed τ-dependence of the DMC energy predominantly reflects genuine time-step discretization error rather than varying population-control bias; this justifies applying a linear extrapolation of the measured energies to τ → 0 under the assumption that population-control bias scales approximately inversely with walker number for the systems considered and that other sources of bias do not vary systematically with τ.",
+        "content_hash": "073bb1031116b216c75799b6b6ec7e96602b27ee72b9e98896fadc6d45c0ca3e",
+        "id": "gcn_e9e96dfd526d430f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867746425499288355::P8",
+            "package_id": "paper:867746425499288355",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867746425499288355"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030330882352941176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider DMC runs performed at two small imaginary-time steps $\\tau_1,\\tau_2>0$ with associated walker populations $N_1,N_2$ chosen to be in inverse proportion to the respective time steps (i.e., $N\\propto1/\\tau$), and let $E(\\tau)$ denote the DMC energy estimated at time step $\\tau$. The zero-time-step energy is estimated by the linear extrapolation\n      $$E(0)\\approx\\frac{\\tau_2 E(\\tau_1)-\\tau_1 E(\\tau_2)}{\\tau_2-\\tau_1}.$$\n      The proposition is that performing DMC calculations at two such small time steps with walker populations scaled inversely with the time step and applying this two-point linear extrapolation removes time-step bias and population-control bias to an extent negligible compared with the quoted statistical uncertainties in the reported ground-state energies for the trion and biexciton calculations.",
+        "content_hash": "55998b3f7235e6daa3e382273f71a3528bedcd440790eb9e39a8e22cfc851514",
+        "id": "gcn_ba7b977249a04302",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813056829176152065::P5",
+            "package_id": "paper:813056829176152065",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813056829176152065"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027884615384615386,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the reported fixed-node DMC simulations, the combined systematic biases from finite DMC time step $\\Delta t$ and finite walker population were observed to depend approximately linearly on $\\Delta t$ and on $1/N_{\\text{pop}}$ over the sampled parameter range (time steps $\\Delta t=0.02$ and $0.01$ a.u. were used and the target population was adjusted accordingly), so simultaneous linear extrapolation to zero time step and infinite population produces an unbiased DMC energy estimate within the stated statistical uncertainty.",
+        "content_hash": "1b329b404dd35eba8d303baada5305150b4ae07d2d7cfb1e41fe5f347fab7ebe",
+        "id": "gcn_fe3e826d47d3431d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867754196366000255::P8",
+            "package_id": "paper:867754196366000255",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867754196366000255"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026262626262626265,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In fixed-node diffusion Monte Carlo (DMC) calculations where the number of walkers (the population) $N_w$ is chosen to scale inversely with the imaginary-time step $\\delta\\tau$ (i.e., $N_w\\propto 1/\\delta\\tau$) and where the measured finite-time-step DMC energy $E_{\\text{DMC}}(\\delta\\tau)$ exhibits a leading-order linear dependence on $\\delta\\tau$ in the small-$\\delta\\tau$ regime, performing a linear extrapolation of $E_{\\text{DMC}}(\\delta\\tau)$ to $\\delta\\tau\\to 0$ simultaneously removes the leading time-step bias (which scales as $O(\\delta\\tau)$) and the leading finite-population (population-control) bias (which scales inversely with $N_w$ and hence as $O(\\delta\\tau)$ under the stated population scaling), yielding a reliable estimate of the zero-time-step, infinite-population DMC energy for the trial-wave-function qualities and parameter ranges used in the reported tests.",
+        "content_hash": "f32a6ca44c88916c18404d28f02045c181b2a78dca0836a754f04e7bd22319a1",
+        "id": "gcn_fe68b843bf134911",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757195884757611::P9",
+            "package_id": "paper:867757195884757611",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757195884757611"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025195618153364633,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider the reported DMC calculations carried out with finite DMC time steps (time steps of 0.04, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for paramagnetic HEGs and 0.01, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for ferromagnetic HEGs) and using single-determinant Slater-Jastrow-backflow trial wave functions that, according to extrapolation of variational Monte Carlo energies to zero energy variance, retrieve more than 99% of the correlation energy. The proposition is: the residual biases arising from the fixed-node approximation and from finite DMC time-step errors (noting that halving the time step was verified to have a negligible effect on the computed energy band) are small compared with the overall uncertainties introduced by the finite-size extrapolation procedure; therefore these residual numerical biases do not materially shift the reported extrapolated thermodynamic-limit effective masses \\\\(m^{*}(\\\\infty)\\\\).",
+        "content_hash": "88ef95b0e1f66d1eedc48ec26181853f6974ba9d11495b0209ae7000a83bf811",
+        "id": "gcn_17c63b5dc2154f15",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P10",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For fixed-node HF-based DMC calculations of the interaction energy per electron $U_N$ for the 3D HEG at $r_s=2$ and system sizes up to $N=226$, the stated statistical uncertainties of order $0.1$ mHa/e accurately reflect the total stochastic sampling error under the employed computational protocol (which used a DMC time step of 0.003 a.u., a target population of 800 configurations to make population-control bias negligible, and the MPC interaction in the branching factors), and there are no substantially larger unreported statistical instabilities (for example arising from insufficient population size, time-step bias at the chosen time step, or history truncation effects) that would increase the true uncertainty beyond the reported values.",
+        "content_hash": "d1baa768376e39a8a49e47ac8f143c79d09f46d2d32d77cba4ce0eb480b9fedb",
+        "id": "gcn_ef5c3ef45a5649ce",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751368390082706::P11",
+            "package_id": "paper:867751368390082706",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751368390082706"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Diffusion Monte Carlo (DMC) numerical procedure implemented for the few-body Hamiltonian defined above employs an importance-sampled imaginary-time propagation of an initial Jastrow-based guiding/trial wave function, a finite time step Δτ, a finite walker population N_walkers, and standard ground-state energy estimators; these algorithmic parameters were converged via time-step extrapolation and population-control testing so that any remaining systematic biases (time-step bias, population-control bias, and related algorithmic errors) are negligible compared to the reported DMC statistical uncertainties of order 0.1–0.3 meV. In other words, the quoted uncertainty budget accounts for both stochastic sampling error and the residual algorithmic bias to the stated level.\n      See: Supplemental Material referenced in the paper for DMC technical details [40].",
+        "content_hash": "fe52996e5686fa55470fcccbbe936f4695448ac5a756ddc911228bc940dc725b",
+        "id": "gcn_036e33fea3e74c5b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814588793960005632::P4",
+            "package_id": "paper:814588793960005632",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814588793960005632"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In DMC calculations where the stochastic population of walkers is controlled by a branching algorithm, if the target population size is set to 1600 configurations and standard population-control schemes (branching with population targets, reweighting as needed) are used, then the systematic bias in the computed energy per electron due to finite-population fluctuations (population-control bias) is negligibly small compared with the reported statistical and other systematic uncertainties for the two-dimensional HEG calculations performed with the stated target population.",
+        "content_hash": "3072af4de5b74c6af4a673b3792a3ea0cd2ed161f4350e4b54a64464c5802ca1",
+        "id": "gcn_0b8ab4736c4c4acc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867768181819703346::P4",
+            "package_id": "paper:867768181819703346",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867768181819703346"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the ZPE-corrected FN DMC barrier be E^{\\mathrm{FN-DMC}}_{\\mathrm{barrier}} \\equiv (E^{\\mathrm{FN-DMC}}_{\\mathrm{TS}} + ZPE_{\\mathrm{TS}}) - (E^{\\mathrm{FN-DMC}}_{\\mathrm{react}} + ZPE_{\\mathrm{react}}) and let the reported uncertainty \\sigma_{\\mathrm{FN-DMC}} denote the stated standard error (for example \\pm 0.35 kcal·mol^{-1}); the proposition is that \\sigma_{\\mathrm{FN-DMC}} adequately captures the stochastic sampling uncertainty together with the relevant residual systematic uncertainties of the FN DMC protocol (including residual fixed-node bias, residual time-step-extrapolation error, population-control bias, and the residual error introduced by using harmonic DFT ZPE corrections), so that the numerical comparison E^{\\mathrm{FN-DMC}}_{\\mathrm{barrier}} \\pm \\sigma_{\\mathrm{FN-DMC}} versus the experimental effective barrier can be interpreted without further enlargement for additional systematic errors.",
+        "content_hash": "5bf20674afd7cb586014afcba0990252c4f4cf6be432d53b4d7ccf6fb089dd0c",
+        "id": "gcn_23e75188cf56447b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867756991232082377::P5",
+            "package_id": "paper:867756991232082377",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867756991232082377"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "a972d60ab7ebe14e6ee1877b288c952d"
+}

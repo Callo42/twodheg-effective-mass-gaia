@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812303918875803648": {
+        "area": "Physics and Astrophysics",
+        "authors": "Roi Baer | Daniel Neuhauser",
+        "available_online": "2005-2-2",
+        "cover_date_start": "2005-02-02",
+        "created_at": "2022-12-21T04:45:47+08:00",
+        "doi": "10.1103/physrevlett.94.043002",
+        "en_title": "Density Functional Theory with Correct Long-Range Asymptotic Behavior",
+        "id": "812303918875803648",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "具有正确长程渐近行为的密度泛函理论"
+      },
+      "paper:812448651723931648": {
+        "area": "Physics and Astrophysics",
+        "authors": "R. Buczko",
+        "available_online": "",
+        "cover_date_start": "1986-08-01",
+        "created_at": "2022-12-21T14:20:54+08:00",
+        "doi": "10.1016/0038-1098(86)90695-2",
+        "en_title": "The ground state of the shallow acceptor in highly doped P-type Hg1−xMnxTe",
+        "id": "812448651723931648",
+        "keywords": "",
+        "publication_date": "1986-8",
+        "publication_id": "653",
+        "publication_name": "Solid State Communications _ Solid State Communications",
+        "research_categories": "",
+        "zh_title": "高掺杂P型Hg1−xMnxTe中浅受主的基态"
+      },
+      "paper:813078100425310208": {
+        "area": "Physics and Astrophysics",
+        "authors": "Xiaohuai Wang | Chengzhao Chen | Shengqi Feng | Xinyuan Wei | Yun Li",
+        "available_online": "2017-12-5",
+        "cover_date_start": "2017-12-01",
+        "created_at": "2022-12-23T08:02:06+08:00",
+        "doi": "10.1088/1674-1056/26/12/127402",
+        "en_title": "A hybrid functional first-principles study on the band structure of non-strained Ge 1− x Sn x alloys",
+        "id": "813078100425310208",
+        "keywords": "[{\"ch_name\":\"直接带隙\",\"en_name\":\"Direct band gap\"},{\"ch_name\":\"第一性原理计算\",\"en_name\":\"First-principles calculation\"},{\"ch_name\":\"GeSn合金\",\"en_name\":\"GeSn alloy\"}]",
+        "publication_date": "2017-12",
+        "publication_id": "630",
+        "publication_name": "Chinese Physics B _ Chinese Phys. B",
+        "research_categories": "",
+        "zh_title": "非应变Ge1−xSnx合金能带结构的杂化泛函第一性原理研究"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extrapolated thermodynamic-limit effective masses exhibit distinct density dependences depending on spin polarization: for the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10 the extrapolated effective mass remains close to unity (\\\\(m^{*}\\\\approx1\\\\)), indicating no significant interaction-induced mass enhancement at these densities for the clean continuum 2D HEG model considered; by contrast, for the fully spin-polarized (ferromagnetic) 2D HEG the extrapolated effective mass decreases as the density is lowered, for example taking the values \\\\(0.85(1)\\\\) at \\\\(r_{s}=1\\\\), \\\\(0.74(1)\\\\) at \\\\(r_{s}=5\\\\), and \\\\(0.70(3)\\\\) at \\\\(r_{s}=10\\\\), a trend that is qualitatively consistent with experimental measurements on spin-polarized two-dimensional systems reported in the literature (e.g., Padmanabhan et al.).",
+        "content_hash": "50d79ff1ea218bc2ead65fa8297f1c40403b60c514239f93423bf99aa338304e",
+        "id": "gcn_bdc9e8a10cfe4b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02919863597612958,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given finite-size effective-mass data points \\\\(\\\\{(N_{i},m^{*}(N_{i}))\\\\}\\\\) at several densities and considering the family of fits \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) parametrized by \\\\(\\\\gamma\\\\), the proposition is: adopting a fixed exponent value \\\\(\\\\gamma=3/2\\\\) for the extrapolations across the densities considered is justified because the resulting fits produce substantially better overall goodness-of-fit statistics as measured by the reduced \\\\(\\\\chi^{2}\\\\) values than alternative fixed exponents over the same data sets, and therefore using \\\\(\\\\gamma=3/2\\\\) yields reliable extrapolated values \\\\(m^{*}(\\\\infty)\\\\) for these DMC data.",
+        "content_hash": "e91f9c84803cbbfec6008ee601fb907ddfb931de6c0cb39fea34133d4822be28",
+        "id": "gcn_25aac9571e85447c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P8",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When extrapolating finite-system quasiparticle effective masses m^*(N) to the thermodynamic limit with the model m^*(N)=m^*(∞)+b N^{-γ}, fixing the exponent γ=3/2 as a plotting choice (i.e., plotting m^* against N^{-3/2} and performing a linear fit) produces a visually consistent linearization of the data for the range of N values studied and yields extrapolated m^*(∞) values close to those obtained when γ is allowed to vary, but this choice is not derived from first principles for the finite-Δk quartic-fitting procedure used here and therefore introduces model-selection uncertainty into the extrapolated numbers.",
+        "content_hash": "a691eff15154039df6cf0e54c1dd0a5d9d5cdf9d3453d4dca55d41f62d3f0563",
+        "id": "gcn_ad06e1761960461b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P8",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Γ conduction effective masses quoted ($0.16\\ m_{\\rm e}$ at n_d=1/64 and $0.28\\ m_{\\rm e}$ at n_d=1/16) are extracted from the supercell band dispersions near Γ, but the publication does not specify the numerical fitting procedure, the k-range used for curvature extraction, reported error bars, nor does it present tests of sensitivity of the extracted masses to inclusion of spin–orbit coupling or to possible supercell-induced distortions of the dispersion near zone center.",
+        "content_hash": "956f33f9ff4e0cff4cc56b0cf5131922cdeb6997a9eb7644c2514f3ed506b306",
+        "id": "gcn_c8512c36851c4842",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813078100425310208::P7",
+            "package_id": "paper:813078100425310208",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813078100425310208"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fix the descreening parameter to $\\gamma=1\\,a_{0}^{-1}$ and consider the homogeneous electron gas (HEG) with density parameterized by $r_s$ via $n=(4\\pi r_s^3/3)^{-1}$.  Define $\\varepsilon_{C}^{\\gamma=1}(n)$ as the correlation energy per particle for the HEG evaluated using the shifted-contour auxiliary-field Monte Carlo (SCAFMC) method implemented with a plane-wave finite supercell and without an explicit infinite-cell-size extrapolation.  The proposition is that the SCAFMC numerical values obtained at sampled $r_s=\\{1,2,3,5,10,20\\}$, subject to an estimated statistical uncertainty of about $10\\%$ and to finite-cell-size effects that were not fully converged in this preliminary calculation, nevertheless provide an acceptably accurate estimate of the infinite-system $\\varepsilon_{C}^{\\gamma=1}(n)$ within the stated $\\sim 10\\%$ uncertainty for the specific purpose of parametrizing a practical local-density residual functional.\n      [26,27]",
+        "content_hash": "44f7ddf1fdf1fd6f87d88c0f52e5074e0b955748c6efa926219806fbb8f45761",
+        "id": "gcn_56e3413484294b96",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812303918875803648::P7",
+            "package_id": "paper:812303918875803648",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812303918875803648"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The algebraic inversion of the relations\n      $$\n      \\\\gamma_i=\\\\gamma_i^{L}-c_i\\\\frac{P(x)^2}{E_g(x)}\n      $$\n      with coefficients $c_1=2/3$, $c_2=c_3=1/3$ (so that the inversion is performed elementwise for $i=1,2,3$) and with $\\\\gamma_i$ taken as the experimentally reported effective-mass parameters for HgTe, is assumed to be numerically well-conditioned across the composition range $x\\\\in[0.085,0.15]$ so that modest experimental or fitting uncertainties in $P(x)$ and $E_g(x)$ do not produce large relative errors in the recovered $\\\\gamma_i^{L}(x)$ despite the subtraction of the finite $P(x)^2/E_g(x)$ terms from the comparatively small measured $\\\\gamma_i$ values.",
+        "content_hash": "9df1872d1e408bc7ba11a516380abd2aea650deb1d0ac14de485b0c0dcd7ebe7",
+        "id": "gcn_78f625468b6e4652",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812448651723931648::P10",
+            "package_id": "paper:812448651723931648",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812448651723931648"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), the leading finite-size error in Fermi-liquid-derived quantities such as the angular-momentum Fermi liquid parameters F_l or the Fourier-projected quantities F_l/m^{*} behaves asymptotically as a power law in the finite-system particle number N with exponent -1/4; equivalently,\n      \\Delta F_l(N) \\equiv F_l(N)-F_l(\\infty) \\propto N^{-1/4},\n      so that fitting computed F_l(N) values to the form c + a N^{-1/4} yields an estimate of the thermodynamic-limit intercept c = F_l(\\infty). This statement adopts the theoretical asymptotic exponent \\gamma = -1/4 predicted for long-range-correlation-dominated finite-size errors.\n      Refs. 13,14",
+        "content_hash": "5d35c92260764bcb7f6ff7e8faf67af9d71f7400ea2dbb873a0034fae3ee4b32",
+        "id": "gcn_3ceb44ae3f404964",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P2",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "c028b62f2a5fb664333418446c9a47c1"
+}

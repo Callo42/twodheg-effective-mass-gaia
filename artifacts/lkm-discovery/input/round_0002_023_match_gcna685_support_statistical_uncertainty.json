@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811133441092354048": {
+        "area": "Physics and Astrophysics",
+        "authors": "Gaetano Senatore | S. Moroni | D. Varsano",
+        "available_online": "",
+        "cover_date_start": "2001-12-01",
+        "created_at": "2022-12-17T23:14:44+08:00",
+        "doi": "10.1016/s0010-4655(01)00372-1",
+        "en_title": "Spontaneous magnetization of the 2D electron gas",
+        "id": "811133441092354048",
+        "keywords": "",
+        "publication_date": "2001-12",
+        "publication_id": "533",
+        "publication_name": "Computer Physics Communications _ Computer Physics Communications",
+        "research_categories": "",
+        "zh_title": "二维电子气的自发磁化"
+      },
+      "paper:811151272764768256": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yuhe Zhang | A. Wójs | J. K. Jain",
+        "available_online": "2016-9-8",
+        "cover_date_start": "2016-09-08",
+        "created_at": "2022-12-18T00:25:35+08:00",
+        "doi": "10.1103/physrevlett.117.116803",
+        "en_title": "Landau-Level Mixing and Particle-Hole Symmetry Breaking for Spin Transitions in the Fractional Quantum Hall Effect",
+        "id": "811151272764768256",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "分数量子霍尔效应中自旋跃迁的朗道能级混合和粒子孔对称性破缺"
+      },
+      "paper:811650318285668355": {
+        "area": "Physics and Astrophysics",
+        "authors": "R. M. Lee | N. D. Drummond",
+        "available_online": "2011-6-22",
+        "cover_date_start": "2011-06-22",
+        "created_at": "2022-12-19T09:28:36+08:00",
+        "doi": "10.1103/physrevb.83.245114",
+        "en_title": "Ground-state properties of the one-dimensional electron liquid",
+        "id": "811650318285668355",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "一维电子液体的基态性质"
+      },
+      "paper:811679104628686848": {
+        "area": "Physics and Astrophysics",
+        "authors": "Er-Lin Sun | Dong-Hai Feng | Tian-Qing Jia | Kan Zhou | Zhen-Rong Sun",
+        "available_online": "2011-2-10",
+        "cover_date_start": "2011-02-01",
+        "created_at": "2022-12-19T11:23:00+08:00",
+        "doi": "10.1088/0253-6102/55/2/26",
+        "en_title": "Dispersion Theory of Polaron in a Parabolic Quantum Dot at Finite Temperatures",
+        "id": "811679104628686848",
+        "keywords": "[{\"ch_name\":\"电子声子相互作用\",\"en_name\":\"Electron-phonon interactions\"},{\"ch_name\":\"量子点\",\"en_name\":\"Quantum dots\"},{\"ch_name\":\"半导体\",\"en_name\":\"Semiconductors\"}]",
+        "publication_date": "2011-2",
+        "publication_id": "631",
+        "publication_name": "Communications in Theoretical Physics _ Commun. Theor. Phys.",
+        "research_categories": "",
+        "zh_title": "有限温度下抛物量子点中极化子的色散理论"
+      },
+      "paper:814683398357385217": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yangzheng Lin | R. E. Cohen | Stephen Stackhouse | Kevin P. Driver | Burkhard Militzer | Luke Shulenburger | Jeongnim Kim",
+        "available_online": "2014-11-10",
+        "cover_date_start": "2014-11-10",
+        "created_at": "2022-12-27T18:20:59+08:00",
+        "doi": "10.1103/physrevb.90.184103",
+        "en_title": "Equations of state and stability of MgSiO 3 perovskite and post-perovskite phases from quantum Monte Carlo simulations",
+        "id": "814683398357385217",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "量子蒙特卡罗模拟中 MgSiO 3 钙钛矿和后钙钛矿相的状态方程和稳定性"
+      },
+      "paper:867748878366015616": {
+        "area": "arXiv-Physics",
+        "authors": "Eric Braaten | H.-W. Hammer | Shawn Hermans",
+        "available_online": "",
+        "cover_date_start": "2000-12-04",
+        "created_at": "2023-05-23T04:44:15+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0012043",
+        "en_title": "Nonuniversal Effects in the Homogeneous Bose Gas",
+        "id": "867748878366015616",
+        "keywords": "",
+        "publication_date": "2000-12-04",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "",
+        "zh_title": "均匀玻色气体中的非普适效应"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867770771529793903": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N. D. Drummond | S. M. Vinko",
+        "available_online": "",
+        "cover_date_start": "2022-09-21",
+        "created_at": "2023-05-23T06:11:14+08:00",
+        "doi": "10.48550/arXiv.2209.10227",
+        "en_title": "Correlation energy of the paramagnetic electron gas at the thermodynamic limit",
+        "id": "867770771529793903",
+        "keywords": "",
+        "publication_date": "2022-09-21",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\", \"Atomic, Molecular and Optical Physics\"]",
+        "zh_title": "热力学极限下顺磁电子气的相关能"
+      },
+      "paper:880029123982917640": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | Sam. M. Vinko",
+        "available_online": "",
+        "cover_date_start": "2023-06-23",
+        "created_at": "2023-06-26T02:01:33+08:00",
+        "doi": "10.48550/arXiv.2306.13426",
+        "en_title": "Correlation energy of the spin-polarized electron liquid by quantum Monte Carlo",
+        "id": "880029123982917640",
+        "keywords": "",
+        "publication_date": "2023-06-23",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "通过量子蒙特卡罗方法计算的自旋极化电子液体的关联能"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let $E_{\\\\mathrm{DMC}}(\\\\infty)$ denote the extrapolated thermodynamic-limit DMC energy per electron and let the quoted uncertainty accompanying $E_{\\\\mathrm{DMC}}(\\\\infty)$ be the reported one-standard-deviation error. The proposition is that the reported uncertainties for $E_{\\\\mathrm{DMC}}(\\\\infty)$ comprehensively encompass the stochastic Monte Carlo sampling error together with the significant systematic uncertainties associated with the finite-size extrapolation model choice (the $1/N$ ansatz), any residual time-step bias for the selected time steps, potential fixed-node/phase errors of the SJB trial functions, and other methodological approximations, so that the quoted error bars represent the total uncertainty in the thermodynamic-limit energy estimates.",
+        "content_hash": "e9c92f704a94e46902f5c490b20da56244c28777b8bb0ab3d2ea26657b9a297c",
+        "id": "gcn_eaddd463c4504d1e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:880029123982917640::P10",
+            "package_id": "paper:880029123982917640",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:880029123982917640"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03177805800756621,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For diffusion Monte Carlo (DMC) simulations of a homogeneous Bose gas carried out in a periodic cubic simulation box with $N$ particles at number density $n$, the finite-size error decreases with increasing $N$; the proposition used in the numerical analysis is that for the DMC calculations in question performed with $N=500$ particles and the densities sampled in those calculations (number densities corresponding to $na^{3}$ values as small as $10^{-6}$ and up to $O(10^{-1})$), finite-size errors are small compared to the quoted statistical errors, so that the published DMC results can be treated as representative of the thermodynamic limit within the reported error bars; if this proposition fails (i.e., finite-size effects comparable to statistical errors), then diagnostics extracted from the DMC data would be biased.",
+        "content_hash": "dfdd3955afb17a02945866bdff938ec7e2cfdea3604b3702013f4f2d37586c4f",
+        "id": "gcn_135e9331246d4eb6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748878366015616::P10",
+            "package_id": "paper:867748878366015616",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748878366015616"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02946912242686891,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When extrapolating MPC-corrected finite-size DMC energies to the infinite-cell limit by fitting $E_N^{\\mathrm{cor}} = E_{\\infty}^{\\mathrm{cor}} + k^{\\mathrm{cor}}/N$, the authors assign the uncertainty of the extrapolated infinite-size energy $E_{\\infty}^{\\mathrm{cor}}$ to be equal to the statistical uncertainty of the largest-supercell ($N=120$) DMC energy. The proposition relied upon is: this practice provides a conservative and adequate estimate of the true uncertainty in $E_{\\infty}^{\\mathrm{cor}}$, in the sense that it does not significantly underestimate the uncertainty introduced by the finite set of system sizes and the linear-in-$1/N$ extrapolation model and thus yields realistic one-standard-deviation error bars for downstream thermodynamic quantities.",
+        "content_hash": "2be5c2520a53772f3aa57e8c3d56796180d876af623ffbadae712f2ce1470780",
+        "id": "gcn_d5c7327902684446",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814683398357385217::P14",
+            "package_id": "paper:814683398357385217",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814683398357385217"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02792120864410021,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Denote by $\\sigma_{\\mathrm{MC}}$ the statistical standard error from Monte Carlo sampling in a fixed‑phase DMC run for per‑particle energies and by $\\sigma_{\\mathrm{extrap}}$ the uncertainty arising from the finite‑size correction and extrapolation to the thermodynamic limit; for the DMC calculations carried out (system sizes and sampling lengths used), $\\sigma_{\\mathrm{MC}}\\ll\\sigma_{\\mathrm{extrap}}$, so that the quoted error bars and the uncertainty budget are dominated by extrapolation systematics rather than by Monte Carlo statistical noise.",
+        "content_hash": "024580908487a7fc3b8cb55dea02fcb02a0725c36aab3a92c8ef0a0623744570",
+        "id": "gcn_d670686105d54c41",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811151272764768256::P5",
+            "package_id": "paper:811151272764768256",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811151272764768256"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027745885954841176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the homogeneous two-dimensional electron gas at the densities studied, performing FN-DMC calculations for closed-shell particle numbers N in the range 21 ≤ N ≤ 126 (with N↑ and N↓ chosen to give closed-shell plane-wave fillings) provides sufficient sampling of shell-structure oscillations and finite-size trends so that the finite-N energy data can be fitted to the finite-size ansatz given above and extrapolated to the thermodynamic limit N→∞ with the claimed numerical precision.",
+        "content_hash": "9da5012978012b246567e0f2e0d8ef059b54550076bd12fee54f38d023a2e39f",
+        "id": "gcn_f7c026ef139f4a10",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811679104628686848::P11",
+            "package_id": "paper:811679104628686848",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811679104628686848"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024624624624624628,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the interacting two-dimensional electron gas at the densities studied, fixed-node DMC energies were computed for particle numbers $N$ up to $N_{\\\\max}=126$ and down to $N_{\\\\min}=21$, and the proposition is that extrapolating these finite-$N$ results via the global finite-$N$/polarization fitting form yields reliable estimates of the thermodynamic-limit energy $E_{\\\\infty}(\\\\zeta)$, i.e., that finite-size effects not captured by the fit are small for $N\\\\le 126$ and do not qualitatively change the extrapolated thermodynamic-limit energies or the phase-stability conclusions derived from them.",
+        "content_hash": "452eafddf558544ea7cc4ae5423ab88c68ee481c86d0230b51a72b19e170fbde",
+        "id": "gcn_bb0521dac51c49b0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811133441092354048::P13",
+            "package_id": "paper:811133441092354048",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811133441092354048"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02286386203292396,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let E(N) denote diffusion Monte Carlo total energies per particle computed in periodic one-dimensional cells containing N electrons at fixed density. The proposition is that the simple two-parameter finite-size model E(N)=E_{\\infty}+B N^{-2} (with E_{\\infty} and B treated as N-independent constants over the fitted range) provides an adequate representation of the N-dependence of the DMC energies computed at N=37, 55, 73, and 99, so that a linear fit of E(N) versus 1/N^{2} over those four system sizes yields an accurate estimate of the thermodynamic-limit energy E_{\\infty} with residual subleading corrections (higher powers of 1/N or nonanalytic finite-size terms) sufficiently small to be neglected within the stated uncertainties.",
+        "content_hash": "403c5fb945f19e21b77bb2b42aa43de51bf1b160677fba0ffc66fc6517ae5682",
+        "id": "gcn_702d6b3a2c8c4731",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811650318285668355::P4",
+            "package_id": "paper:811650318285668355",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811650318285668355"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Twist-averaged diffusion Monte Carlo (TA DMC) total energies per electron E(N) computed for the three-dimensional homogeneous electron gas (HEG) in face-centered-cubic simulation cells with Ewald interactions at particle counts N = 130, 226, and 338 were extrapolated to infinite system size by fitting the linear finite-size model E(N) = E(∞) + b/N (where E(∞) is the thermodynamic-limit energy per electron and b is a scalar coefficient), and the resulting thermodynamic-limit DMC total energies per electron include, for r_s = 0.5, E_DMC(∞) = 3.4254(1) Ha/elec. (this dataset) compared with the prior DMC value 3.4301(1) Ha/elec. (Spink et al.), and for r_s = 1.0, E_DMC(∞) = 0.58640(2) Ha/elec. (this dataset) compared with 0.58780(1) Ha/elec. (Spink et al.); the extrapolation employed numerical 1/N scaling motivated by analytic finite-size considerations but did not apply analytic finite-size correction formulas directly.",
+        "content_hash": "1a81d0566ef07d80f3862ffe29031298036ebe26eb44ecb18ce1883e0f61e429",
+        "id": "gcn_44ff2a5e5c7348ce",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867770771529793903::conclusion_2",
+            "package_id": "paper:867770771529793903",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867770771529793903"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "01f8d7e41a3b71ce4aff3e7e5a5e1048"
+}

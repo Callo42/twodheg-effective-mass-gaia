@@ -1,0 +1,15 @@
+{
+  "exports": [
+    {
+      "content": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum p above k_F to the N-particle ground state produces a finite-size correction to the kinetic-energy contribution of the excitation, delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. Because Delta_N scales as N^(-1/4), the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m* also scales as N^(-1/4). Therefore, extrapolations that assume faster-vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m* - m for typical accessible system sizes [@Holzmann2008].",
+      "content_hash": "79592a72704c3a19dd4ddaf45485e2fdfc4dc9cccdfed2582b3eeda4f6cc1e19",
+      "label": "gcn_28b9e01bd2f8487f",
+      "qid": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+      "type": "claim"
+    }
+  ],
+  "ir_hash": "sha256:d70e0556d7c81e17627d12a1210a04ab5a97a201e8db89588dc4260192448eda",
+  "manifest_schema_version": 1,
+  "package": "twodheg-effective-mass",
+  "version": "0.1.0"
+}

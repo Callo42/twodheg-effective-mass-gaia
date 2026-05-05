@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867750964453442086": {
+        "area": "arXiv-Physics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "",
+        "cover_date_start": "2004-08-14",
+        "created_at": "2023-05-23T04:52:32+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0408335",
+        "en_title": "Density dependent spin susceptibility and effective mass in interacting quasi-two dimensional electron systems",
+        "id": "867750964453442086",
+        "keywords": "",
+        "publication_date": "2004-08-14",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "相互作用的准二维电子系统中的密度依赖自旋磁化率和有效质量"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867763263645942044": {
+        "area": "arXiv-Physics",
+        "authors": "M. Moreno | C. J. B. Ford | Y. Jin | J. P. Griffiths | I. Farrer | G. A. C. Jones | D. A. Ritchie | O. Tsyplyatyev | A. J. Schofield",
+        "available_online": "",
+        "cover_date_start": "2015-11-09",
+        "created_at": "2023-05-23T05:41:24+08:00",
+        "doi": "10.48550/arXiv.1511.02902",
+        "en_title": "Nonlinear spectra of spinons and holons in short GaAs quantum wires",
+        "id": "867763263645942044",
+        "keywords": "",
+        "publication_date": "2015-11-09",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "短GaAs量子线中自旋子和空穴子的非线性光谱"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective masses m^{*} reported in the literature from DMC fits to the single-particle energy band and the ground-state total-energy parametrizations reported in the literature as continuous functions E_{\\mathrm{corr}}(r_s,\\zeta) of density parameter r_s and spin polarization \\zeta are mutually consistent within their stated uncertainties and can be combined algebraically via standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic HEG and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta)) to produce numerical estimates of the dimensionless Fermi liquid parameters F_l for the 2D HEG.\n      Refs. 11,23,24",
+        "content_hash": "831e8e3eb5c04947a3beade00657fe61580c31f91b9b24b8531c03cc72ee541b",
+        "id": "gcn_f39401296385496c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P8",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extrapolated thermodynamic-limit effective masses exhibit distinct density dependences depending on spin polarization: for the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10 the extrapolated effective mass remains close to unity (\\\\(m^{*}\\\\approx1\\\\)), indicating no significant interaction-induced mass enhancement at these densities for the clean continuum 2D HEG model considered; by contrast, for the fully spin-polarized (ferromagnetic) 2D HEG the extrapolated effective mass decreases as the density is lowered, for example taking the values \\\\(0.85(1)\\\\) at \\\\(r_{s}=1\\\\), \\\\(0.74(1)\\\\) at \\\\(r_{s}=5\\\\), and \\\\(0.70(3)\\\\) at \\\\(r_{s}=10\\\\), a trend that is qualitatively consistent with experimental measurements on spin-polarized two-dimensional systems reported in the literature (e.g., Padmanabhan et al.).",
+        "content_hash": "50d79ff1ea218bc2ead65fa8297f1c40403b60c514239f93423bf99aa338304e",
+        "id": "gcn_bdc9e8a10cfe4b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.031754032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.031024531024531024,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031009615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028850145288501453,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DMC-calculated quasiparticle effective mass exhibits opposite trends with density for the two spin polarizations studied: in the paramagnetic (unpolarized) 2D HEG $m^{*}$ increases with increasing $r_{s}$ (decreasing density), producing a significant enhancement at $r_{s}=5$ and $r_{s}=10$, whereas in the fully ferromagnetic (fully spin-polarized) 2D HEG $m^{*}$ decreases as density is lowered; these calculated trends are quantitatively consistent with the experimental observations of Tan et al. for paramagnetic systems and of Padmanabhan et al. for ferromagnetic or partially spin-polarized systems.",
+        "content_hash": "1f24fa7b336da07b315b306303e81584370cfd18bbdc2be612f5f8c5572972c0",
+        "id": "gcn_4d1aad1470d54895",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_5",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027046783625730993,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fits of measured lower-well (LW) and upper-well lead (UW-lead) tunnelling resonance loci $V_{dc}(B)$ to a parabolic two-dimensional Fermi-liquid dispersion\n      $$\n      \\varepsilon_{\\mathrm{2D}}(k)=\\frac{\\hbar^{2}}{2m_{\\mathrm{2D}}^{*}}\\left[k^{2}-\\left(k_{F}^{\\mathrm{2D}}\\right)^{2}\\right],\n      $$\n      where $k_{F}^{\\mathrm{2D}}$ is the 2D Fermi wavenumber and $m_{\\mathrm{2D}}^{*}$ the 2D effective mass, yield $m_{\\mathrm{2D}}^{*}=0.050\\,m_{0}$ (with $m_{0}$ the free-electron mass); this empirically extracted 2D mass is used as the reference parent mass $m_{D}^{*}$ when expressing one-dimensional effective masses via $m_{c,s}^{*}=\\bar{K}_{c,s}\\,m_{D}^{*}$.",
+        "content_hash": "cc68f51c13b6523e1fa24ac191d06cf03f955e65781a8c7cb3c4d2a4c50b19e1",
+        "id": "gcn_9fe14fc2237543c7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763263645942044::conclusion_6",
+            "package_id": "paper:867763263645942044",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763263645942044"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02564935064935065,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DMC effective masses show opposite trends with increasing $r_s$ (decreasing density) for the two spin polarizations studied: for the paramagnetic 2D HEG $m^{*}$ increases with increasing interaction strength over the range examined (from approximately $0.95$ at $r_s=1$ to approximately $1.34$ at $r_s=10$), whereas for the fully spin-polarized (ferromagnetic) 2D HEG $m^{*}$ decreases with increasing $r_s$ (from approximately $0.86$ at $r_s=1$ to approximately $0.61$ at $r_s=10$). These calculated trends are consistent with experimental measurements that report an increase of the paramagnetic effective mass as density is lowered (Tan et al., Phys. Rev. Lett. 94, 016405 (2005)) and a decrease of the effective mass in ferromagnetic or partially spin-polarized samples as density is lowered (Padmanabhan et al., Phys. Rev. Lett. 101, 026402 (2008) and related work).",
+        "content_hash": "a8a170b4afb94a44ec8a2640662e1c21c2446ae0bcc2c1d118aeba05dde32a6c",
+        "id": "gcn_a3478ced108544d5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_4",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025035205758097326,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Numerical evaluations using the leading-order ladder-bubble (RPA) expansion in the dynamically screened Coulomb interaction, combined with realistic quasi-2D form factors and device parameters, yield density-dependent spin susceptibility and effective-mass results that remain in reasonable quantitative agreement with available experiments for interaction strengths up to approximately $r_s\\!\\sim\\!7$; comparison with available strict-2D quantum Monte Carlo (QMC) results shows significant differences in the intermediate and large-$r_s$ regime (because QMC typically assumes zero transverse width, $F(q)=1$), but the quasi-2D RPA results can be quantitatively close to strict-2D QMC for some parameter ranges, and overall the quasi-2D RPA ladder-bubble framework provides a conserving, physically motivated approximation that explains experimental trends without invoking non–Fermi-liquid physics.",
+        "content_hash": "b6bcc96890b443b5fef76aabf951a8ad7dbf34226547f180c1b360651682608a",
+        "id": "gcn_423ea3c725294fc2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750964453442086::conclusion_8",
+            "package_id": "paper:867750964453442086",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750964453442086"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "c2a8532ce2ab395198af48ca36fa67b5"
+}

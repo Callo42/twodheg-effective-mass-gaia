@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811151238195314690": {
+        "area": "Physics and Astrophysics",
+        "authors": "Natalia Olszowska | Jakub Lis | Piotr Ciochon | Łukasz Walczak | Enrique G. Michel | Jacek J. Kolodziej",
+        "available_online": "2016-9-12",
+        "cover_date_start": "2016-09-12",
+        "created_at": "2022-12-18T00:25:27+08:00",
+        "doi": "10.1103/physrevb.94.115305",
+        "en_title": "Effect of a skin-deep surface zone on the formation of a two-dimensional electron gas at a semiconductor surface",
+        "id": "811151238195314690",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "半导体表面浅表层对二维电子气形成的影响"
+      },
+      "paper:812033019849211904": {
+        "area": "Physics and Astrophysics",
+        "authors": "",
+        "available_online": "1997-1",
+        "cover_date_start": "1970-03-03",
+        "created_at": "2022-12-20T10:49:19+08:00",
+        "doi": "10.1098/rspa.1970.0047",
+        "en_title": "Path-integral theory of an electron gas in a random potential",
+        "id": "812033019849211904",
+        "keywords": "",
+        "publication_date": "1970-3-3",
+        "publication_id": "73388",
+        "publication_name": "Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences _ Proc. R. Soc. Lond. A",
+        "research_categories": "",
+        "zh_title": "随机势场中电子气的路径积分理论"
+      },
+      "paper:812123848521547776": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-12-15",
+        "cover_date_start": "2005-12-15",
+        "created_at": "2022-12-20T16:50:14+08:00",
+        "doi": "10.1103/physrevlett.95.256603",
+        "en_title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+        "id": "812123848521547776",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "半导体结构中载流子有效质量的自旋极化依赖性：自旋电子学有效质量"
+      },
+      "paper:812306861146505217": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-1-18",
+        "cover_date_start": "2005-01-18",
+        "created_at": "2022-12-21T04:57:28+08:00",
+        "doi": "10.1103/physrevb.71.045322",
+        "en_title": "Quasiparticle effective-mass divergence in two-dimensional electron systems",
+        "id": "812306861146505217",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子系统中的准粒子有效质量发散"
+      },
+      "paper:812366226377408513": {
+        "area": "Geoscience",
+        "authors": "A.A. Shashkin | Maryam Rahimi | S. Anissimova | S.V. Kravchenko | V.T. Dolgopolov | T.M. Klapwijk",
+        "available_online": "",
+        "cover_date_start": "2004-04-01",
+        "created_at": "2022-12-21T08:53:22+08:00",
+        "doi": "10.1016/j.physe.2003.11.254",
+        "en_title": "Sharply increasing effective mass near the 2D metal–insulator transition",
+        "id": "812366226377408513",
+        "keywords": "[{\"en_name\": \"Effective mass\", \"ch_name\": \"\"}, {\"en_name\": \"Large g-factor\", \"ch_name\": \"\"}, {\"en_name\": \"Metal-insulator transition\", \"ch_name\": \"\"}]",
+        "publication_date": "2004-4",
+        "publication_id": "98276",
+        "publication_name": "Physica E: Low dimensional Systems and Nanostructures _ Physica E: Low-dimensional Systems and Nanostructures",
+        "research_categories": "",
+        "zh_title": "二维金属 - 绝缘体转变附近有效质量的急剧增加"
+      },
+      "paper:812644373337473026": {
+        "area": "Physics and Astrophysics",
+        "authors": "A. F. Braña | C. Diaz-Paniagua | F. Batallan | J. A. Garrido | E. Muñoz | F. Omnes",
+        "available_online": "",
+        "cover_date_start": "2000-07-15",
+        "created_at": "2022-12-22T03:18:38+08:00",
+        "doi": "10.1063/1.373758",
+        "en_title": "Scattering times in AlGaN/GaN two-dimensional electron gas from magnetoresistance measurements",
+        "id": "812644373337473026",
+        "keywords": "",
+        "publication_date": "2000-7-15",
+        "publication_id": "585",
+        "publication_name": "Journal of Applied Physics _ Journal of Applied Physics",
+        "research_categories": "",
+        "zh_title": "通过磁阻测量得到的AlGaN/GaN二维电子气中的散射时间"
+      },
+      "paper:813060374432579584": {
+        "area": "Comprehensive Periodical",
+        "authors": "Sébastien Toussaint | Frederico Martins | Sébastien Faniel | Marco G. Pala | Ludovic Desplanque | Xavier Wallart | Hermann Sellier | Serge Huant | Vincent Bayot | Benoit Hackens",
+        "available_online": "2018-2-14",
+        "cover_date_start": "2018-02-14",
+        "created_at": "2022-12-23T06:51:39+08:00",
+        "doi": "10.1038/s41598-018-21250-y",
+        "en_title": "On the origins of transport inefficiencies in mesoscopic networks",
+        "id": "813060374432579584",
+        "keywords": "",
+        "publication_date": "2018-12",
+        "publication_id": "9354",
+        "publication_name": "Scientific Reports _ Sci Rep",
+        "research_categories": "",
+        "zh_title": "关于介观网络中传输效率低下的起源"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:814644944001040386": {
+        "area": "Physics and Astrophysics",
+        "authors": "Andrey Krakovsky | Jerome K. Percus",
+        "available_online": "1996-3-15",
+        "cover_date_start": "1996-03-15",
+        "created_at": "2022-12-27T15:48:11+08:00",
+        "doi": "10.1103/physrevb.53.7352",
+        "en_title": "Quasiparticle effective mass for the two- and three-dimensional electron gas",
+        "id": "814644944001040386",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维和三维电子气的准粒子有效质量"
+      },
+      "paper:867754938682310952": {
+        "area": "arXiv-Physics",
+        "authors": "G. G. Spink | P. López Ríos | N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2015-05-27",
+        "created_at": "2023-05-23T05:08:20+08:00",
+        "doi": "10.48550/arXiv.1505.07411",
+        "en_title": "Trion formation in a two-dimensional hole-doped electron gas",
+        "id": "867754938682310952",
+        "keywords": "",
+        "publication_date": "2015-05-27",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维空穴掺杂电子气中的三重子形成"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027730294396961064,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $m^*(n)$ denote the zero-temperature quasiparticle effective mass computed within on-shell RPA for a clean quasi-two-dimensional electron gas using a specified finite-width form factor and material parameters, and let $m^*_{\\mathrm{exp}}(n)$ denote effective masses extracted from finite-temperature Shubnikov–de Haas (SdH) oscillation amplitude measurements in Si MOSFETs; concluding that qualitative agreement between $m^*(n)$ and $m^*_{\\mathrm{exp}}(n)$ implies that the theoretical $T=0$ divergence is experimentally relevant relies on the assumptions that (i) intrinsic temperature-dependent renormalization of $m^*$ is small or controlled in the experiments, (ii) the electron temperature equals the thermometer reading during the SdH measurements, and (iii) disorder and many-body effects omitted from the clean-theory calculation do not qualitatively alter the experimental extraction procedure, and because each of these assumptions is uncertain at low density the extrapolation of $T=0$ clean-theory divergence to experimental observations is necessarily tentative.",
+        "content_hash": "9e6f601917fde02a6285be83d24304499b4626b7d28117219c5cc8d6ff62eec1",
+        "id": "gcn_9195400e56fc4400",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812306861146505217::P8",
+            "package_id": "paper:812306861146505217",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812306861146505217"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025158227848101268,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective-mass ratio $m^{*}/m$ computed by enforcing the Friedel sum rule on scattering in the Sjölander–Stott effective potential for a clean, zero-temperature two-dimensional homogeneous electron gas is treated as directly comparable to effective-mass values extracted from experimental magnetoconductivity measurements (for example, the magnetoconductivity data of Smith and Stiles) without applying significant corrections for finite temperature, disorder scattering, electron–electron scattering beyond the homogeneous jellium model, or possible differences between thermodynamic or transport effective-mass definitions and the quasiparticle mass obtained from the scattering-based Friedel-sum enforcement.",
+        "content_hash": "b82a5227627c69f5239784dcdeeaa02079a160460b935dcbea1f63a1f610cf14",
+        "id": "gcn_639c497f05874cb0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814644944001040386::P9",
+            "package_id": "paper:814644944001040386",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814644944001040386"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025007766387076732,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The 2D calculations assume an ideal strictly two-dimensional electron gas with the bare Coulomb interaction $v_{q}=2\\pi e^{2}/q$ and therefore omit finite quasi-2D layer-width form-factor corrections that, for a realistic quasi-2D quantum well or heterostructure, modify the effective interaction at large wavevectors $q$. The explicitly stated quantitative effect of such finite-width form factors is to reduce the 2D many-body renormalization by factors on the order of roughly 1.2–2 depending on carrier density and confinement details; the weak point is the assumption that omitting these finite-width form factors does not change the qualitative conclusions about the spin-polarization dependence of the effective mass (majority mass decreasing with $\\zeta$, minority mass nonmonotonic).\n      [14]",
+        "content_hash": "292cc980d059d043cc1d0908a2b4e0da15c1ac36a746c2af6c0baee319feb1f2",
+        "id": "gcn_04d9c68545784e07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812123848521547776::P4",
+            "package_id": "paper:812123848521547776",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812123848521547776"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The disorder-renormalized, temperature-dependent second effective mass m_G for an electron of bare mass m in a Gaussian-correlated random potential with parameters η and L is defined by\n      $$\n      \\frac{m_{\\mathrm{G}}}{m}=\\frac{1}{2}\\beta\\hbar\\omega_{\\mathrm{G}}\\coth\\!\\left(\\tfrac{1}{2}\\beta\\hbar\\omega_{\\mathrm{G}}\\right),\n      $$\n      with β=1/(k_B T) and ω_G given by ω_G=(η/L)(2/(m k_B T))^{1/2}; the dimensionless ratio κ=(m_G−m)/m is proposed as a measure of localization, satisfying κ≈0 in the high-temperature (quasi-free) regime characterized by (1/2)βℏω_G≪1 (equivalently {ℏη/(L√(2m))}^{2/3}≪k_B T), whereas in the low-temperature regime (1/2)βℏω_G≫1 (equivalently k_B T≪(ℏη/(L√(2m)))^{2/3}) the mass increases and, asymptotically under these low-temperature, large-disorder conditions,\n      $$\n      m_{\\mathrm{G}}\\sim m\\,\\frac{\\eta}{(k_{\\mathrm{B}}T)^{2/3}}\\left(\\frac{\\hbar^{2}}{2mL^{2}}\\right)^{1/2},\n      $$\n      so that m_G≫m indicates strong localization of the single-particle states.",
+        "content_hash": "ac02dee7e97690bc70445cdc1f4cc85f5339c58f068b15db67838a7c48293ed1",
+        "id": "gcn_783cc741b7e047c3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812033019849211904::conclusion_3",
+            "package_id": "paper:812033019849211904",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812033019849211904"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In very-low-disorder (100)-silicon metal–oxide–semiconductor field-effect transistor (MOSFET) two-dimensional (2D) electron systems, the quasiparticle effective mass m, defined as the cyclotron or thermodynamic mass that enters the single-particle quasiparticle spectrum, increases sharply as the electron density n_s is reduced toward the metal–insulator transition density n_c: the experimentally determined m grows by more than a factor of three over the low-n_s range explored. This strong mass enhancement is obtained consistently by two independent experimental determinations performed at the same n_s: (i) from the temperature dependence of the zero-field conductivity σ(T), where the normalized conductivity was observed to follow the linear form σ(T)/σ_0 = 1 − A^* k_B T (with σ_0 ≡ lim_{T→0} σ(T) the T→0 extrapolated conductivity, k_B the Boltzmann constant, and A^* a temperature-independent slope related to Fermi-liquid interaction parameters), combined with an independent measurement of the product g m (where g is the interaction-renormalized Landé factor) obtained from the in-plane magnetic field B_c corresponding to the onset of full spin polarization; and (ii) from the temperature dependence of the amplitude A(T) of weak-field (sinusoidal) Shubnikov–de Haas oscillations in a perpendicular magnetic field B_⊥, fitted to the Lifshitz–Kosevich form A(T) = A_0 [2π^2 k_B T/(ħ Ω_c)] / sinh[2π^2 k_B T/(ħ Ω_c)] with cyclotron frequency Ω_c = e B_⊥/(m c) (here A_0 is a prefactor, ħ is the reduced Planck constant, e the elementary charge, and c the speed of light); the two independent procedures produce quantitatively consistent m(n_s) values that show the pronounced rise of m on approaching n_c.",
+        "content_hash": "67c93f540a7e5061dc27e100598f5232c7cbf3ab3ab3711b6bc13cd925666082",
+        "id": "gcn_8dd82403821a4c35",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812366226377408513::conclusion_1",
+            "package_id": "paper:812366226377408513",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812366226377408513"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi wavelength λ_F used to infer resonance orders from the measured sheet density n_{2D} is computed from the strictly two‑dimensional free‑electron relation λ_F = sqrt{2π / n_{2D}}, an expression that assumes a homogeneous two‑dimensional electron gas of sheet density n_{2D} and neglects corrections arising from transverse quantization, changes in subband occupation, and effective‑mass renormalization that would modify the relation between the local one‑dimensional Fermi wavevector and the measured n_{2D} in a quasi‑one‑dimensional cavity.",
+        "content_hash": "6cf13473fe15eb50e51dd78e111cd3b6124357ce8e1fe3c389865a8e214a7207",
+        "id": "gcn_1fe66d8349d74cf6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813060374432579584::P5",
+            "package_id": "paper:813060374432579584",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813060374432579584"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The simulations model a strictly two-dimensional, zero-temperature system comprising a pointlike hole immersed in a homogeneous electron gas with a uniform neutralizing background interacting via a pure 1/r Coulomb potential, whereas real experimental quantum-well heterostructures exhibit finite well width (quasi-2D confinement), finite temperature, spatially varying dielectric environments, dopant-related disorder, and localization effects; these real-material factors can shift crossover densities and trion radii and therefore limit direct quantitative comparison between the idealized simulations and experiments.\n      Fig. 5",
+        "content_hash": "69215a04ef2d62e209ca654fc8f254d4a32258ba8cee8bed05c00ceb3fae65d9",
+        "id": "gcn_6ed582fd68504d47",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867754938682310952::P7",
+            "package_id": "paper:867754938682310952",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867754938682310952"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass in the two-dimensional electron gas is m* = 0.23 m0 (with m0 the free-electron mass), determined by fitting the temperature dependence of the SdH oscillation amplitude A(B,T) to the Lifshitz–Kosevich temperature-damping form R_T = X / sinh(X) with X = 2π^2 k_B T m*/(ħ e B), where k_B is Boltzmann's constant, ħ the reduced Planck constant, e the elementary charge, B the perpendicular magnetic field and T the temperature; the practical fitting was performed by plotting f(T;m*) ≡ ln(A/T)+ln[1−exp(−4π^2 k_B T m*/(ħ e B))] versus T for selected filling-factor maxima and iterating until the input m* matched the slope-derived m* = 0.23 m0.",
+        "content_hash": "fb9373cfc4570db8b32ab63aa3ae3dd51b31072407a183487331dede5b792d16",
+        "id": "gcn_b6fadfa2a6c24f07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812644373337473026::conclusion_2",
+            "package_id": "paper:812644373337473026",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812644373337473026"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define r_s as the average interparticle spacing measured in effective Bohr radii for the accumulation-layer electron gas and denote by BGR_3D(r_s) the three-dimensional electron-gas band-gap renormalization at the corresponding density and by BGR_2D(r_s) the strict two-dimensional value at the same nominal areal density. For the quasi-two-dimensional accumulation-layer parameters relevant to the studied InAs surfaces (effective r_s in the range considered in the referenced theoretical estimates), published extrapolations and estimates indicate that going from 3D to quasi-2D produces at most moderate enhancement of the intrinsic electron-gas BGR: numerically, BGR_quasi-2D is not expected to increase intrinsic electron-gas BGR from the several-meV scale up to values ≫50 meV, and is most likely to remain in the few-to-few-tens-of-meV range, i.e., BGR_quasi-2D ≲50 meV under the quoted conditions.\n      [59]",
+        "content_hash": "8e55a1aebb4b3c678d00cda2d97e5c226f8b4d269bbbf549e833613e5b5e8748",
+        "id": "gcn_81a04a8aa68a4049",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811151238195314690::P3",
+            "package_id": "paper:811151238195314690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811151238195314690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "a0b14b85ec01523d2cbe378ca616963e"
+}

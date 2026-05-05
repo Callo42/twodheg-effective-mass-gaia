@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811709155285925889": {
+        "area": "Physics and Astrophysics",
+        "authors": "S. V. Kravchenko | T. M. Klapwijk",
+        "available_online": "2000-3-27",
+        "cover_date_start": "2000-03-27",
+        "created_at": "2022-12-19T13:22:24+08:00",
+        "doi": "10.1103/physrevlett.84.2909",
+        "en_title": "Metallic Low-Temperature Resistivity in a 2D Electron System Over an Extended Temperature Range",
+        "id": "811709155285925889",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维电子系统在扩展温度范围内的金属低温电阻率"
+      },
+      "paper:812087769798017025": {
+        "area": "Geoscience",
+        "authors": "Jing‐Han Chen | Jyun‐Ying Lin | Jung‐Kai Tsai | Hun Park | Gil‐Ho Kim | Jungseok Ahn | Hyun‐Ick Cho | Eun‐Jin Lee | Jung‐Hee Lee | C.‐T. Liang | Y. F. Chen",
+        "available_online": "2006-6-12",
+        "cover_date_start": "2006-06-01",
+        "created_at": "2022-12-20T14:26:52+08:00",
+        "doi": "10.1002/pssc.200565196",
+        "en_title": "Experimental evidence for Drude‐Boltzmann‐like transport in a two‐dimensional electron gas in an AlGaN/GaN heterostructure",
+        "id": "812087769798017025",
+        "keywords": "",
+        "publication_date": "2006-6",
+        "publication_id": "32031",
+        "publication_name": "physica status solidi c _ Phys. Status Solidi (c)",
+        "research_categories": "",
+        "zh_title": "AlGaN/GaN异质结构中二维电子气中类德鲁德-玻尔兹曼输运的实验证据"
+      },
+      "paper:812566003912278017": {
+        "area": "Physics and Astrophysics",
+        "authors": "E. A. Zhukov | V. N. Mantsevich | D. R. Yakovlev | N. E. Kopteva | E. Kirstein | A. Waag | G. Karczewski | T. Wojtowicz | M. Bayer",
+        "available_online": "2020-9-18",
+        "cover_date_start": "2020-09-18",
+        "created_at": "2022-12-21T22:07:13+08:00",
+        "doi": "10.1103/physrevb.102.125306",
+        "en_title": "Renormalization of the electron g factor in the degenerate two-dimensional electron gas of ZnSe- and CdTe-based quantum wells",
+        "id": "812566003912278017",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "基于ZnSe和CdTe的量子阱中简并二维电子气的电子g因子重整化"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:813347774442504196": {
+        "area": "Geoscience",
+        "authors": "M. Braigue | A. Nafidi | H. Chaib | Devki N. Talwar | A. Tirbiyine | J. Hemine | A. Idbaha | A. Boulkassim | T. El Gouti | M. Massaq | M. SrinivasaVinod | Giti A. Khodaparast | Michael B. Santos | Christopher J. Stanton",
+        "available_online": "",
+        "cover_date_start": "2011-01-01",
+        "created_at": "2022-12-24T01:53:41+08:00",
+        "doi": "10.1063/1.3671700",
+        "en_title": "Correlation Between Bands Structure and Magneto-Transport Properties in n-type HgTe∕CdTe Superlattice with Relatively Thin CdTe Barrier",
+        "id": "813347774442504196",
+        "keywords": "[{\"ch_name\":\"能带结构\",\"en_name\":\"Band structure\"},{\"ch_name\":\"包络函数形式\",\"en_name\":\"Envelope function formalism\"},{\"ch_name\":\"远红外探测器HgTe/CdTe超晶格\",\"en_name\":\"Far-infrared detector HgTe/CdTesuperlattices\"},{\"ch_name\":\"磁输运特性\",\"en_name\":\"Magneto-transport properties\"},{\"ch_name\":\"窄隙二维纳米半导体\",\"en_name\":\"Narrow gap twodimensionalnano-semiconductor\"}]",
+        "publication_date": "2011",
+        "publication_id": "96345",
+        "publication_name": "AIP Conference Proceedings _ ",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "具有相对较薄CdTe势垒的n型HgTe∕CdTe超晶格中能带结构与磁输运性质之间的相关性"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031099324975891997,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N quasiparticle effective masses m^*(N) produced by quartic fits to DMC energy bands and fitting m^*(N)=m^*(∞)+b N^{-γ} yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.955(2) in hartree atomic units (a.u.), where m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the Fermi wave vector of the infinite system.",
+        "content_hash": "7859b0b106dad377c477ad6afe8e3774af8cb07138426e0b7daf7af4d7730e8c",
+        "id": "gcn_2feeb72d724846cf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_4",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030798389007344232,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi temperature of the two-dimensional electron gas is calculated from the sheet electron density $n_s$ according to $T_F=\\hbar^2\\pi n_s/(k_B m^*)$ using the effective mass $m^*=0.19\\,m_e$, where $m_e$ is the free-electron mass, and the analysis assumes that this effective mass remains applicable in the dilute low-density regime near the metal-insulator transition.",
+        "content_hash": "c2f48ad17c38852d0f65fa8f017e2b7be336358aba662001a247d31cb7f89ed4",
+        "id": "gcn_9585d513be214c3f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811709155285925889::P3",
+            "package_id": "paper:811709155285925889",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811709155285925889"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron gas with sheet density n = 1.12&times;10^{13} cm^{-2} and with electron effective mass m^* = 0.20 m_e (where m_e is the free-electron mass and ħ is the reduced Planck constant), the Fermi energy is given by E_F = π ħ^2 n / m^*, which evaluates numerically to E_F ≈ 2.15&times;10^{-20} J ≈ 134 meV for the stated n and m^*; since the thermal energy at the upper measurement temperature k_B (80 K) ≈ 6.9 meV is much smaller than E_F, the two-dimensional electron gas is degenerate (E_F >> k_B T) over the interval 0.3 K ≤ T ≤ 80 K under the assumption that m^* ≈ 0.20 m_e applies to the occupied conduction states.",
+        "content_hash": "b1a86454d60a1213e0a6055d08f0cf6cf51dda0a209e3172c286c9839e2529a5",
+        "id": "gcn_10b79eb0ee064331",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812087769798017025::P2",
+            "package_id": "paper:812087769798017025",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812087769798017025"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5, the same extrapolation procedure applied to the DMC quartic-fit band data yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.04(2) a.u., with m^* defined as m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "6387e2dcf84ae7d2424eccc92c312224cfbd583aac1fb1ee1a3fe9946e390e0f",
+        "id": "gcn_e24d7ff647144aee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_5",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the interacting two-dimensional electron gas in the parameter ranges of the samples, the temperature dependence of the interacting effective mass m^*(T) for temperatures satisfying T/T_F ≤ 1 can be represented by the truncated analytical expansion\n      m^*/m_e = A(r_s) + B(r_s) (T/T_F) + C(r_s) (T/T_F)^2 ln(T/T_F),\n      where A(r_s), B(r_s), and C(r_s) are functions of the interaction parameter r_s taken from many-body theory and T_F = π ħ^2 n_e /(k_B m^*); this expansion is taken to accurately describe the temperature dependence of m^* for the temperatures and densities used in the model–data comparisons.",
+        "content_hash": "420606692308bcabc49c8f6b8848bb8a78554e76700acc4907b04d10f1069fd9",
+        "id": "gcn_cb199268a2da4c6a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812566003912278017::P6",
+            "package_id": "paper:812566003912278017",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812566003912278017"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the effective mass m*_{E1}(Γ) = 0.036 m0 (where m0 is the free-electron mass) for electrons in the E1 subband and the experimentally measured two-dimensional carrier density n = 3.2 × 10^12 cm⁻², the two-dimensional Fermi energy of the electron gas was estimated by the authors to be E_F = 88 meV; this estimate is reported to be in close agreement with an independent Fermi-energy value of approximately 91 meV deduced from thermoelectric power measurements.",
+        "content_hash": "7770d733b1af32eb8cde03d8236492fb22bf1497222c96109c8868cb3d92ede9",
+        "id": "gcn_eb6e0e24288d4422",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813347774442504196::conclusion_7",
+            "package_id": "paper:813347774442504196",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813347774442504196"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=5, the thermodynamic-limit quasiparticle effective mass obtained by extrapolating finite-N DMC quartic-fit results is m^*(∞)=0.74(1) a.u., using m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector.",
+        "content_hash": "0eb54583a6b53a006ba8d20615260d038847d96ae4baf9a0d0acbd34253b7e32",
+        "id": "gcn_38bbf14d5dc448f0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_8",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "56fd5bd057a858aa883ed2705494392d"
+}

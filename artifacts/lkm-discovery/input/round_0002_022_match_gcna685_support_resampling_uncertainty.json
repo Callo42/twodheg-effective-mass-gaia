@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811151272764768256": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yuhe Zhang | A. Wójs | J. K. Jain",
+        "available_online": "2016-9-8",
+        "cover_date_start": "2016-09-08",
+        "created_at": "2022-12-18T00:25:35+08:00",
+        "doi": "10.1103/physrevlett.117.116803",
+        "en_title": "Landau-Level Mixing and Particle-Hole Symmetry Breaking for Spin Transitions in the Fractional Quantum Hall Effect",
+        "id": "811151272764768256",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "分数量子霍尔效应中自旋跃迁的朗道能级混合和粒子孔对称性破缺"
+      },
+      "paper:811853413397561345": {
+        "area": "Physics and Astrophysics",
+        "authors": "G. E. Astrakharchik | J. Boronat | J. Casulleras | I. L. Kurbakov | Yu. E. Lozovik",
+        "available_online": "2009-5-12",
+        "cover_date_start": "2009-05-12",
+        "created_at": "2022-12-19T22:55:37+08:00",
+        "doi": "10.1103/physreva.79.051602",
+        "en_title": "Equation of state of a weakly interacting two-dimensional Bose gas studied at zero temperature by means of quantum Monte Carlo methods",
+        "id": "811853413397561345",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "532",
+        "publication_name": "Physical Review A _ Phys. Rev. A",
+        "research_categories": "",
+        "zh_title": "通过量子蒙特卡罗方法研究的零温下弱相互作用二维玻色气体的状态方程"
+      },
+      "paper:812719256197136385": {
+        "area": "Physics and Astrophysics",
+        "authors": "Y. Aoki | F. Csikor | Z. Fodor | A. Ukawa",
+        "available_online": "1999-5-24",
+        "cover_date_start": "1999-05-24",
+        "created_at": "2022-12-22T08:16:12+08:00",
+        "doi": "10.1103/physrevd.60.013001",
+        "en_title": "The end point of the first-order phase transition of the SU(2) gauge-Higgs model on a 4-dimensional isotropic lattice",
+        "id": "812719256197136385",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "522",
+        "publication_name": "Physical Review D _ Phys. Rev. D",
+        "research_categories": "",
+        "zh_title": "四维各向同性格点上SU(2)规范-希格斯模型的一级相变终点"
+      },
+      "paper:817358163446595585": {
+        "area": "Physics and Astrophysics",
+        "authors": "Satoru Tokuda | Kenji Nagata | and Masato Okada",
+        "available_online": "",
+        "cover_date_start": "2022-12-07",
+        "created_at": "2023-01-04T03:29:31+08:00",
+        "doi": "10.1103/PhysRevResearch.4.043165",
+        "en_title": "Intrinsic regularization effect in Bayesian nonlinear regression scaled by observed data",
+        "id": "817358163446595585",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "68812",
+        "publication_name": "Physical Review Research _ ",
+        "research_categories": "[\"Physical Sciences\"]",
+        "zh_title": "由观测数据缩放的贝叶斯非线性回归中的内在正则化效应"
+      },
+      "paper:867746469661114836": {
+        "area": "arXiv-Physics",
+        "authors": "T. Hahn | S. Klimin | J. Tempere | J. T. Devreese | C. Franchini",
+        "available_online": "",
+        "cover_date_start": "2018-03-14",
+        "created_at": "2023-05-23T04:34:40+08:00",
+        "doi": "10.48550/arXiv.1803.09608",
+        "en_title": "Diagrammatic Monte Carlo study of the Fröhlich polaron dispersion in 2D and 3D",
+        "id": "867746469661114836",
+        "keywords": "",
+        "publication_date": "2018-03-14",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "二维和三维中弗罗利希极化子色散的图解蒙特卡罗研究"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "When fitting the finite-\\\\(N\\\\) effective-mass data \\\\(m^{*}(N)\\\\) to the scaling form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\), the proposition is: performing repeated fits with Monte Carlo resampling of the statistical error bars on the input finite-\\\\(N\\\\) \\\\(m^{*}(N)\\\\) values yields uncertainty estimates for the fitted thermodynamic-limit parameter \\\\(m^{*}(\\\\infty)\\\\) that accurately capture the dominant contribution of the statistical variability in the data; these Monte Carlo-derived error bars are sufficiently conservative to represent the quoted statistical uncertainties in the extrapolated \\\\(m^{*}(\\\\infty)\\\\), while acknowledging that they may not fully account for model-selection or other systematic sources of error.",
+        "content_hash": "077bce56f0736eb0bcb15640daa7243249bf960c272546354f01f6a168c59bd4",
+        "id": "gcn_a685639571304474",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P9",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given Monte Carlo ensembles, reweighting procedures, Newton–Raphson zero-finding, and finite-size fits used to determine $\\kappa_0^c(\\lambda)$ and ultimately $\\lambda_c$, the proposition is that the authors' combination of jackknife resampling for statistical errors and quoted propagation of fit uncertainties yields error bars on $\\kappa_0^c$ and on the linearly extrapolated $\\lambda_c=0.00116(16)$ that correctly reflect both statistical fluctuations and the dominant systematic uncertainties (including reweighting overlap errors and finite-size fit-model choices).",
+        "content_hash": "1d4f0a6992e6f08d9309c7eaee67af94d833255239d467d592fc3cd521bb4bae",
+        "id": "gcn_d371f57b04064513",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812719256197136385::P7",
+            "package_id": "paper:812719256197136385",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812719256197136385"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DMC effective-mass estimator implemented in these calculations accumulates per-diagram measurements of the inverse effective mass (i.e. estimates of 1/m_{*}(\\alpha)) and reports m_{*}^{MC} by inverting the sample mean of these inverse-mass measurements; as the coupling \\alpha increases and the true effective mass m_{*}(\\alpha) grows rapidly, the sampled inverse-mass values become very small with relative fluctuations comparable to the mean, which leads to large relative statistical uncertainty after inversion and thus to degraded accuracy and stability of the reported m_{*} estimates, an effect that is particularly severe in two dimensions for \\alpha>2.",
+        "content_hash": "b5abf050a79bbaec1e82222b00ebdcf778db95386529e78b1993d7b26a8b0ac0",
+        "id": "gcn_e8f88a5f767f4f93",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867746469661114836::conclusion_7",
+            "package_id": "paper:867746469661114836",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867746469661114836"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the Monte Carlo estimates of F(κ,f;w_0,f_0) and Λ(κ,f;w_0,f_0) obtained by parallel tempering and Bridge sampling, the authors applied bootstrap resampling to compute error bars; the proposition is that the implemented bootstrap procedure (resampling Monte Carlo draws and/or replicated runs as done in the experiments) produces uncertainty estimates that adequately reflect the principal sources of estimation error—finite Monte Carlo sampling, Bridge-sampling variability, and finite-data realization variability—for the plotted error bars and reported standard deviations in the numerical results.",
+        "content_hash": "5b57107ae121f05cc893aae24fa349b297ce4f6dbad66c5b50779a6703e78bbe",
+        "id": "gcn_b02d6dad6df14001",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:817358163446595585::P12",
+            "package_id": "paper:817358163446595585",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:817358163446595585"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Denote by $\\sigma_{\\mathrm{MC}}$ the statistical standard error from Monte Carlo sampling in a fixed‑phase DMC run for per‑particle energies and by $\\sigma_{\\mathrm{extrap}}$ the uncertainty arising from the finite‑size correction and extrapolation to the thermodynamic limit; for the DMC calculations carried out (system sizes and sampling lengths used), $\\sigma_{\\mathrm{MC}}\\ll\\sigma_{\\mathrm{extrap}}$, so that the quoted error bars and the uncertainty budget are dominated by extrapolation systematics rather than by Monte Carlo statistical noise.",
+        "content_hash": "024580908487a7fc3b8cb55dea02fcb02a0725c36aab3a92c8ef0a0623744570",
+        "id": "gcn_d670686105d54c41",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811151272764768256::P5",
+            "package_id": "paper:811151272764768256",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811151272764768256"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a homogeneous two-dimensional system of identical bosons of mass $m$ interacting via a short-range potential characterized by a microscopic length scale $r_{0}$ and two-dimensional $s$-wave scattering length $a$, DMC ground-state energy per particle $E(N)/N$ was computed for finite particle numbers $N$ in the range $100\\le N\\le 800$ and these finite-$N$ results were extrapolated to the thermodynamic limit $N\\to\\infty$ by fitting the computed $E(N)/N$ versus $1/N$ (or another smooth finite-size ansatz) so that the systematic finite-size error of the extrapolated $E/N$ values is smaller than the reported stochastic (statistical) error bars for densities down to gas parameter $n a^{2}=10^{-100}$, where $n$ is the number density and the quoted statistical error bars are the Monte Carlo uncertainties reported for each extrapolated $E/N$.",
+        "content_hash": "a2aaf5bc42d9e60d6907a2f35ad1c1b3f89d9e3cb5848d22c6f8dcf9a018da57",
+        "id": "gcn_b2ae358c92b6478b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811853413397561345::P1",
+            "package_id": "paper:811853413397561345",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811853413397561345"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider the reported DMC calculations carried out with finite DMC time steps (time steps of 0.04, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for paramagnetic HEGs and 0.01, 0.2, and 0.4 a.u. at \\\\(r_{s}=1,5,10\\\\) for ferromagnetic HEGs) and using single-determinant Slater-Jastrow-backflow trial wave functions that, according to extrapolation of variational Monte Carlo energies to zero energy variance, retrieve more than 99% of the correlation energy. The proposition is: the residual biases arising from the fixed-node approximation and from finite DMC time-step errors (noting that halving the time step was verified to have a negligible effect on the computed energy band) are small compared with the overall uncertainties introduced by the finite-size extrapolation procedure; therefore these residual numerical biases do not materially shift the reported extrapolated thermodynamic-limit effective masses \\\\(m^{*}(\\\\infty)\\\\).",
+        "content_hash": "88ef95b0e1f66d1eedc48ec26181853f6974ba9d11495b0209ae7000a83bf811",
+        "id": "gcn_17c63b5dc2154f15",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P10",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "a426fb2192adb3f227efe9619de9cb47"
+}

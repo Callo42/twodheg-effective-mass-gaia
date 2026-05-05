@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+      "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+      "id": "gcn_d43e72a7274f420f",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "c5ac4989d5ad2171847569b25e59babd"
+}

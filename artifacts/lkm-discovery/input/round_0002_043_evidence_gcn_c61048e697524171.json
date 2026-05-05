@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Comparing two trial-wave-function protocols for quasiparticle-band calculations of paramagnetic 2D-UEL—(A) using a single trial wave function optimized for the ground state and applied to all k vectors, and (B) reoptimizing the trial wave function by energy minimization separately for each excited-state k-point—shows that reoptimization (B) slightly increases the VMC estimate of the quasiparticle effective mass m* relative to protocol (A), whereas the corresponding impact on fixed-node DMC m* is negligible within statistical uncertainty for the tested cases (for example N = 146 and r_s = 1, 2, 5).",
+      "content_hash": "cf56bc0883d5da618450206fad331ea447549c46628440f87ed297a4f7ae2b67",
+      "id": "gcn_c61048e697524171",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "b5d5dee0cf5b9d5e8d0e40fda5c9a7e1"
+}

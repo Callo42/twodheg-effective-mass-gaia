@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811866284307251201": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-3-24",
+        "cover_date_start": "2009-03-24",
+        "created_at": "2022-12-19T23:46:46+08:00",
+        "doi": "10.1103/physrevlett.102.126402",
+        "en_title": "Phase Diagram of the Low-Density Two-Dimensional Homogeneous Electron Gas",
+        "id": "811866284307251201",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "低密度二维均匀电子气的相图"
+      },
+      "paper:811872228453908481": {
+        "area": "Physics and Astrophysics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "2009-1-30",
+        "cover_date_start": "2009-01-30",
+        "created_at": "2022-12-20T00:10:23+08:00",
+        "doi": "10.1103/physrevb.79.041308",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "811872228453908481",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:813226207842664451": {
+        "area": "Chemistry",
+        "authors": "Mauro Del Ben | Jürg Hutter | Joost VandeVondele",
+        "available_online": "2013-5-28",
+        "cover_date_start": "2013-05-28",
+        "created_at": "2022-12-23T17:50:37+08:00",
+        "doi": "10.1021/ct4002202",
+        "en_title": "Electron Correlation in the Condensed Phase from a Resolution of Identity Approach Based on the Gaussian and Plane Waves Scheme",
+        "id": "813226207842664451",
+        "keywords": "",
+        "publication_date": "2013-6-11",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "",
+        "zh_title": "基于高斯和平面波方案的单位分解方法对凝聚相中的电子关联研究 "
+      },
+      "paper:867746403164619623": {
+        "area": "arXiv-Physics",
+        "authors": "Simone Chiesa | David M. Ceperley | Richard M. Martin | Markus Holzmann",
+        "available_online": "",
+        "cover_date_start": "2006-04-29",
+        "created_at": "2023-05-23T04:34:24+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0605004",
+        "en_title": "The Finite Size Error in Many-body Simulations with long-Ranged Interactions",
+        "id": "867746403164619623",
+        "keywords": "",
+        "publication_date": "2006-04-29",
+        "publication_id": "108485",
+        "publication_name": "Other Condensed Matter _ Physics.cond-mat.other",
+        "research_categories": "",
+        "zh_title": "具有长程相互作用的多体模拟中的有限尺寸误差"
+      },
+      "paper:867747660444992100": {
+        "area": "arXiv-Physics",
+        "authors": "Alexander G. Abanov | Dmitri A. Ivanov | Yachao Qian",
+        "available_online": "",
+        "cover_date_start": "2011-08-05",
+        "created_at": "2023-05-23T04:39:24+08:00",
+        "doi": "10.48550/arXiv.1108.1355",
+        "en_title": "Quantum fluctuations of one-dimensional free fermions and Fisher-Hartwig formula for Toeplitz determinants",
+        "id": "867747660444992100",
+        "keywords": "",
+        "publication_date": "2011-08-05",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "一维自由费米子的量子涨落与Toeplitz行列式的Fisher-Hartwig公式"
+      },
+      "paper:867748999107445206": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2010-02-10",
+        "created_at": "2023-05-23T04:44:44+08:00",
+        "doi": "10.48550/arXiv.1002.2101",
+        "en_title": "Phase Diagram of the Low-Density Two-Dimensional Homogeneous Electron Gas",
+        "id": "867748999107445206",
+        "keywords": "",
+        "publication_date": "2010-02-10",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "低密度二维均匀电子气的相图"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867772081922638203": {
+        "area": "arXiv-Physics",
+        "authors": "Antonio C. Cancio | M. Y. Chou",
+        "available_online": "",
+        "cover_date_start": "2005-06-18",
+        "created_at": "2023-05-23T06:16:27+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0506462",
+        "en_title": "Beyond the local approximation to exchange and correlation: the role of the Laplacian of the density in the energy density of Si",
+        "id": "867772081922638203",
+        "keywords": "",
+        "publication_date": "2005-06-18",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "超越交换关联的局域近似：密度拉普拉斯算子在硅能量密度中的作用"
+      },
+      "paper:867791047206372323": {
+        "area": "arXiv-Physics",
+        "authors": "Markus Holzmann | Francesco Calcavecchia | David M. Ceperley | Valerio Olevano",
+        "available_online": "",
+        "cover_date_start": "2023-05-03",
+        "created_at": "2023-05-23T07:31:48+08:00",
+        "doi": "10.48550/arXiv.2305.02274",
+        "en_title": "Static self energy and effective mass of the homogeneous electron gas from Quantum Monte Carlo calculations",
+        "id": "867791047206372323",
+        "keywords": "",
+        "publication_date": "2023-05-03",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\", \"Atomic, Molecular and Optical Physics\"]",
+        "zh_title": "量子蒙特卡罗计算得出的均匀电子气的静态自能和有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), the leading finite-size error in Fermi-liquid-derived quantities such as the angular-momentum Fermi liquid parameters F_l or the Fourier-projected quantities F_l/m^{*} behaves asymptotically as a power law in the finite-system particle number N with exponent -1/4; equivalently,\n      \\Delta F_l(N) \\equiv F_l(N)-F_l(\\infty) \\propto N^{-1/4},\n      so that fitting computed F_l(N) values to the form c + a N^{-1/4} yields an estimate of the thermodynamic-limit intercept c = F_l(\\infty). This statement adopts the theoretical asymptotic exponent \\gamma = -1/4 predicted for long-range-correlation-dominated finite-size errors.\n      Refs. 13,14",
+        "content_hash": "5d35c92260764bcb7f6ff7e8faf67af9d71f7400ea2dbb873a0034fae3ee4b32",
+        "id": "gcn_3ceb44ae3f404964",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P2",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031754032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional homogeneous electron gas (HEG) in a periodic simulation cell containing $N$ electrons, where $E_N$ denotes the computed total energy per electron for the finite-$N$ system and $E_\\infty$ denotes the energy per electron in the infinite-system thermodynamic limit, the leading asymptotic finite-size correction to the energy per electron arising from compression of the exchange-correlation hole into the simulation cell and neglected long-range kinetic correlations takes the form $E_N = E_\\infty - c/N^{5/4}$ with constant coefficient $c$ (i.e., the dominant finite-size error falls off as $N^{-5/4}$); this $N^{-5/4}$ behavior is the form assumed to dominate at the system sizes used in the present study (up to $N\\approx 162$ electrons), so that fitting finite-$N$ fluid-energy data to the single leading-power form $E_N = E_\\infty - c/N^{5/4}$ yields the reported estimates of $E_\\infty$.\n      N. D. Drummond et al., Phys. Rev. B 78, 125106 (2008).",
+        "content_hash": "42239db273166854e0afab1780743563bc2bb95760060e419386dfb7aaac9d52",
+        "id": "gcn_8ec21cf787d04eda",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811866284307251201::P1",
+            "package_id": "paper:811866284307251201",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811866284307251201"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02976190476190476,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional homogeneous electron gas (2D HEG) fluid simulated in a periodically repeated finite simulation cell containing N electrons, let E_N denote the computed energy per electron of that N-electron finite system and let E_∞ denote the energy per electron in the thermodynamic limit; the dominant many-body finite-size error in E_N that arises from compression of the exchange–correlation hole into the simulation cell and from the neglect of long-ranged kinetic-energy correlations falls off as N^{-5/4}, and the infinite-system energy per electron E_∞ may be obtained by fitting finite-system energies to the two-parameter form E_N = E_∞ - c N^{-5/4}, where c and E_∞ are fitting parameters and N is the number of electrons.",
+        "content_hash": "356d529007b43e1fe2012a192c4179d36febbe4780a0c55661eba9b342bc3ae5",
+        "id": "gcn_445efd47e5fd4ba0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748999107445206::conclusion_1",
+            "package_id": "paper:867748999107445206",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748999107445206"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02946912242686891,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the three-dimensional homogeneous electron gas of number density n>0 and electron mass m define the plasma frequency ω_p = √(4π e^2 n / m) and let N denote the number of electrons in a simulation supercell of volume Ω so that n = N/Ω. Using the random-phase-approximation (RPA) small-wavenumber asymptotic forms\n      S(k) ≃ ℏ k^2/(2 m ω_p)\n      and\n      u(k) ≃ 4π e^2/(ℏ ω_p k^2)\n      as k→0, and defining ζ(0) as the sum of the k→0 limits of the potential and kinetic integrands ζ_pot(k)=2π e^2 S(k)/k^2 and ζ_kin(k)=ℏ^2 k^2 u(k)/(4m), substitution of these RPA expressions into ζ(0)/Ω and simplification using ω_p^2 = 4π e^2 N/(m Ω) yields the combined leading finite-size correction for total energy in the homogeneous electron gas:\n      Δ_N = ℏ ω_p /(2 N).\n      Therefore the dominant long-wavelength finite-size bias in total energy for the homogeneous electron gas can be estimated and removed using only the RPA small-k forms of S(k) and u(k) (or small-k limits inferred from a finite-cell simulation's S_N(G) and u_G), giving a controlled single-simulation correction under the same limiting assumptions that justify the RPA forms.",
+        "content_hash": "1375ef3d19e9b0db95b7e442c79dfd76b0f1152a9c17bd884ec61ca2b69a94ef",
+        "id": "gcn_d4a06ae02cd04d51",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867746403164619623::conclusion_3",
+            "package_id": "paper:867746403164619623",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867746403164619623"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02506265664160401,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the homogeneous electron gas in a finite cubic simulation cell of side length $L$ with Coulomb interaction $v_{q}=4\\pi e^{2}/q^{2}$ (Gaussian units), evaluating the restricted small-$q$ integral $\\int_{|q_{\\alpha}\\<\\pi/L|}d^{3}q\\,...$ together with the frequency integral using the long-wavelength dielectric form $\\epsilon(q,\\omega)\\simeq1-\\omega_{p}^{2}/\\omega^{2}$ yields a geometric numerical prefactor $C$ multiplying $e^{2}/L$ in the leading finite-size correction $\\delta\\Sigma(k,0)=C\\times(\\ldots)$; numerical evaluation of the cubic-domain integral gives $C\\simeq1.22$, so that the leading finite-size correction scales as $(1.22\\,e^{2}/L)$ times a dimensionless function of $\\varepsilon_{k}^{0}-\\mu$ and $\\omega_{p}$.",
+        "content_hash": "93fb4534af29dbf2db179a82c08316dfc67b8bcadea694824c77c3696d7581cb",
+        "id": "gcn_e86fb5346f714ab1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867791047206372323::P9",
+            "package_id": "paper:867791047206372323",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867791047206372323"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional homogeneous electron gas of particle density $n$ and Wigner-Seitz parameter $r_{s}=(\\pi n a_{B}^{2})^{-1/2}$ (with Bohr radius $a_{B}=\\hbar^{2}/(m e^{2})$), confined to a square periodic simulation cell of linear size $L$ and area $V=L^{2}$ containing $N$ electrons (so that $n=N/V$), define the finite-size correction\n      $$\n      \\Delta_{N}=\\int_{-\\pi/L}^{\\pi/L}\\frac{d^{2}\\mathbf{q}}{(2\\pi)^{2}}\\;\\delta(q),\n      $$\n      with\n      $$\n      \\delta(q)=u_{q}\\bigl[1-S(q)\\bigr]-n\\,u_{q}^{2}S(q),\n      $$\n      where $u_{q}$ is the Fourier transform of the many-body Jastrow potential, $S(q)$ is the static structure factor, $n$ is the particle density, and the integral is taken over the small rectangular patch of wavevectors with components $|q_{x}|\\le\\pi/L$, $|q_{y}|\\le\\pi/L$. The discontinuity (renormalization factor) of the momentum distribution at the Fermi surface in the thermodynamic limit, $Z_{k_{F}}^{\\infty}$, is related to its finite-$N$ value $Z_{k_{F}}^{N}$ by the multiplicative relation\n      $$\n      Z_{k_{F}}^{\\infty}\\simeq Z_{k_{F}}^{N}\\,e^{-\\Delta_{N}},\n      $$\n      where, using the long-wavelength approximations for small $q$,\n      $$\n      2n u_{q}\\simeq-1+\\sqrt{1+\\frac{2n v_{q}}{\\varepsilon_{q}}},\\qquad v_{q}=\\frac{2\\pi e^{2}}{q},\\qquad \\varepsilon_{q}=\\frac{\\hbar^{2}q^{2}}{2m},\n      $$\n      the leading asymptotic scaling for large $N$ with $L=\\sqrt{N/n}$ is\n      $$\n      \\Delta_{N}\\simeq\\left(\\frac{\\pi r_{s}^{2}}{4N}\\right)^{-1/4}\\qquad\\text{for }N\\rightarrow\\infty.\n      $$\n      Hence, under these long-wavelength approximations the dominant finite-size error in the renormalization factor $Z$ decays anomalously slowly as $N^{-1/4}$ rather than as an integer power $1/N$.",
+        "content_hash": "82e7c2eab632690d6078ade2a2f5f86d499100539d359ce5cb5a3aa2c2cbd1c5",
+        "id": "gcn_61d8505d3c20430f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811872228453908481::conclusion_1",
+            "package_id": "paper:811872228453908481",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811872228453908481"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the enhancement-factor model $F_{xc}(l)=1+(\\alpha+\\beta l)/(1+\\gamma l)$, the optimized value $\\alpha=-0.0007$ gives $F_{xc}(0)\\approx 1$. Because the homogeneous electron gas limit is defined by $s^{2}=0$ and $l=0$, with exchange-correlation energy density $e_{xc}^{\\mathrm{HEG}}(r_s)$, the fitted model therefore recovers the homogeneous-electron-gas limit to within a very small deviation and does not introduce a substantial spurious correction for a spatially uniform electron gas.",
+        "content_hash": "a809764ca490640a95b96067029c79d1344dc0b697e364bed7cb5d06c60164b5",
+        "id": "gcn_29ae7eecbb0a41d7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772081922638203::P9",
+            "package_id": "paper:867772081922638203",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772081922638203"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider a periodic crystalline solid with unit-cell linear size $a$ and an $n\\times n\\times n$ supercell of linear dimension $L=n a$. If long-range correlation pair interactions decay asymptotically as $C_6/d^6$ (London dispersion tails) at large interatomic separations $d$, then the leading finite-size correction to the per-unit-cell correlation energy obtained by integrating these pairwise tails over the volume exterior to a sphere of radius $d$ scales as $L^{-3}$. Therefore for large $n$ the per-unit-cell correlation energy can be extrapolated as $E_X^{n} = E_X^{n\\to\\infty} + S (n a)^{-3}$, and this $L^{-3}$ extrapolation is applicable when long-range pairwise $C_6$ behavior dominates finite-size errors and many-body finite-size contributions or slow low-energy collective excitations are subleading for the system under study.",
+        "content_hash": "420a477d0da80f00ae91f67cb45ac8eb4496b329303d281caaf8bfe8c47c9114",
+        "id": "gcn_84252e41e06f440b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813226207842664451::P8",
+            "package_id": "paper:813226207842664451",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813226207842664451"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "With definitions as in P2 (segment length $L$, correlator $g_x=\\sin(k_F x)/(\\pi x)$, $s(x)=\\min(x,L)$), the proposition is: in the large-$L$ asymptotic expansion of $2\\sum_{x=1}^{\\infty}[g_x]^2 s(x)$ there is no term proportional to $L^{-1}$; the first non-logarithmic finite-size correction is of order $L^{-2}$ (possibly with oscillatory $L^{-2}$ contributions), so the coefficient of $L^{-1}$ vanishes exactly in the performed summation.",
+        "content_hash": "9ca49b612af41787132cf2eaed92b0dcdfa04ec7ade477a5c21cbba02b58380c",
+        "id": "gcn_8c3757b2792e4225",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867747660444992100::P3",
+            "package_id": "paper:867747660444992100",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867747660444992100"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "8d6c81e8ed01c3ff155a07df6ee86317"
+}

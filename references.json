@@ -1,0 +1,3423 @@
+{
+  "Kiyooka2024": {
+    "type": "article-journal",
+    "title": "Gatemon qubit on a germanium quantum-well heterostructure",
+    "author": [
+      {
+        "family": "Kiyooka",
+        "given": "Elyjah"
+      },
+      {
+        "family": "Tangchingchai",
+        "given": "Chotivut"
+      },
+      {
+        "family": "Noirot",
+        "given": "Leo"
+      },
+      {
+        "family": "Leblanc",
+        "given": "Axel"
+      },
+      {
+        "family": "Brun",
+        "given": "Boris"
+      },
+      {
+        "family": "Zihlmann",
+        "given": "Simon"
+      },
+      {
+        "family": "Maurand",
+        "given": "Romain"
+      },
+      {
+        "family": "Schmitt",
+        "given": "Vivien"
+      },
+      {
+        "family": "Dumur",
+        "given": "Étienne"
+      },
+      {
+        "family": "Hartmann",
+        "given": "Jean-Michel"
+      },
+      {
+        "family": "Lefloch",
+        "given": "Francois"
+      },
+      {
+        "family": "Franceschi",
+        "given": "Silvano De"
+      }
+    ],
+    "DOI": "10.48550/arxiv.2411.02367",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  },
+  "Azadi2025": {
+    "type": "article-journal",
+    "title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+    "author": [
+      {
+        "family": "Azadi",
+        "given": "S."
+      },
+      {
+        "family": "Drummond",
+        "given": "N.D."
+      },
+      {
+        "family": "Principi",
+        "given": "A."
+      },
+      {
+        "family": "Belosludov",
+        "given": "R.V."
+      },
+      {
+        "family": "Bahramy",
+        "given": "M.S."
+      }
+    ],
+    "DOI": "10.48550/arxiv.2505.05879",
+    "container-title": "Strongly Correlated Electrons",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  "Shi2026": {
+    "type": "article-journal",
+    "title": "Correlated states in charge-transfer heterostructures based on rhombohedral multilayer graphene",
+    "author": [
+      {
+        "family": "Shi",
+        "given": "Yanran"
+      },
+      {
+        "family": "Li",
+        "given": "Min"
+      },
+      {
+        "family": "Lu",
+        "given": "Xin"
+      },
+      {
+        "family": "Liu",
+        "given": "Jianpeng"
+      }
+    ],
+    "DOI": "10.48550/arXiv.2601.10530",
+    "container-title": "Strongly Correlated Electrons",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    }
+  },
+  "ALMBLADH1999": {
+    "type": "article-journal",
+    "title": "VARIATIONAL TOTAL ENERGIES FROM Φ- AND Ψ- DERIVABLE THEORIES",
+    "author": [
+      {
+        "family": "ALMBLADH",
+        "given": "C.-O."
+      },
+      {
+        "family": "BARTH",
+        "given": "U. VON"
+      },
+      {
+        "family": "LEEUWEN",
+        "given": "R. VAN"
+      }
+    ],
+    "DOI": "10.1142/s0217979299000436",
+    "container-title": "International Journal of Modern Physics B _ Int. J. Mod. Phys. B",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
+  },
+  "Vinter1975": {
+    "type": "article-journal",
+    "title": "Correlation Energy and Effective Mass of Electrons in an Inversion Layer",
+    "author": [
+      {
+        "family": "Vinter",
+        "given": "B."
+      }
+    ],
+    "DOI": "10.1103/physrevlett.35.1044",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    }
+  },
+  "Amusia2000": {
+    "type": "article-journal",
+    "title": "Calculations of single particle spectra in density functional theory",
+    "author": [
+      {
+        "family": "Amusia",
+        "given": "M.Ya."
+      },
+      {
+        "family": "Shaginyan",
+        "given": "V.R."
+      }
+    ],
+    "DOI": "10.1016/s0375-9601(00)00271-1",
+    "container-title": "Physics Letters A _ Physics Letters A",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  "Vitkalov2002": {
+    "type": "article-journal",
+    "title": "Spin polarization of strongly interacting two-dimensional electrons: The role of disorder",
+    "author": [
+      {
+        "family": "Vitkalov",
+        "given": "S. A."
+      },
+      {
+        "family": "Sarachik",
+        "given": "M. P."
+      },
+      {
+        "family": "Klapwijk",
+        "given": "T. M."
+      }
+    ],
+    "DOI": "10.1103/physrevb.65.201106",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  "Tutuc2002": {
+    "type": "article-journal",
+    "title": "Spin Polarization and g Factor of a Dilute GaAs Two-Dimensional Electron System",
+    "author": [
+      {
+        "family": "Tutuc",
+        "given": "E."
+      },
+      {
+        "family": "Melinte",
+        "given": "S."
+      },
+      {
+        "family": "Shayegan",
+        "given": "M."
+      }
+    ],
+    "DOI": "10.1103/physrevlett.88.036805",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  "Olszowska2016": {
+    "type": "article-journal",
+    "title": "Effect of a skin-deep surface zone on the formation of a two-dimensional electron gas at a semiconductor surface",
+    "author": [
+      {
+        "family": "Olszowska",
+        "given": "Natalia"
+      },
+      {
+        "family": "Lis",
+        "given": "Jakub"
+      },
+      {
+        "family": "Ciochon",
+        "given": "Piotr"
+      },
+      {
+        "family": "Walczak",
+        "given": "Łukasz"
+      },
+      {
+        "family": "Michel",
+        "given": "Enrique G."
+      },
+      {
+        "family": "Kolodziej",
+        "given": "Jacek J."
+      }
+    ],
+    "DOI": "10.1103/physrevb.94.115305",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  "Maggio2016": {
+    "type": "article-journal",
+    "title": "Correlation energy for the homogeneous electron gas: Exact Bethe-Salpeter solution and an approximate evaluation",
+    "author": [
+      {
+        "family": "Maggio",
+        "given": "Emanuele"
+      },
+      {
+        "family": "Kresse",
+        "given": "Georg"
+      }
+    ],
+    "DOI": "10.1103/physrevb.93.235113",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  "Efros1992": {
+    "type": "article-journal",
+    "title": "Homogeneous and inhomogeneous states of a two-dimensional electron liquid in a strong magnetic field",
+    "author": [
+      {
+        "family": "Efros",
+        "given": "A. L."
+      }
+    ],
+    "DOI": "10.1103/physrevb.45.11354",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    }
+  },
+  "Yao1992": {
+    "type": "article-journal",
+    "title": "Raman and Ellipsometric Studies of Delta-Doped GaAs",
+    "author": [
+      {
+        "family": "Yao",
+        "given": "H."
+      },
+      {
+        "family": "Schubert",
+        "given": "E. F."
+      },
+      {
+        "family": "Kopf",
+        "given": "R. F."
+      }
+    ],
+    "DOI": "10.1557/proc-261-57",
+    "container-title": "MRS Proceedings _ MRS Proc.",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    }
+  },
+  "Eker2011": {
+    "type": "article-journal",
+    "title": "High speed QWIP FPAs on InP substrates",
+    "author": [
+      {
+        "family": "Eker",
+        "given": "S.U."
+      },
+      {
+        "family": "Arslan",
+        "given": "Y."
+      },
+      {
+        "family": "Besikci",
+        "given": "C."
+      }
+    ],
+    "DOI": "10.1016/j.infrared.2010.12.015",
+    "container-title": "Infrared Physics and Technology _ Infrared Physics & Technology",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  "Kravchenko2000": {
+    "type": "article-journal",
+    "title": "Metallic Low-Temperature Resistivity in a 2D Electron System Over an Extended Temperature Range",
+    "author": [
+      {
+        "family": "Kravchenko",
+        "given": "S. V."
+      },
+      {
+        "family": "Klapwijk",
+        "given": "T. M."
+      }
+    ],
+    "DOI": "10.1103/physrevlett.84.2909",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  "Huotari2010": {
+    "type": "article-journal",
+    "title": "Momentum Distribution and Renormalization Factor in Sodium and the Electron Gas",
+    "author": [
+      {
+        "family": "Huotari",
+        "given": "Simo"
+      },
+      {
+        "family": "Soininen",
+        "given": "J. Aleksi"
+      },
+      {
+        "family": "Pylkkänen",
+        "given": "Tuomas"
+      },
+      {
+        "family": "Hämäläinen",
+        "given": "Keijo"
+      },
+      {
+        "family": "Issolah",
+        "given": "Arezki"
+      },
+      {
+        "family": "Titov",
+        "given": "Andrey"
+      },
+      {
+        "family": "McMinis",
+        "given": "Jeremy"
+      },
+      {
+        "family": "Kim",
+        "given": "Jeongnim"
+      },
+      {
+        "family": "Esler",
+        "given": "Ken"
+      },
+      {
+        "family": "Ceperley",
+        "given": "David M."
+      },
+      {
+        "family": "Holzmann",
+        "given": "Markus"
+      },
+      {
+        "family": "Olevano",
+        "given": "Valerio"
+      }
+    ],
+    "DOI": "10.1103/physrevlett.105.086403",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  "Rugeramigabo2010": {
+    "type": "article-journal",
+    "title": "One-dimensional plasmons in ultrathin metallic silicide wires of finite width",
+    "author": [
+      {
+        "family": "Rugeramigabo",
+        "given": "Eddy P."
+      },
+      {
+        "family": "Tegenkamp",
+        "given": "Christoph"
+      },
+      {
+        "family": "Pfnür",
+        "given": "Herbert"
+      },
+      {
+        "family": "Inaoka",
+        "given": "Takeshi"
+      },
+      {
+        "family": "Nagao",
+        "given": "Tadaaki"
+      }
+    ],
+    "DOI": "10.1103/physrevb.81.165407",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  "Fessatidis2010": {
+    "type": "article-journal",
+    "title": "Drift instability of a 2D magnetoplasma in a periodic potential",
+    "author": [
+      {
+        "family": "Fessatidis",
+        "given": "Vassilios"
+      },
+      {
+        "family": "Horing",
+        "given": "Norman J.M."
+      },
+      {
+        "family": "Sawamura",
+        "given": "Makoto"
+      }
+    ],
+    "DOI": "10.1016/j.phpro.2010.01.175",
+    "container-title": "Physics Procedia _ Physics Procedia",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  "Drummond2009": {
+    "type": "article-journal",
+    "title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "N. D."
+      },
+      {
+        "family": "Needs",
+        "given": "R. J."
+      }
+    ],
+    "DOI": "10.1103/physrevb.80.245104",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  "Bentmann2009": {
+    "type": "article-journal",
+    "title": "Origin and manipulation of the Rashba splitting in surface alloys",
+    "author": [
+      {
+        "family": "Bentmann",
+        "given": "H."
+      },
+      {
+        "family": "Forster",
+        "given": "F."
+      },
+      {
+        "family": "Bihlmayer",
+        "given": "G."
+      },
+      {
+        "family": "Chulkov",
+        "given": "E. V."
+      },
+      {
+        "family": "Moreschini",
+        "given": "L."
+      },
+      {
+        "family": "Grioni",
+        "given": "M."
+      },
+      {
+        "family": "Reinert",
+        "given": "F."
+      }
+    ],
+    "DOI": "10.1209/0295-5075/87/37003",
+    "container-title": "EPL (Europhysics Letters) _ Europhys. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  "Holzmann2009": {
+    "type": "article-journal",
+    "title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+    "author": [
+      {
+        "family": "Holzmann",
+        "given": "Markus"
+      },
+      {
+        "family": "Bernu",
+        "given": "Bernard"
+      },
+      {
+        "family": "Olevano",
+        "given": "Valerio"
+      },
+      {
+        "family": "Martin",
+        "given": "Richard M."
+      },
+      {
+        "family": "Ceperley",
+        "given": "David M."
+      }
+    ],
+    "DOI": "10.1103/physrevb.79.041308",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  "Sola2009": {
+    "type": "article-journal",
+    "title": "Equation of state of hexagonal closed packed iron under Earth’s core conditions from quantum Monte Carlo calculations",
+    "author": [
+      {
+        "family": "Sola",
+        "given": "E."
+      },
+      {
+        "family": "Brodholt",
+        "given": "J. P."
+      },
+      {
+        "family": "Alfè",
+        "given": "D."
+      }
+    ],
+    "DOI": "10.1103/physrevb.79.024107",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  "Liu2008": {
+    "type": "article-journal",
+    "title": "Terahertz Quantum Well Photodetectors",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "H. C."
+      },
+      {
+        "family": "Luo",
+        "given": "Hui"
+      },
+      {
+        "family": "Song",
+        "given": "Chun-ying"
+      },
+      {
+        "family": "Wasilewski",
+        "given": "Zbig R."
+      },
+      {
+        "family": "SpringThorpe",
+        "given": "A. J."
+      },
+      {
+        "family": "Cao",
+        "given": "J. C."
+      }
+    ],
+    "DOI": "10.1109/jstqe.2007.910710",
+    "container-title": "IEEE Journal of Selected Topics in Quantum Electronics _ IEEE J. Select. Topics Quantum Electron.",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  "Gokmen2007": {
+    "type": "article-journal",
+    "title": "Spin susceptibility of interacting two-dimensional electrons with anisotropic effective mass",
+    "author": [
+      {
+        "family": "Gokmen",
+        "given": "T."
+      },
+      {
+        "family": "Padmanabhan",
+        "given": "Medini"
+      },
+      {
+        "family": "Tutuc",
+        "given": "E."
+      },
+      {
+        "family": "Shayegan",
+        "given": "M."
+      },
+      {
+        "family": "Palo",
+        "given": "S. De"
+      },
+      {
+        "family": "Moroni",
+        "given": "S."
+      },
+      {
+        "family": "Senatore",
+        "given": "Gaetano"
+      }
+    ],
+    "DOI": "10.1103/physrevb.76.233301",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  "TANATAR2007": {
+    "type": "article-journal",
+    "title": "GROUND-STATE ENERGY AND COMPRESSIBILITY OF A DISORDERED TWO-DIMENSIONAL ELECTRON GAS",
+    "author": [
+      {
+        "family": "TANATAR",
+        "given": "B."
+      },
+      {
+        "family": "SUBAŞI",
+        "given": "A. L."
+      },
+      {
+        "family": "ESFARJANI",
+        "given": "K."
+      },
+      {
+        "family": "FAZELI",
+        "given": "S. M."
+      }
+    ],
+    "DOI": "10.1142/s0217979207043531",
+    "container-title": "International Journal of Modern Physics B _ Int. J. Mod. Phys. B",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  "Kassim2011": {
+    "type": "article-journal",
+    "title": "The Mass of the Electron in GaAs/AlGaAs by the Shubnikov-de Haas Effect and Spin-Charge Locking",
+    "author": [
+      {
+        "family": "Kassim",
+        "given": "Hasan Abu"
+      },
+      {
+        "family": "Jalil",
+        "given": "Ithnin Abdul"
+      },
+      {
+        "family": "Yusof",
+        "given": "Norhasliza"
+      },
+      {
+        "family": "Shrivastava",
+        "given": "Keshav N."
+      },
+      {
+        "family": "Senin",
+        "given": "H. B."
+      },
+      {
+        "family": "Idris",
+        "given": "N. H."
+      }
+    ],
+    "DOI": "10.1063/1.2739823",
+    "container-title": "AIP Conference Proceedings _ ",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  "Rontani2007": {
+    "type": "article-journal",
+    "title": "A high-performance full-configuration-interaction study of Wigner crystallization in quantum dots",
+    "author": [
+      {
+        "family": "Rontani",
+        "given": "Massimo"
+      },
+      {
+        "family": "Goldoni",
+        "given": "Guido"
+      }
+    ],
+    "DOI": "10.1063/1.2730147",
+    "container-title": "AIP Conference Proceedings _ ",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  "Kim2007": {
+    "type": "article-journal",
+    "title": "A study of the critical nozzle for flow rate measurement of high-pressure hydrogen gas",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "H. D."
+      },
+      {
+        "family": "Lee",
+        "given": "J. H."
+      },
+      {
+        "family": "Park",
+        "given": "K. A."
+      },
+      {
+        "family": "Setoguchi",
+        "given": "T."
+      },
+      {
+        "family": "Matsuo",
+        "given": "S."
+      }
+    ],
+    "DOI": "10.1007/s11630-007-0028-z",
+    "container-title": "Journal of Thermal Science _ J. of Therm. Sci.",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  "Unknown1970": {
+    "type": "article-journal",
+    "title": "Path-integral theory of an electron gas in a random potential",
+    "author": [],
+    "DOI": "10.1098/rspa.1970.0047",
+    "container-title": "Proceedings of the Royal Society of London. A. Mathematical and Physical Sciences _ Proc. R. Soc. Lond. A",
+    "issued": {
+      "date-parts": [
+        [
+          1970
+        ]
+      ]
+    }
+  },
+  "Chen2006": {
+    "type": "article-journal",
+    "title": "Experimental evidence for Drude‐Boltzmann‐like transport in a two‐dimensional electron gas in an AlGaN/GaN heterostructure",
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Jing‐Han"
+      },
+      {
+        "family": "Lin",
+        "given": "Jyun‐Ying"
+      },
+      {
+        "family": "Tsai",
+        "given": "Jung‐Kai"
+      },
+      {
+        "family": "Park",
+        "given": "Hun"
+      },
+      {
+        "family": "Kim",
+        "given": "Gil‐Ho"
+      },
+      {
+        "family": "Ahn",
+        "given": "Jungseok"
+      },
+      {
+        "family": "Cho",
+        "given": "Hyun‐Ick"
+      },
+      {
+        "family": "Lee",
+        "given": "Eun‐Jin"
+      },
+      {
+        "family": "Lee",
+        "given": "Jung‐Hee"
+      },
+      {
+        "family": "Liang",
+        "given": "C.‐T."
+      },
+      {
+        "family": "Chen",
+        "given": "Y. F."
+      }
+    ],
+    "DOI": "10.1002/pssc.200565196",
+    "container-title": "physica status solidi c _ Phys. Status Solidi (c)",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    }
+  },
+  "Savchenko2006": {
+    "type": "article-journal",
+    "title": "Effects of interactions and disorder on the compressibility of two‐dimensional electron and hole systems",
+    "author": [
+      {
+        "family": "Savchenko",
+        "given": "A. K."
+      },
+      {
+        "family": "Galaktionov",
+        "given": "E. A."
+      },
+      {
+        "family": "Allison",
+        "given": "G. D."
+      },
+      {
+        "family": "Fogler",
+        "given": "M. M."
+      },
+      {
+        "family": "Safonov",
+        "given": "S. S."
+      },
+      {
+        "family": "Simmons",
+        "given": "M. Y."
+      },
+      {
+        "family": "Ritchie",
+        "given": "D. A."
+      }
+    ],
+    "DOI": "10.1002/pssc.200562760",
+    "container-title": "physica status solidi c _ Phys. Status Solidi (c)",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    }
+  },
+  "Zhang2005": {
+    "type": "article-journal",
+    "title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Ying"
+      },
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      }
+    ],
+    "DOI": "10.1103/physrevlett.95.256603",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  "Zhang2005a": {
+    "type": "article-journal",
+    "title": "Exchange instabilities in electron systems: Bloch versus Stoner ferromagnetism",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Ying"
+      },
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      }
+    ],
+    "DOI": "10.1103/physrevb.72.115317",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  "Dragosavac2005": {
+    "type": "article-journal",
+    "title": "Electron effective mass in ultrathin oxide silicon MOSFET inversion layers",
+    "author": [
+      {
+        "family": "Dragosavac",
+        "given": "M"
+      },
+      {
+        "family": "Paul",
+        "given": "D J"
+      },
+      {
+        "family": "Pepper",
+        "given": "M"
+      },
+      {
+        "family": "Fowler",
+        "given": "A B"
+      },
+      {
+        "family": "Buchanan",
+        "given": "D A"
+      }
+    ],
+    "DOI": "10.1088/0268-1242/20/8/002",
+    "container-title": "Semiconductor Science and Technology _ Semicond. Sci. Technol.",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  "Zhang2005b": {
+    "type": "article-journal",
+    "title": "Quasiparticle effective-mass divergence in two-dimensional electron systems",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Ying"
+      },
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      }
+    ],
+    "DOI": "10.1103/physrevb.71.045322",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  "Kaputkina2005": {
+    "type": "article-journal",
+    "title": "Dimensional effects and magnetic field influence on excitons in coupled quantum dots and coupled quantum wells",
+    "author": [
+      {
+        "family": "Kaputkina",
+        "given": "N.E."
+      },
+      {
+        "family": "Lozovik",
+        "given": "Yu.E."
+      }
+    ],
+    "DOI": "10.1016/j.physe.2004.08.066",
+    "container-title": "Physica E: Low dimensional Systems and Nanostructures _ Physica E: Low-dimensional Systems and Nanostructures",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  "Tonello2004": {
+    "type": "article-journal",
+    "title": "Spin-orbit splitting of the cyclotron resonance in GaAs",
+    "author": [
+      {
+        "family": "Tonello",
+        "given": "P."
+      },
+      {
+        "family": "Lipparini",
+        "given": "E."
+      }
+    ],
+    "DOI": "10.1103/physrevb.70.081201",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
+  },
+  "Shashkin2004": {
+    "type": "article-journal",
+    "title": "Sharply increasing effective mass near the 2D metal–insulator transition",
+    "author": [
+      {
+        "family": "Shashkin",
+        "given": "A.A."
+      },
+      {
+        "family": "Rahimi",
+        "given": "Maryam"
+      },
+      {
+        "family": "Anissimova",
+        "given": "S."
+      },
+      {
+        "family": "Kravchenko",
+        "given": "S.V."
+      },
+      {
+        "family": "Dolgopolov",
+        "given": "V.T."
+      },
+      {
+        "family": "Klapwijk",
+        "given": "T.M."
+      }
+    ],
+    "DOI": "10.1016/j.physe.2003.11.254",
+    "container-title": "Physica E: Low dimensional Systems and Nanostructures _ Physica E: Low-dimensional Systems and Nanostructures",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
+  },
+  "Bryant1987": {
+    "type": "article-journal",
+    "title": "Electronic structure of single ultrasmall electron devices and device arrays",
+    "author": [
+      {
+        "family": "Bryant",
+        "given": "Garnett W."
+      },
+      {
+        "family": "Murray",
+        "given": "D.B."
+      },
+      {
+        "family": "MacDonald",
+        "given": "A.H."
+      }
+    ],
+    "DOI": "10.1016/0749-6036(87)90060-7",
+    "container-title": "Superlattices and Microstructures _ Superlattices and Microstructures",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    }
+  },
+  "Chang1981": {
+    "type": "article-journal",
+    "title": "Semimetallic InAs‐GaSb superlattices to the heterojunction limit",
+    "author": [
+      {
+        "family": "Chang",
+        "given": "L. L."
+      },
+      {
+        "family": "Kawai",
+        "given": "N. J."
+      },
+      {
+        "family": "Mendez",
+        "given": "E. E."
+      },
+      {
+        "family": "Chang",
+        "given": "C.‐A."
+      },
+      {
+        "family": "Esaki",
+        "given": "L."
+      }
+    ],
+    "DOI": "10.1063/1.92115",
+    "container-title": "Applied Physics Letters _ Appl. Phys. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    }
+  },
+  "Hang2002": {
+    "type": "article-journal",
+    "title": "Shubnikov de Haas oscillations of two-dimensional electron gas in an InAsN/InGaAs single quantum well",
+    "author": [
+      {
+        "family": "Hang",
+        "given": "D R"
+      },
+      {
+        "family": "Huang",
+        "given": "C F"
+      },
+      {
+        "family": "Hung",
+        "given": "W K"
+      },
+      {
+        "family": "Chang",
+        "given": "Y H"
+      },
+      {
+        "family": "Chen",
+        "given": "J C"
+      },
+      {
+        "family": "Yang",
+        "given": "H C"
+      },
+      {
+        "family": "Chen",
+        "given": "Y F"
+      },
+      {
+        "family": "Shih",
+        "given": "D K"
+      },
+      {
+        "family": "Chu",
+        "given": "T Y"
+      },
+      {
+        "family": "Lin",
+        "given": "H H"
+      }
+    ],
+    "DOI": "10.1088/0268-1242/17/9/317",
+    "container-title": "Semiconductor Science and Technology _ Semicond. Sci. Technol.",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  "Tutuc2002a": {
+    "type": "article-journal",
+    "title": "Measurements of the effective g-factor in dilute GaAs 2D electrons",
+    "author": [
+      {
+        "family": "Tutuc",
+        "given": "E."
+      },
+      {
+        "family": "Shayegan",
+        "given": "M."
+      }
+    ],
+    "DOI": "10.1016/s1386-9477(01)00324-1",
+    "container-title": "Physica E: Low dimensional Systems and Nanostructures _ Physica E: Low-dimensional Systems and Nanostructures",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  "Gornik1981": {
+    "type": "article-journal",
+    "title": "Far infrared emission from 2D electrons at the GaAsAlxGa1-xAs interface",
+    "author": [
+      {
+        "family": "Gornik",
+        "given": "E."
+      },
+      {
+        "family": "Schawarz",
+        "given": "R."
+      },
+      {
+        "family": "Tsui",
+        "given": "D.C."
+      },
+      {
+        "family": "Gossard",
+        "given": "A.C."
+      },
+      {
+        "family": "Wiegmann",
+        "given": "W."
+      }
+    ],
+    "DOI": "10.1016/0038-1098(81)90433-6",
+    "container-title": "Solid State Communications _ Solid State Communications",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    }
+  },
+  "Jalabert1990": {
+    "type": "article-journal",
+    "title": "Many-body effects in gaas-based two-dimensional electron systems",
+    "author": [
+      {
+        "family": "Jalabert",
+        "given": "R."
+      },
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      }
+    ],
+    "DOI": "10.1016/0039-6028(90)90918-x",
+    "container-title": "Surface Science _ Surface Science",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
+  },
+  "Dingle1980": {
+    "type": "article-journal",
+    "title": "Electronic properties of the GaAsAlGaAs interface with applications to multi-interface heterojunction superlattices",
+    "author": [
+      {
+        "family": "Dingle",
+        "given": "R."
+      },
+      {
+        "family": "Störmer",
+        "given": "H.L."
+      },
+      {
+        "family": "Gossard",
+        "given": "A.C."
+      },
+      {
+        "family": "Wiegmann",
+        "given": "W."
+      }
+    ],
+    "DOI": "10.1016/0039-6028(80)90478-1",
+    "container-title": "Surface Science _ Surface Science",
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    }
+  },
+  "Burtyka1991": {
+    "type": "article-journal",
+    "title": "Interaction of hot electrons with two-dimensional gas in semiconductor superlattices",
+    "author": [
+      {
+        "family": "Burtyka",
+        "given": "M.V."
+      },
+      {
+        "family": "Glukhov",
+        "given": "O.V."
+      },
+      {
+        "family": "Yakovenko",
+        "given": "V.M."
+      }
+    ],
+    "DOI": "10.1016/0038-1101(91)90125-i",
+    "container-title": "Solid State Electronics _ Solid-State Electronics",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    }
+  },
+  "Suehiro1983": {
+    "type": "article-journal",
+    "title": "Exchange and correlation potentials in the one-electron equation",
+    "author": [
+      {
+        "family": "Suehiro",
+        "given": "H"
+      },
+      {
+        "family": "Awa",
+        "given": "K"
+      },
+      {
+        "family": "Yasuhara",
+        "given": "H"
+      }
+    ],
+    "DOI": "10.1016/0038-1098(83)90768-8",
+    "container-title": "Solid State Communications _ Solid State Communications",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    }
+  },
+  "Shi1994": {
+    "type": "article-journal",
+    "title": "Transition energies of D− centers in a superlattice",
+    "author": [
+      {
+        "family": "Shi",
+        "given": "J.M."
+      },
+      {
+        "family": "Peeters",
+        "given": "F.M."
+      },
+      {
+        "family": "Devreese",
+        "given": "J.T."
+      }
+    ],
+    "DOI": "10.1016/0039-6028(94)90888-5",
+    "container-title": "Surface Science _ Surface Science",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
+  },
+  "Moon2020": {
+    "type": "article-journal",
+    "title": "Quantum critical scaling for finite-temperature Mott-like metal-insulator crossover in few-layered MoS 2",
+    "author": [
+      {
+        "family": "Moon",
+        "given": "Byoung Hee"
+      },
+      {
+        "family": "Han",
+        "given": "Gang Hee"
+      },
+      {
+        "family": "Radonjić",
+        "given": "Miloš M."
+      },
+      {
+        "family": "Ji",
+        "given": "Hyunjin"
+      },
+      {
+        "family": "Dobrosavljević",
+        "given": "Vladimir"
+      }
+    ],
+    "DOI": "10.1103/physrevb.102.245424",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  "Zhukov2020": {
+    "type": "article-journal",
+    "title": "Renormalization of the electron g factor in the degenerate two-dimensional electron gas of ZnSe- and CdTe-based quantum wells",
+    "author": [
+      {
+        "family": "Zhukov",
+        "given": "E. A."
+      },
+      {
+        "family": "Mantsevich",
+        "given": "V. N."
+      },
+      {
+        "family": "Yakovlev",
+        "given": "D. R."
+      },
+      {
+        "family": "Kopteva",
+        "given": "N. E."
+      },
+      {
+        "family": "Kirstein",
+        "given": "E."
+      },
+      {
+        "family": "Waag",
+        "given": "A."
+      },
+      {
+        "family": "Karczewski",
+        "given": "G."
+      },
+      {
+        "family": "Wojtowicz",
+        "given": "T."
+      },
+      {
+        "family": "Bayer",
+        "given": "M."
+      }
+    ],
+    "DOI": "10.1103/physrevb.102.125306",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  "Kukushkin2020": {
+    "type": "article-journal",
+    "title": "Renormalization of the spectrum of in-depth excitations below the Fermi level in a two-dimensional electron system with strong interaction",
+    "author": [
+      {
+        "family": "Kukushkin",
+        "given": "I. V."
+      },
+      {
+        "family": "Schmult",
+        "given": "S."
+      }
+    ],
+    "DOI": "10.1103/physrevb.101.235152",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  "Levin1995": {
+    "type": "article-journal",
+    "title": "Total energy calculation for the uniform electron gas in the GW approximation",
+    "author": [
+      {
+        "family": "Levin",
+        "given": "Y."
+      },
+      {
+        "family": "Wu",
+        "given": "C.D."
+      },
+      {
+        "family": "Bar-Yam",
+        "given": "Y."
+      }
+    ],
+    "DOI": "10.1016/0927-0256(95)00002-8",
+    "container-title": "Computational Materials Science _ Computational Materials Science",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    }
+  },
+  "Kuo2000": {
+    "type": "article-journal",
+    "title": "Intersubband electroabsorption spectra of semiconductor quantum wells",
+    "author": [
+      {
+        "family": "Kuo",
+        "given": "David M.-T."
+      },
+      {
+        "family": "Chang",
+        "given": "Yia-Chung"
+      }
+    ],
+    "DOI": "10.1063/1.372281",
+    "container-title": "Journal of Applied Physics _ Journal of Applied Physics",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  "Geier2020": {
+    "type": "article-journal",
+    "title": "Electrostatic potential shape of gate-defined quantum point contacts",
+    "author": [
+      {
+        "family": "Geier",
+        "given": "M."
+      },
+      {
+        "family": "Freudenfeld",
+        "given": "J."
+      },
+      {
+        "family": "Silva",
+        "given": "J. T."
+      },
+      {
+        "family": "Umansky",
+        "given": "V."
+      },
+      {
+        "family": "Reuter",
+        "given": "D."
+      },
+      {
+        "family": "Wieck",
+        "given": "A. D."
+      },
+      {
+        "family": "Brouwer",
+        "given": "P. W."
+      },
+      {
+        "family": "Ludwig",
+        "given": "S."
+      }
+    ],
+    "DOI": "10.1103/physrevb.101.165429",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  "Braa2000": {
+    "type": "article-journal",
+    "title": "Scattering times in AlGaN/GaN two-dimensional electron gas from magnetoresistance measurements",
+    "author": [
+      {
+        "family": "Braña",
+        "given": "A. F."
+      },
+      {
+        "family": "Diaz-Paniagua",
+        "given": "C."
+      },
+      {
+        "family": "Batallan",
+        "given": "F."
+      },
+      {
+        "family": "Garrido",
+        "given": "J. A."
+      },
+      {
+        "family": "Muñoz",
+        "given": "E."
+      },
+      {
+        "family": "Omnes",
+        "given": "F."
+      }
+    ],
+    "DOI": "10.1063/1.373758",
+    "container-title": "Journal of Applied Physics _ Journal of Applied Physics",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  "Hwang2001": {
+    "type": "article-journal",
+    "title": "Correlation-induced phonon softening in low-density coupled bilayer systems",
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "E. H."
+      },
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      }
+    ],
+    "DOI": "10.1103/physrevb.63.233201",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  "Zheng1994": {
+    "type": "article-journal",
+    "title": "Density of states of the two-dimensional electron gas studied by magnetocapacitances of biased double-barrier structures",
+    "author": [
+      {
+        "family": "Zheng",
+        "given": "Hou-zhi"
+      },
+      {
+        "family": "Song",
+        "given": "Aimin"
+      },
+      {
+        "family": "Yang",
+        "given": "Fu-hua"
+      },
+      {
+        "family": "Li",
+        "given": "Yue-xia"
+      }
+    ],
+    "DOI": "10.1103/physrevb.49.1802",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
+  },
+  "Shashkin2001": {
+    "type": "article-journal",
+    "title": "Metal-Insulator Transition in a 2D Electron Gas: Equivalence of Two Approaches for Determining the Critical Point",
+    "author": [
+      {
+        "family": "Shashkin",
+        "given": "A. A."
+      },
+      {
+        "family": "Kravchenko",
+        "given": "S. V."
+      },
+      {
+        "family": "Klapwijk",
+        "given": "T. M."
+      }
+    ],
+    "DOI": "10.1103/physrevlett.87.266402",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  "Bisti2019": {
+    "type": "article-journal",
+    "title": "Quasiholes in a MgZnO/ZnO Heterojunction as Vacancions",
+    "author": [
+      {
+        "family": "Bisti",
+        "given": "V. E."
+      }
+    ],
+    "DOI": "10.1134/s002136401902005x",
+    "container-title": "JETP Letters _ Jetp Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  "Toussaint2018": {
+    "type": "article-journal",
+    "title": "On the origins of transport inefficiencies in mesoscopic networks",
+    "author": [
+      {
+        "family": "Toussaint",
+        "given": "Sébastien"
+      },
+      {
+        "family": "Martins",
+        "given": "Frederico"
+      },
+      {
+        "family": "Faniel",
+        "given": "Sébastien"
+      },
+      {
+        "family": "Pala",
+        "given": "Marco G."
+      },
+      {
+        "family": "Desplanque",
+        "given": "Ludovic"
+      },
+      {
+        "family": "Wallart",
+        "given": "Xavier"
+      },
+      {
+        "family": "Sellier",
+        "given": "Hermann"
+      },
+      {
+        "family": "Huant",
+        "given": "Serge"
+      },
+      {
+        "family": "Bayot",
+        "given": "Vincent"
+      },
+      {
+        "family": "Hackens",
+        "given": "Benoit"
+      }
+    ],
+    "DOI": "10.1038/s41598-018-21250-y",
+    "container-title": "Scientific Reports _ Sci Rep",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    }
+  },
+  "Altukhov1996": {
+    "type": "article-journal",
+    "title": "Excitons in a dense two-dimensional electron gas at a semiconductor surface",
+    "author": [
+      {
+        "family": "Altukhov",
+        "given": "P.D."
+      }
+    ],
+    "DOI": "10.1016/0039-6028(96)00437-2",
+    "container-title": "Surface Science _ Surface Science",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
+  },
+  "Baym2013": {
+    "type": "article-journal",
+    "title": "Normal mass density of a superfluid Fermi gas at unitarity",
+    "author": [
+      {
+        "family": "Baym",
+        "given": "Gordon"
+      },
+      {
+        "family": "Pethick",
+        "given": "C. J."
+      }
+    ],
+    "DOI": "10.1103/physreva.88.043631",
+    "container-title": "Physical Review A _ Phys. Rev. A",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  "Jin1988": {
+    "type": "article-journal",
+    "title": "Quantum transport in neutron-irradiated modulation-doped heterojunctions. I. Fast neutrons",
+    "author": [
+      {
+        "family": "Jin",
+        "given": "Wei-min"
+      },
+      {
+        "family": "Zhou",
+        "given": "Jun-ming"
+      },
+      {
+        "family": "Huang",
+        "given": "Yi"
+      },
+      {
+        "family": "Cai",
+        "given": "Li-hong"
+      }
+    ],
+    "DOI": "10.1103/physrevb.38.13086",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    }
+  },
+  "Drummond2013": {
+    "type": "article-journal",
+    "title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "N. D."
+      },
+      {
+        "family": "Needs",
+        "given": "R. J."
+      }
+    ],
+    "DOI": "10.1103/physrevb.88.035133",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  "Drummond2013a": {
+    "type": "article-journal",
+    "title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "N. D."
+      },
+      {
+        "family": "Needs",
+        "given": "R. J."
+      }
+    ],
+    "DOI": "10.1103/physrevb.87.045131",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  "Lee1996": {
+    "type": "article-journal",
+    "title": "Effects of the finite band width in a two-dimensional electron gas: The renormalization constant and the effective mass",
+    "author": [
+      {
+        "family": "Lee",
+        "given": "J. D."
+      },
+      {
+        "family": "Min",
+        "given": "B. I."
+      }
+    ],
+    "DOI": "10.1103/physrevb.53.10988",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
+  },
+  "Bhukal2012": {
+    "type": "article-journal",
+    "title": "Exchange-correlations in a dilute quasi-two-dimensional electron gas at finite temperature",
+    "author": [
+      {
+        "family": "Bhukal",
+        "given": "Nisha"
+      },
+      {
+        "family": "Moudgil",
+        "given": "R. K."
+      }
+    ],
+    "DOI": "10.1063/1.4710211",
+    "container-title": "AIP Conference Proceedings _ ",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  "Faleev2000": {
+    "type": "article-journal",
+    "title": "Self-consistent random-phase approximation for a two-dimensional electron gas: Kadanoff-Baym-Keldysh approach",
+    "author": [
+      {
+        "family": "Faleev",
+        "given": "Sergey V."
+      },
+      {
+        "family": "Stockman",
+        "given": "Mark I."
+      }
+    ],
+    "DOI": "10.1103/physrevb.62.16707",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  "Koorevaar1994": {
+    "type": "article-journal",
+    "title": "Vortex lattice melting in multilayers with variable anisotropies",
+    "author": [
+      {
+        "family": "Koorevaar",
+        "given": "P."
+      },
+      {
+        "family": "Kes",
+        "given": "P. H."
+      },
+      {
+        "family": "Koshelev",
+        "given": "A. E."
+      },
+      {
+        "family": "Aarts",
+        "given": "J."
+      }
+    ],
+    "DOI": "10.1103/physrevlett.72.3250",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
+  },
+  "Braigue2011": {
+    "type": "article-journal",
+    "title": "Correlation Between Bands Structure and Magneto-Transport Properties in n-type HgTe∕CdTe Superlattice with Relatively Thin CdTe Barrier",
+    "author": [
+      {
+        "family": "Braigue",
+        "given": "M."
+      },
+      {
+        "family": "Nafidi",
+        "given": "A."
+      },
+      {
+        "family": "Chaib",
+        "given": "H."
+      },
+      {
+        "family": "Talwar",
+        "given": "Devki N."
+      },
+      {
+        "family": "Tirbiyine",
+        "given": "A."
+      },
+      {
+        "family": "Hemine",
+        "given": "J."
+      },
+      {
+        "family": "Idbaha",
+        "given": "A."
+      },
+      {
+        "family": "Boulkassim",
+        "given": "A."
+      },
+      {
+        "family": "Gouti",
+        "given": "T. El"
+      },
+      {
+        "family": "Massaq",
+        "given": "M."
+      },
+      {
+        "family": "SrinivasaVinod",
+        "given": "M."
+      },
+      {
+        "family": "Khodaparast",
+        "given": "Giti A."
+      },
+      {
+        "family": "Santos",
+        "given": "Michael B."
+      },
+      {
+        "family": "Stanton",
+        "given": "Christopher J."
+      }
+    ],
+    "DOI": "10.1063/1.3671700",
+    "container-title": "AIP Conference Proceedings _ ",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  "Olsson1996": {
+    "type": "article-journal",
+    "title": "Charge Accumulation at InAs Surfaces",
+    "author": [
+      {
+        "family": "Olsson",
+        "given": "L. Ö."
+      },
+      {
+        "family": "Andersson",
+        "given": "C. B. M."
+      },
+      {
+        "family": "Håkansson",
+        "given": "M. C."
+      },
+      {
+        "family": "Kanski",
+        "given": "J."
+      },
+      {
+        "family": "Ilver",
+        "given": "L."
+      },
+      {
+        "family": "Karlsson",
+        "given": "U. O."
+      }
+    ],
+    "DOI": "10.1103/physrevlett.76.3626",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
+  },
+  "GarcaGonzlez2001": {
+    "type": "article-journal",
+    "title": "Self-consistent calculation of total energies of the electron gas using many-body perturbation theory",
+    "author": [
+      {
+        "family": "García-González",
+        "given": "P."
+      },
+      {
+        "family": "Godby",
+        "given": "R. W."
+      }
+    ],
+    "DOI": "10.1103/physrevb.63.075112",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  "Baboux2015": {
+    "type": "article-journal",
+    "title": "Electron density magnification of the collective spin-orbit field in quantum wells",
+    "author": [
+      {
+        "family": "Baboux",
+        "given": "F."
+      },
+      {
+        "family": "Perez",
+        "given": "F."
+      },
+      {
+        "family": "Ullrich",
+        "given": "C. A."
+      },
+      {
+        "family": "Karczewski",
+        "given": "G."
+      },
+      {
+        "family": "Wojtowicz",
+        "given": "T."
+      }
+    ],
+    "DOI": "10.1103/physrevb.92.125307",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  },
+  "Kulakovskii1989": {
+    "type": "article-journal",
+    "title": "Band-gap renormalization and band-filling effects in a homogeneous electron-hole plasma in In0.53Ga0.47As/InP single quantum wells",
+    "author": [
+      {
+        "family": "Kulakovskii",
+        "given": "V."
+      },
+      {
+        "family": "Lach",
+        "given": "E."
+      },
+      {
+        "family": "Forchel",
+        "given": "A."
+      },
+      {
+        "family": "Grützmacher",
+        "given": "D."
+      }
+    ],
+    "DOI": "10.1103/physrevb.40.8087",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    }
+  },
+  "Kwon1994": {
+    "type": "article-journal",
+    "title": "Quantum Monte Carlo calculation of the Fermi-liquid parameters in the two-dimensional electron gas",
+    "author": [
+      {
+        "family": "Kwon",
+        "given": "Yongkyung"
+      },
+      {
+        "family": "Ceperley",
+        "given": "D. M."
+      },
+      {
+        "family": "Martin",
+        "given": "Richard M."
+      }
+    ],
+    "DOI": "10.1103/physrevb.50.1684",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
+  },
+  "Krakovsky1996": {
+    "type": "article-journal",
+    "title": "Quasiparticle effective mass for the two- and three-dimensional electron gas",
+    "author": [
+      {
+        "family": "Krakovsky",
+        "given": "Andrey"
+      },
+      {
+        "family": "Percus",
+        "given": "Jerome K."
+      }
+    ],
+    "DOI": "10.1103/physrevb.53.7352",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
+  },
+  "Xie2014": {
+    "type": "article-journal",
+    "title": "High Conductance 2D Transport around the Hall Mobility Peak in Electrolyte-Gated Rubrene Crystals",
+    "author": [
+      {
+        "family": "Xie",
+        "given": "Wei"
+      },
+      {
+        "family": "Wang",
+        "given": "Shun"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xin"
+      },
+      {
+        "family": "Leighton",
+        "given": "C."
+      },
+      {
+        "family": "Frisbie",
+        "given": "C. Daniel"
+      }
+    ],
+    "DOI": "10.1103/physrevlett.113.246602",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  "Colonna2014": {
+    "type": "article-journal",
+    "title": "Correlation energy within exact-exchange adiabatic connection fluctuation-dissipation theory: Systematic development and simple approximations",
+    "author": [
+      {
+        "family": "Colonna",
+        "given": "Nicola"
+      },
+      {
+        "family": "Hellgren",
+        "given": "Maria"
+      },
+      {
+        "family": "Gironcoli",
+        "given": "Stefano de"
+      }
+    ],
+    "DOI": "10.1103/physrevb.90.125150",
+    "container-title": "Physical Review B _ Phys. Rev. B",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  "GarcaGonzlez2002": {
+    "type": "article-journal",
+    "title": "Many-Body GW Calculations of Ground-State Properties: Quasi-2D Electron Systems and van der Waals Forces",
+    "author": [
+      {
+        "family": "García-González",
+        "given": "P."
+      },
+      {
+        "family": "Godby",
+        "given": "R. W."
+      }
+    ],
+    "DOI": "10.1103/physrevlett.88.056406",
+    "container-title": "Physical Review Letters _ Phys. Rev. Lett.",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  "Hwang2001a": {
+    "type": "article-journal",
+    "title": "Plasmon dispersion in dilute 2D electron systems: Quantum-Classical and Wigner Crystal-Electron Liquid Crossover",
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "E. H."
+      },
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0102057",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  "Drummond2010": {
+    "type": "article-journal",
+    "title": "Phase Diagram of the Low-Density Two-Dimensional Homogeneous Electron Gas",
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "N. D."
+      },
+      {
+        "family": "Needs",
+        "given": "R. J."
+      }
+    ],
+    "DOI": "10.48550/arXiv.1002.2101",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  "Drummond2013b": {
+    "type": "article-journal",
+    "title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "N. D."
+      },
+      {
+        "family": "Needs",
+        "given": "R. J."
+      }
+    ],
+    "DOI": "10.48550/arXiv.1307.4009",
+    "container-title": "Quantum Gases _ Physics.cond-mat.quant-gas",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  "Colonna2014a": {
+    "type": "article-journal",
+    "title": "Correlation energy within exact-exchange ACFD theory: systematic development and simple approximations",
+    "author": [
+      {
+        "family": "Colonna",
+        "given": "Nicola"
+      },
+      {
+        "family": "Hellgren",
+        "given": "Maria"
+      },
+      {
+        "family": "Gironcoli",
+        "given": "Stefano de"
+      }
+    ],
+    "DOI": "10.48550/arXiv.1409.0354",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  "Hossain2020": {
+    "type": "article-journal",
+    "title": "Observation of spontaneous valley polarization of itinerant electrons",
+    "author": [
+      {
+        "family": "Hossain",
+        "given": "Md. S."
+      },
+      {
+        "family": "Ma",
+        "given": "M. K."
+      },
+      {
+        "family": "Rosales",
+        "given": "K. A. Villegas"
+      },
+      {
+        "family": "Chung",
+        "given": "Y. J."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "L. N."
+      },
+      {
+        "family": "West",
+        "given": "K. W."
+      },
+      {
+        "family": "Baldwin",
+        "given": "K. W."
+      },
+      {
+        "family": "Shayegan",
+        "given": "M."
+      }
+    ],
+    "DOI": "10.48550/arXiv.2011.06721",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  "Xie2022": {
+    "type": "article-journal",
+    "title": "$m^\\ast$ of two-dimensional electron gas: a neural canonical transformation study",
+    "author": [
+      {
+        "family": "Xie",
+        "given": "Hao"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      },
+      {
+        "family": "Wang",
+        "given": "Lei"
+      }
+    ],
+    "DOI": "10.48550/arXiv.2201.03156",
+    "container-title": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  "Drummond2012": {
+    "type": "article-journal",
+    "title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+    "author": [
+      {
+        "family": "Drummond",
+        "given": "N. D."
+      },
+      {
+        "family": "Needs",
+        "given": "R. J."
+      }
+    ],
+    "DOI": "10.48550/arXiv.1208.6317",
+    "container-title": "Quantum Gases _ Physics.cond-mat.quant-gas",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  "Tan2004": {
+    "type": "article-journal",
+    "title": "Measurements of the density-dependent many-body electron mass in 2D GaAs/AlGaAs Heterostructures",
+    "author": [
+      {
+        "family": "Tan",
+        "given": "Y.-W."
+      },
+      {
+        "family": "Zhu",
+        "given": "J."
+      },
+      {
+        "family": "Stormer",
+        "given": "H. L."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "L. N."
+      },
+      {
+        "family": "Baldwin",
+        "given": "K. W."
+      },
+      {
+        "family": "West",
+        "given": "K. W."
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0412260",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
+  },
+  "Holzmann2008": {
+    "type": "article-journal",
+    "title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+    "author": [
+      {
+        "family": "Holzmann",
+        "given": "Markus"
+      },
+      {
+        "family": "Bernu",
+        "given": "Bernard"
+      },
+      {
+        "family": "Olevano",
+        "given": "Valerio"
+      },
+      {
+        "family": "Martin",
+        "given": "Richard M."
+      },
+      {
+        "family": "Ceperley",
+        "given": "David M."
+      }
+    ],
+    "DOI": "10.48550/arXiv.0810.2450",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  "Spink2015": {
+    "type": "article-journal",
+    "title": "Trion formation in a two-dimensional hole-doped electron gas",
+    "author": [
+      {
+        "family": "Spink",
+        "given": "G. G."
+      },
+      {
+        "family": "Ríos",
+        "given": "P. López"
+      },
+      {
+        "family": "Drummond",
+        "given": "N. D."
+      },
+      {
+        "family": "Needs",
+        "given": "R. J."
+      }
+    ],
+    "DOI": "10.48550/arXiv.1505.07411",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  },
+  "Zhang2005c": {
+    "type": "article-journal",
+    "title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Ying"
+      },
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0509300",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  "Davoudi2002": {
+    "type": "article-journal",
+    "title": "Self-consistent Overhauser model for the pair distribution function of an electron gas in dimensionalities D=3 and D=2",
+    "author": [
+      {
+        "family": "Davoudi",
+        "given": "B."
+      },
+      {
+        "family": "Polini",
+        "given": "M."
+      },
+      {
+        "family": "Asgari",
+        "given": "R."
+      },
+      {
+        "family": "Tosi",
+        "given": "M. P."
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0201423",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  "Berman2013": {
+    "type": "article-journal",
+    "title": "Coupling of two Dirac particles",
+    "author": [
+      {
+        "family": "Berman",
+        "given": "O. L."
+      },
+      {
+        "family": "Kezerashvili",
+        "given": "R. Ya."
+      },
+      {
+        "family": "Ziegler",
+        "given": "K."
+      }
+    ],
+    "DOI": "10.48550/arXiv.1302.4505",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  "Janotti2012": {
+    "type": "article-journal",
+    "title": "Controlling the density of the 2DEG at the SrTiO3/LaAlO3 interface",
+    "author": [
+      {
+        "family": "Janotti",
+        "given": "A."
+      },
+      {
+        "family": "Bjaalie",
+        "given": "L."
+      },
+      {
+        "family": "Gordon",
+        "given": "L."
+      },
+      {
+        "family": "Walle",
+        "given": "C. G. Van de"
+      }
+    ],
+    "DOI": "10.48550/arXiv.1212.5947",
+    "container-title": "Materials Science _ Physics.cond-mat.mtrl-sci",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  "Huotari2010a": {
+    "type": "article-journal",
+    "title": "Momentum Distribution and Renormalization Factor in Sodium and the Electron Gas",
+    "author": [
+      {
+        "family": "Huotari",
+        "given": "Simo"
+      },
+      {
+        "family": "Soininen",
+        "given": "J. Aleksi"
+      },
+      {
+        "family": "Pylkkänen",
+        "given": "Tuomas"
+      },
+      {
+        "family": "Hämäläinen",
+        "given": "Keijo"
+      },
+      {
+        "family": "Issolah",
+        "given": "Arezki"
+      },
+      {
+        "family": "Titov",
+        "given": "Andrey"
+      },
+      {
+        "family": "McMinis",
+        "given": "Jeremy"
+      },
+      {
+        "family": "Kim",
+        "given": "Jeongnim"
+      },
+      {
+        "family": "Esler",
+        "given": "Ken"
+      },
+      {
+        "family": "Ceperley",
+        "given": "David M."
+      },
+      {
+        "family": "Holzmann",
+        "given": "Markus"
+      },
+      {
+        "family": "Olevano",
+        "given": "Valerio"
+      }
+    ],
+    "DOI": "10.48550/arXiv.1006.5591",
+    "container-title": "Other Condensed Matter _ Physics.cond-mat.other",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  "Son2005": {
+    "type": "article-journal",
+    "title": "Electron and Spin Correlations in Semiconductor Heterostructures: Quantum Singwi-Tosi-Land-Sjolander Theory",
+    "author": [
+      {
+        "family": "Son",
+        "given": "Nguyen Thanh"
+      },
+      {
+        "family": "Khanh",
+        "given": "Nguyen Quoc"
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0508121",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    }
+  },
+  "Haastrup2016": {
+    "type": "article-journal",
+    "title": "Field-induced dissociation of excitons in two-dimensional MoS$_{2}$/hBN heterostructures",
+    "author": [
+      {
+        "family": "Haastrup",
+        "given": "Sten"
+      },
+      {
+        "family": "Latini",
+        "given": "Simone"
+      },
+      {
+        "family": "Bolotin",
+        "given": "Kirill"
+      },
+      {
+        "family": "Thygesen",
+        "given": "Kristian Sommer"
+      }
+    ],
+    "DOI": "10.48550/arXiv.1602.04044",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  "Sarma2003": {
+    "type": "article-journal",
+    "title": "Temperature dependent effective mass renormalization in 2D electron systems",
+    "author": [
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      },
+      {
+        "family": "Galitski",
+        "given": "Victor"
+      },
+      {
+        "family": "Zhang",
+        "given": "Ying"
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0303363",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  },
+  "Papadakis1999": {
+    "type": "article-journal",
+    "title": "Anisotropic magnetoresistance of GaAs two-dimensional holes",
+    "author": [
+      {
+        "family": "Papadakis",
+        "given": "S. J."
+      },
+      {
+        "family": "Poortere",
+        "given": "E. P. De"
+      },
+      {
+        "family": "Shayegan",
+        "given": "M."
+      },
+      {
+        "family": "Winkler",
+        "given": "R."
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/9911239",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
+  },
+  "Kutepov2009": {
+    "type": "article-journal",
+    "title": "Ground State Properties of Simple Elements from GW Calculations",
+    "author": [
+      {
+        "family": "Kutepov",
+        "given": "Andrey"
+      },
+      {
+        "family": "Savrasov",
+        "given": "Sergey Yu."
+      },
+      {
+        "family": "Kotliar",
+        "given": "Gabriel"
+      }
+    ],
+    "DOI": "10.48550/arXiv.0903.4887",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  "GarciaGonzalez2000": {
+    "type": "article-journal",
+    "title": "Self-Consistent Calculation of Total Energies of the Electron Gas Using Many-Body Perturbation Theory",
+    "author": [
+      {
+        "family": "Garcia-Gonzalez",
+        "given": "P."
+      },
+      {
+        "family": "Godby",
+        "given": "R. W."
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0012090",
+    "container-title": "Condensed Matter _ Physics.cond-mat.cond-mat",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  "Vianez2021": {
+    "type": "article-journal",
+    "title": "Decoupling of the many-body effects from the electron mass in GaAs by means of reduced dimensionality",
+    "author": [
+      {
+        "family": "Vianez",
+        "given": "P. M. T."
+      },
+      {
+        "family": "Jin",
+        "given": "Y."
+      },
+      {
+        "family": "Tan",
+        "given": "W. K."
+      },
+      {
+        "family": "Liu",
+        "given": "Q."
+      },
+      {
+        "family": "Griffiths",
+        "given": "J. P."
+      },
+      {
+        "family": "Farrer",
+        "given": "I."
+      },
+      {
+        "family": "Ritchie",
+        "given": "D. A."
+      },
+      {
+        "family": "Tsyplyatyev",
+        "given": "O."
+      },
+      {
+        "family": "Ford",
+        "given": "C. J. B."
+      }
+    ],
+    "DOI": "10.48550/arXiv.2110.14539",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  "Shepherd2012": {
+    "type": "article-journal",
+    "title": "Correlation Energy Divergences in Metallic Systems",
+    "author": [
+      {
+        "family": "Shepherd",
+        "given": "James J."
+      },
+      {
+        "family": "Grüneis",
+        "given": "Andreas"
+      }
+    ],
+    "DOI": "10.48550/arXiv.1208.6103",
+    "container-title": "Chemical Physics _ Physics.physics.chem-ph",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  "Hellmller2015": {
+    "type": "article-journal",
+    "title": "Spin pairs in a weakly coupled many-electron quantum dot",
+    "author": [
+      {
+        "family": "Hellmüller",
+        "given": "S."
+      },
+      {
+        "family": "Bischoff",
+        "given": "D."
+      },
+      {
+        "family": "Müller",
+        "given": "T."
+      },
+      {
+        "family": "Beck",
+        "given": "M."
+      },
+      {
+        "family": "Ensslin",
+        "given": "K."
+      },
+      {
+        "family": "Ihn",
+        "given": "T."
+      }
+    ],
+    "DOI": "10.48550/arXiv.1509.08096",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  },
+  "Sarma2000": {
+    "type": "article-journal",
+    "title": "Calculated temperature-dependent resistance in low density 2D hole gases in GaAs heterostructure",
+    "author": [
+      {
+        "family": "Sarma",
+        "given": "S. Das"
+      },
+      {
+        "family": "Hwang",
+        "given": "E. H."
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0001057",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  "Thakur2000": {
+    "type": "article-journal",
+    "title": "Central role of exchange-correlation hole in the 2D metal-insulator",
+    "author": [
+      {
+        "family": "Thakur",
+        "given": "J.S."
+      },
+      {
+        "family": "Neilson",
+        "given": "D."
+      }
+    ],
+    "DOI": "10.48550/arXiv.cond-mat/0001435",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  "Azadi2022": {
+    "type": "article-journal",
+    "title": "Correlation energy of the paramagnetic electron gas at the thermodynamic limit",
+    "author": [
+      {
+        "family": "Azadi",
+        "given": "Sam"
+      },
+      {
+        "family": "Drummond",
+        "given": "N. D."
+      },
+      {
+        "family": "Vinko",
+        "given": "S. M."
+      }
+    ],
+    "DOI": "10.48550/arXiv.2209.10227",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  "Ma2012": {
+    "type": "article-journal",
+    "title": "Excited state calculations in solids by auxiliary-field quantum Monte Carlo",
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Fengjie"
+      },
+      {
+        "family": "Zhang",
+        "given": "Shiwei"
+      },
+      {
+        "family": "Krakauer",
+        "given": "Henry"
+      }
+    ],
+    "DOI": "10.48550/arXiv.1211.4635",
+    "container-title": "Materials Science _ Physics.cond-mat.mtrl-sci",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  "Jenichen2019": {
+    "type": "article-journal",
+    "title": "Inhomogeneous micro-strain in cylindrical semiconductor heterostructures and its influence on the adiabatic motion of electrons",
+    "author": [
+      {
+        "family": "Jenichen",
+        "given": "B"
+      },
+      {
+        "family": "Jahn",
+        "given": "U"
+      },
+      {
+        "family": "Nikulin",
+        "given": "A"
+      },
+      {
+        "family": "Hey",
+        "given": "R"
+      },
+      {
+        "family": "Santos",
+        "given": "P V"
+      },
+      {
+        "family": "Friedland",
+        "given": "K J"
+      }
+    ],
+    "DOI": "10.48550/arXiv.1907.09368",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  "Asgari2009": {
+    "type": "article-journal",
+    "title": "Effective mass suppression in a ferromagnetic two-dimensional electron liquid",
+    "author": [
+      {
+        "family": "Asgari",
+        "given": "Reza"
+      },
+      {
+        "family": "Gokmen",
+        "given": "T."
+      },
+      {
+        "family": "Tanatar",
+        "given": "B."
+      },
+      {
+        "family": "Padmanabhan",
+        "given": "Medini"
+      },
+      {
+        "family": "Shayegan",
+        "given": "M."
+      }
+    ],
+    "DOI": "10.48550/arXiv.0902.3437",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  "Shmakov2010": {
+    "type": "article-journal",
+    "title": "Spin waves in diluted magnetic quantum wells",
+    "author": [
+      {
+        "family": "Shmakov",
+        "given": "P. M."
+      },
+      {
+        "family": "Dmitriev",
+        "given": "A. P."
+      },
+      {
+        "family": "Kachorovskii",
+        "given": "V. Yu."
+      }
+    ],
+    "DOI": "10.48550/arXiv.1005.5138",
+    "container-title": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  "Holzmann2023": {
+    "type": "article-journal",
+    "title": "Static self energy and effective mass of the homogeneous electron gas from Quantum Monte Carlo calculations",
+    "author": [
+      {
+        "family": "Holzmann",
+        "given": "Markus"
+      },
+      {
+        "family": "Calcavecchia",
+        "given": "Francesco"
+      },
+      {
+        "family": "Ceperley",
+        "given": "David M."
+      },
+      {
+        "family": "Olevano",
+        "given": "Valerio"
+      }
+    ],
+    "DOI": "10.48550/arXiv.2305.02274",
+    "container-title": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  }
+}

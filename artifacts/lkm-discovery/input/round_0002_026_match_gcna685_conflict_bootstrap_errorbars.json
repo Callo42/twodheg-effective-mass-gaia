@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1021090281480519681": {
+        "area": "arXiv-Physics",
+        "authors": "Stefano Gandolfi | Ryan Curry | Alexandros Gezerlis",
+        "available_online": "",
+        "cover_date_start": "2024-07-16",
+        "created_at": "2024-07-19T08:08:14+08:00",
+        "doi": "10.48550/arxiv.2407.12102",
+        "en_title": "BCS-BEC crossover of the strongly interacting $^6$Li--$^{40}$K mixture",
+        "id": "1021090281480519681",
+        "keywords": "",
+        "publication_date": "2024-07-16",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "强相互作用的$$^6$$Li - $$^{40}$$K混合物的BCS - BEC渡越 "
+      },
+      "paper:1156923904271319040": {
+        "area": "arXiv-Physics",
+        "authors": "Henry W. Lin | Zechuan Zheng",
+        "available_online": "",
+        "cover_date_start": "2025-07-28",
+        "created_at": "2025-07-29T04:02:33+08:00",
+        "doi": "10.48550/arXiv.2507.21007",
+        "en_title": "High-precision bootstrap of multi-matrix quantum mechanics",
+        "id": "1156923904271319040",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108493",
+        "publication_name": "High Energy Physics - Theory",
+        "research_categories": "",
+        "zh_title": "多矩阵量子力学的高精度自举法"
+      },
+      "paper:812025435574501377": {
+        "area": "Physics and Astrophysics",
+        "authors": "Helmut G. Katzgraber | L. W. Lee | I. A. Campbell",
+        "available_online": "2007-1-10",
+        "cover_date_start": "2007-01-10",
+        "created_at": "2022-12-20T10:19:10+08:00",
+        "doi": "10.1103/physrevb.75.014412",
+        "en_title": "Effective critical behavior of the two-dimensional Ising spin glass with bimodal interactions",
+        "id": "812025435574501377",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "具有双峰相互作用的二维伊辛自旋玻璃的有效临界行为"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:814512052012843009": {
+        "area": "Physics and Astrophysics",
+        "authors": "Kirill Martiyanov | Tatiana Barmashova | Vasiliy Makhalov | Andrey Turlapov",
+        "available_online": "2016-6-17",
+        "cover_date_start": "2016-06-17",
+        "created_at": "2022-12-27T07:00:07+08:00",
+        "doi": "10.1103/physreva.93.063622",
+        "en_title": "Pressure profiles of nonuniform two-dimensional atomic Fermi gases",
+        "id": "814512052012843009",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "532",
+        "publication_name": "Physical Review A _ Phys. Rev. A",
+        "research_categories": "[\"Physical Sciences\", \"Atomic, Molecular and Optical Physics\", \"Quantum Physics\"]",
+        "zh_title": "非均匀二维原子费米气体的压力分布"
+      },
+      "paper:814639191395663875": {
+        "area": "Physics and Astrophysics",
+        "authors": "Peter Kroiss | Lode Pollet",
+        "available_online": "2015-4-20",
+        "cover_date_start": "2015-04-20",
+        "created_at": "2022-12-27T15:25:20+08:00",
+        "doi": "10.1103/physrevb.91.144507",
+        "en_title": "Diagrammatic Monte Carlo study of a mass-imbalanced Fermi-polaron system",
+        "id": "814639191395663875",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "质量不平衡费米极化子系统的图解蒙特卡罗研究"
+      },
+      "paper:814664101459394561": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yasir Iqbal | Didier Poilblanc | Federico Becca",
+        "available_online": "2015-1-9",
+        "cover_date_start": "2015-01-09",
+        "created_at": "2022-12-27T17:04:19+08:00",
+        "doi": "10.1103/physrevb.91.020402",
+        "en_title": "Spin- 1 2 Heisenberg J 1 − J 2 antiferromagnet on the kagome lattice",
+        "id": "814664101459394561",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "三角晶格上的自旋 - 1/2 海森堡 $$J_1 - J_2$$ 反铁磁体"
+      },
+      "paper:867751368385888608": {
+        "area": "arXiv-Physics",
+        "authors": "A. R. Davenport | J. P. Hague | P. E. Kornilovitch",
+        "available_online": "",
+        "cover_date_start": "2012-01-06",
+        "created_at": "2023-05-23T04:54:08+08:00",
+        "doi": "10.48550/arXiv.1201.1400",
+        "en_title": "Mobile small bipolarons on a three-dimensional cubic lattice",
+        "id": "867751368385888608",
+        "keywords": "",
+        "publication_date": "2012-01-06",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "三维立方晶格上的移动小双极化子"
+      },
+      "paper:867756083391758410": {
+        "area": "arXiv-Physics",
+        "authors": "Haiyan Lu | Li Huang",
+        "available_online": "",
+        "cover_date_start": "2019-11-21",
+        "created_at": "2023-05-23T05:12:52+08:00",
+        "doi": "10.48550/arXiv.1911.09481",
+        "en_title": "Unraveling the 4f electronic structures of cerium monopnictides",
+        "id": "867756083391758410",
+        "keywords": "",
+        "publication_date": "2019-11-21",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "解析铈单磷族化合物的4f电子结构"
+      },
+      "paper:867769365615870569": {
+        "area": "arXiv-Physics",
+        "authors": "Gianluca Bertaina | Marco G. Tarallo | Sebastiano Pilati",
+        "available_online": "",
+        "cover_date_start": "2022-12-18",
+        "created_at": "2023-05-23T06:05:39+08:00",
+        "doi": "10.48550/arXiv.2212.09150",
+        "en_title": "Quantum Monte Carlo study of the role of p-wave interactions in ultracold Fermi gases",
+        "id": "867769365615870569",
+        "keywords": "",
+        "publication_date": "2022-12-18",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "[\"Physical Sciences\", \"Atomic, Molecular and Optical Physics\", \"Quantum Physics\"]",
+        "zh_title": "超冷费米气体中p波相互作用作用的量子蒙特卡罗研究"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the set of quantum Monte Carlo calculations producing observables such as E/E_{FG}, momentum distributions n(k), and quasiparticle energies \\epsilon(k), the numerical uncertainties explicitly reported in tables and parentheses reflect statistical uncertainties arising from stochastic sampling (Monte Carlo error bars and fit uncertainties); this proposition is that these reported uncertainties do not fully account for systematic errors originating from sources such as the fixed-node approximation, finite-size effects, choice of two-body potential shape at finite effective range, limited fit ranges for extrapolations, and possible mixed-estimator biases, and therefore the true total uncertainty for some reported parameters may be larger than the quoted statistical-only errors.",
+        "content_hash": "f59d811bc2b1466ef59deae8c6d4c9a4e7805662b5e100da818afe0086650cae",
+        "id": "gcn_3724c4e31cbd4ba9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1021090281480519681::P12",
+            "package_id": "paper:1021090281480519681",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1021090281480519681"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025978407557354925,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given CTQMC output consisting of Monte Carlo sampled estimators of observables, estimating uncertainties as three standard errors obtained from bootstrap resampling of the sampled data correctly quantifies the dominant statistical sampling error in those estimators, but this bootstrap procedure does not capture potential systematic errors such as residual finite-confinement bias, incomplete equilibration, biased Monte Carlo updates, or modelling approximations (e.g., truncation of phonon-mode degrees of freedom), and therefore reported bootstrap error bars may under-represent the total uncertainty.",
+        "content_hash": "155acbda98d723b3c87cd4b3d8d99d03bef45074100705b50d0f45ccbab43375",
+        "id": "gcn_54ee4b36d4404473",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751368385888608::P8",
+            "package_id": "paper:867751368385888608",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751368385888608"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02484567901234568,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In extracting the quasiparticle effective mass m* from dispersion fits and finite-size energy differences, the practice of enlarging uncertainty bars (for example, by up to 0.02) when removing some particle sizes or momenta changes outputs beyond quoted uncertainties, and of including phenomenological finite-size correction terms proportional to 1/N or 1/N^2 in fit models, is assumed to be sufficient to account for finite-size systematic errors, discrete momentum-grid induced bias, and sensitivity to the chosen fitting range or functional form, so that the remaining quoted uncertainties realistically reflect the total error budget for m*.",
+        "content_hash": "1da00709c176f91cbc5285d71fa10f2bc4f970985f661767cb3b806fa5e26067",
+        "id": "gcn_184d2125b4ca4235",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867769365615870569::P14",
+            "package_id": "paper:867769365615870569",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867769365615870569"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing infinite-$N$ bootstrap outputs (such as $\\mathcal{E}$ and the averaged size $s$) to finite-$N$ Euclidean Monte Carlo results that have been extrapolated in $N$ and lattice-continuum parameters (for example Monte Carlo runs with $N\\sim 32$ and finite time-lattice spacing), the interpretation that numerical proximity or disagreement indicates physical agreement presumes that finite-$N$ effects, finite-lattice-spacing errors, and continuum-extrapolation systematic uncertainties in the Monte Carlo results are small compared to the observed differences; accordingly, direct quantitative comparison of infinite-$N$ bootstrap intervals with finite-$N$ Monte Carlo estimates is contingent on those extrapolation uncertainties being correctly accounted for in the Monte Carlo error estimates and on bootstrap truncation systematics being smaller than the reported numerical intervals.",
+        "content_hash": "d92c4648904dbf48630f7d4661ceefa5a351ef47001d0650635b356307313612",
+        "id": "gcn_0a882983b9cc42f7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1156923904271319040::P12",
+            "package_id": "paper:1156923904271319040",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1156923904271319040"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In estimates of numerically differentiated effective exponents such as $\\alpha_{\\text{eff}}(L,T)=-\\dfrac{d\\ln C_V(L,T)}{d\\ln T}$ from Monte Carlo data, a bootstrap-resampling procedure that resamples Monte Carlo measurements or disorder realizations provides realistic estimates of sampling variability (statistical error) but does not capture systematic biases arising from (i) finite-size corrections that vary with $L$ and $T$, (ii) discretization bias introduced by coarse or nonuniform temperature grids used for numerical differentiation, or (iii) methodological biases from applying extrapolation procedures whose prerequisites are violated; consequently, bootstrap error bars can substantially underestimate the total uncertainty relevant for extrapolation to $L\\to\\infty$ and $T\\to0$.",
+        "content_hash": "f3993d0630fbed6d7556f4c3d40df8cd4e82f699d4da6ee2b66a4f02a3239de2",
+        "id": "gcn_3e294717c2b040d6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812025435574501377::P14",
+            "package_id": "paper:812025435574501377",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812025435574501377"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Reporting $4f_{5/2}$ effective masses as large as $m^{\\star}/m_{e}\\approx116$ based on the one-point Matsubara estimate $m^{\\star}/m_{e}\\approx1-\\Im\\Sigma(i\\omega_{0})/\\omega_{0}$ is meaningful only if the numerical extraction of the quasiparticle weight $Z$ is accurate in the extremely small-$Z$ limit; because when $Z\\ll1$ the one-point estimate can be dominated by small absolute errors in $\\Im\\Sigma(i\\omega_{0})$, and because finite-temperature effects (here $T\\approx116\\ \\mathrm{K}$), Monte Carlo statistical uncertainty, and analytic-continuation uncertainties can introduce small relative errors in $\\Im\\Sigma(i\\omega_{0})$ that map to very large relative errors in $Z^{-1}$, the physical trustworthiness of reported very large $m^{\\star}$ values requires accompanying robust error bars, alternative low-temperature extrapolations, or independent consistency checks.",
+        "content_hash": "ccecdde92c951abf932d3abcc0f2ac5e4a866f2ab3ec55a04a0a39541d50fe82",
+        "id": "gcn_4ec3136f05d846f1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867756083391758410::P9",
+            "package_id": "paper:867756083391758410",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867756083391758410"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The paper's comparison to auxiliary-field quantum Monte Carlo (continuous-space AFQMC) and, in the strongest-coupling condition, to finite-temperature lattice Monte Carlo (LMC) does not present complete Monte Carlo uncertainty quantification in the plots used for comparison (for example, comprehensive Monte Carlo error bars, finite-size extrapolation details, or explicit temperature sensitivity across the panels), so differences between experiment and a given Monte Carlo curve may be affected by unshown Monte Carlo numerical uncertainties.\n      Shi, Chiesa, Zhang, Phys. Rev. A 92, 033603 (2015) [AFQMC]; Anderson & Drut, PRL 115, 115301 (2015) [LMC]",
+        "content_hash": "0a917030415c5240f7e09ee798b420ac4bcc81440d16d514a2dfc2cdc4b9e47d",
+        "id": "gcn_1d1a0c71311b41e2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814512052012843009::P12",
+            "package_id": "paper:814512052012843009",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814512052012843009"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of finite-system quasiparticle effective masses m^*(N) computed from DMC quartic-fit derivatives for periodic simulation cells with electron counts N, the finite-size dependence over the accessible range of N can be modeled by the single power-law form m^*(N)=m^*(∞)+b N^{-γ} with parameters m^*(∞), b, and γ that can be meaningfully estimated by least-squares fitting and by Monte Carlo sampling of the quoted statistical error bars, with the proviso that the model is an approximation whose accuracy depends on the span and density of sampled N values and on the absence of crossover behaviors or multiple competing finite-size contributions over the fitted range.",
+        "content_hash": "aebf37331c2ce526b23abaddb3b71ea1f3c02b2a9cfe13f2fad67b3fe1ad54f5",
+        "id": "gcn_1e8fcb7ef934428d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P5",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the quasiparticle residue $Z$ be defined by the long-imaginary-time asymptotic $G_{\\downarrow}(\\tau,\\mathbf{k})\\xrightarrow{\\tau\\to\\infty}-Z e^{-(E-\\mu_{\\downarrow})\\tau}$ and let the Monte Carlo produce estimates $Z(N)$ when truncating the sampled expansion at maximum order $N$; for mass-imbalance ratios $r\\lesssim 0.5$ where the sampled series for $Z$ does not visibly saturate within reachable $N$, performing a linear extrapolation of $Z(N)$ versus $1/N$ using the highest-order points provides a working estimate of the infinite-order residue and an error bar approximated by the extrapolation procedure of Appendix B, under the assumption that the asymptotic deviation of $Z(N)$ behaves approximately linearly in $1/N$ in this unsaturated regime.",
+        "content_hash": "19043275f90e80eaf284314693264d9126d88996c67aa2ff715884940adb5c5b",
+        "id": "gcn_c7aafd040b4847a9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814639191395663875::P12",
+            "package_id": "paper:814639191395663875",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814639191395663875"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let energies per site $E(L)$ be estimated by variational Monte Carlo using importance sampling on a finite set of stochastic samples with error bars derived from sample variances and bootstrap/blocking analysis. The weak point is the reliance on the claim that statistical errors and any systematic Monte Carlo biases (e.g., insufficient sampling, autocorrelations, incomplete equilibration, or finite-variance estimation issues) are small enough that the reported small per-site energy differences (the energy gain $G(L;J_2)$ and the finite-size trends used for extrapolation) are reliable and not dominated by sampling noise; if error estimates are optimistic or if systematic biases exist, the extrapolated thermodynamic conclusions may be invalid.",
+        "content_hash": "1011018485e1bb5e46fff887bf34a792f36005b1d31b48634b732055d64b490b",
+        "id": "gcn_15b52aeff1404dee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814664101459394561::P6",
+            "package_id": "paper:814664101459394561",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814664101459394561"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "346f78aea0ec237cad3d0e5b7431d52f"
+}

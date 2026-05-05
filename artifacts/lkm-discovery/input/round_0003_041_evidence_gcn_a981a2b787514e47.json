@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "To obtain the thermodynamic-limit quasiparticle effective mass from finite-N DMC band data one may (i) fit the computed isotropic band values E(k), with k = |𝗸|, in a finite interval k∈[k_F−Δk,k_F+Δk] about the Fermi wave vector k_F to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 (with fit coefficients α_0, α_2, α_4), (ii) compute the band derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 and define the quasiparticle effective mass by m^*=k_F/(dE/dk)_{k_F}, and (iii) evaluate m^*(N) for several simulation-cell electron counts N and fit the N dependence to the single power-law model m^*(N)=m^*(∞)+b N^{-γ} (with fit parameters m^*(∞), b, and γ) to obtain the thermodynamic-limit mass m^*(∞); when the quartic fit in step (i) is performed over a sufficiently wide Δk about k_F (so as not to be dominated by pathological near-k_F fluctuations) this three-step procedure yields stable extrapolated values m^*(∞).",
+      "content_hash": "0301ea780f708045b4ddfb1f2c37ea0b1bde559548730bd05caafbed25e7fd3c",
+      "id": "gcn_a981a2b787514e47",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "To obtain the thermodynamic-limit quasiparticle effective mass from finite-N DMC band data one may (i) fit the computed isotropic band values E(k), with k = |𝗸|, in a finite interval k∈[k_F−Δk,k_F+Δk] about the Fermi wave vector k_F to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 (with fit coefficients α_0, α_2, α_4), (ii) compute the band derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 and define the quasiparticle effective mass by m^*=k_F/(dE/dk)_{k_F}, and (iii) evaluate m^*(N) for several simulation-cell electron counts N and fit the N dependence to the single power-law model m^*(N)=m^*(∞)+b N^{-γ} (with fit parameters m^*(∞), b, and γ) to obtain the thermodynamic-limit mass m^*(∞); when the quartic fit in step (i) is performed over a sufficiently wide Δk about k_F (so as not to be dominated by pathological near-k_F fluctuations) this three-step procedure yields stable extrapolated values m^*(∞).",
+              "id": "gcn_a981a2b787514e47"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_fd7a3b1d2e1f4b07",
+            "premises": [
+              {
+                "content": "For a single-particle energy band E(k) of a two-dimensional homogeneous electron gas, with scalar wave number k=|𝗸|, fitting discrete DMC-computed band values E(k_i) within the finite interval k∈[k_F−Δk,k_F+Δk] to the quartic polynomial E(k)=α_0+α_2 k^2+α_4 k^4 and then evaluating the derivative at k_F from the fit as (dE/dk)_{k_F}=2α_2 k_F+4α_4 k_F^3 provides an analytic approximation to the true thermodynamic-limit derivative at k_F suitable for estimating the quasiparticle effective mass m^*=k_F/(dE/dk)_{k_F}, provided the chosen Δk is neither so small that pathological near-k_F fluctuations dominate nor so large that physics beyond quartic band curvature is sampled.",
+                "id": "gcn_48797cba2bf44d90"
+              },
+              {
+                "content": "For a sequence of finite-system quasiparticle effective masses m^*(N) computed from DMC quartic-fit derivatives for periodic simulation cells with electron counts N, the finite-size dependence over the accessible range of N can be modeled by the single power-law form m^*(N)=m^*(∞)+b N^{-γ} with parameters m^*(∞), b, and γ that can be meaningfully estimated by least-squares fitting and by Monte Carlo sampling of the quoted statistical error bars, with the proviso that the model is an approximation whose accuracy depends on the span and density of sampled N values and on the absence of crossover behaviors or multiple competing finite-size contributions over the fitted range.",
+                "id": "gcn_1e8fcb7ef934428d"
+              },
+              {
+                "content": "For discrete DMC single-particle band data E(k_i) in a periodic finite simulation cell, performing a quartic fit over a moderately wide wave-number interval k∈[k_F−Δk,k_F+Δk]—meaning Δk large enough to include multiple quantized k points on both sides of k_F rather than being restricted to an infinitesimal neighborhood of k_F—reduces sensitivity to localized anomalous fluctuations or outlier derivative estimates in the immediate vicinity of k_F and produces per-size effective-mass estimates that are more stable with respect to statistical noise and more amenable to controlled finite-size extrapolation.",
+                "id": "gcn_50e263dc961541e0"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the upstream established result that the DMC energy bands $\\mathcal{E}(\\mathbf{k})$ for finite $N$ exhibit systematic finite-size effects and that high-precision DMC data are available for multiple system sizes, and from the validation that finite-$N$ DMC bands at representative $N$ are reliable (the results established in the prior conclusions): treat these per-size DMC bands as the input data for the extraction procedure.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Specify the parametric form used to fit the computed band at each density, spin polarization, and finite system size: fit the scalar-band function $\\mathcal{E}(k)$ (with $k=|\\mathbf{k}|$ the magnitude of the wave vector) to the quartic polynomial\n$$\n\\mathcal{E}(k)=\\alpha_{0}+\\alpha_{2}k^{2}+\\alpha_{4}k^{4},\n$$\nwhere the coefficients $\\alpha_{0}$, $\\alpha_{2}$, and $\\alpha_{4}$ are fitting parameters determined by least-squares fits to the DMC energy-band values in a chosen interval of $k$ about the Fermi wave vector $k_{F}$. The paper reports performing such quartic fits for each density, spin polarization, and system size.\nFig. 3\nFig. 4",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Define the quasiparticle effective mass $m^{*}$ from the fitted band by the derivative at the Fermi wave vector $k_{F}$ as\n$$\nm^{*}=\\frac{k_{F}}{\\left(d\\mathcal{E}/dk\\right)_{k_{F}}},\n$$\nso that once the quartic fit is obtained the derivative $d\\mathcal{E}/dk$ is evaluated at $k_{F}$ and inverted according to this formula to give $m^{*}$.",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Describe the finite-size extrapolation model applied to the sequence of finite-$N$ effective masses $m^{*}(N)$ obtained from the quartic fits: fit the dependence of $m^{*}(N)$ on system size $N$ to the form\n$$\nm^{*}(N)=m^{*}(\\infty)+b\\,N^{-\\gamma},\n$$\nwhere $m^{*}(\\infty)$ is the thermodynamic-limit effective mass to be estimated, and $b$ and $\\gamma$ are additional fitting parameters determined from the finite-$N$ data by least-squares fitting with Monte Carlo sampling of the error bars to obtain uncertainties.\nFig. 7",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "State the practical recommendation found in the paper arising from the behavior of the band fits: when performing the quartic fit to obtain $(d\\mathcal{E}/dk)_{k_{F}}$ and hence $m^{*}(N)$, use a sufficiently wide range $\\Delta k$ of wave vectors around $k_{F}$ (i.e., fit over $k\\in[k_{F}-\\Delta k,k_{F}+\\Delta k]$ with $\\Delta k$ not extremely small) so that pathological near-$k_{F}$ numerical-derivative anomalies are averaged out by the quartic parametrization and the extrapolated $m^{*}(\\infty)$ becomes stable; the paper shows that as $\\Delta k$ increases the fitted $m^{*}$ settles to well-defined values.\nFig. 3\nFig. 4",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Report that when the above procedure (quartic fits per $N$, derivative at $k_{F}$, and finite-size fit to $m^{*}(N)=m^{*}(\\infty)+b N^{-\\gamma}$ with Monte Carlo sampling of error bars) is applied to the present DMC data it yields stable extrapolated thermodynamic-limit effective masses $m^{*}(\\infty)$ provided the quartic fit is performed over a sufficiently wide $\\Delta k$ about $k_{F}$; the paper provides numerical extrapolated results obtained using this procedure in the tabulated final results.\nFig. 7\nFig. 8",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "The extraction of $m^{*}$ from discrete finite-$N$ bands requires a robust band parametrization and an ansatz for the finite-size scaling. Using only narrow windows of $k$ about $k_{F}$ leads to pathological and unstable estimates because of discrete momentum sampling and anomalous behavior of the band derivative at $k_{F}$ in finite cells. Therefore a fitting model for the band (here a quartic polynomial in $k$) together with an explicit finite-size scaling form for $m^{*}(N)$ is necessary to average over near-$k_{F}$ pathologies and to extrapolate to $N\\to\\infty$. The adopted procedure specifies the mathematical forms used at each step and thus removes an important source of uncontrolled systematic error in prior, lower-precision studies.",
+            "id": "paper:813250329280774145::conclusion_2_subproblem",
+            "source_package": "paper:813250329280774145"
+          }
+        ],
+        "source_package": "paper:813250329280774145"
+      }
+    ],
+    "papers": {
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "d61599517ba9d86c5656271a201d048e"
+}

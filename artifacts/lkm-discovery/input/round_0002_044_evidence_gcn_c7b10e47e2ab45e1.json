@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "In finite periodic simulation cells using Slater-Jastrow-backflow trial wave functions (where the Jastrow and backflow factors each contain variational parameters), reoptimizing the Jastrow and backflow parameters for an excited-state configuration (an excitation produced by adding or removing an electron in a particular Bloch state) can lower the total DMC energy in that finite cell—for example, removing an electron from 𝗸=0 in a 26-electron paramagnetic 2D HEG at density parameter r_s=1 reduced the DMC total energy by 0.000854(4) hartree atomic units (a.u.)—but this finite-cell energy lowering is a manifestation of finite-size error and tends to reduce the computed excitation bandwidth and thus amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass; therefore, to avoid introducing extra finite-size bias the Jastrow and backflow parameters are optimized in the ground state and then reused unchanged for excited-state energy evaluations.",
+      "content_hash": "2fb363e4c29c4548b29305c0ef0248f309c8300fcd21ab0e2c3d4afdbe645f42",
+      "id": "gcn_c7b10e47e2ab45e1",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "In finite periodic simulation cells using Slater-Jastrow-backflow trial wave functions (where the Jastrow and backflow factors each contain variational parameters), reoptimizing the Jastrow and backflow parameters for an excited-state configuration (an excitation produced by adding or removing an electron in a particular Bloch state) can lower the total DMC energy in that finite cell—for example, removing an electron from 𝗸=0 in a 26-electron paramagnetic 2D HEG at density parameter r_s=1 reduced the DMC total energy by 0.000854(4) hartree atomic units (a.u.)—but this finite-cell energy lowering is a manifestation of finite-size error and tends to reduce the computed excitation bandwidth and thus amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass; therefore, to avoid introducing extra finite-size bias the Jastrow and backflow parameters are optimized in the ground state and then reused unchanged for excited-state energy evaluations.",
+              "id": "gcn_c7b10e47e2ab45e1"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_5f947643ac684742",
+            "premises": [
+              {
+                "content": "In finite periodic simulation cells for a two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions that contain variational parameters in the Jastrow and backflow factors, reoptimizing those variational parameters for an excited-state configuration (created by adding or removing an electron in a specified Bloch state) can yield a lower total DMC energy in that finite cell relative to using the ground-state-optimized parameters; because, in the thermodynamic limit, the optimal short-range correlation functions are unchanged by a single excitation, this finite-cell energy lowering is a manifestation of finite-size error and can reduce computed excitation bandwidths and therefore amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass.",
+                "id": "gcn_850fc9d9de314026"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define the Slater-Jastrow-backflow trial wave function as the single-determinant Slater part multiplied by a Jastrow correlation factor and modified by backflow coordinate transformations; note that the Jastrow factor and backflow function contain multiple free parameters that are optimized in the ground state for each density, system size, and spin polarization and then reused in excited-state calculations in the authors' standard procedure.\nRef. 11\nRef. 13",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Describe the empirical test reported in the paper: reoptimizing the Jastrow factor and backflow function in the excited state (i.e., optimizing trial-wave-function parameters separately for an excited-state configuration) in a finite simulation cell can lower the total DMC energy for that finite cell, which is a manifestation of finite-size error because the excitation should not change optimal correlation functions in the thermodynamic limit.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "State the explicit numerical example given: in a 26-electron paramagnetic HEG at density parameter $r_{s}=1$, reoptimizing the trial wave function after removing an electron from $\\mathbf{k}=\\mathbf{0}$ lowered the DMC total energy by $0.000854(4)$ hartree atomic units, which reduced the computed DMC bandwidth in that finite cell (as shown in the inset of the plotted band for $N=26$) and therefore amplified the finite-size bias in the bandwidth-derived effective mass.\nFig. 1",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Based on the observed effect that reoptimization in excited states lowers finite-cell energies and increases the finite-size bias in the computed bandwidth, adopt the procedural choice to avoid reoptimization: optimize the trial-wave-function parameters in the ground state and reuse them unchanged for excited-state energy evaluations so as not to introduce additional finite-size error into the computed excitation energies and derived quantities.",
+                "step_id": "4"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "In a finite periodic cell the optimal correlation and backflow parameters can shift when particles are added or removed; reoptimizing those parameters for excited states reduces the finite-$N$ total energy but produces an $N$-dependent change that does not represent the thermodynamic limit. If reoptimization in excitations is performed, finite-size errors in energy differences (and hence in the band and $m^{*}$) are increased, compromising the goal of obtaining thermodynamic-limit values. Thus, to obtain excitation energies representative of the infinite system one must hold the ground-state-optimized Jastrow and backflow functions fixed across excited-state calculations.",
+            "id": "paper:813250329280774145::conclusion_3_subproblem",
+            "source_package": "paper:813250329280774145"
+          }
+        ],
+        "source_package": "paper:813250329280774145"
+      }
+    ],
+    "papers": {
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "5503485bac3c79cdcb03f9460fffab66"
+}

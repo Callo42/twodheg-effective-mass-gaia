@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1060803047791263760": {
+        "area": "arXiv-Physics",
+        "authors": "Elyjah Kiyooka | Chotivut Tangchingchai | Leo Noirot | Axel Leblanc | Boris Brun | Simon Zihlmann | Romain Maurand | Vivien Schmitt | Étienne Dumur | Jean-Michel Hartmann | Francois Lefloch | Silvano De Franceschi",
+        "available_online": "",
+        "cover_date_start": "2024-11-04",
+        "created_at": "2024-11-05T22:12:37+08:00",
+        "doi": "10.48550/arxiv.2411.02367",
+        "en_title": "Gatemon qubit on a germanium quantum-well heterostructure",
+        "id": "1060803047791263760",
+        "keywords": "",
+        "publication_date": "2024-11-04",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "锗量子阱异质结构上的Gatemon量子比特"
+      },
+      "paper:811072070392741890": {
+        "area": "Physics and Astrophysics",
+        "authors": "B. Vinter",
+        "available_online": "1975-10-13",
+        "cover_date_start": "1975-10-13",
+        "created_at": "2022-12-17T19:10:52+08:00",
+        "doi": "10.1103/physrevlett.35.1044",
+        "en_title": "Correlation Energy and Effective Mass of Electrons in an Inversion Layer",
+        "id": "811072070392741890",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "反型层中电子的相关能与有效质量"
+      },
+      "paper:811709155285925889": {
+        "area": "Physics and Astrophysics",
+        "authors": "S. V. Kravchenko | T. M. Klapwijk",
+        "available_online": "2000-3-27",
+        "cover_date_start": "2000-03-27",
+        "created_at": "2022-12-19T13:22:24+08:00",
+        "doi": "10.1103/physrevlett.84.2909",
+        "en_title": "Metallic Low-Temperature Resistivity in a 2D Electron System Over an Extended Temperature Range",
+        "id": "811709155285925889",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维电子系统在扩展温度范围内的金属低温电阻率"
+      },
+      "paper:812423456351059970": {
+        "area": "Physics and Astrophysics",
+        "authors": "L. L. Chang | N. J. Kawai | E. E. Mendez | C.‐A. Chang | L. Esaki",
+        "available_online": "",
+        "cover_date_start": "1981-01-01",
+        "created_at": "2022-12-21T12:40:47+08:00",
+        "doi": "10.1063/1.92115",
+        "en_title": "Semimetallic InAs‐GaSb superlattices to the heterojunction limit",
+        "id": "812423456351059970",
+        "keywords": "",
+        "publication_date": "1981-1",
+        "publication_id": "535",
+        "publication_name": "Applied Physics Letters _ Appl. Phys. Lett.",
+        "research_categories": "",
+        "zh_title": "半金属InAs-GaSb超晶格至异质结极限"
+      },
+      "paper:812428475653685249": {
+        "area": "Engineering Technology",
+        "authors": "D R Hang | C F Huang | W K Hung | Y H Chang | J C Chen | H C Yang | Y F Chen | D K Shih | T Y Chu | H H Lin",
+        "available_online": "2002-8-9",
+        "cover_date_start": "2002-08-09",
+        "created_at": "2022-12-21T13:00:43+08:00",
+        "doi": "10.1088/0268-1242/17/9/317",
+        "en_title": "Shubnikov de Haas oscillations of two-dimensional electron gas in an InAsN/InGaAs single quantum well",
+        "id": "812428475653685249",
+        "keywords": "",
+        "publication_date": "2002-9-1",
+        "publication_id": "4380",
+        "publication_name": "Semiconductor Science and Technology _ Semicond. Sci. Technol.",
+        "research_categories": "",
+        "zh_title": "InAsN/InGaAs单量子阱中二维电子气的舒布尼科夫-德哈斯振荡"
+      },
+      "paper:812523150582480896": {
+        "area": "Physics and Astrophysics",
+        "authors": "Byoung Hee Moon | Gang Hee Han | Miloš M. Radonjić | Hyunjin Ji | Vladimir Dobrosavljević",
+        "available_online": "2020-12-24",
+        "cover_date_start": "2020-12-24",
+        "created_at": "2022-12-21T19:16:56+08:00",
+        "doi": "10.1103/physrevb.102.245424",
+        "en_title": "Quantum critical scaling for finite-temperature Mott-like metal-insulator crossover in few-layered MoS 2",
+        "id": "812523150582480896",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "少层二硫化钼中有限温度下类莫特金属-绝缘体转变的量子临界标度"
+      },
+      "paper:812778893005029376": {
+        "area": "Physics and Astrophysics",
+        "authors": "A. A. Shashkin | S. V. Kravchenko | T. M. Klapwijk",
+        "available_online": "2001-12-6",
+        "cover_date_start": "2001-12-06",
+        "created_at": "2022-12-22T12:13:08+08:00",
+        "doi": "10.1103/physrevlett.87.266402",
+        "en_title": "Metal-Insulator Transition in a 2D Electron Gas: Equivalence of Two Approaches for Determining the Critical Point",
+        "id": "812778893005029376",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维电子气中的金属-绝缘体转变：确定临界点的两种方法的等效性"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:814565282096873472": {
+        "area": "Physics and Astrophysics",
+        "authors": "L. Ö. Olsson | C. B. M. Andersson | M. C. Håkansson | J. Kanski | L. Ilver | U. O. Karlsson",
+        "available_online": "1996-5-6",
+        "cover_date_start": "1996-05-06",
+        "created_at": "2022-12-27T10:31:38+08:00",
+        "doi": "10.1103/physrevlett.76.3626",
+        "en_title": "Charge Accumulation at InAs Surfaces",
+        "id": "814565282096873472",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\"]",
+        "zh_title": "砷化铟表面的电荷积累"
+      },
+      "paper:867772473339281929": {
+        "area": "arXiv-Physics",
+        "authors": "B Jenichen | U Jahn | A Nikulin | R Hey | P V Santos | K J Friedland",
+        "available_online": "",
+        "cover_date_start": "2019-07-22",
+        "created_at": "2023-05-23T06:18:00+08:00",
+        "doi": "10.48550/arXiv.1907.09368",
+        "en_title": "Inhomogeneous micro-strain in cylindrical semiconductor heterostructures and its influence on the adiabatic motion of electrons",
+        "id": "867772473339281929",
+        "keywords": "",
+        "publication_date": "2019-07-22",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "圆柱形半导体异质结构中的非均匀微应变及其对电子绝热运动的影响"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a two-dimensional, noninteracting electron gas with effective mass m^* and carrier density N the zero-temperature Fermi energy is E_F = (pi ħ^2 N) / m^*, so a small density change delta N produces a chemical-potential change delta mu_F = (pi ħ^2 / m^*) delta N. Using the GaAs effective electron mass m^* = 0.067 m_e (with m_e the free-electron rest mass) and substituting delta N = 0.7 × 10^14 m^{-2} gives delta mu_F ≈ 0.22 meV; the proposition is that this 2D free-electron relation with m^* = 0.067 m_e is applicable as an estimate for the high-density quantum-well HM2DEG in the studied parameter range.\n      Standard 2D electron gas relations; Jenichen et al., Section III.B",
+        "content_hash": "4b95a284d747e90167ed65759167e2494323ec65285b93571c85c476c2e8a5bd",
+        "id": "gcn_d49d56923a4a46f3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772473339281929::P9",
+            "package_id": "paper:867772473339281929",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772473339281929"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03149801587301587,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi temperature of the two-dimensional electron gas is calculated from the sheet electron density $n_s$ according to $T_F=\\hbar^2\\pi n_s/(k_B m^*)$ using the effective mass $m^*=0.19\\,m_e$, where $m_e$ is the free-electron mass, and the analysis assumes that this effective mass remains applicable in the dilute low-density regime near the metal-insulator transition.",
+        "content_hash": "c2f48ad17c38852d0f65fa8f017e2b7be336358aba662001a247d31cb7f89ed4",
+        "id": "gcn_9585d513be214c3f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811709155285925889::P3",
+            "package_id": "paper:811709155285925889",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811709155285925889"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0287391216352965,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02454819277108434,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a quasi-two-dimensional electron gas occupying a single electronic sub-band with twofold spin degeneracy and with isotropic parabolic dispersion characterized by an effective electron mass $m^{*}$ (where $m^{*}$ denotes the effective mass and $m_{0}$ denotes the free-electron mass), the two-dimensional electron density per unit area $n_{2D}$ and the Fermi energy $E_{f}$ measured above the sub-band bottom are related by the quasi-two-dimensional density-of-states relation\n      $E_{f} = \\dfrac{\\pi \\hbar^{2} n_{2D}}{m^{*}}$,\n      where $\\hbar$ is the reduced Planck constant. The simplifying modeling proposition asserted for data reduction is: adopting a single constant averaged effective mass $m^{*}=0.028\\,m_{0}$ across the experimental energy range is treated as an approximation that accounts for nonparabolicity sufficiently well to permit a reliable conversion from an experimentally determined $n_{2D}$ (from SdH analysis) to the Fermi energy $E_{f}$ by the formula above; in this approximation $m^{*}$ is taken as energy-independent.",
+        "content_hash": "0e383f652c2c9d4d7aa37b8052033046b1c71e33bcc61e75283d8386b80ff69d",
+        "id": "gcn_492bc2d729ef44bc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812423456351059970::P1",
+            "package_id": "paper:812423456351059970",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812423456351059970"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Fermi energy E_F of a two-dimensional electron gas with sheet density n and effective mass m* is given, under the parabolic-dispersion approximation with energy-independent effective mass, by E_F = π ℏ^2 n / m* (measured from the subband bottom); substituting n = 2.85 × 10^11 cm^-2 and m* = 0.10 m_0 yields E_F = 6.75 meV.",
+        "content_hash": "d8f80fff7fae42dcd9abe048ad6933583e953d455c97084bb6b08e8d46cce35d",
+        "id": "gcn_b087ff5fe8cf4aa2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812428475653685249::P8",
+            "package_id": "paper:812428475653685249",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812428475653685249"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For semiclassical estimates of the Fermi velocity in the two-dimensional hole gas we take an effective hole mass $m^{*}\\approx0.10\\,m_{e}$ (where $m_{e}$ is the electron rest mass) and compute the Fermi velocity as $v_{f}=h k_{f}/m^{*}$ with $k_{f}=\\sqrt{2\\pi\\rho_{2D}}$ for a two-dimensional carrier density $\\rho_{2D}$; this proposition assumes a single parabolic band with $m^{*}\\approx0.10\\,m_{e}$ adequately describes the low-energy dispersion of the hole gas for the carrier-density range of interest.",
+        "content_hash": "df6c6eb885ec6cfd7d2fcce8fc7af15a4ccb45ece4a30cc174b171c8ddf63169",
+        "id": "gcn_f221865c72ff4ed9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1060803047791263760::P5",
+            "package_id": "paper:1060803047791263760",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1060803047791263760"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Treating the near-surface accumulated electrons as a two-dimensional (2D) free-electron gas with in-plane effective mass m* = 0.023 m0 (m0 denotes the free-electron mass, m0 ≈ 9.109×10^-31 kg) and with the Fermi energy E_F located 0.2 eV above the bulk conduction-band minimum (CBM), the sheet electron density n_s computed from the 2D free-electron relation n_s = m* E_F/(π ħ^2) is approximately 10^12 cm^-2.",
+        "content_hash": "49262d3ae3a604f69cfae6b04bb12294f8a0c71a1d720a47da99b648d1b28d36",
+        "id": "gcn_e8f3e95a60cc4add",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814565282096873472::conclusion_3",
+            "package_id": "paper:814565282096873472",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814565282096873472"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the single-particle density of states for an ideal two-dimensional electron gas as D_0 = 2m/(πħ^2), where m is the electron effective mass and ħ is the reduced Planck constant. The proposition is that the effective mass m entering D_0 can be taken to have the value m = 0.19 m_e (with m_e the free electron mass) independently of the application of a strong in-plane magnetic field sufficient to fully polarize spins (B > B_sat), so that comparisons of the measured D* to multiples of D_0 using m = 0.19 m_e remain valid in both unpolarized and fully spin-polarized regimes; this assumes that interaction and polarization effects do not significantly renormalize m under the experimental conditions.",
+        "content_hash": "2af501126774ae38985a5d3798c94e5330c362cc7e08c86519fdfa8c972bac4f",
+        "id": "gcn_3893ecfe0418429b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812778893005029376::P12",
+            "package_id": "paper:812778893005029376",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812778893005029376"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron system the dimensionless interaction parameter r_s (the ratio of a characteristic Coulomb energy to the Fermi energy) scales (up to order-unity geometry-dependent prefactors) as r_s ∝ m^*/(ε √{n_{2D}}), where m^* is the effective electron mass, ε is the effective dielectric constant, and n_{2D} is the two-dimensional carrier density; using m^* ≈ 0.5 m_e (m_e the free-electron mass), ε ≈ 8 for multilayer MoS2, and n_{2D} ≈ 3×10^{12} cm^{-2} yields an r_s of order 9, which indicates strong electron–electron Coulomb interactions in the explored density range, subject to the caveats that this estimate neglects band-structure-specific prefactors, screening from proximate dielectric layers or gates beyond the effective ε, and many-body renormalizations of m^* that could modify the numerical value.",
+        "content_hash": "7cdfeb4dc856f4bab0de393b942e9d45573f83d086ebe42496ba8e8195912d06",
+        "id": "gcn_b450a234b93a48a9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812523150582480896::P4",
+            "package_id": "paper:812523150582480896",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812523150582480896"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Applying the Lundqvist–Overhauser single-mode self-energy model for Σ(k,E) together with the exact effective-mass relation obtained by differentiating the Dyson equation (m*/m given above) in the strictly two-dimensional inversion-layer limit (zero transverse thickness), the computed quasiparticle dispersion E(k) remains nearly parabolic and yields a mean effective mass m* about 14% larger than the bulk in-plane band mass m at two-dimensional carrier density N = 10^12 cm^{-2}; the calculated m* decreases as N increases over the range 10^11–10^13 cm^{-2}. When these zero-magnetic-field theoretical masses are compared to magnetoconductivity measurements reported by Smith and Stiles, the theoretical effective-mass curve lies approximately 0.005 m_e (m_e denotes the free-electron mass) below the lower-field experimental points over the experimental density range.",
+        "content_hash": "a0fded2756ff66391ad06c5573ddae1a0d5af4694d64cd01e6ead0a5c0479c78",
+        "id": "gcn_185d90a82f514077",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811072070392741890::conclusion_3",
+            "package_id": "paper:811072070392741890",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811072070392741890"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "4cd33c52c1a6d72a101b2cdc8ed10256"
+}

@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811268256584171521": {
+        "area": "Physics and Astrophysics",
+        "authors": "Emanuele Maggio | Georg Kresse",
+        "available_online": "2016-6-7",
+        "cover_date_start": "2016-06-07",
+        "created_at": "2022-12-18T08:10:25+08:00",
+        "doi": "10.1103/physrevb.93.235113",
+        "en_title": "Correlation energy for the homogeneous electron gas: Exact Bethe-Salpeter solution and an approximate evaluation",
+        "id": "811268256584171521",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "均匀电子气的相关能：精确的贝叶斯 - 萨尔皮特解及近似评估"
+      },
+      "paper:814586268510846978": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. García-González | R. W. Godby",
+        "available_online": "2001-1-30",
+        "cover_date_start": "2001-01-30",
+        "created_at": "2022-12-27T11:55:02+08:00",
+        "doi": "10.1103/physrevb.63.075112",
+        "en_title": "Self-consistent calculation of total energies of the electron gas using many-body perturbation theory",
+        "id": "814586268510846978",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "使用多体微扰理论对电子气总能量进行自洽计算"
+      },
+      "paper:814694938544439298": {
+        "area": "Physics and Astrophysics",
+        "authors": "Nicola Colonna | Maria Hellgren | Stefano de Gironcoli",
+        "available_online": "2014-9-26",
+        "cover_date_start": "2014-09-26",
+        "created_at": "2022-12-27T19:06:51+08:00",
+        "doi": "10.1103/physrevb.90.125150",
+        "en_title": "Correlation energy within exact-exchange adiabatic connection fluctuation-dissipation theory: Systematic development and simple approximations",
+        "id": "814694938544439298",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "精确交换绝热连接涨落耗散理论中的关联能：系统发展和简单近似"
+      },
+      "paper:867749687258514050": {
+        "area": "arXiv-Physics",
+        "authors": "Nicola Colonna | Maria Hellgren | Stefano de Gironcoli",
+        "available_online": "",
+        "cover_date_start": "2014-09-01",
+        "created_at": "2023-05-23T04:47:27+08:00",
+        "doi": "10.48550/arXiv.1409.0354",
+        "en_title": "Correlation energy within exact-exchange ACFD theory: systematic development and simple approximations",
+        "id": "867749687258514050",
+        "keywords": "",
+        "publication_date": "2014-09-01",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "精确交换无规相位近似密度泛函理论中的相关能：系统发展与简单近似"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867761218968879805": {
+        "area": "arXiv-Physics",
+        "authors": "Andrey Kutepov | Sergey Yu. Savrasov | Gabriel Kotliar",
+        "available_online": "",
+        "cover_date_start": "2009-03-27",
+        "created_at": "2023-05-23T05:33:17+08:00",
+        "doi": "10.48550/arXiv.0903.4887",
+        "en_title": "Ground State Properties of Simple Elements from GW Calculations",
+        "id": "867761218968879805",
+        "keywords": "",
+        "publication_date": "2009-03-27",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "基于GW计算的简单元素基态性质"
+      },
+      "paper:867761548595036501": {
+        "area": "arXiv-Physics",
+        "authors": "P. Garcia-Gonzalez | R. W. Godby",
+        "available_online": "",
+        "cover_date_start": "2000-12-06",
+        "created_at": "2023-05-23T05:34:35+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0012090",
+        "en_title": "Self-Consistent Calculation of Total Energies of the Electron Gas Using Many-Body Perturbation Theory",
+        "id": "867761548595036501",
+        "keywords": "",
+        "publication_date": "2000-12-06",
+        "publication_id": "108638",
+        "publication_name": "Condensed Matter _ Physics.cond-mat.cond-mat",
+        "research_categories": "",
+        "zh_title": "使用多体微扰理论对电子气总能量进行自洽计算"
+      },
+      "paper:867765454167343199": {
+        "area": "arXiv-Physics",
+        "authors": "James J. Shepherd | Andreas Grüneis",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T05:50:07+08:00",
+        "doi": "10.48550/arXiv.1208.6103",
+        "en_title": "Correlation Energy Divergences in Metallic Systems",
+        "id": "867765454167343199",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108510",
+        "publication_name": "Chemical Physics _ Physics.physics.chem-ph",
+        "research_categories": "",
+        "zh_title": "金属体系中的相关能散度"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the two-dimensional (2D) spin-unpolarized homogeneous electron gas (HEG), defined as interacting electrons confined to two spatial dimensions with Wigner–Seitz radius $r_{s}$ defined via the area per electron, fully self-consistent $GW$ provides total energies that lie close to essentially exact diffusion Monte Carlo (QMC) benchmarks and are a substantial improvement over both the random-phase approximation (RPA) total energies and the non-self-consistent $G_{0}W_{0}$ total energies; in the low-density limit of the 2D system (large $r_{s}$), partial self-consistency ($GW_{0}$, updating $G$ with fixed $W_{0}$) matches the QMC data slightly better than full self-consistent $GW$, which indicates that diagrammatic contributions beyond those included in $GW$ (for example, vertex corrections and higher-order exchange–correlation diagrams) are more significant in two dimensions than in three dimensions, while conserving $GW$ nevertheless delivers a major improvement over $G_{0}W_{0}$ and RPA.",
+        "content_hash": "c6a2bdc8697c307aa19bdd330848d97234c3b0163616b74413f01a4c36532354",
+        "id": "gcn_52bf6650687144a7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814586268510846978::conclusion_5",
+            "package_id": "paper:814586268510846978",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814586268510846978"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the unpolarized homogeneous electron gas (HEG) at zero temperature, expressed by the Wigner–Seitz radius $r_{s}$ and with correlation energy per electron measured in Rydberg units, the RPAx correlation energy per electron $\\epsilon_{c}^{\\mathrm{RPAx}}(r_{s})$ computed with the described implementation is significantly closer to benchmark Quantum Monte Carlo (QMC) values $\\epsilon_{c}^{\\mathrm{QMC}}(r_{s})$ than the RPA result $\\epsilon_{c}^{\\mathrm{RPA}}(r_{s})$ across a broad density range: for example, at $r_{s}=0.5$ (Rydberg per electron) RPA gives $-0.194$, RPAx gives $-0.154$, and QMC gives $-0.153$; at $r_{s}=1.0$ RPA $=-0.157$, RPAx $=-0.121$, QMC $=-0.119$; at $r_{s}=5.0$ RPA $=-0.085$, RPAx $=-0.060$, QMC $=-0.056$ (all numbers from the numerical data produced by the HEG calculation), showing that inclusion of the first-order exact-exchange kernel corrects most of the RPA overestimation of the (too negative) correlation energy in metallic and moderate-density regimes.",
+        "content_hash": "061cda9ae6dad60913b3f223c86908ab6f8ba8c6a0b3faa5064edd98b45bd432",
+        "id": "gcn_5efa799c5aef4fd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749687258514050::conclusion_5",
+            "package_id": "paper:867749687258514050",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749687258514050"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional spin-unpolarized homogeneous electron gas (2D HEG), where electrons are confined to two spatial dimensions with the Coulomb interaction appropriate to the 2D geometry, fully self-consistent $GW$ produces exchange–correlation energies per particle that lie near diffusion Monte Carlo reference values and that constitute a substantial improvement over non-self-consistent $G_0W_0$ and over RPA total energies; however, because correlation effects and diagrammatic contributions omitted by the $GW$ approximation (vertex corrections and other neglected diagrams) are relatively more important in two dimensions than in three, the absolute accuracy of the $GW$ results is reduced in 2D compared with 3D, and in the low-density 2D regime examined the partially self-consistent $GW_0$ results are found to be slightly closer to the cited diffusion Monte Carlo reference values than the fully self-consistent $GW$ results.",
+        "content_hash": "cc65b95a910d8076a633f7a6210de4ce2014b26134de6f711de77f3b731bde27",
+        "id": "gcn_c01362e4fdc44f35",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761548595036501::conclusion_4",
+            "package_id": "paper:867761548595036501",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761548595036501"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), defined as interacting electrons constrained to two spatial dimensions with Wigner–Seitz radius $r_{s}$ defined via the area per electron, diagrammatic contributions beyond those included in the $GW$ approximation (for example, vertex corrections and higher-order exchange–correlation diagrams) are more important in 2D than in 3D, and, based on the computed energy differences reported for $GW$ and partially self-consistent $GW_{0}$ in the low-density 2D regime (large $r_{s}$), the $GW_{0}$ scheme may provide slightly better agreement with diffusion Monte Carlo (QMC) benchmarks than fully self-consistent $GW$ in that specific low-density limit; this statement combines a diagrammatic-importance observation with a comparative numerical observation limited to the studied density range.",
+        "content_hash": "7ca43c54f6fc4ee8b304a6765a0882b76f6f437225cd3d4b863304fed400d1aa",
+        "id": "gcn_69e75daa90a94ebc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814586268510846978::P10",
+            "package_id": "paper:814586268510846978",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814586268510846978"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03057889822595705,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Denote by $\\epsilon_{c}^{\\mathrm{RPA}}(r_{s})$ and $\\epsilon_{c}^{\\mathrm{RPAx}}(r_{s})$ the per-electron correlation energies of the unpolarized HEG computed in RPA (kernel neglected) and in RPAx (first-order exact-exchange kernel retained), respectively, and by $\\epsilon_{c}^{\\mathrm{QMC}}(r_{s})$ the best-available Quantum Monte Carlo benchmark; the proposition is that for small-to-moderate density parameters (numerically up to about $r_{s}\\approx 8$–10 under the convergence criteria used) the RPAx values $\\epsilon_{c}^{\\mathrm{RPAx}}(r_{s})$ are significantly closer to $\\epsilon_{c}^{\\mathrm{QMC}}(r_{s})$ than the RPA values $\\epsilon_{c}^{\\mathrm{RPA}}(r_{s})$, i.e., inclusion of the first-order exact-exchange kernel corrects the dominant RPA overestimation of the magnitude of the correlation energy in that regime.",
+        "content_hash": "0e5b750b67576c346d6990a65aec29bf24003df635cb526b9daf75668bd9102b",
+        "id": "gcn_20cef32d401441ce",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749687258514050::P9",
+            "package_id": "paper:867749687258514050",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749687258514050"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03057889822595705,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the unpolarized homogeneous electron gas (HEG), characterized by the Wigner–Seitz radius $r_{s}$ (defined by the electron number density $n=3/(4\\pi r_{s}^{3}a_{B}^{3})$ with $a_{B}$ the Bohr radius), numerical evaluation of the RPAx correlation energy per electron $\\epsilon_{c}(r_s)$ (reported in Rydberg per electron) yields values substantially closer to accurate quantum Monte Carlo (QMC) benchmarks than the random-phase approximation (RPA) across a broad density range up to $r_{s}\\approx 10$. Selected computed values are: for $r_{s}=0.5$, RPA $-0.194$, RPAx $-0.154$, QMC $-0.153$; for $r_{s}=1.0$, RPA $-0.157$, RPAx $-0.121$, QMC $-0.119$; for $r_{s}=3.0$, RPA $-0.105$, RPAx $-0.077$, QMC $-0.074$; for $r_{s}=5.0$, RPA $-0.085$, RPAx $-0.060$, QMC $-0.056$; for $r_{s}=8.0$, RPA $-0.068$, RPAx $-0.047$, QMC $-0.043$; and for $r_{s}=10.0$, RPA $-0.061$, RPAx $-0.042$, QMC $-0.037$. These numerical data demonstrate that including the first-order exact-exchange kernel $f_{\\mathrm{x}}$ (i.e., using RPAx) substantially reduces the RPA overestimation of the correlation energy for HEG densities corresponding to $r_{s}\\lesssim 10$.",
+        "content_hash": "5fa660a08e97fc923e61a73f9e2be37981b74164c7a5b8257b912a1b876c4fc4",
+        "id": "gcn_a2eec650319742f6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814694938544439298::conclusion_4",
+            "package_id": "paper:814694938544439298",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814694938544439298"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03055037313432836,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let a self-consistent GW calculation of the homogeneous electron gas at finite temperature be specified by numerical truncation and discretization parameters including the number of imaginary-time mesh points N_{τ}, the reciprocal-space integration or k-grid sampling appropriate for HEG, and any basis or frequency discretizations used. The proposition is: the numerical parameters and convergence settings employed in the HEG self-consistent GW calculations reported by the authors (including the chosen N_{τ} and the reciprocal-space sampling used for HEG) are sufficiently converged so that residual numerical errors from finite N_{τ}, finite sampling, or basis truncation are small relative to the level of agreement observed with the Ceperley–Alder QMC total energies, i.e., the reported agreement with QMC is not primarily the result of compensating numerical errors or manifestly insufficient convergence in those HEG calculations.",
+        "content_hash": "f59fe45ad00ce0d483be253f7ab768771a3cfbefc0ed7ace823bc07006f6536f",
+        "id": "gcn_26c4663720bf42dc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761218968879805::P7",
+            "package_id": "paper:867761218968879805",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761218968879805"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02964426877470356,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.026785714285714288,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The homogeneous electron gas (HEG) correlation energy evaluated numerically by solving the full Bethe-Salpeter equation (including both resonant and antiresonant blocks, i.e., beyond the Tamm-Dancoff approximation) with a static kernel constructed consistently from the $GW_{0}$ quasiparticle self-energy yields the following numerical findings: (a) in the high-density region the full BSE@GW0 correlation energies closely reproduce quantum Monte Carlo (QMC) benchmark values; for example, for the paramagnetic HEG the Ceperley-Alder QMC value at the highest densities considered is matched to within approximately $0.06\\ \\mathrm{eV}$, and agreement in the ferromagnetic case is similarly good at high densities; (b) at low densities ($r_s\\gtrsim 4.0$ atomic units) the full BSE correlation energy departs markedly from QMC benchmarks, with errors reaching roughly $20\\%$ in the paramagnetic case and about $10\\%$ in the ferromagnetic case; and (c) obtaining these numerical results required careful basis-set and k-point convergence control: the correlation energy exhibits an approximately linear dependence on the inverse total number of plane waves allowing linear extrapolation to the complete-basis limit, and fully spin-polarized (ferromagnetic) HEG converges more rapidly with respect to plane-wave cutoff than the paramagnetic case, so that systematic basis- and k-point extrapolations are essential for reliable comparison to QMC.",
+        "content_hash": "fc5c789c3e164bd5bf5fc588b2f11d6ab6524db588c98a03ef6b775eb85c4dfe",
+        "id": "gcn_ddfa945ecbc7480b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811268256584171521::conclusion_3",
+            "package_id": "paper:811268256584171521",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811268256584171521"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.026013513513513515,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Numerical RPA correlation energies per electron and Hartree–Fock single-particle band gaps for a set of HF-referenced finite-basis finite-$N$ HEG models at density $r_s=1.0$ atomic units and basis parameter $\\\\gamma=\\\\sqrt{2}$ are provided in the study's supplemental Table II for a sequence of electron numbers $N$ (examples in that table include $N=14,38,54,\\\\dots,922$ with the corresponding plane-wave spinorbital counts $M$ and tabulated RPA correlation energies and HF gaps); these tabulated values allow other researchers to apply the RPA-subtraction protocol by computing a target method's correlation energy in an identical finite-basis finite-$N$ HEG model and subtracting the tabulated RPA numbers rather than recomputing RPA themselves, thereby enabling detection of divergent behaviour in target many-body methods with only modest additional computational effort provided the other researchers match $N$, $M$, lattice type and $\\\\gamma$.",
+        "content_hash": "707e05076a71c12af7d660ac996afb7fa38d6542f2558175413ac3306195f663",
+        "id": "gcn_b18a6dc94b354718",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867765454167343199::conclusion_9",
+            "package_id": "paper:867765454167343199",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867765454167343199"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.024269005847953218,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "af868243070cc381d259fb7a9672420d"
+}

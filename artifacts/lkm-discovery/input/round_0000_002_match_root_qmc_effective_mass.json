@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:812339268134371331": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. Tonello | E. Lipparini",
+        "available_online": "2004-8",
+        "cover_date_start": "2004-08-01",
+        "created_at": "2022-12-21T07:06:15+08:00",
+        "doi": "10.1103/physrevb.70.081201",
+        "en_title": "Spin-orbit splitting of the cyclotron resonance in GaAs",
+        "id": "812339268134371331",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\", \"Nuclear and Plasma Physics\"]",
+        "zh_title": "砷化镓中回旋共振的自旋轨道分裂"
+      },
+      "paper:813189235094847488": {
+        "area": "Physics and Astrophysics",
+        "authors": "Gordon Baym | C. J. Pethick",
+        "available_online": "2013-10-21",
+        "cover_date_start": "2013-10-21",
+        "created_at": "2022-12-23T15:23:42+08:00",
+        "doi": "10.1103/physreva.88.043631",
+        "en_title": "Normal mass density of a superfluid Fermi gas at unitarity",
+        "id": "813189235094847488",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "532",
+        "publication_name": "Physical Review A _ Phys. Rev. A",
+        "research_categories": "",
+        "zh_title": "幺正性下超流费米气体的正常质量密度"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867750228856406019": {
+        "area": "arXiv-Physics",
+        "authors": "Hao Xie | Linfeng Zhang | Lei Wang",
+        "available_online": "",
+        "cover_date_start": "2022-01-10",
+        "created_at": "2023-05-23T04:49:36+08:00",
+        "doi": "10.48550/arXiv.2201.03156",
+        "en_title": "$m^\\ast$ of two-dimensional electron gas: a neural canonical transformation study",
+        "id": "867750228856406019",
+        "keywords": "",
+        "publication_date": "2022-01-10",
+        "publication_id": "108488",
+        "publication_name": "Statistical Mechanics _ Physics.cond-mat.stat-mech",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "二维电子气的$m^\\ast$：一种神经正则变换研究"
+      },
+      "paper:867791047206372323": {
+        "area": "arXiv-Physics",
+        "authors": "Markus Holzmann | Francesco Calcavecchia | David M. Ceperley | Valerio Olevano",
+        "available_online": "",
+        "cover_date_start": "2023-05-03",
+        "created_at": "2023-05-23T07:31:48+08:00",
+        "doi": "10.48550/arXiv.2305.02274",
+        "en_title": "Static self energy and effective mass of the homogeneous electron gas from Quantum Monte Carlo calculations",
+        "id": "867791047206372323",
+        "keywords": "",
+        "publication_date": "2023-05-03",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Chemical Sciences\", \"Physical Chemistry\", \"Physical Sciences\", \"Atomic, Molecular and Optical Physics\"]",
+        "zh_title": "量子蒙特卡罗计算得出的均匀电子气的静态自能和有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026736111111111113,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5 and in a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC}=1.26(2) a.u. and a diffusion Monte Carlo (DMC) calculation using the same trial wave function with the fixed-node constraint yields m^*_{DMC}=1.24(3) a.u.; the agreement within quoted statistical uncertainties indicates that, at that specific system size and density, the fixed-node DMC procedure with that trial wave function does not introduce a large systematic bias in the per-size effective-mass estimate.",
+        "content_hash": "e462dabf3fec06c0780fd8b260fb50ec97ede163c5d68e7e40cf8d78f55df789",
+        "id": "gcn_678e0e02a7da4c85",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_13",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.024562989752863168,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m*_{SJB} denote the quasiparticle effective mass obtained from quantum Monte Carlo calculations using a Slater–Jastrow–backflow (SJB) trial wave function for paramagnetic 2D-UEL at low density (for example r_s = 5) in a given simulation-cell geometry and single-particle basis, and let m*_{FCI} denote the hypothetical effective mass that would be obtained if the many-electron wave function were computed by a converged full configuration interaction (FCI) treatment within the same single-particle basis and simulation-cell geometry. The speculative proposition is that m*_{FCI} > m*_{SJB}, i.e., that including all static correlation via a converged FCI would increase the low-density effective mass beyond the SJB-VMC and SJB-DMC estimates reported; this claim is an extrapolation beyond the computed SJB data and is not numerically demonstrated in the calculations reported here.\n      J. J. Shepherd et al., Full configuration interaction perspective on the homogeneous electron gas, Phys. Rev. B 85, 081103(R) (2012).",
+        "content_hash": "33690b012f664e4641a769ae918209a5bf4bb84a0f343fd4165d9ee150afc8a4",
+        "id": "gcn_91358637d8e9481b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02325895875591616,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For numerical evaluations of quasiparticle-based thermodynamic and transport expressions in a homogeneous unitary Fermi gas at temperatures at and below the transition ($T\\lesssim T_c$), the quasiparticle effective mass $m^*$ that appears in the unpaired kinetic energy $\\epsilon_p=p^2/2m^*$ is taken to be equal to the bare fermion mass $m$ (i.e., $m^*=m$), on the basis that quantum Monte Carlo calculations indicate only a small shift of $m^*$ from $m$ at unitarity.",
+        "content_hash": "9ec0b36a2ed5b1426aadced29d8e74610e066b7c142fa80acec55e48027cc141",
+        "id": "gcn_3ecc64e3e07f4f13",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813189235094847488::P3",
+            "package_id": "paper:813189235094847488",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813189235094847488"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $k$ be the effective interaction parameter defined by $k=k_{0}-k_{1}[1-(2S_{z}/N)^{2}]$, and let $F_{1}^{s}$ and $F_{1}^{a}$ be the Landau Fermi-liquid parameters for the two-dimensional electron gas. The proposition asserts that one can identify $k$ with the combinations $-F_{1}^{s}/(2+F_{1}^{s})$ and $-F_{1}^{a}/(2+F_{1}^{s})$ from Landau theory, and that using available quantum Monte Carlo calculations of these Landau parameters for the homogeneous two-dimensional electron gas yields an estimate $k\\simeq-2\\times10^{-2}$ at carrier density $N_{s}=3.32\\times10^{-11}\\ \\mathrm{cm}^{-2}$. This mapping and numerical identification is approximate and assumes that the homogeneous-electron-gas Monte Carlo results apply (after straightforward identification) to the experimental confined space-charge-layer systems.\n      [41]",
+        "content_hash": "5b44eb20fd853fff6c2bd5361065ef159e126f4b00833e244c84fb296823a0a5",
+        "id": "gcn_552450ffd8954458",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812339268134371331::P10",
+            "package_id": "paper:812339268134371331",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812339268134371331"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N quasiparticle effective masses m^*(N) produced by quartic fits to DMC energy bands and fitting m^*(N)=m^*(∞)+b N^{-γ} yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.955(2) in hartree atomic units (a.u.), where m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the Fermi wave vector of the infinite system.",
+        "content_hash": "7859b0b106dad377c477ad6afe8e3774af8cb07138426e0b7daf7af4d7730e8c",
+        "id": "gcn_2feeb72d724846cf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_4",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the entropy-ratio estimator\n      $$\n      \\frac{m^{*}}{m}=\\frac{s}{s_0},\n      $$\n      evaluated at reduced temperature $T/T_F=0.15$ with twist-averaged boundary conditions and for finite system sizes $N\\in\\{29,49,57\\}$, the computed quasiparticle effective mass $m^*/m$ of the two-dimensional spin-polarized electron gas is found to be suppressed relative to the bare electron mass $m$ and to decrease monotonically with increasing Wigner--Seitz parameter $r_s$; quantitatively, the reported $m^*/m$ values track the analytic weak-coupling result at small $r_s$ but lie below previously reported quantum Monte Carlo extrapolations at larger $r_s$, indicating a more pronounced effective-mass suppression in the low-density (strong-coupling) regime than earlier QMC studies suggested.",
+        "content_hash": "6ac23e8f83a299c7478ad8e24c984477265489c07f4027dde480f15672eddb54",
+        "id": "gcn_b02f9dac1afe47d5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750228856406019::conclusion_5",
+            "package_id": "paper:867750228856406019",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750228856406019"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The thermodynamic-limit quasiparticle effective masses $m^{*}$ and the static self-energy $\\Sigma_{\\infty}(k,0)$ computed by the size-corrected VMC procedure described above are in close quantitative agreement (within quoted uncertainties) with recent variational diagrammatic Monte Carlo (VDiagMC) results and with $G_{0}W_{0}$ results across $1\\le r_{s}\\le10$; by contrast, prior quantum Monte Carlo estimates of an apparent effective mass $m_{\\mathrm{eff}}$ obtained by fitting finite-system excitation-energy \"bands\" (the band-mapping approach that fits energy expectation values of $N\\pm1$ trial states to an ideal-gas dispersion) systematically differ from the quasiparticle mass $m^{*}$ extracted from the single-particle propagator via $\\Sigma(k,0)$ and $Z$, demonstrating that the band-mapping procedure is not equivalent to extracting the quasiparticle effective mass from the single-particle Green's function.",
+        "content_hash": "03c8bb285bc1eec4fc01219c4a7765691f9f832521395910d2daace4f68e5fab",
+        "id": "gcn_aba0025e8a9a451c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867791047206372323::conclusion_5",
+            "package_id": "paper:867791047206372323",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867791047206372323"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "6118dc6e0335bc0d75f02508c4e76ba7"
+}

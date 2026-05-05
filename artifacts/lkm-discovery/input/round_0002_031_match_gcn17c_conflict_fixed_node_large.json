@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:813179710660935680": {
+        "area": "Physics and Astrophysics",
+        "authors": "C. Bowen | G. Sugiyama | B. J. Alder",
+        "available_online": "1994-11-15",
+        "cover_date_start": "1994-11-15",
+        "created_at": "2022-12-23T14:45:52+08:00",
+        "doi": "10.1103/physrevb.50.14838",
+        "en_title": "Static dielectric response of the electron gas",
+        "id": "813179710660935680",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "电子气的静态介电响应"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:813217273182420992": {
+        "area": "Physics and Astrophysics",
+        "authors": "Claudio Attaccalite | Saverio Moroni | Paola Gori-Giorgi | Giovanni B. Bachelet",
+        "available_online": "2002-6-5",
+        "cover_date_start": "2002-06-05",
+        "created_at": "2022-12-23T17:15:07+08:00",
+        "doi": "10.1103/physrevlett.88.256601",
+        "en_title": "Correlation Energy and Spin Polarization in the 2D Electron Gas",
+        "id": "813217273182420992",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "二维电子气中的关联能与自旋极化"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:814683413863727105": {
+        "area": "Chemistry",
+        "authors": "P. Ganesh | Jeongnim Kim | Changwon Park | Mina Yoon | Fernando A. Reboredo | Paul R. C. Kent",
+        "available_online": "2014-11-17",
+        "cover_date_start": "2014-11-17",
+        "created_at": "2022-12-27T18:21:03+08:00",
+        "doi": "10.1021/ct500617z",
+        "en_title": "Binding and Diffusion of Lithium in Graphite: Quantum Monte Carlo Benchmarks and Validation of van der Waals Density Functional Methods",
+        "id": "814683413863727105",
+        "keywords": "",
+        "publication_date": "2014-12-9",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "",
+        "zh_title": "锂在石墨中的束缚与扩散：量子蒙特卡罗基准测试及范德华密度泛函方法的验证"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5 and in a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC}=1.26(2) a.u. and a diffusion Monte Carlo (DMC) calculation using the same trial wave function with the fixed-node constraint yields m^*_{DMC}=1.24(3) a.u.; the agreement within quoted statistical uncertainties indicates that, at that specific system size and density, the fixed-node DMC procedure with that trial wave function does not introduce a large systematic bias in the per-size effective-mass estimate.",
+        "content_hash": "e462dabf3fec06c0780fd8b260fb50ec97ede163c5d68e7e40cf8d78f55df789",
+        "id": "gcn_678e0e02a7da4c85",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_13",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If, for a two-dimensional homogeneous electron gas at density parameter r_s=5 and for a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a given Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC} and a diffusion Monte Carlo (DMC) calculation using the same trial wave function and the fixed-node constraint yields m^*_{DMC} such that m^*_{VMC} and m^*_{DMC} agree within their quoted statistical uncertainties (for example, m^*_{VMC}=1.26(2) a.u. and m^*_{DMC}=1.24(3) a.u.), then the fixed-node DMC procedure with that trial wave function introduces at most a small systematic bias in the per-size effective-mass estimate at that specific system size and density; this single-instance agreement, however, does not guarantee the absence of comparable fixed-node biases at other system sizes, densities, or for different trial wave functions.",
+        "content_hash": "876c2078f1f5b1b3c0dd9ff3eb04934d9902d44540a81e0b56fe1c64af642e1c",
+        "id": "gcn_40f6836947ec4abd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P3",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the diffusion quantum Monte Carlo (DMC) method used here, an ensemble of electronic configurations is evolved in imaginary time to project out the lowest-energy fermionic eigenstate compatible with the nodal surface of a supplied trial many-electron wave function, and the fixed-node approximation constrains the nodal surface of the propagating distribution to equal the nodes of the trial wave function, producing a variational (upper-bound) estimate of the true eigenenergy; the magnitude of the fixed-node bias in the DMC total energy depends on the deviation of the trial-wave-function nodal surface from the exact nodal surface, and it is therefore assumed that the fixed-node bias for both the $N$-electron ground state and for the specific $(N\\pm1)$-electron excited states formed by adding or removing a single plane-wave orbital is small enough that DMC total-energy differences yield quasiparticle band energies accurate to the quoted statistical and systematic uncertainties.",
+        "content_hash": "999873479e21661b8bd495661bad68d3ada5c43b4396fc408a446100b326a587",
+        "id": "gcn_402d93fca57345b7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::P1",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028577260665441927,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a three-dimensional homogeneous electron gas (3D-HEG) simulation cell containing N = 178 electrons under periodic boundary conditions, define the Slater-Jastrow (SJ) trial wave function as a single Slater determinant of plane-wave orbitals multiplied by a Jastrow correlation factor, and define the Slater-Jastrow-backflow (SJB) trial wave function as the SJ form evaluated at backflow-transformed quasiparticle coordinates that are smooth functions of all electron positions. When the Jastrow and backflow parameters are optimized first by stochastic variance minimization and then by stochastic energy minimization, the resulting trial wave functions have nodal surfaces and variational energies that are sufficiently converged that the residual fixed-node bias in diffusion Monte Carlo (DMC) total-energy differences—used to compute the interacting single-particle energy band E(k) and hence the finite-N effective mass m*(N=178) = k_F / (dE/dk)_{k_F}—is negligibly small compared with the observed numerical differences between the SJ and SJB m* values at the same system size N = 178 and the stated densities.",
+        "content_hash": "e88b0de972b574bb4c59b5e6dff3873794f69fdd03fcb02a9b5392d9ad061a06",
+        "id": "gcn_52c99dec9c0a4c30",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::P1",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028309409888357256,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In diffusion Monte Carlo (DMC) simulations of the three-dimensional paramagnetic electron gas, when ground-state and perturbed-state fixed-node energies are computed using the same fixed-node trial-wave-function nodal structure (so that the nodal hypersurface enforced by the fixed-node approximation is identical for all field strengths) and identical simulation parameters (time step, population control, etc.), the systematic fixed-node bias present in absolute fixed-node energies largely cancels in the energy difference $\\Delta E_{\\mathrm{DMC}}=E_{\\mathrm{DMC}}(A)-E_{\\mathrm{DMC}}(0)$ so that $\\Delta E_{\\mathrm{DMC}}$ agrees with the corresponding released-node energy difference within the reported statistical uncertainties; the cancellation observed in the tested instance ($r_s=6$, $N=38$) is taken to generalize to other densities, system sizes, and field orientations sampled in the present set of simulations.",
+        "content_hash": "639f58fe55b41a99b454f9d88cb9cebe118c72f5cf83d5f1c01b0d7f53a5ae54",
+        "id": "gcn_1040b1a0639a4538",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813179710660935680::P2",
+            "package_id": "paper:813179710660935680",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813179710660935680"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027432808155699723,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For fixed-node diffusion Monte Carlo calculations of a two-dimensional electron gas, consider two classes of antisymmetric trial wave functions: (A) plane-wave (PW) Slater determinants multiplied by a symmetric Jastrow factor, and (B) backflow (BF) correlated Slater determinants obtained by replacing particle coordinates $\\mathbf{r}_i$ in the Slater determinants with quasi-particle coordinates $\\mathbf{x}_i=\\mathbf{r}_i+\\sum_{j\\ne i}\\eta_{\\mathrm{BF}}(r_{ij})(\\mathbf{r}_i-\\mathbf{r}_j)$ where $\\eta_{\\mathrm{BF}}(r)$ is an optimized backflow function. The proposition is that BF trial wave functions produce nodal surfaces whose fixed-node energy bias is substantially smaller than that of the PW trial functions for the range of densities $r_s$ studied, so that BF FN-DMC energies are significantly closer to the true ground-state energy than PW FN-DMC energies.",
+        "content_hash": "690e5262ae1324ad7f1fb1b36507290edbdb89fbe8373e1a05c643bd9f24af85",
+        "id": "gcn_189edd5f224f48e4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813217273182420992::P7",
+            "package_id": "paper:813217273182420992",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813217273182420992"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026860955056179775,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) is a stochastic projector method that computes ground-state energies of many-electron systems using a trial many-electron wave function Ψ_T(R) to impose the fixed-node constraint; the fixed-node (nodal) error is the energy bias introduced when the nodal hypersurface {R : Ψ_T(R)=0} of the employed trial wave function (here a single Slater determinant of Kohn–Sham orbitals from a Perdew–Burke–Ernzerhof (PBE) density-functional calculation, multiplied by one- and two-body Jastrow correlation factors) differs from the exact many-body nodal surface. Using a single-determinant PBE-derived nodal surface for DMC of a lithium impurity in AA-stacked graphite may leave a non-negligible residual fixed-node error in the computed Li binding energies and in the d-dependent energetic trends, particularly under compressed interlayer separations where the electronic structure changes; this residual fixed-node error plausibly contributes an energy uncertainty comparable to the reported statistical uncertainty for the Li impurity binding energy (the reported DMC Li binding energy uncertainty is ±0.1 eV).",
+        "content_hash": "cc7c76a45eb651080d9a5411a994a713604151b5bc2107d69c64c5dd63b64ddc",
+        "id": "gcn_1b1368cc25d94ec0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814683413863727105::P1",
+            "package_id": "paper:814683413863727105",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814683413863727105"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024056467876692595,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The empirical observation that the computed bandwidth (maximum minus minimum of the sampled single-particle energy band E(𝗸)) increases with the simulation-cell electron count N in a sequence of DMC calculations for a periodic two-dimensional homogeneous electron gas reflects finite-size bias in the raw finite-N bands—where \"finite-size bias\" denotes the difference between the finite-N band and the thermodynamic-limit band caused by momentum quantization and long-range Coulomb and correlation effects in a periodic cell—rather than being primarily caused by other systematic effects such as a systematic dependence of the fixed-node error on N, uncontrolled time-step bias in total-energy differences, inconsistent optimization of trial-wave-function parameters between system sizes, or boundary-condition artifacts; here \"fixed-node error\" refers to the energy error introduced by imposing the nodal surface of a chosen trial wave function in the DMC fixed-node algorithm.",
+        "content_hash": "4e61e43262c34271ecb49207e489f8d7298bfbdf39ac19392e163f978bf56453",
+        "id": "gcn_cabb7a10a72e44dd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P2",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) calculations using the fixed-node projection algorithm and Slater-Jastrow-backflow trial wave functions produced single-particle energy bands E(𝗸) (the Landau quasiparticle energy for Bloch wave vector 𝗸 and spin σ) for paramagnetic and fully spin-polarized two-dimensional homogeneous electron gases (2D HEGs) with substantially reduced statistical uncertainties compared with earlier work; when these bands are computed in square periodic simulation cells containing N electrons the sampled bandwidth (defined as the maximum minus the minimum of the sampled E(𝗸) values over the simulation-cell Brillouin-zone sampling) increases systematically with N, indicating that finite-N bands are biased by finite-size effects and that raw finite-N bandwidths therefore lead to biased finite-N estimates of the quasiparticle effective mass. Here N denotes the total number of electrons in the periodic simulation cell.",
+        "content_hash": "e4b2ddb673380d4b5d2164921f5efc769db47b188ae67853cfbcda5bbc794736",
+        "id": "gcn_a32f461987e04f71",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_1",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In diffusion Monte Carlo (DMC) calculations for the two-dimensional homogeneous electron gas (2D HEG) performed with the fixed-node approximation and using Slater-Jastrow-backflow trial wave functions (a Slater determinant of plane-wave orbitals multiplied by a Jastrow correlation factor and evaluated at backflow-transformed coordinates), the systematic energy bias introduced by the fixed-node constraint in the total energies E_0 (the DMC ground-state total energy), E_+(\\mathbf{k}) and E_-(\\mathbf{k}') (the total energies with one electron added at finite-cell wave vector \\mathbf{k} or removed from finite-cell wave vector \\mathbf{k}'), and E_{\\sigma\\sigma'}(\\mathbf{k},\\mathbf{k}') (the total energy of the excited state formed by promoting an electron from \\mathbf{k}' to \\mathbf{k} with spins \\sigma and \\sigma') is sufficiently small that the resulting error in the Landau interaction function computed by\n      f_{\\sigma\\sigma'}(\\theta) = -\\bigl[E_{\\sigma\\sigma'}(\\mathbf{k},\\mathbf{k}') + E_0 - E_+(\\mathbf{k}) - E_-(\\mathbf{k}')\\bigr],\n      where \\theta is the angle between \\mathbf{k} and \\mathbf{k}', is negligible compared with the statistical uncertainties of the DMC calculations and does not materially affect the qualitative and quantitative behavior of N f_{\\sigma\\sigma'}(\\theta) reported for r_s = 1, 5, and 10.\n      Refs. 3,4,8,10",
+        "content_hash": "74fae182e211081d83db28da4bd24bf33046c8402a2df327cb862e9011b9d24c",
+        "id": "gcn_ff1c8affcb2a44b3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P1",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "e14e678e399bbce2f19a7294d778cfd3"
+}

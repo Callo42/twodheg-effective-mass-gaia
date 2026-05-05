@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:812123848521547776": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-12-15",
+        "cover_date_start": "2005-12-15",
+        "created_at": "2022-12-20T16:50:14+08:00",
+        "doi": "10.1103/physrevlett.95.256603",
+        "en_title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+        "id": "812123848521547776",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "半导体结构中载流子有效质量的自旋极化依赖性：自旋电子学有效质量"
+      },
+      "paper:812446681407684610": {
+        "area": "Physics and Astrophysics",
+        "authors": "M.V. Burtyka | O.V. Glukhov | V.M. Yakovenko",
+        "available_online": "",
+        "cover_date_start": "1991-06-01",
+        "created_at": "2022-12-21T14:13:04+08:00",
+        "doi": "10.1016/0038-1101(91)90125-i",
+        "en_title": "Interaction of hot electrons with two-dimensional gas in semiconductor superlattices",
+        "id": "812446681407684610",
+        "keywords": "",
+        "publication_date": "1991-6",
+        "publication_id": "608",
+        "publication_name": "Solid State Electronics _ Solid-State Electronics",
+        "research_categories": "",
+        "zh_title": "半导体超晶格中热电子与二维气体的相互作用"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:814629726483120128": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yongkyung Kwon | D. M. Ceperley | Richard M. Martin",
+        "available_online": "1994-7-15",
+        "cover_date_start": "1994-07-15",
+        "created_at": "2022-12-27T14:47:43+08:00",
+        "doi": "10.1103/physrevb.50.1684",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi-liquid parameters in the two-dimensional electron gas",
+        "id": "814629726483120128",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气中费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867748999107445206": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2010-02-10",
+        "created_at": "2023-05-23T04:44:44+08:00",
+        "doi": "10.48550/arXiv.1002.2101",
+        "en_title": "Phase Diagram of the Low-Density Two-Dimensional Homogeneous Electron Gas",
+        "id": "867748999107445206",
+        "keywords": "",
+        "publication_date": "2010-02-10",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "低密度二维均匀电子气的相图"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867753636627743508": {
+        "area": "arXiv-Physics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "",
+        "cover_date_start": "2008-10-14",
+        "created_at": "2023-05-23T05:03:09+08:00",
+        "doi": "10.48550/arXiv.0810.2450",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "867753636627743508",
+        "keywords": "",
+        "publication_date": "2008-10-14",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:867759192906138132": {
+        "area": "arXiv-Physics",
+        "authors": "S. Das Sarma | Victor Galitski | Ying Zhang",
+        "available_online": "",
+        "cover_date_start": "2003-03-18",
+        "created_at": "2023-05-23T05:25:14+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0303363",
+        "en_title": "Temperature dependent effective mass renormalization in 2D electron systems",
+        "id": "867759192906138132",
+        "keywords": "",
+        "publication_date": "2003-03-18",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "二维电子系统中与温度相关的有效质量重整化"
+      }
+    },
+    "variables": [
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030834914611005692,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional homogeneous electron gas (2D HEG) simulated in a periodically repeated finite simulation cell containing N electrons, let E_N denote the computed energy per electron of that N-electron finite system and let E_∞ denote the energy per electron in the thermodynamic limit (infinite system size). The proposition is: the dominant many-body finite-size bias in the energy per electron for the fluid phase falls off for large N as a single leading asymptotic term proportional to N^{-5/4}, i.e., E_N = E_∞ - c N^{-5/4} + o(N^{-5/4}) for some constant c, and furthermore this asymptotic N^{-5/4} dependence provides a quantitatively valid description for the finite system sizes employed in the reported calculations (specifically for system sizes up to about N = 162), so that fitting finite-N results to that leading form yields a meaningful extrapolation to E_∞.\n      N.D. Drummond et al., Phys. Rev. B 78, 125106 (2008)",
+        "content_hash": "9762b41273b603adfd0752dcbc910fd2736dc45807be13ac907c4eb83f51b9e2",
+        "id": "gcn_b5dbc29354104767",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867748999107445206::P1",
+            "package_id": "paper:867748999107445206",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867748999107445206"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02964254577157803,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The 2D calculations assume an ideal strictly two-dimensional electron gas with the bare Coulomb interaction $v_{q}=2\\pi e^{2}/q$ and therefore omit finite quasi-2D layer-width form-factor corrections that, for a realistic quasi-2D quantum well or heterostructure, modify the effective interaction at large wavevectors $q$. The explicitly stated quantitative effect of such finite-width form factors is to reduce the 2D many-body renormalization by factors on the order of roughly 1.2–2 depending on carrier density and confinement details; the weak point is the assumption that omitting these finite-width form factors does not change the qualitative conclusions about the spin-polarization dependence of the effective mass (majority mass decreasing with $\\zeta$, minority mass nonmonotonic).\n      [14]",
+        "content_hash": "292cc980d059d043cc1d0908a2b4e0da15c1ac36a746c2af6c0baee319feb1f2",
+        "id": "gcn_04d9c68545784e07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812123848521547776::P4",
+            "package_id": "paper:812123848521547776",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812123848521547776"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029030910609857977,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The two-dimensional electron-gas contribution to the normal induction jump at $z=a$ is represented by a local surface-plasma term parameterized by the scalar two-dimensional plasma frequency\n      $$\n      \\omega_s^2(\\aleph)=\\frac{4\\pi e^2 n_{os}\\aleph}{m_s},\n      $$\n      where $e$ is the electron charge, $n_{os}$ is the equilibrium 2D surface density, $m_s$ is the effective 2D mass; in deriving this local form one neglects nonlocal (wavevector-dependent beyond the explicit $\\aleph$ prefactor), finite-thickness, and quantum-size corrections to the 2D response.",
+        "content_hash": "b75b7c0c1bda074589bd8afffd76066a35892911ae7796d380a971e978a4deea",
+        "id": "gcn_7a65065349474997",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446681407684610::P6",
+            "package_id": "paper:812446681407684610",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446681407684610"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum \\mathbf{p} (|\\mathbf{p}|>k_F) to the N-particle ground state produces a finite-size correction to the total kinetic-energy contribution of the excitation given by\n      \\delta T_{\\mathbf{p}}^{N}=\\frac{\\hbar^{2}\\mathbf{p}^{2}}{2m}\\;Z_{\\mathbf{p}}^{N}\\big[e^{-\\Delta_{N}}-1\\big],\n      where Z_{\\mathbf{p}}^{N} is the finite-N quasiparticle weight at momentum \\mathbf{p} and \\Delta_{N} is the missing-small-q integral defined in conclusion 1. Because \\Delta_{N}\\sim N^{-1/4} for large N, the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m^{*} (via the linearized relation \\varepsilon_{\\mathbf{k}}\\approx\\hbar^{2}k_F(k-k_F)/m^{*}) also scales as N^{-1/4}; therefore, extrapolations that assume faster vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m^{*}-m for typical accessible system sizes.",
+        "content_hash": "0c1b02dc23cc75d5851a4d7805ac3e763197906e5cfe7b8ea1810df601d48c00",
+        "id": "gcn_28b9e01bd2f8487f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753636627743508::conclusion_3",
+            "package_id": "paper:867753636627743508",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753636627743508"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For finite-system variational Monte Carlo studies of the two-dimensional electron gas in the density range $1\\le r_{s}\\le5$ and system sizes tested ($N=26,58,98$), extracting the effective mass $m^{*}$ by (i) computing correlated energy differences among excited states at fixed particle number and (ii) fitting those differences to the angular expansion for $\\Delta E_{\\alpha\\beta}$ to obtain $f_{1}^{s}$ and then $m^{*}$ via $m^{*}/m=(1-\\tfrac{1}{4}r_{s}^{2}N f_{1}^{s})^{-1}$ produces results with much smaller and more systematic finite-size dependence than extracting $m^{*}$ from energy differences between ground and excited states combined with external compressibility and susceptibility inputs; this conclusion is supported by the observed near-independence of the fitted combinations $N f_{l}$ across the tested $N$ values when the excited-state-difference method is used.",
+        "content_hash": "7cdd78f12e5d3c615e9cfc1e2161a46c83cf65fa81815ec8306d240b3dfd3076",
+        "id": "gcn_00cd64eb3fd04e62",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814629726483120128::conclusion_7",
+            "package_id": "paper:814629726483120128",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814629726483120128"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional uniform electron liquid (2D-UEL) model consisting of N interacting electrons of charge −e and bare mass m in a finite periodic simulation cell of area A (so that the density is ρ = N/A) and with density parameter r_s = (1/(πρ))^{1/2}a_B^{-1} (using atomic units with Bohr radius a_B = 1), the finite-size dependence of the quasiparticle effective mass m*(N) obtained from quantum Monte Carlo band-derivative estimates is taken to follow the empirical form\n      m*(N) = m*(∞) + β·N^{-3/2}\n      for some constant β, and this empirical scaling relation is applied to the authors' simulation data obtained at N = 146, 218, and 302 electrons to extrapolate m*(∞) for densities in the metallic range 1 ≤ r_s ≤ 5.\n      Holzmann et al., Theory of finite size effects for electronic quantum Monte Carlo calculations of liquids and solids, Phys. Rev. B 94, 035126 (2016).",
+        "content_hash": "c1ce6c3ee6d6300a60cdfcd8eb5e581f6e940a580c2cb54c7e1be7cbc4d502aa",
+        "id": "gcn_cb512194b0bc4df2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P1",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite-temperature GW-RPA on-shell calculations reproduce, in the $T\\to0$ limit, the established zero-temperature RPA effective-mass results obtained in prior RPA studies of the two-dimensional electron gas, and the numerical extrapolation of the present finite-temperature results to the extreme low-temperature limit yields an effective-mass enhancement as large as $m^{*}/m\\sim5$ for dilute two-dimensional electron systems at interaction strength $r_{s}\\approx10$, where $r_{s}=me^{2}/(\\hbar^{2}\\sqrt{\\pi n})$.",
+        "content_hash": "4ae48a837c3a3697e3acec75a27f05bd060b79ef4a1a1315c660d4296b6b7d4e",
+        "id": "gcn_2ab5f7252f1641f6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759192906138132::conclusion_5",
+            "package_id": "paper:867759192906138132",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759192906138132"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "9d1c984dce837f48c68ebc16df09e141"
+}

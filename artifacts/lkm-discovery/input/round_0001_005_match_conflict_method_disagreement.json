@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811025572095328256": {
+        "area": "Physics and Astrophysics",
+        "authors": "C.-O. ALMBLADH | U. VON BARTH | R. VAN LEEUWEN",
+        "available_online": "2012-1-25",
+        "cover_date_start": "1999-03-10",
+        "created_at": "2022-12-17T16:06:06+08:00",
+        "doi": "10.1142/s0217979299000436",
+        "en_title": "VARIATIONAL TOTAL ENERGIES FROM Φ- AND Ψ- DERIVABLE THEORIES",
+        "id": "811025572095328256",
+        "keywords": "",
+        "publication_date": "1999-3-10",
+        "publication_id": "713",
+        "publication_name": "International Journal of Modern Physics B _ Int. J. Mod. Phys. B",
+        "research_categories": "",
+        "zh_title": "来自基于Φ和Ψ可导理论的变分总能量"
+      },
+      "paper:811872228453908481": {
+        "area": "Physics and Astrophysics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "2009-1-30",
+        "cover_date_start": "2009-01-30",
+        "created_at": "2022-12-20T00:10:23+08:00",
+        "doi": "10.1103/physrevb.79.041308",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "811872228453908481",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:813280287344558081": {
+        "area": "Physics and Astrophysics",
+        "authors": "J. D. Lee | B. I. Min",
+        "available_online": "1996-4-15",
+        "cover_date_start": "1996-04-15",
+        "created_at": "2022-12-23T21:25:31+08:00",
+        "doi": "10.1103/physrevb.53.10988",
+        "en_title": "Effects of the finite band width in a two-dimensional electron gas: The renormalization constant and the effective mass",
+        "id": "813280287344558081",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气中有限带宽的效应：重整化常数与有效质量"
+      },
+      "paper:813324344607375363": {
+        "area": "Physics and Astrophysics",
+        "authors": "Sergey V. Faleev | Mark I. Stockman",
+        "available_online": "2000-12-15",
+        "cover_date_start": "2000-12-15",
+        "created_at": "2022-12-24T00:20:35+08:00",
+        "doi": "10.1103/physrevb.62.16707",
+        "en_title": "Self-consistent random-phase approximation for a two-dimensional electron gas: Kadanoff-Baym-Keldysh approach",
+        "id": "813324344607375363",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气的自洽随机相位近似：卡达诺夫 - 贝姆 - 凯尔迪什方法"
+      },
+      "paper:814586268510846978": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. García-González | R. W. Godby",
+        "available_online": "2001-1-30",
+        "cover_date_start": "2001-01-30",
+        "created_at": "2022-12-27T11:55:02+08:00",
+        "doi": "10.1103/physrevb.63.075112",
+        "en_title": "Self-consistent calculation of total energies of the electron gas using many-body perturbation theory",
+        "id": "814586268510846978",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "使用多体微扰理论对电子气总能量进行自洽计算"
+      },
+      "paper:867759192906138132": {
+        "area": "arXiv-Physics",
+        "authors": "S. Das Sarma | Victor Galitski | Ying Zhang",
+        "available_online": "",
+        "cover_date_start": "2003-03-18",
+        "created_at": "2023-05-23T05:25:14+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0303363",
+        "en_title": "Temperature dependent effective mass renormalization in 2D electron systems",
+        "id": "867759192906138132",
+        "keywords": "",
+        "publication_date": "2003-03-18",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "二维电子系统中与温度相关的有效质量重整化"
+      },
+      "paper:867761548595036501": {
+        "area": "arXiv-Physics",
+        "authors": "P. Garcia-Gonzalez | R. W. Godby",
+        "available_online": "",
+        "cover_date_start": "2000-12-06",
+        "created_at": "2023-05-23T05:34:35+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0012090",
+        "en_title": "Self-Consistent Calculation of Total Energies of the Electron Gas Using Many-Body Perturbation Theory",
+        "id": "867761548595036501",
+        "keywords": "",
+        "publication_date": "2000-12-06",
+        "publication_id": "108638",
+        "publication_name": "Condensed Matter _ Physics.cond-mat.cond-mat",
+        "research_categories": "",
+        "zh_title": "使用多体微扰理论对电子气总能量进行自洽计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the two-dimensional (2D) spin-unpolarized homogeneous electron gas (HEG), defined as interacting electrons confined to two spatial dimensions with Wigner–Seitz radius $r_{s}$ defined via the area per electron, fully self-consistent $GW$ provides total energies that lie close to essentially exact diffusion Monte Carlo (QMC) benchmarks and are a substantial improvement over both the random-phase approximation (RPA) total energies and the non-self-consistent $G_{0}W_{0}$ total energies; in the low-density limit of the 2D system (large $r_{s}$), partial self-consistency ($GW_{0}$, updating $G$ with fixed $W_{0}$) matches the QMC data slightly better than full self-consistent $GW$, which indicates that diagrammatic contributions beyond those included in $GW$ (for example, vertex corrections and higher-order exchange–correlation diagrams) are more significant in two dimensions than in three dimensions, while conserving $GW$ nevertheless delivers a major improvement over $G_{0}W_{0}$ and RPA.",
+        "content_hash": "c6a2bdc8697c307aa19bdd330848d97234c3b0163616b74413f01a4c36532354",
+        "id": "gcn_52bf6650687144a7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814586268510846978::conclusion_5",
+            "package_id": "paper:814586268510846978",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814586268510846978"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.031754032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional spin-unpolarized homogeneous electron gas (2D HEG), where electrons are confined to two spatial dimensions with the Coulomb interaction appropriate to the 2D geometry, fully self-consistent $GW$ produces exchange–correlation energies per particle that lie near diffusion Monte Carlo reference values and that constitute a substantial improvement over non-self-consistent $G_0W_0$ and over RPA total energies; however, because correlation effects and diagrammatic contributions omitted by the $GW$ approximation (vertex corrections and other neglected diagrams) are relatively more important in two dimensions than in three, the absolute accuracy of the $GW$ results is reduced in 2D compared with 3D, and in the low-density 2D regime examined the partially self-consistent $GW_0$ results are found to be slightly closer to the cited diffusion Monte Carlo reference values than the fully self-consistent $GW$ results.",
+        "content_hash": "cc65b95a910d8076a633f7a6210de4ce2014b26134de6f711de77f3b731bde27",
+        "id": "gcn_c01362e4fdc44f35",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761548595036501::conclusion_4",
+            "package_id": "paper:867761548595036501",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761548595036501"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03131881575727918,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "After applying analytic finite-size corrections and extrapolating to the thermodynamic limit for the two-dimensional electron gas in the density range $1\\le r_{s}\\le 10$, the single-particle effective mass is found to be enhanced relative to the bare electron mass ($m^{*}/m>1$) across this range, and the renormalization factor $Z$ obtained from the corrected Quantum Monte Carlo calculations is systematically smaller than the corresponding values obtained from perturbative random-phase approximation (RPA) calculations. These corrected QMC findings therefore indicate that perturbative RPA tends to overestimate $Z$ and underestimate the quasiparticle mass enhancement in the studied density regime, while calculations that go beyond perturbative RPA by incorporating many-body local-field (charge- and spin-density) corrections give results qualitatively consistent with the corrected QMC values.",
+        "content_hash": "86cf978fb31c0cd56070c631fbf582bf7ac586f1b6515e430784cc2d1cba814d",
+        "id": "gcn_b3363fd9d3314c08",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811872228453908481::conclusion_5",
+            "package_id": "paper:811872228453908481",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811872228453908481"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03125763125763126,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The finite-temperature GW-RPA on-shell calculations reproduce, in the $T\\to0$ limit, the established zero-temperature RPA effective-mass results obtained in prior RPA studies of the two-dimensional electron gas, and the numerical extrapolation of the present finite-temperature results to the extreme low-temperature limit yields an effective-mass enhancement as large as $m^{*}/m\\sim5$ for dilute two-dimensional electron systems at interaction strength $r_{s}\\approx10$, where $r_{s}=me^{2}/(\\hbar^{2}\\sqrt{\\pi n})$.",
+        "content_hash": "4ae48a837c3a3697e3acec75a27f05bd060b79ef4a1a1315c660d4296b6b7d4e",
+        "id": "gcn_2ab5f7252f1641f6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759192906138132::conclusion_5",
+            "package_id": "paper:867759192906138132",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759192906138132"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.031054405392392875,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Numerical evaluation of the GW–RPA integral formulas with the finite momentum cutoff $k_c$ shows that, for the two-dimensional electron gas, finite-band effects substantially modify quasiparticle renormalization: for the low-density example parameter values $r_s=6$ and $r_s=10$ the effective mass $m^*$ is enhanced by about a factor of 1.5 when comparing the infinite-band limit ($f=0$ where $f\\equiv 1/k_c^2$) to a finite occupied-band fraction $f\\approx0.8$; furthermore, across these low-density parameter values the change of $m^*$ as a function of $f$ induced by the finite band width is significantly larger than the changes produced by typical short-range local-field corrections represented by the Hubbard approximation (HA) or the modified Hubbard approximation (MHA), so that finite-band physics yields a stronger modification of $m^*$ than these short-range local-field corrections in low-density 2D electron gases.",
+        "content_hash": "dc40489a091c54b385ff46ab06fb638ed0b1af67ca77c709a11699f0f74d3764",
+        "id": "gcn_172a5954fdff4cd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813280287344558081::conclusion_3",
+            "package_id": "paper:813280287344558081",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813280287344558081"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03047794966520434,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas (2D HEG), defined as interacting electrons constrained to two spatial dimensions with Wigner–Seitz radius $r_{s}$ defined via the area per electron, diagrammatic contributions beyond those included in the $GW$ approximation (for example, vertex corrections and higher-order exchange–correlation diagrams) are more important in 2D than in 3D, and, based on the computed energy differences reported for $GW$ and partially self-consistent $GW_{0}$ in the low-density 2D regime (large $r_{s}$), the $GW_{0}$ scheme may provide slightly better agreement with diffusion Monte Carlo (QMC) benchmarks than fully self-consistent $GW$ in that specific low-density limit; this statement combines a diagrammatic-importance observation with a comparative numerical observation limited to the studied density range.",
+        "content_hash": "7ca43c54f6fc4ee8b304a6765a0882b76f6f437225cd3d4b863304fed400d1aa",
+        "id": "gcn_69e75daa90a94ebc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814586268510846978::P10",
+            "package_id": "paper:814586268510846978",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814586268510846978"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03036576949620428,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When the calculated effective mass $m^*(r_s,f)$ from the finite-band GW–RPA model for a two-dimensional parabolic-band electron gas (units $\\hbar=m=1$, $k_F=1$) is compared with experimental measurements of $m^*$ in a silicon surface inversion layer reported by Smith and Stiles, the finite-band RPA calculation with an occupied-band fraction around $f\\approx0.75$ reproduces the observed curvature of $m^*(r_s)$ in the high-density range $r_s\\approx0.5$–$2.0$, whereas the infinite-band ($f=0$) RPA result and infinite-band RPA results augmented by typical local-field corrections (HA and MHA) exhibit a curvature inconsistent with those experimental data; accordingly, inclusion of a finite band width within the RPA qualitatively, and to some degree quantitatively, explains the experimental effective-mass behavior in that high-density regime when the occupied-band fraction is in the range $f\\approx0.6$–$0.8$.",
+        "content_hash": "dc734e70baaeb1a07c7863f8eb10a8fa57cd197e99696613b13acc3f8fffdd6c",
+        "id": "gcn_09d4a96fa3f244ab",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813280287344558081::conclusion_5",
+            "package_id": "paper:813280287344558081",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813280287344558081"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027056277056277056,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional electron gas with Coulomb interaction $v(q)=\\sqrt{2}\\pi r_s/q$ and with an occupied-band fraction parameter $f=1/k_c^2$, the GW (RPA) approximation — i.e., using the noninteracting polarization bubble $\\chi_0$ without vertex corrections or self-consistent vertex dressing when computing the screened interaction $\\epsilon(q,i\\omega)=1-v(q)\\chi_0(q,i\\omega)$ and the GW self-energy — provides a representation of screening and self-energy such that numerical evaluation of $\\partial_{\\epsilon}\\Sigma$ and $\\partial_k\\Sigma$ within RPA yields estimates of the quasiparticle renormalization $Z_F$ and effective mass $m^*$ that are sufficiently accurate to capture the qualitative and the principal quantitative trends reported here for the parameter ranges (a) the high-density regime $r_s\\approx0.5$–$2.0$ and (b) the low-density example values $r_s\\sim6$ and $r_s\\sim10$, given that prior studies incorporating several local-field corrections found only modest quantitative changes relative to RPA for similar 2D parameters.",
+        "content_hash": "52257e9809f13a1b3c67d6b82ff877442d5d2501d6a8889b04943dae25dbd1f4",
+        "id": "gcn_e8ea818394b042f2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813280287344558081::P5",
+            "package_id": "paper:813280287344558081",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813280287344558081"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026754075124025514,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Table-like numerical entries for the homogeneous electron gas total-energy-per-particle under several approximations at density parameters $r_s=2,3,4$ are as follows: for $r_s=2$ the columns give RPA $0.062$, Galitskii–Migdal (GM) $0.054$, self-consistent GW (SC-GW) $0.046$, Luttinger–Ward evaluated at $G_0$ (LW) $0.046$, $\\Psi$ evaluated at $(G_0,W_{pp})$ (labelled $\\Psi$) $0.047$, and Ceperley–Alder quantum Monte Carlo (CA) $0.045$; for $r_s=3$ the corresponding values are RPA $0.053$, GM $0.045$, SC-GW $0.037$, LW $0.035$, $\\Psi$ $0.036$, and CA $0.037$; for $r_s=4$ the values are RPA $0.047$, GM $0.038$, SC-GW $0.032$, LW $0.029$, $\\Psi$ $0.030$, and CA $0.032$. The proposition is that these numerical entries are sufficiently converged and free of dominant uncontrolled finite-size or numerical artifacts that the small discrepancies on the order of a few $10^{-3}$ between the $\\Psi$ and LW columns and the Ceperley–Alder and SC-GW benchmarks can be interpreted as meaningful agreement rather than being dominated by numerical error.\n      Ceperley and Alder, Phys. Rev. Lett. 45, 566 (1980); B. Holm and U. von Barth, Phys. Rev. B 57 (1998) (numerical GW reference cited in the paper).",
+        "content_hash": "faa778357ba55fdd189273eb02d5253cca22d76e7ebacd0bcb5a9b82df5a8447",
+        "id": "gcn_1931b469b0d34f75",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811025572095328256::P9",
+            "package_id": "paper:811025572095328256",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811025572095328256"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0264808362369338,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The ground-state energy per electron at $T=0$ computed from the exact Green's-function expression $\\varepsilon_{g}=-\\dfrac{i}{n}\\int \\dfrac{d\\omega\\,d^{2}\\mathbf{p}}{(2\\pi)^{3}}\\big(\\varepsilon_{\\mathbf{p}}+\\omega\\big)\\,G^{<}(\\mathbf{p},\\omega)$ (with particle density $n$ and $G^{<}$ the converged SC RPA lesser Green's function) yields SC RPA values in two dimensions that are more negative (larger in magnitude) than the corresponding 3D SC RPA values at the same dimensionless density parameter $r_{s}$; corresponding quantum Monte Carlo benchmarks for 2D are not available for comparison, so the absolute accuracy remains uncertain.",
+        "content_hash": "b61884cf18784c6bb3059a2d9d5de5a1a6842d32f9241fea8c4a5b7f788b524f",
+        "id": "gcn_243bc3355b174ddf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813324344607375363::conclusion_8",
+            "package_id": "paper:813324344607375363",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813324344607375363"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.024934585193166076,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "e41927399f449276169da5cea3787864"
+}

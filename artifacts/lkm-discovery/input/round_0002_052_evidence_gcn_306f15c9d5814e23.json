@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+      "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+      "id": "gcn_306f15c9d5814e23",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+              "id": "gcn_306f15c9d5814e23"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_4d2c6276f8304edb",
+            "premises": [
+              {
+                "content": "The proposition: Taking quasiparticle effective masses $m^{*}$ reported in prior DMC energy-band calculations (for example, numerical values reported in the literature) and combining them with isothermal compressibility and spin-susceptibility ratios computed from QMC-based ground-state total-energy parameterizations, then solving the Landau relations\n      $$\n      \\frac{\\kappa}{\\kappa^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{s}}{m^{*}},\\qquad\n      \\frac{\\chi}{\\chi^{*}}=\\frac{1}{m^{*}}+\\frac{F_{0}^{a}}{m^{*}},\\qquad\n      m^{*}=1+F_{1}^{s}\\ \\text{(paramagnetic) or}\\ m^{*}=1+F_{1}\\ \\text{(ferromagnetic)},\n      $$\n      yields numerical values of the Fermi liquid parameters $F_0^{s}$, $F_0^{a}$, $F_1^{s}$ (paramagnetic) and $F_0$, $F_1$ (ferromagnetic) that serve as pragmatic “best available” recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable; here all quantities are evaluated at the same density parameter $r_s$ and spin polarization $\\zeta$.\n      Ref. 11",
+                "id": "gcn_836bae7457044c7a"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "State the motivating observation that leads to assembling combined values: because direct thermodynamic extrapolation of the DMC-determined Fermi liquid parameters proved unreliable (as established in the preceding conclusion), practitioners nonetheless require numerical benchmark Fermi liquid parameters for modelling and comparison.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "List the external QMC-based data sources the authors combine with their present results: the authors use quasiparticle effective masses obtained from their earlier DMC energy-band calculations reported in Ref. 11 and parameterizations of the ground-state correlation energy from QMC literature (Refs. 23 and 24) to supply reliable inputs that are coupled with the present study's relations between Landau parameters, effective masses, and total-energy-derived response functions. \nRef. 11\nRefs. 23 and 24",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Explain the assembly methodology in operational terms: (i) $F_{1}^{s}$ (paramagnetic) and $F_{1}$ (ferromagnetic) are determined using the relation between effective mass and $F_{1}$ (Galilean-invariance relation) together with the effective masses reported in Ref. 11 (i.e., $m^{*}=1+F_{1}^{s}$ or $m^{*}=1+F_{1}$ rearranged to obtain $F_{1}$ given $m^{*}$); (ii) $F_{0}^{s}$ (and analogous $F_{0}$ and $F_{0}^{a}$) are obtained by combining the total-energy-derived compressibility or spin-susceptibility ratios computed using the parameterizations of the correlation energy from Refs. 23 and 24 with the effective masses from Ref. 11 and solving the Fermi-liquid relations (e.g., $\\kappa/\\kappa^{*}=1/m^{*}+F_{0}^{s}/m^{*}$ for $F_{0}^{s}$). The authors thus synthesize $F_{l}$ entries using the most reliable elements available from the literature together with their DMC-informed relations. \nRef. 11",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Present the resulting recommended numerical values and indicate where they are tabulated: the assembled \"best available\" Fermi liquid parameters are tabulated in Table VII for the paramagnetic 2D HEG and Table VIII for the ferromagnetic 2D HEG; for example, for the paramagnetic HEG at $r_{s}=1$ the recommended values reported are $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, and $F_{1}^{s}=-0.053(3)$ (Table VII), while for the ferromagnetic HEG at $r_{s}=1$ the recommended values include $F_{0}=-0.428(2)$ and $\\bar{F}_{1}=-0.159(3)$ (Table VIII). \nTable VII\nTable VIII",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Record the authors' stated status of these assembled values: the assembled parameters are explicitly recommended numerical values intended as \"best available\" benchmarks, but the authors emphasize that they are synthesized from multiple, partially orthogonal data sources (effective masses and ground-state energy parameterizations from the literature together with the present DMC relations) rather than derived solely from a single, direct thermodynamic-limit Landau-parameter calculation; this caveat is recorded by the authors.",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Given that direct thermodynamic extrapolation of Fermi-liquid parameters from angle-resolved DMC interaction functions is currently unreliable due to finite-size oscillations and uncertain scaling, practitioners still need numerical benchmark values for modelling and comparison. Previous QMC literature contains more robust determinations of related quantities (ground-state total-energy parameterizations and band-derived effective masses). By using those reliable elements together with the present DMC-derived relations (e.g., $F_0$ inferred from compressibility, $F_1$ from $m^{*}$) one can construct a defensible set of \"best available\" parameter values for practical use. This assembly addresses the immediate need for working numerical values while acknowledging that they are synthesized from multiple, partially orthogonal data sources rather than arising from a single, direct thermodynamic-limit Landau-parameter calculation.",
+            "id": "paper:867749664370197342::conclusion_6_subproblem",
+            "source_package": "paper:867749664370197342"
+          }
+        ],
+        "source_package": "paper:867749664370197342"
+      }
+    ],
+    "papers": {
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "aedc69286d4cab8a154c9a27f3dd8879"
+}

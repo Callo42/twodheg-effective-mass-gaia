@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811125829974097921": {
+        "area": "Physics and Astrophysics",
+        "authors": "E. Tutuc | S. Melinte | M. Shayegan",
+        "available_online": "2002-1-4",
+        "cover_date_start": "2002-01-04",
+        "created_at": "2022-12-17T22:44:29+08:00",
+        "doi": "10.1103/physrevlett.88.036805",
+        "en_title": "Spin Polarization and g Factor of a Dilute GaAs Two-Dimensional Electron System",
+        "id": "811125829974097921",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "稀磁砷化镓二维电子系统的自旋极化与g因子"
+      },
+      "paper:811688031558828033": {
+        "area": "Physics and Astrophysics",
+        "authors": "S.U. Eker | Y. Arslan | C. Besikci",
+        "available_online": "",
+        "cover_date_start": "2011-05-01",
+        "created_at": "2022-12-19T11:58:28+08:00",
+        "doi": "10.1016/j.infrared.2010.12.015",
+        "en_title": "High speed QWIP FPAs on InP substrates",
+        "id": "811688031558828033",
+        "keywords": "[{\"ch_name\":\"焦平面阵列\",\"en_name\":\"Focal plane arrays\"},{\"ch_name\":\"量子阱红外光电探测器\",\"en_name\":\"Quantum well infrared photodetectors\"},{\"ch_name\":\"热成像\",\"en_name\":\"Thermal imaging\"}]",
+        "publication_date": "2011-5",
+        "publication_id": "544",
+        "publication_name": "Infrared Physics and Technology _ Infrared Physics & Technology",
+        "research_categories": "",
+        "zh_title": "基于磷化铟（InP）衬底的高速量子阱红外探测器焦平面阵列"
+      },
+      "paper:811926153253093378": {
+        "area": "Engineering Technology",
+        "authors": "H. C. Liu | Hui Luo | Chun-ying Song | Zbig R. Wasilewski | A. J. SpringThorpe | J. C. Cao",
+        "available_online": "",
+        "cover_date_start": "2008-01-01",
+        "created_at": "2022-12-20T03:44:39+08:00",
+        "doi": "10.1109/jstqe.2007.910710",
+        "en_title": "Terahertz Quantum Well Photodetectors",
+        "id": "811926153253093378",
+        "keywords": "",
+        "publication_date": "2008",
+        "publication_id": "3956",
+        "publication_name": "IEEE Journal of Selected Topics in Quantum Electronics _ IEEE J. Select. Topics Quantum Electron.",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "太赫兹量子阱光电探测器"
+      },
+      "paper:812446158990344192": {
+        "area": "Physics and Astrophysics",
+        "authors": "E. Gornik | R. Schawarz | D.C. Tsui | A.C. Gossard | W. Wiegmann",
+        "available_online": "",
+        "cover_date_start": "1981-05-01",
+        "created_at": "2022-12-21T14:11:00+08:00",
+        "doi": "10.1016/0038-1098(81)90433-6",
+        "en_title": "Far infrared emission from 2D electrons at the GaAsAlxGa1-xAs interface",
+        "id": "812446158990344192",
+        "keywords": "",
+        "publication_date": "1981-5",
+        "publication_id": "653",
+        "publication_name": "Solid State Communications _ Solid State Communications",
+        "research_categories": "",
+        "zh_title": "砷化镓-铝镓砷界面二维电子的远红外发射"
+      },
+      "paper:812446650676019202": {
+        "area": "Chemistry",
+        "authors": "R. Dingle | H.L. Störmer | A.C. Gossard | W. Wiegmann",
+        "available_online": "",
+        "cover_date_start": "1980-08-01",
+        "created_at": "2022-12-21T14:12:57+08:00",
+        "doi": "10.1016/0039-6028(80)90478-1",
+        "en_title": "Electronic properties of the GaAsAlGaAs interface with applications to multi-interface heterojunction superlattices",
+        "id": "812446650676019202",
+        "keywords": "",
+        "publication_date": "1980-8",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "GaAsAlGaAs界面的电子特性及其在多界面异质结超晶格中的应用"
+      },
+      "paper:812642915913302016": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Geier | J. Freudenfeld | J. T. Silva | V. Umansky | D. Reuter | A. D. Wieck | P. W. Brouwer | S. Ludwig",
+        "available_online": "2020-4-27",
+        "cover_date_start": "2020-04-27",
+        "created_at": "2022-12-22T03:12:51+08:00",
+        "doi": "10.1103/physrevb.101.165429",
+        "en_title": "Electrostatic potential shape of gate-defined quantum point contacts",
+        "id": "812642915913302016",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "栅极定义的量子点接触的静电势形状"
+      },
+      "paper:867752287840239672": {
+        "area": "arXiv-Physics",
+        "authors": "Y.-W. Tan | J. Zhu | H. L. Stormer | L. N. Pfeiffer | K. W. Baldwin | K. W. West",
+        "available_online": "",
+        "cover_date_start": "2004-12-10",
+        "created_at": "2023-05-23T04:57:48+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0412260",
+        "en_title": "Measurements of the density-dependent many-body electron mass in 2D GaAs/AlGaAs Heterostructures",
+        "id": "867752287840239672",
+        "keywords": "",
+        "publication_date": "2004-12-10",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维GaAs/AlGaAs异质结构中密度依赖的多体电子质量的测量"
+      },
+      "paper:867763848558412260": {
+        "area": "arXiv-Physics",
+        "authors": "P. M. T. Vianez | Y. Jin | W. K. Tan | Q. Liu | J. P. Griffiths | I. Farrer | D. A. Ritchie | O. Tsyplyatyev | C. J. B. Ford",
+        "available_online": "",
+        "cover_date_start": "2021-10-27",
+        "created_at": "2023-05-23T05:43:44+08:00",
+        "doi": "10.48550/arXiv.2110.14539",
+        "en_title": "Decoupling of the many-body effects from the electron mass in GaAs by means of reduced dimensionality",
+        "id": "867763848558412260",
+        "keywords": "",
+        "publication_date": "2021-10-27",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "通过降低维度将多体效应与砷化镓中的电子质量解耦"
+      },
+      "paper:867766807451140575": {
+        "area": "arXiv-Physics",
+        "authors": "S. Das Sarma | E. H. Hwang",
+        "available_online": "",
+        "cover_date_start": "2000-01-05",
+        "created_at": "2023-05-23T05:55:29+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0001057",
+        "en_title": "Calculated temperature-dependent resistance in low density 2D hole gases in GaAs heterostructure",
+        "id": "867766807451140575",
+        "keywords": "",
+        "publication_date": "2000-01-05",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "计算得到的砷化镓异质结构中低密度二维空穴气的温度相关电阻"
+      },
+      "paper:867772473339281929": {
+        "area": "arXiv-Physics",
+        "authors": "B Jenichen | U Jahn | A Nikulin | R Hey | P V Santos | K J Friedland",
+        "available_online": "",
+        "cover_date_start": "2019-07-22",
+        "created_at": "2023-05-23T06:18:00+08:00",
+        "doi": "10.48550/arXiv.1907.09368",
+        "en_title": "Inhomogeneous micro-strain in cylindrical semiconductor heterostructures and its influence on the adiabatic motion of electrons",
+        "id": "867772473339281929",
+        "keywords": "",
+        "publication_date": "2019-07-22",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "圆柱形半导体异质结构中的非均匀微应变及其对电子绝热运动的影响"
+      }
+    },
+    "variables": [
+      {
+        "content": "The effective mass m* of conduction electrons in two-dimensional electron systems formed at GaAs/AlGaAs heterojunctions was measured as a function of carrier density over the interaction-parameter range 0.8 ≤ r_{s} ≤ 6, where r_{s} is the usual two-dimensional dimensionless interaction parameter equal to the ratio of the average Coulomb energy to the Fermi energy. The principal experimental findings are: (a) toward low carrier density (large r_{s}) the measured m* increases strongly, reaching an enhancement of approximately 40% above the single-particle GaAs conduction-band effective mass at r_{s} ≈ 5; and (b) in the higher-density regime 0.8 ≤ r_{s} ≤ 2 the measured m* lies about 10% below the single-particle GaAs conduction-band effective mass after applying a correction that accounts for the known non-parabolicity of the GaAs conduction band. In this statement \"single-particle GaAs conduction-band effective mass\" denotes the effective mass obtained from GaAs band-structure (non-interacting) considerations evaluated at the Fermi energy.",
+        "content_hash": "4554c16586762b3435702630e316d8f644b10f54e05824f64766016dc6a6dbbb",
+        "id": "gcn_585688765feb4b59",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752287840239672::conclusion_1",
+            "package_id": "paper:867752287840239672",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752287840239672"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029877369007803793,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the same vertical tunnelling spectrometer and measuring tunnelling from the laterally wide parasitic injection region (which behaves as an effectively two-dimensional electron gas), the interaction-renormalised effective mass of electrons in the two-dimensional parasitic regions is\n      $$\n      m_{2\\mathrm{D}}^{*}=(0.062\\pm0.002)m_{e},\n      $$\n      where $m_{2\\mathrm{D}}^{*}$ denotes the 2D effective mass; this value is consistent with independent determinations in the literature and approaches the nominal bulk GaAs low-density mass $m_{3\\mathrm{D}}^{*}=0.067m_{e}$ after modest interaction-induced renormalisation is accounted for.",
+        "content_hash": "aed7b9778298e47eea6920419286441cb5a0a2bd23bb30c6d3fb31030e15a73b",
+        "id": "gcn_866e957519964fdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763848558412260::conclusion_3",
+            "package_id": "paper:867763848558412260",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763848558412260"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.026132699813337858,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a GaAs inversion-layer geometry and impurity-parameter set identical to those used for the hole calculations but using the GaAs conduction-band effective mass (which is substantially smaller than the hole effective mass), numerical resistivity calculations predict essentially negligible temperature dependence of $\\rho(T)$ at low temperatures for 2D electron densities down to $n=0.38\\times10^{10}\\,\\mathrm{cm^{-2}}$; this weak temperature dependence arises because the two-dimensional density of states per spin $g(E_F)=m^*/(2\\pi\\hbar^2)$ is small for the low effective mass, leading to weak finite-temperature screening and therefore a suppressed temperature-dependent impurity-scattering contribution compared with the heavier-mass holes.",
+        "content_hash": "15ca2f4074823551596091e392bc67ac2f6639515c2fc952773713d8630c786e",
+        "id": "gcn_490c0eeb4a93482a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867766807451140575::conclusion_5",
+            "package_id": "paper:867766807451140575",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867766807451140575"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02454080096356519,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two‑dimensional electron gas confined to a single GaAs quantum well with effective mass $m^{*}$ and with Fermi energy $E_{f}$ measured from the bottom of the conduction subband, the areal electron density $n_{2D}$ is given by the zero‑temperature relation\n      $n_{2D} = \\dfrac{4\\pi m^{*}}{h^{2}}\\,E_{f}$,\n      where $h$ is Planck's constant; this relation is applicable as a design conversion between $E_{f}$ and $n_{2D}$ for estimating sheet densities in the low‑temperature ($T\\lesssim20\\ \\mathrm{K}$) devices considered.",
+        "content_hash": "8b8a8da92e3f65f9d58dd3b0c251f9cf29ba4caa0ca8593eb6727ae4b64b55c5",
+        "id": "gcn_72bd5af41960412b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811926153253093378::P7",
+            "package_id": "paper:811926153253093378",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811926153253093378"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For conduction electrons in GaAs, the energy-dependent effective mass increases with carrier kinetic energy due to conduction-band nonparabolicity, so that for two-dimensional electron densities $n$ a higher $n$ (larger Fermi energy and larger average in-plane kinetic energy) produces a larger nonparabolicity-induced mass enhancement; consequently, observing an $\\sim11\\%$ enhancement at $n\\simeq1.2\\times10^{12}\\ \\mathrm{cm}^{-2}$ and a smaller $\\sim7\\%$ enhancement at $n=8.7\\times10^{11}\\ \\mathrm{cm}^{-2}$ is consistent with a conduction-band nonparabolicity explanation for the measured $m^*/m_b^*$ ratio.",
+        "content_hash": "6674a24c3b1518ca413e846fb0773997856701052994680cdacd8706e2928cbf",
+        "id": "gcn_919bf46ba5c147f0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446158990344192::P13",
+            "package_id": "paper:812446158990344192",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446158990344192"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Far-infrared cyclotron-resonance measurements performed on the illuminated and non-illuminated GaAs–Al_xGa_{1-x}As interface samples with two-dimensional electron-gas sheet densities in the range 1.1×10^{12} to 1.6×10^{12} cm^{-2} yield an electron cyclotron effective mass m^{*} ≈ 1.12\\,m_{\\mathrm{bulk}}^{*}, where m_{\\mathrm{bulk}}^{*} denotes the conduction-band effective mass of bulk GaAs; this measured mass enhancement at Fermi energies of order several tens of meV above the band edge is attributed primarily to conduction-band nonparabolicity.",
+        "content_hash": "0015d84a153bc380c17857d10af46ba1336732f1596f7e523ea7e8bc0b66bed1",
+        "id": "gcn_d30430e5cad44849",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446650676019202::conclusion_3",
+            "package_id": "paper:812446650676019202",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446650676019202"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Measured peak absorption quantum efficiency for the strained InP/In$_{0.48}$Ga$_{0.52}$As QWIP pixels is $\\eta_{p}\\approx12\\%$, while measured peak absorption quantum efficiency for the comparison AlGaAs/GaAs focal-plane-array pixels is $\\eta_{p}\\approx4.9\\%$, giving an observed ratio $\\eta_{\\mathrm{InP}}/\\eta_{\\mathrm{GaAs}}\\approx2.5$; accounting for the measured difference in two-dimensional electron density $n_{2D}$ (the GaAs device has $n_{2D}$ smaller by a factor of $\\sim1.7$), this enhancement in $\\eta$ is consistent with the smaller electron effective mass in the strained In$_{x}$Ga$_{1-x}$As wells ($m^{*}_{\\mathrm{InGaAs}}<m^{*}_{\\mathrm{GaAs}}$) and is numerically comparable to the effective-mass ratio $m^{*}_{\\mathrm{GaAs}}/m^{*}_{\\mathrm{InGaAs}}\\approx1.6$ reported for $x\\sim0.5$.",
+        "content_hash": "698c67d7e305dd0b4edb1d79b73ca9aa5bb69986227291be8977b6efdb91cd6b",
+        "id": "gcn_905fe2cb08ea4ac3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811688031558828033::conclusion_3",
+            "package_id": "paper:811688031558828033",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811688031558828033"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Conversion of reported in-plane fields for full spin polarization of high-mobility GaAs two-dimensional hole systems into effective many-body $g^{*}$ values using the same polarization-field relation $B_{P}=(h^{2}/2\\pi\\mu_{B})(n/(m^{*}g^{*}))$ (with $n$ the hole areal density and an appropriate hole cyclotron effective mass $m^{*}$ for the hole band at the relevant density) yields a qualitative dependence of $g^{*}$ on $r_{s}$ that matches the decreasing-enhancement trend observed here for GaAs electrons; this similarity between low-disorder GaAs 2D electrons and holes suggests that the origin of the decreasing $g^{*}$ enhancement with increasing $r_{s}$ may be intrinsic to GaAs systems (for example tied to finite-thickness effects or spin-orbit physics) rather than an idiosyncrasy of a particular electron sample, while noting that hole band-structure specifics such as strong spin-orbit coupling and nonparabolicity can modify $m^{*}$ and $g_{b}$ relative to the electron case.",
+        "content_hash": "438e064267cfa3eca3ed650c4507d06deb5d8f837070738d06394d7ba483bebc",
+        "id": "gcn_ee9211a8938846a2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811125829974097921::conclusion_8",
+            "package_id": "paper:811125829974097921",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811125829974097921"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the GaAs-based two-dimensional electron systems used in these experiments the electron effective mass entering eigenenergy and density-of-states formulas is taken as the standard bulk GaAs conduction-band value $m^{*}=0.067\\,m_{0}$ (with $m_{0}$ the free-electron mass); the proposition is that using this constant value for $m^{*}$ is accurate for the heterostructure and density regime examined and that variations of $m^{*}$ due to band nonparabolicity or confinement are negligible for the analyses performed.",
+        "content_hash": "5e55aae77cbbc44c1e3939f2e0bb8eb91562c54ac2f027b70cb0ff1e377ccffc",
+        "id": "gcn_c7fed8d549e24030",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812642915913302016::P13",
+            "package_id": "paper:812642915913302016",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812642915913302016"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional, noninteracting electron gas with effective mass m^* and carrier density N the zero-temperature Fermi energy is E_F = (pi ħ^2 N) / m^*, so a small density change delta N produces a chemical-potential change delta mu_F = (pi ħ^2 / m^*) delta N. Using the GaAs effective electron mass m^* = 0.067 m_e (with m_e the free-electron rest mass) and substituting delta N = 0.7 × 10^14 m^{-2} gives delta mu_F ≈ 0.22 meV; the proposition is that this 2D free-electron relation with m^* = 0.067 m_e is applicable as an estimate for the high-density quantum-well HM2DEG in the studied parameter range.\n      Standard 2D electron gas relations; Jenichen et al., Section III.B",
+        "content_hash": "4b95a284d747e90167ed65759167e2494323ec65285b93571c85c476c2e8a5bd",
+        "id": "gcn_d49d56923a4a46f3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772473339281929::P9",
+            "package_id": "paper:867772473339281929",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772473339281929"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "86917a6add47ac99d3b337796b72db10"
+}

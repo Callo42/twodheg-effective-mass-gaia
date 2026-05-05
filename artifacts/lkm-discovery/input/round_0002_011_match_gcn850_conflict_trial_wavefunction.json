@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:812463893170356225": {
+        "area": "Chemistry",
+        "authors": "R. J. Needs | P. R. C. Kent | A. R. Porter | M. D. Towler | G. Rajagopal",
+        "available_online": "2001-11-27",
+        "cover_date_start": "2001-11-27",
+        "created_at": "2022-12-21T15:21:28+08:00",
+        "doi": "10.1002/qua.1602",
+        "en_title": "Quantum Monte Carlo calculations for ground and excited states",
+        "id": "812463893170356225",
+        "keywords": "[{\"en_name\": \"Diffusion quantum Monte Carlo\", \"ch_name\": \"\"}, {\"en_name\": \"Excited states\", \"ch_name\": \"\"}, {\"en_name\": \"Fullerenes\", \"ch_name\": \"\"}, {\"en_name\": \"Ground states\", \"ch_name\": \"\"}, {\"en_name\": \"Hydrogenated silicon clusters\", \"ch_name\": \"\"}]",
+        "publication_date": "2002",
+        "publication_id": "3507",
+        "publication_name": "International Journal of Quantum Chemistry _ Int. J. Quantum Chem.",
+        "research_categories": "",
+        "zh_title": "基态和激发态的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751380209631343": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | Ranber Singh | T. D. Kühne",
+        "available_online": "",
+        "cover_date_start": "2017-10-24",
+        "created_at": "2023-05-23T04:54:11+08:00",
+        "doi": "10.48550/arXiv.1710.09703",
+        "en_title": "Nuclear Quantum Effects Induce Metallization of Dense Solid Molecular Hydrogen",
+        "id": "867751380209631343",
+        "keywords": "",
+        "publication_date": "2017-10-24",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "核量子效应诱导致密固态分子氢金属化"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "Comparing two trial-wave-function protocols for quasiparticle-band calculations of paramagnetic 2D-UEL—(A) using a single trial wave function optimized for the ground state and applied to all k vectors, and (B) reoptimizing the trial wave function by energy minimization separately for each excited-state k-point—shows that reoptimization (B) slightly increases the VMC estimate of the quasiparticle effective mass m* relative to protocol (A), whereas the corresponding impact on fixed-node DMC m* is negligible within statistical uncertainty for the tested cases (for example N = 146 and r_s = 1, 2, 5).",
+        "content_hash": "cf56bc0883d5da618450206fad331ea447549c46628440f87ed297a4f7ae2b67",
+        "id": "gcn_c61048e697524171",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_8",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=5 and in a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC}=1.26(2) a.u. and a diffusion Monte Carlo (DMC) calculation using the same trial wave function with the fixed-node constraint yields m^*_{DMC}=1.24(3) a.u.; the agreement within quoted statistical uncertainties indicates that, at that specific system size and density, the fixed-node DMC procedure with that trial wave function does not introduce a large systematic bias in the per-size effective-mass estimate.",
+        "content_hash": "e462dabf3fec06c0780fd8b260fb50ec97ede163c5d68e7e40cf8d78f55df789",
+        "id": "gcn_678e0e02a7da4c85",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_13",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "If, for a two-dimensional homogeneous electron gas at density parameter r_s=5 and for a square periodic simulation cell containing N=50 electrons, a variational Monte Carlo (VMC) calculation using a given Slater-Jastrow-backflow trial wave function yields an effective mass m^*_{VMC} and a diffusion Monte Carlo (DMC) calculation using the same trial wave function and the fixed-node constraint yields m^*_{DMC} such that m^*_{VMC} and m^*_{DMC} agree within their quoted statistical uncertainties (for example, m^*_{VMC}=1.26(2) a.u. and m^*_{DMC}=1.24(3) a.u.), then the fixed-node DMC procedure with that trial wave function introduces at most a small systematic bias in the per-size effective-mass estimate at that specific system size and density; this single-instance agreement, however, does not guarantee the absence of comparable fixed-node biases at other system sizes, densities, or for different trial wave functions.",
+        "content_hash": "876c2078f1f5b1b3c0dd9ff3eb04934d9902d44540a81e0b56fe1c64af642e1c",
+        "id": "gcn_40f6836947ec4abd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P3",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031746031746031744,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In finite periodic simulation cells using Slater-Jastrow-backflow trial wave functions (where the Jastrow and backflow factors each contain variational parameters), reoptimizing the Jastrow and backflow parameters for an excited-state configuration (an excitation produced by adding or removing an electron in a particular Bloch state) can lower the total DMC energy in that finite cell—for example, removing an electron from 𝗸=0 in a 26-electron paramagnetic 2D HEG at density parameter r_s=1 reduced the DMC total energy by 0.000854(4) hartree atomic units (a.u.)—but this finite-cell energy lowering is a manifestation of finite-size error and tends to reduce the computed excitation bandwidth and thus amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass; therefore, to avoid introducing extra finite-size bias the Jastrow and backflow parameters are optimized in the ground state and then reused unchanged for excited-state energy evaluations.",
+        "content_hash": "2fb363e4c29c4548b29305c0ef0248f309c8300fcd21ab0e2c3d4afdbe645f42",
+        "id": "gcn_c7b10e47e2ab45e1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_3",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02946236559139785,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Reoptimization of the explicit correlation parameters in finite-cell excited-state trial wave functions produces a measurable lowering of the DMC total energy of that finite cell and thereby increases the finite-size bias of excitation energies computed as total-energy differences. Concretely, when the Jastrow-factor and backflow-function parameters were reoptimized after removing an electron from wavevector \\\\(\\\\mathbf{k}=0\\\\) in a paramagnetic 26-electron 2D HEG at density parameter \\\\(r_{s}=1\\\\), the DMC total energy was lowered by 0.000854(4) atomic units (a.u.), which reduced the finite-cell bandwidth and therefore increased the finite-size error in the derived excitation energies. Consequently, to avoid introducing this additional finite-cell bias into excitation-energy estimates, the Jastrow and backflow parameters were optimized once in the closed-shell ground state for each density and system size and then held fixed for all corresponding excited-state DMC calculations.",
+        "content_hash": "6eb39dab02623431e9aa5a3884f020a5b9d0ee04910fbeb2ac64ff95361c34d5",
+        "id": "gcn_8fdb8c6b76f74960",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_2",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027745885954841176,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $N$ be the number of electrons in the simulation cell and let the $N$-electron trial many-electron wave function be a single Slater determinant of plane-wave orbitals multiplied by a Jastrow correlation factor and with single-particle coordinates transformed by a backflow displacement function; denote this Slater-Jastrow-backflow (SJ-BF) trial wave function with optimized Jastrow and backflow parameters (obtained by variance minimization followed by linear-least-squares energy minimization on the $N$-electron system) by $\\Psi_{N}^{\\mathrm{SJ\\!-\\!BF}}(\\{\\mathbf{r}_i\\};\\boldsymbol{\\theta})$. The computational protocol uses $\\Psi_{N}^{\\mathrm{SJ\\!-\\!BF}}$ with the same parameter vector $\\boldsymbol{\\theta}$ as the trial wave function for DMC calculations of the $(N+1)$-electron and $(N-1)$-electron excited states (formed by adding or removing a single plane-wave orbital in the Slater determinant) rather than reoptimizing $\\boldsymbol{\\theta}$ separately for the $(N\\pm1)$ systems; it is assumed that this reuse of $N$-electron optimized Jastrow/backflow parameters introduces only negligible bias into the DMC total energies of the $(N\\pm1)$ excited states relevant to the band calculation, consistent with the observation that reoptimization in the excited state did not significantly change the VMC or DMC energies in the numerical tests performed.",
+        "content_hash": "5de358b430c4baceffc42a4b2d48ce3b234d13ab7f32e343f3f5bef3a4d32864",
+        "id": "gcn_d4d58c9f48b04e5a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::P2",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027579737335834898,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the diffusion quantum Monte Carlo (DMC) method used here, an ensemble of electronic configurations is evolved in imaginary time to project out the lowest-energy fermionic eigenstate compatible with the nodal surface of a supplied trial many-electron wave function, and the fixed-node approximation constrains the nodal surface of the propagating distribution to equal the nodes of the trial wave function, producing a variational (upper-bound) estimate of the true eigenenergy; the magnitude of the fixed-node bias in the DMC total energy depends on the deviation of the trial-wave-function nodal surface from the exact nodal surface, and it is therefore assumed that the fixed-node bias for both the $N$-electron ground state and for the specific $(N\\pm1)$-electron excited states formed by adding or removing a single plane-wave orbital is small enough that DMC total-energy differences yield quasiparticle band energies accurate to the quoted statistical and systematic uncertainties.",
+        "content_hash": "999873479e21661b8bd495661bad68d3ada5c43b4396fc408a446100b326a587",
+        "id": "gcn_402d93fca57345b7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::P1",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026387470207694927,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the trial many-electron wave function used in diffusion quantum Monte Carlo (DMC) be the single-determinant Slater-Jastrow form $\\Psi_{\\mathrm{T}}(\\mathbf{R})=\\exp[J(\\mathbf{R})]\\det[\\{\\psi_{n}(\\mathbf{r}_{i}^{\\uparrow})\\}]\\det[\\{\\psi_{\\bar{n}}(\\mathbf{r}_{j}^{\\downarrow})\\}]$, where $\\mathbf{R}$ denotes all electron coordinates, $J(\\mathbf{R})$ is the Jastrow correlation factor, and the determinants are constructed from one-electron orbitals $\\psi$ obtained from Kohn–Sham DFT; the fixed-node DMC energy differences between ground and one- or two-particle-excited states obtained with this single-determinant Slater-Jastrow trial function and the chosen norm-conserving pseudopotentials and orbital inputs provide approximations to the true many-electron quasiparticle and excitonic excitation energies whose nodal-surface (fixed-node) errors are asserted to be no larger than the reported error bars in the excitation energies.",
+        "content_hash": "88cac91a99cb1e92ce7a2d0d9ed423b8c9a0d37314e3444956337ef988aa1551",
+        "id": "gcn_7757e614f6e143a8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751380209631343::P2",
+            "package_id": "paper:867751380209631343",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751380209631343"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026013513513513515,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let a Slater-Jastrow-backflow trial wave function for an $N$-electron ground state be $\\Psi_0(\\mathbf{R};\\{p\\})$, where $\\mathbf{R}$ denotes all electronic coordinates and $\\{p\\}$ denotes the set of Jastrow and backflow parameters optimized in the ground state; construct $(N\\pm1)$-electron trial wave functions $\\Psi_{\\pm}(\\mathbf{R},\\mathbf{r}_{\\mathrm{extra}};\\{p\\})$ by extending the same ground-state Jastrow and backflow functions to include the extra electron in a plane-wave orbital $\\exp(i\\mathbf{k}\\cdot\\mathbf{r})$ without reoptimizing the parameters $\\{p\\}$ for the $(N\\pm1)$ system.  The proposition is that, for the system sizes, densities, and wave-function parameterizations used in the reported calculations, this omission of excited-state reoptimization introduces only a negligible bias in the DMC energy differences $E_{\\pm}^{\\mathrm{DMC}}-E_0^{\\mathrm{DMC}}$ compared with the statistical errors and the other systematic uncertainties claimed.",
+        "content_hash": "46cf10bdbf830c5c662ba07d148e8abdc901bcd164d1c1df2a1b7c2abd7eb899",
+        "id": "gcn_9bd968da04c54333",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P6",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.0251661918328585,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Singles-only configuration interaction (CIS) multideterminant trial wave functions, defined as linear combinations of Slater determinants containing only single excitations from a closed-shell reference and algebraically resumable into a compact number of determinants on the order of the electron count, provide effective and computationally tractable zeroth-order multideterminant Slater parts for Slater–Jastrow trial wave functions used in fixed-node diffusion quantum Monte Carlo (DMC) calculations of excited states of hydrogenated silicon clusters, capturing the essential zeroth-order electron–hole correlation structure needed for efficient and improved DMC excited-state sampling.",
+        "content_hash": "89674f12fa1699cdce4489b672e19d987777036681aefdf0c8e064ff2d667acb",
+        "id": "gcn_f22037a6075a44f2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812463893170356225::conclusion_7",
+            "package_id": "paper:812463893170356225",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812463893170356225"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "498419515e5ec84ae2f307023367af06"
+}

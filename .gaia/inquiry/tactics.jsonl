@@ -1,0 +1,11 @@
+{"timestamp": "2026-05-05T14:55:09Z", "event": "hypothesis_add", "payload": {"qid": "hyp_48dea765", "scope": "local::gcn_28b9e01bd2f8487f"}}
+{"timestamp": "2026-05-05T14:55:09Z", "event": "hypothesis_add", "payload": {"qid": "hyp_ad1fd503", "scope": "local::gcn_28b9e01bd2f8487f"}}
+{"timestamp": "2026-05-05T14:55:09Z", "event": "hypothesis_add", "payload": {"qid": "hyp_126365a5", "scope": "local::gcn_28b9e01bd2f8487f"}}
+{"timestamp": "2026-05-05T14:58:26Z", "event": "review", "payload": {"review_id": "2026-05-05T14-58-26Z_d98983cb_auto", "mode": "auto", "no_infer": false}}
+{"timestamp": "2026-05-05T14:59:09Z", "event": "review", "payload": {"review_id": "2026-05-05T14-59-09Z_17c2ac94_auto", "mode": "auto", "no_infer": false}}
+{"timestamp": "2026-05-05T15:09:51Z", "event": "hypothesis_add", "payload": {"qid": "hyp_1d268608", "scope": "local::older_dmc_enhancement_vs_revised_dmc_benchmarks"}}
+{"timestamp": "2026-05-05T15:11:03Z", "event": "review", "payload": {"review_id": "2026-05-05T15-11-03Z_5c80631b_auto", "mode": "auto", "no_infer": false}}
+{"timestamp": "2026-05-05T15:21:08Z", "event": "hypothesis_add", "payload": {"qid": "hyp_66a4c7bb", "scope": "local::n_quarter_scaling_vs_shell_filling_noise"}}
+{"timestamp": "2026-05-05T15:22:08Z", "event": "review", "payload": {"review_id": "2026-05-05T15-22-08Z_1004b5d6_auto", "mode": "auto", "no_infer": false}}
+{"timestamp": "2026-05-05T15:22:24Z", "event": "review", "payload": {"review_id": "2026-05-05T15-22-24Z_6b35d575_auto", "mode": "auto", "no_infer": false}}
+{"timestamp": "2026-05-05T15:32:09Z", "event": "review", "payload": {"review_id": "2026-05-05T15-32-09Z_d70e0556_auto", "mode": "auto", "no_infer": false}}

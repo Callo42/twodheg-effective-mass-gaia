@@ -1,0 +1,394 @@
+{
+  "review_id": "2026-05-05T15-11-03Z_5c80631b_auto",
+  "created_at": "2026-05-05T15:11:03Z",
+  "ir_hash": "sha256:5c80631b0d7a6d933810c30b5292bb2296dda780a32adb2197f8823da06414be",
+  "ir": {
+    "knowledges": [
+      {
+        "id": "local:twodheg_effective_mass::gcn_da3eecec49114543",
+        "label": "gcn_da3eecec49114543",
+        "type": "claim",
+        "content": "For an added-electron excitation with momentum p above k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy correction delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. In leading order, the corresponding potential-energy correction is independent of p and therefore does not affect the slope of the excitation dispersion used to extract m* from near-k_F fits [@Holzmann2008].",
+        "metadata": {
+          "lkm_id": "gcn_da3eecec49114543",
+          "source_paper": "paper:867753636627743508",
+          "provenance_source": "lkm",
+          "lkm_original": "For an added-electron excitation of momentum \\mathbf{p} with |\\mathbf{p}|>k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy term\n      \\delta T_{\\mathbf p}^N=\\frac{\\hbar^2 p^2}{2m}\\,Z_{\\mathbf p}^N\\big[e^{-\\Delta_N}-1\\big],\n      where Z_{\\mathbf p}^N is the finite-N quasiparticle weight at \\mathbf{p} and \\Delta_N is the missing-small-q integral defined above; in leading order the corresponding potential-energy correction is independent of \\mathbf{p} and therefore does not affect the slope of the excitation dispersion used to extract the effective mass m^{*} from near-k_F fits.Eq. (12)",
+          "source_package": "paper:867753636627743508",
+          "prior": 0.82,
+          "prior_justification": "LKM chain premise from Holzmann et al. 2008 analytic finite-size correction; specific derivation claim with clear provenance, pending reviewer calibration. TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Holzmann2008"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+        "label": "gcn_28b9e01bd2f8487f",
+        "type": "claim",
+        "content": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum p above k_F to the N-particle ground state produces a finite-size correction to the kinetic-energy contribution of the excitation, delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. Because Delta_N scales as N^(-1/4), the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m* also scales as N^(-1/4). Therefore, extrapolations that assume faster-vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m* - m for typical accessible system sizes [@Holzmann2008].",
+        "metadata": {
+          "lkm_id": "gcn_28b9e01bd2f8487f",
+          "source_paper": "paper:867753636627743508",
+          "provenance_source": "lkm",
+          "lkm_original": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum \\mathbf{p} (|\\mathbf{p}|>k_F) to the N-particle ground state produces a finite-size correction to the total kinetic-energy contribution of the excitation given by\n      \\delta T_{\\mathbf{p}}^{N}=\\frac{\\hbar^{2}\\mathbf{p}^{2}}{2m}\\;Z_{\\mathbf{p}}^{N}\\big[e^{-\\Delta_{N}}-1\\big],\n      where Z_{\\mathbf{p}}^{N} is the finite-N quasiparticle weight at momentum \\mathbf{p} and \\Delta_{N} is the missing-small-q integral defined in conclusion 1. Because \\Delta_{N}\\sim N^{-1/4} for large N, the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m^{*} (via the linearized relation \\varepsilon_{\\mathbf{k}}\\approx\\hbar^{2}k_F(k-k_F)/m^{*}) also scales as N^{-1/4}; therefore, extrapolations that assume faster vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m^{*}-m for typical accessible system sizes.",
+          "source_package": "paper:867753636627743508",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Holzmann2008"
+              ]
+            }
+          }
+        },
+        "exported": true
+      },
+      {
+        "id": "local:twodheg_effective_mass::gcn_219b34bd252c43fa",
+        "label": "gcn_219b34bd252c43fa",
+        "type": "claim",
+        "content": "For Fermi-liquid parameters F_l, or F_l/m*, of the two-dimensional homogeneous electron gas computed in square periodic simulation cells, the leading systematic finite-size correction from long-range correlation effects scales as N^(-1/4). This supports thermodynamic-limit extrapolations of finite-N results with a form F_l(N)=c+a N^(-1/4), matching the long-range-correlation finite-size analysis associated with Holzmann et al. [@Drummond2013b].",
+        "metadata": {
+          "lkm_id": "gcn_219b34bd252c43fa",
+          "source_paper": "paper:867749664370197342",
+          "provenance_source": "lkm_no_chain",
+          "lkm_original": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+          "source_package": "paper:867749664370197342",
+          "prior": 0.78,
+          "prior_justification": "LKM no-chain source claim from Drummond/Needs Fermi-liquid-parameter work; same-system finite-size scaling statement with clear provenance, but no standalone evidence chain. TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Drummond2013b"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::gcn_850fc9d9de314026",
+        "label": "gcn_850fc9d9de314026",
+        "type": "claim",
+        "content": "For finite periodic simulation cells of the two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions, reoptimizing variational Jastrow and backflow parameters for an excited-state configuration can lower the finite-cell DMC energy. Because the optimal short-range correlation functions should be unchanged by a single excitation in the thermodynamic limit, this lowering is a finite-size error that can reduce excitation bandwidths and amplify finite-size bias in quantities such as the quasiparticle effective mass [@Drummond2013a].",
+        "metadata": {
+          "lkm_id": "gcn_850fc9d9de314026",
+          "source_paper": "paper:813250329280774145",
+          "provenance_source": "lkm_no_chain",
+          "lkm_original": "In finite periodic simulation cells for a two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions that contain variational parameters in the Jastrow and backflow factors, reoptimizing those variational parameters for an excited-state configuration (created by adding or removing an electron in a specified Bloch state) can yield a lower total DMC energy in that finite cell relative to using the ground-state-optimized parameters; because, in the thermodynamic limit, the optimal short-range correlation functions are unchanged by a single excitation, this finite-cell energy lowering is a manifestation of finite-size error and can reduce computed excitation bandwidths and therefore amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass.",
+          "source_package": "paper:813250329280774145",
+          "prior": 0.76,
+          "prior_justification": "LKM no-chain source claim from Drummond/Needs effective-mass context; plausible finite-cell DMC bias mechanism, but no standalone evidence chain. TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Drummond2013a"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::gcn_4d1aad1470d54895",
+        "label": "gcn_4d1aad1470d54895",
+        "type": "claim",
+        "content": "Earlier DMC calculations for the two-dimensional homogeneous electron gas reported opposite density trends for different spin polarizations: in the paramagnetic 2D HEG, m* increased as r_s increased and showed significant enhancement at r_s=5 and r_s=10, whereas in the fully spin-polarized 2D HEG m* decreased as density was lowered; the reported trends were said to be quantitatively consistent with experimental observations [@Drummond2009].",
+        "metadata": {
+          "lkm_id": "gcn_4d1aad1470d54895",
+          "source_paper": "paper:811817724819800066",
+          "provenance_source": "lkm_no_chain",
+          "lkm_original": "The DMC-calculated quasiparticle effective mass exhibits opposite trends with density for the two spin polarizations studied: in the paramagnetic (unpolarized) 2D HEG $m^{*}$ increases with increasing $r_{s}$ (decreasing density), producing a significant enhancement at $r_{s}=5$ and $r_{s}=10$, whereas in the fully ferromagnetic (fully spin-polarized) 2D HEG $m^{*}$ decreases as density is lowered; these calculated trends are quantitatively consistent with the experimental observations of Tan et al. for paramagnetic systems and of Padmanabhan et al. for ferromagnetic or partially spin-polarized systems.",
+          "source_package": "paper:811817724819800066",
+          "prior": 0.68,
+          "prior_justification": "LKM no-chain source claim summarizing earlier DMC effective-mass enhancement trend; kept with lower confidence because later finite-size extrapolation appears to revise it. TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Drummond2009"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::gcn_a685639571304474",
+        "label": "gcn_a685639571304474",
+        "type": "claim",
+        "content": "When fitting finite-N effective-mass data to m*(N)=m*(infinity)+b N^(-gamma), repeated fits with Monte Carlo resampling of the statistical error bars provide uncertainty estimates for m*(infinity) that capture dominant statistical variability, while not necessarily covering all model-selection or systematic extrapolation errors [@Drummond2012].",
+        "metadata": {
+          "lkm_id": "gcn_a685639571304474",
+          "source_paper": "paper:867751779943579657",
+          "provenance_source": "lkm",
+          "lkm_original": "When fitting the finite-\\(N\\) effective-mass data \\(m^{*}(N)\\) to the scaling form \\(m^{*}(N)=m^{*}(\\infty)+b\\,N^{-\\gamma}\\), the proposition is: performing repeated fits with Monte Carlo resampling of the statistical error bars on the input finite-\\(N\\) \\(m^{*}(N)\\) values yields uncertainty estimates for the fitted thermodynamic-limit parameter \\(m^{*}(\\infty)\\) that accurately capture the dominant contribution of the statistical variability in the data; these Monte Carlo-derived error bars are sufficiently conservative to represent the quoted statistical uncertainties in the extrapolated \\(m^{*}(\\infty)\\), while acknowledging that they may not fully account for model-selection or other systematic sources of error.",
+          "source_package": "paper:867751779943579657",
+          "prior": 0.75,
+          "prior_justification": "LKM chain premise about Monte Carlo resampling uncertainty for finite-size extrapolation; clear but model-selection caveat remains. TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Drummond2012"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::gcn_17c63b5dc2154f15",
+        "label": "gcn_17c63b5dc2154f15",
+        "type": "claim",
+        "content": "In the reported DMC effective-mass calculations for 2D HEGs, finite time-step checks and high-quality Slater-Jastrow-backflow trial wave functions indicate that residual fixed-node and time-step biases are small compared with uncertainties from finite-size extrapolation, so those residual biases are not expected to materially shift the reported thermodynamic-limit m*(infinity) values [@Drummond2012].",
+        "metadata": {
+          "lkm_id": "gcn_17c63b5dc2154f15",
+          "source_paper": "paper:867751779943579657",
+          "provenance_source": "lkm",
+          "lkm_original": "Consider the reported DMC calculations carried out with finite DMC time steps (time steps of 0.04, 0.2, and 0.4 a.u. at \\(r_{s}=1,5,10\\) for paramagnetic HEGs and 0.01, 0.2, and 0.4 a.u. at \\(r_{s}=1,5,10\\) for ferromagnetic HEGs) and using single-determinant Slater-Jastrow-backflow trial wave functions that, according to extrapolation of variational Monte Carlo energies to zero energy variance, retrieve more than 99% of the correlation energy. The proposition is: the residual biases arising from the fixed-node approximation and from finite DMC time-step errors (noting that halving the time step was verified to have a negligible effect on the computed energy band) are small compared with the overall uncertainties introduced by the finite-size extrapolation procedure; therefore these residual numerical biases do not materially shift the reported extrapolated thermodynamic-limit effective masses \\(m^{*}(\\infty)\\).",
+          "source_package": "paper:867751779943579657",
+          "prior": 0.72,
+          "prior_justification": "LKM chain premise about residual fixed-node/time-step biases being small relative to finite-size extrapolation uncertainty; method-specific numerical judgment. TODO:review",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Drummond2012"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::gcn_b7a7d456a05d4129",
+        "label": "gcn_b7a7d456a05d4129",
+        "type": "claim",
+        "content": "Using a single-power-law finite-size extrapolation with exponent gamma=3/2, Drummond and Needs reported thermodynamic-limit DMC quasiparticle effective masses for clean continuum 2D HEGs: for the paramagnetic system, m*(r_s=1)=0.955(2), m*(r_s=5)=1.04(2), and m*(r_s=10)=1.03(4); for the fully spin-polarized system, m*(r_s=1)=0.851(5), m*(r_s=5)=0.74(1), and m*(r_s=10)=0.70(3) [@Drummond2012].",
+        "metadata": {
+          "lkm_id": "gcn_b7a7d456a05d4129",
+          "source_paper": "paper:867751779943579657",
+          "provenance_source": "lkm",
+          "lkm_original": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\(\\gamma=3/2\\) yields the following quasiparticle effective masses \\(m^{*}(\\infty)\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\(m^{*}(r_{s}=1)=0.955(2)\\), \\(m^{*}(r_{s}=5)=1.04(2)\\), and \\(m^{*}(r_{s}=10)=1.03(4)\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\(m^{*}(r_{s}=1)=0.851(5)\\), \\(m^{*}(r_{s}=5)=0.74(1)\\), and \\(m^{*}(r_{s}=10)=0.70(3)\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+          "source_package": "paper:867751779943579657",
+          "gaia": {
+            "provenance": {
+              "cited_refs": [
+                "Drummond2012"
+              ]
+            }
+          }
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks",
+        "label": "older_dmc_enhancement_vs_revised_dmc_benchmarks",
+        "type": "claim",
+        "content": "not_both_true(A, B)",
+        "metadata": {
+          "helper_kind": "contradiction_result",
+          "prior": 0.92,
+          "judgment": "accepted",
+          "justification": "Accepted as a scientific_inconsistency candidate: the claims address the same field-facing paramagnetic 2D HEG effective-mass question with incompatible enhancement conclusions, plausibly resolved by finite-size/statistical treatment.",
+          "relation_type": "scientific_inconsistency"
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::__implication_result_a4d9b50e",
+        "label": "__implication_result_a4d9b50e",
+        "type": "claim",
+        "content": "implies(local:twodheg_effective_mass::gcn_da3eecec49114543,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
+        "metadata": {
+          "generated": true,
+          "generated_kind": "helper_claim",
+          "intermediate_role": "implication_result",
+          "visibility": "formal_internal",
+          "canonical_name": "implies(local:twodheg_effective_mass::gcn_da3eecec49114543,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
+          "owning_strategy_type": "deduction",
+          "helper_kind": "implication_result",
+          "helper_visibility": "formal_internal",
+          "prior": 0.95,
+          "owning_strategy_id": "lcs_41fa142365c3d6b9"
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::__conjunction_result_e0f8939c",
+        "label": "__conjunction_result_e0f8939c",
+        "type": "claim",
+        "content": "all_true(local:twodheg_effective_mass::gcn_a685639571304474,local:twodheg_effective_mass::gcn_17c63b5dc2154f15)",
+        "metadata": {
+          "generated": true,
+          "generated_kind": "helper_claim",
+          "intermediate_role": "conjunction_result",
+          "visibility": "formal_internal",
+          "canonical_name": "all_true(local:twodheg_effective_mass::gcn_a685639571304474,local:twodheg_effective_mass::gcn_17c63b5dc2154f15)",
+          "owning_strategy_type": "deduction",
+          "helper_kind": "conjunction_result",
+          "helper_visibility": "formal_internal",
+          "owning_strategy_id": "lcs_18813964c894c60d"
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::__implication_result_38121801",
+        "label": "__implication_result_38121801",
+        "type": "claim",
+        "content": "implies(local:twodheg_effective_mass::__conjunction_result_e0f8939c,local:twodheg_effective_mass::gcn_b7a7d456a05d4129)",
+        "metadata": {
+          "generated": true,
+          "generated_kind": "helper_claim",
+          "intermediate_role": "implication_result",
+          "visibility": "formal_internal",
+          "canonical_name": "implies(local:twodheg_effective_mass::__conjunction_result_e0f8939c,local:twodheg_effective_mass::gcn_b7a7d456a05d4129)",
+          "owning_strategy_type": "deduction",
+          "helper_kind": "implication_result",
+          "helper_visibility": "formal_internal",
+          "prior": 0.95,
+          "owning_strategy_id": "lcs_18813964c894c60d"
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::__implication_result_6913dbf7",
+        "label": "__implication_result_6913dbf7",
+        "type": "claim",
+        "content": "implies(local:twodheg_effective_mass::gcn_219b34bd252c43fa,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
+        "metadata": {
+          "generated": true,
+          "generated_kind": "helper_claim",
+          "intermediate_role": "implication_result",
+          "visibility": "formal_internal",
+          "canonical_name": "implies(local:twodheg_effective_mass::gcn_219b34bd252c43fa,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
+          "owning_strategy_type": "support",
+          "helper_kind": "implication_result",
+          "helper_visibility": "formal_internal",
+          "prior": 0.82,
+          "owning_strategy_id": "lcs_590ff1d5ca02f2a4"
+        },
+        "exported": false
+      },
+      {
+        "id": "local:twodheg_effective_mass::__implication_result_b49f69cf",
+        "label": "__implication_result_b49f69cf",
+        "type": "claim",
+        "content": "implies(local:twodheg_effective_mass::gcn_850fc9d9de314026,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
+        "metadata": {
+          "generated": true,
+          "generated_kind": "helper_claim",
+          "intermediate_role": "implication_result",
+          "visibility": "formal_internal",
+          "canonical_name": "implies(local:twodheg_effective_mass::gcn_850fc9d9de314026,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
+          "owning_strategy_type": "support",
+          "helper_kind": "implication_result",
+          "helper_visibility": "formal_internal",
+          "prior": 0.76,
+          "owning_strategy_id": "lcs_ea92ea185f7cab68"
+        },
+        "exported": false
+      }
+    ],
+    "strategies": [
+      {
+        "id": "",
+        "conclusion": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+        "premises": [
+          "local:twodheg_effective_mass::gcn_da3eecec49114543"
+        ],
+        "background": []
+      },
+      {
+        "id": "",
+        "conclusion": "local:twodheg_effective_mass::gcn_b7a7d456a05d4129",
+        "premises": [
+          "local:twodheg_effective_mass::gcn_a685639571304474",
+          "local:twodheg_effective_mass::gcn_17c63b5dc2154f15"
+        ],
+        "background": []
+      },
+      {
+        "id": "",
+        "conclusion": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+        "premises": [
+          "local:twodheg_effective_mass::gcn_219b34bd252c43fa"
+        ],
+        "background": []
+      },
+      {
+        "id": "",
+        "conclusion": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+        "premises": [
+          "local:twodheg_effective_mass::gcn_850fc9d9de314026"
+        ],
+        "background": []
+      }
+    ],
+    "operators": [
+      {
+        "id": "",
+        "conclusion": "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks",
+        "variables": [
+          "local:twodheg_effective_mass::gcn_4d1aad1470d54895",
+          "local:twodheg_effective_mass::gcn_b7a7d456a05d4129"
+        ]
+      }
+    ]
+  },
+  "beliefs": [
+    {
+      "knowledge_id": "local:twodheg_effective_mass::__conjunction_result_e0f8939c",
+      "label": "__conjunction_result_e0f8939c",
+      "belief": 0.3758190719271158
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_17c63b5dc2154f15",
+      "label": "gcn_17c63b5dc2154f15",
+      "belief": 0.6203148194170681
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_219b34bd252c43fa",
+      "label": "gcn_219b34bd252c43fa",
+      "belief": 0.862221872214498
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+      "label": "gcn_28b9e01bd2f8487f",
+      "belief": 0.9926279190401559
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_4d1aad1470d54895",
+      "label": "gcn_4d1aad1470d54895",
+      "belief": 0.3428938812200409
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_850fc9d9de314026",
+      "label": "gcn_850fc9d9de314026",
+      "belief": 0.8447037806018466
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_a685639571304474",
+      "label": "gcn_a685639571304474",
+      "belief": 0.6609953744795252
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_b7a7d456a05d4129",
+      "label": "gcn_b7a7d456a05d4129",
+      "belief": 0.49885201420530384
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::gcn_da3eecec49114543",
+      "label": "gcn_da3eecec49114543",
+      "belief": 0.8935150605714042
+    },
+    {
+      "knowledge_id": "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks",
+      "label": "older_dmc_enhancement_vs_revised_dmc_benchmarks",
+      "belief": 0.9989423746756578
+    }
+  ]
+}

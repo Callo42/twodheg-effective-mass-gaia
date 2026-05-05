@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811657781655371777": {
+        "area": "Physics and Astrophysics",
+        "authors": "S. Nascimbène | N. Navon | S. Pilati | F. Chevy | S. Giorgini | A. Georges | C. Salomon",
+        "available_online": "2011-5-27",
+        "cover_date_start": "2011-05-27",
+        "created_at": "2022-12-19T09:58:16+08:00",
+        "doi": "10.1103/physrevlett.106.215303",
+        "en_title": "Fermi-Liquid Behavior of the Normal Phase of a Strongly Interacting Gas of Cold Atoms",
+        "id": "811657781655371777",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Atomic, Molecular and Optical Physics\", \"Quantum Physics\"]",
+        "zh_title": "冷原子强相互作用气体正常相的费米液体行为"
+      },
+      "paper:811942160252272641": {
+        "area": "Physics and Astrophysics",
+        "authors": "George E. Simion | Gabriele F. Giuliani",
+        "available_online": "2008-1-24",
+        "cover_date_start": "2008-01-24",
+        "created_at": "2022-12-20T04:48:16+08:00",
+        "doi": "10.1103/physrevb.77.035131",
+        "en_title": "Many-body local fields theory of quasiparticle properties in a three-dimensional electron liquid",
+        "id": "811942160252272641",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "三维电子液体中准粒子性质的多体局域场理论"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867750407357596331": {
+        "area": "arXiv-Physics",
+        "authors": "T. Senthil",
+        "available_online": "",
+        "cover_date_start": "2008-04-09",
+        "created_at": "2023-05-23T04:50:19+08:00",
+        "doi": "10.48550/arXiv.0804.1555",
+        "en_title": "Theory of a continuous Mott transition in two dimensions",
+        "id": "867750407357596331",
+        "keywords": "",
+        "publication_date": "2008-04-09",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维连续莫特转变理论"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867766605889667649": {
+        "area": "arXiv-Physics",
+        "authors": "Congjun Wu | Jiangping Hu | Shou-Cheng Zhang",
+        "available_online": "",
+        "cover_date_start": "2005-12-23",
+        "created_at": "2023-05-23T05:54:41+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0512602",
+        "en_title": "Quintet pairing and non-Abelian vortex string in spin-3/2 cold atomic systems",
+        "id": "867766605889667649",
+        "keywords": "",
+        "publication_date": "2005-12-23",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "自旋3/2冷原子系统中的五重态配对与非阿贝尔涡旋弦"
+      },
+      "paper:867772551785349725": {
+        "area": "arXiv-Physics",
+        "authors": "Sylvain Nascimbène | Nir Navon | Sebastiano Pilati | Frédéric Chevy | Stefano Giorgini | Antoine Georges | Christophe Salomon",
+        "available_online": "",
+        "cover_date_start": "2010-12-21",
+        "created_at": "2023-05-23T06:18:19+08:00",
+        "doi": "10.48550/arXiv.1012.4664",
+        "en_title": "Fermi-Liquid Behavior of the Normal Phase of a Strongly Interacting Gas of Cold Atoms",
+        "id": "867772551785349725",
+        "keywords": "",
+        "publication_date": "2010-12-21",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "冷原子强相互作用气体正常相的费米液体行为"
+      }
+    },
+    "variables": [
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Landau Fermi-liquid theory relates low-temperature thermodynamic and response functions of a homogeneous interacting Fermi system to quasiparticle parameters: specifically, the quasiparticle effective mass m^* is linked to the linear-in-T specific-heat coefficient γ = C/T, the compressibility is related to the symmetric Landau parameter F_0^{s}, and the spin susceptibility χ is related to the antisymmetric Landau parameter F_0^{a} via χ = (m^*/m) χ_0/(1+F_0^{a}), where χ_0 is the ideal-gas susceptibility; the assumption used in extracting Landau parameters from the experimental data is that, at the low temperatures T ≲ 0.06 T_F and small polarizations probed in the normal-phase measurements, the unitary Fermi gas lies within the regime of validity of Landau Fermi-liquid phenomenology so that these relations can be applied quantitatively to determine m^*/m, F_0^{s} and F_1^{s} from measured compressibility, specific heat and magnetic susceptibility.",
+        "content_hash": "d746a61ff99a0ebcd89ad2fab9d112ded8c3358496c90f552f243a12228111d1",
+        "id": "gcn_dd031f5a441c40ea",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772551785349725::P7",
+            "package_id": "paper:867772551785349725",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772551785349725"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective masses m^{*} reported in the literature from DMC fits to the single-particle energy band and the ground-state total-energy parametrizations reported in the literature as continuous functions E_{\\mathrm{corr}}(r_s,\\zeta) of density parameter r_s and spin polarization \\zeta are mutually consistent within their stated uncertainties and can be combined algebraically via standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic HEG and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta)) to produce numerical estimates of the dimensionless Fermi liquid parameters F_l for the 2D HEG.\n      Refs. 11,23,24",
+        "content_hash": "831e8e3eb5c04947a3beade00657fe61580c31f91b9b24b8531c03cc72ee541b",
+        "id": "gcn_f39401296385496c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::P8",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031054405392392875,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "At unitarity (1/k_Fa = 0) the combination of the measured grand-canonical dimensionless magnetic susceptibility ṽχ, independent thermodynamic determinations of the compressibility and of the linear-in-T specific-heat coefficient, and Landau Fermi-liquid relations yields a Fermi-liquid parametrization of the low-lying excitations characterized by an effective mass m^*/m = 1.13 and by symmetric Landau parameters consistent with prior determinations (F_0^{s} ≃ −0.40 and F_1^{s} ≃ 0.39), and provides a determination of the antisymmetric (spin) Landau parameter\n      $$\n      F_0^{a}=\\frac{m^*}{m}\\,\\widetilde{\\chi}(0)^{-1}-1=1.1(1),\n      $$\n      where ṽχ(0) is the dimensionless susceptibility at unitarity in the canonical (or in the appropriately transformed grand-canonical) convention used throughout this work; the positive value F_0^{a}>0 indicates net magnetic correlations that favor singlet spin configurations.",
+        "content_hash": "41a61c5455be1e9899bc86d1ff61cd93755149eb37592c0f4c1b7374429cbc1e",
+        "id": "gcn_944dc90a60cb4dc0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772551785349725::conclusion_3",
+            "package_id": "paper:867772551785349725",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772551785349725"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02967032967032967,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "At the unitary limit (infinite scattering length), combining a measured zero-temperature dimensionless spin susceptibility $\\tilde{\\chi}(0)$ for the normal phase with previously measured low-temperature compressibility and specific heat values yields a set of Landau Fermi-liquid parameters and quasiparticle properties: the quasiparticle effective mass is $m^*=1.13\\,m$ (with m the bare fermion mass), the symmetric Landau parameters are $F_0^s\\approx -0.40$ and $F_1^s\\approx 0.39$ (the latter value having been reported by prior thermodynamic measurements), and the antisymmetric (spin) Landau parameter is given by the Landau relation\n      $$\n      F_0^a=\\frac{m^*}{m}\\,\\tilde{\\chi}(0)^{-1}-1,\n      $$\n      which evaluates to $F_0^a=1.1(1)$ when inserting $m^*=1.13\\,m$ and the measured $\\tilde{\\chi}(0)$ with its uncertainty; the positive value $F_0^a>0$ corresponds to magnetic correlations that favor spin-singlet configurations.",
+        "content_hash": "fbd38828f74e74c0fe686f44eb1ded12099c430588f90700b5bc6321c46cefa8",
+        "id": "gcn_fa55b13bfe414656",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811657781655371777::conclusion_3",
+            "package_id": "paper:811657781655371777",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811657781655371777"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029437229437229435,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Functional-derivative formulas for the Landau interaction function $f_{\\sigma\\sigma'}(\\cos\\theta)$ were evaluated using the same static many-body local fields and response functions to obtain the symmetric and antisymmetric Landau parameters $F_{0}^{s}$ and $F_{0}^{a}$. From these parameters and the computed effective mass $m^{*}$ one obtains the effective Landé factor and Fermi-liquid response ratios via the standard relations\n      $$\n      \\frac{g^{*}}{g}=\\frac{1}{1+F_{0}^{a}},\\qquad \\frac{\\chi_{s}}{\\chi_{s}^{0}}=\\frac{m^{*}/m}{1+F_{0}^{a}},\\qquad \\frac{K}{K_{0}}=\\frac{m^{*}/m}{1+F_{0}^{s}}.\n      $$\n      The main numerical findings are: (i) RPA values for the compressibility ratio $K/K_{0}$ agree well with available diffusion-QMC results across the metallic density range considered; (ii) the spin-susceptibility enhancement $\\chi_{s}/\\chi_{s}^{0}$ computed using the Dyson-equation effective mass $m_{D}^{*}$ is in excellent quantitative agreement with available QMC data, whereas use of the on-shell-approximation mass $m_{OSA}^{*}$ leads to larger deviations; and (iii) these Fermi-liquid response ratios are sensitive to the adopted effective mass, so that accurate determination of $m^{*}$ is crucial for reliable predictions of $\\chi_{s}$ and $K$.",
+        "content_hash": "cd58536ce5d3ca4c3c4daee7b30dad7d4b0494c685fb8fc09ed832a620ed330e",
+        "id": "gcn_ace7320c8d4946fd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811942160252272641::conclusion_6",
+            "package_id": "paper:811942160252272641",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811942160252272641"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027650648360030512,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a Fermi liquid of spin-$\\tfrac{3}{2}$ fermions with quasiparticle density of states $N_{f}$ at the Fermi energy and well-defined Landau interaction parameters $F_{\\ell}^{(\\cdot)}$ decomposed into $SO(5)$ scalar/vector/tensor channels, the compressibility-like susceptibility $\\chi_{\\rho}$ and the $SO(5)$ spin-susceptibility-like coefficient $\\chi_{sp}$ entering the composite-boson effective Hamiltonian are renormalized according to the Landau expressions\n      $$\n      \\chi_{\\rho}=\\frac{N_{f}}{4(1+F_{0}^{s})},\\qquad \\chi_{sp}=\\frac{N_{f}}{4(1+F_{0}^{t})},\n      $$\n      and the ratio of spin superfluid density to superfluid density is renormalized as\n      $$\n      \\frac{\\rho_{sp}}{\\rho_{s}}=\\frac{1+F_{1}^{v}/3}{1+F_{1}^{s}/3}.\n      $$\n      These relations assume the system is in the Fermi-liquid regime where standard Landau theory applies and the relevant Landau parameters are finite and well defined.\n      [39]",
+        "content_hash": "8d2b74e39c7dea6fae585a048b62b95aa3d3e8976e9cf6afc81a1c9433a2bcbc",
+        "id": "gcn_850bd6e9e160487c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867766605889667649::P4",
+            "package_id": "paper:867766605889667649",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867766605889667649"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extrapolated thermodynamic-limit effective masses exhibit distinct density dependences depending on spin polarization: for the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10 the extrapolated effective mass remains close to unity (\\\\(m^{*}\\\\approx1\\\\)), indicating no significant interaction-induced mass enhancement at these densities for the clean continuum 2D HEG model considered; by contrast, for the fully spin-polarized (ferromagnetic) 2D HEG the extrapolated effective mass decreases as the density is lowered, for example taking the values \\\\(0.85(1)\\\\) at \\\\(r_{s}=1\\\\), \\\\(0.74(1)\\\\) at \\\\(r_{s}=5\\\\), and \\\\(0.70(3)\\\\) at \\\\(r_{s}=10\\\\), a trend that is qualitatively consistent with experimental measurements on spin-polarized two-dimensional systems reported in the literature (e.g., Padmanabhan et al.).",
+        "content_hash": "50d79ff1ea218bc2ead65fa8297f1c40403b60c514239f93423bf99aa338304e",
+        "id": "gcn_bdc9e8a10cfe4b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the quasiparticle density of states ρ_0≡∮_{FS} dS / v_F obtained by integrating the inverse Fermi velocity around the Fermi surface, and denote by χ_0 and κ the uniform spin susceptibility and compressibility respectively. The standard Landau Fermi-liquid relations χ_0 ∼ ρ_0 / (1+F_0^a) and κ ∼ ρ_0 / (1+F_0^s) with Landau parameters F_0^{a,s} are assumed to remain operationally applicable in the proximate metallic regime even as the quasiparticle residue Z→0 and the effective mass diverges logarithmically; under this assumption divergences of F_0^{a,s} can be inferred by inserting the computed infrared behaviors of ρ_0, χ_0, and κ into these relations, acknowledging that this is a phenomenological extrapolation of Fermi-liquid relations into a marginal or near-critical regime.",
+        "content_hash": "3c3eeb42277aa055aa500376e2ff7fda0768a15326d2bb8ca046486e29a04f08",
+        "id": "gcn_b8d870cf36a94dff",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750407357596331::P12",
+            "package_id": "paper:867750407357596331",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750407357596331"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Extrapolating the Fermi liquid parameters divided by effective mass to the thermodynamic limit using the procedure above yields the following representative numerical estimates with quoted uncertainties inherited from the ordinary least-squares extrapolations.  For the paramagnetic (unpolarized) 2D HEG the extrapolated values of $F_{l}^{s,a}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}^{s}/m^{*}=-0.2(2)$, $F_{1}^{s}/m^{*}=-0.18(3)$ (antisymmetric components given similarly in the full data);\n      at $r_{s}=5$: $F_{0}^{s}/m^{*}=0.7(8)$, $F_{1}^{s}/m^{*}=-0.03(2)$;\n      at $r_{s}=10$: $F_{0}^{s}/m^{*}=-1(1)$, $F_{1}^{s}/m^{*}=-0.1(3)$.  For the fully ferromagnetic 2D HEG the extrapolated values of $F_{l}/m^{*}$ are approximately:\n      at $r_{s}=1$: $F_{0}/m^{*}=-0.50(4)$, $F_{1}/m^{*}=-0.22(3)$;\n      at $r_{s}=5$: $F_{0}/m^{*}=-1.5(2)$, $F_{1}/m^{*}=-0.61(6)$;\n      at $r_{s}=10$: $F_{0}/m^{*}=-1.8(3)$, $F_{1}/m^{*}=-1.03(3)$.  These extrapolated numbers carry large uncertainties arising from oscillatory finite-size (shell-filling) behavior that dominates the nominal statistical error bars from individual DMC runs.",
+        "content_hash": "a493633ad0996a26c699a33b194e2e69a30df6c34322041399cdb31abea7d9b5",
+        "id": "gcn_42341b84adac443c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_4",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "4404f6cabd32217f89138d101a35a877"
+}

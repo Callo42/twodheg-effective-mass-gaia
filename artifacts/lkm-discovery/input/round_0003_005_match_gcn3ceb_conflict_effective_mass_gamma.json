@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811623956246167556": {
+        "area": "Physics and Astrophysics",
+        "authors": "T. A. Alvesalo | T. Haavasoja | P. C. Main | M. T. Manninen | J. Ray | Leila M. M. Rehn",
+        "available_online": "1979-11-12",
+        "cover_date_start": "1979-11-12",
+        "created_at": "2022-12-19T07:43:51+08:00",
+        "doi": "10.1103/physrevlett.43.1509",
+        "en_title": "Observation of Anomalous Heat Capacity in Liquid He 3 near the Superfluid Transition",
+        "id": "811623956246167556",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "在超流转变附近液态³He中反常热容量的观测"
+      },
+      "paper:812410452448378881": {
+        "area": "Physics and Astrophysics",
+        "authors": "S. Nakatsuji | D. Hall | L. Balicas | Z. Fisk | K. Sugahara | M. Yoshioka | Y. Maeno",
+        "available_online": "2003-4-2",
+        "cover_date_start": "2003-04-02",
+        "created_at": "2022-12-21T11:49:06+08:00",
+        "doi": "10.1103/physrevlett.90.137202",
+        "en_title": "Heavy-Mass Fermi Liquid near a Ferromagnetic Instability in Layered Ruthenates",
+        "id": "812410452448378881",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "层状钌酸盐中接近铁磁不稳定性的重质量费米液体"
+      },
+      "paper:812411249605214208": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. Morishita | K. Ishida | K. Yawata | H. Nagatani | Hiroshi Fukuyama",
+        "available_online": "",
+        "cover_date_start": "1998-01-01",
+        "created_at": "2022-12-21T11:52:16+08:00",
+        "doi": "10.1023/a:1022597019453",
+        "en_title": "Low Temperature Heat-Capacities of Liquid 3He Thin Films",
+        "id": "812411249605214208",
+        "keywords": "",
+        "publication_date": "1998",
+        "publication_id": "645",
+        "publication_name": "Journal of Low Temperature Physics _ ",
+        "research_categories": "",
+        "zh_title": "液态³He薄膜的低温热容"
+      },
+      "paper:813116156926754818": {
+        "area": "Physics and Astrophysics",
+        "authors": "Olle Eriksson | Lars Nordström | M. S. S. Brooks | Börje Johansson",
+        "available_online": "1988-6-13",
+        "cover_date_start": "1988-06-13",
+        "created_at": "2022-12-23T10:33:19+08:00",
+        "doi": "10.1103/physrevlett.60.2523",
+        "en_title": "4 f -Band Magnetism in Ce Fe 2",
+        "id": "813116156926754818",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "CeFe₂ 中的 4f 能带磁性"
+      },
+      "paper:867752957444096766": {
+        "area": "arXiv-Physics",
+        "authors": "Hyun-Tak Kim",
+        "available_online": "",
+        "cover_date_start": "2001-10-05",
+        "created_at": "2023-05-23T05:00:27+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0110112",
+        "en_title": "Extended Brinkman-Rice Picture and Its Application to High-Tc Superconductors",
+        "id": "867752957444096766",
+        "keywords": "",
+        "publication_date": "2001-10-05",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "扩展的布林克曼-赖斯模型及其在高温超导体中的应用"
+      },
+      "paper:867757373517726674": {
+        "area": "arXiv-Physics",
+        "authors": "Wei-Li Lee | M.K. Hass | G. Lawes | A.P. Remirez | R.J. Cava | N.P. Ong",
+        "available_online": "",
+        "cover_date_start": "2003-05-19",
+        "created_at": "2023-05-23T05:18:00+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0305451",
+        "en_title": "Field-Tuning of the electron and hole populations in the ruthenate Bi_3Ru_3O_11",
+        "id": "867757373517726674",
+        "keywords": "",
+        "publication_date": "2003-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "钌酸盐Bi_3Ru_3O_11中电子和空穴载流子数的场调控"
+      },
+      "paper:867770210076066329": {
+        "area": "arXiv-Physics",
+        "authors": "Sergio Gaudio | Jason Jackiewicz | Kevin S. Bedell",
+        "available_online": "",
+        "cover_date_start": "2007-03-27",
+        "created_at": "2023-05-23T06:09:00+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0703722",
+        "en_title": "Fermi liquid behavior and Luttinger's theorem close to a diverging scattering length",
+        "id": "867770210076066329",
+        "keywords": "",
+        "publication_date": "2007-03-27",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "接近发散散射长度时的费米液体行为与卢廷格定理"
+      },
+      "paper:962601398569009161": {
+        "area": "arXiv-Physics",
+        "authors": "Chen Sun | Wayne M. Saslow",
+        "available_online": "",
+        "cover_date_start": "2024-02-07",
+        "created_at": "2024-02-08T22:34:17+08:00",
+        "doi": "10.48550/arXiv.2402.04639",
+        "en_title": "Macroscopic Magnetic Dynamics",
+        "id": "962601398569009161",
+        "keywords": "",
+        "publication_date": "2024-02-07",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "宏观磁动力学"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let \\gamma denote the Sommerfeld coefficient defined by C_{\\mathrm{el}}(T)=\\gamma T (units J mol^{-1} K^{-2}). Let N(0) denote the quasiparticle density of states per mole at the Fermi level and let m^{*} denote the quasiparticle effective mass entering the low-energy Fermi-liquid description. In a conventional single-component Fermi liquid the relation \\gamma=\\tfrac{\\pi^{2}}{3}k_{B}^{2}N(0) holds, and for bands whose density of states scales with effective mass one has N(0)\\propto m^{*}, so that \\gamma\\propto m^{*}; therefore, to the extent that a Fermi-liquid description applies to the low-temperature electronic states under consideration, a measured change in \\gamma(T) by a factor \\sim 5 corresponds approximately to a fivefold change in the quasiparticle effective mass m^{*}.",
+        "content_hash": "66d6dfaeae9f8233fc545e2494ceace3891256aade9c464971de8ed0b918c820",
+        "id": "gcn_4af5b8c5e8d94069",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757373517726674::P2",
+            "package_id": "paper:867757373517726674",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757373517726674"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031544957774465976,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Assuming the standard Landau Fermi-liquid relation that the low-temperature linear specific-heat coefficient \\gamma is proportional to the quasiparticle density of states at the Fermi surface (hence proportional to the quasiparticle effective mass m^{*}), the measured value \\gamma=2.11\\ \\mathrm{K}^{-1} implies an effective-mass ratio m^{*}/m\\approx 2.12 (where m is the bare fermion mass) and, under the usual formulas that relate the effective mass renormalization to the first Landau Fermi-liquid parameter, yields F_{1}\\approx 3.36.",
+        "content_hash": "f689f88d12bf20bc60ce78ec01cddb6c5ea4c7a26c8eb810a4411075fbb2173b",
+        "id": "gcn_800070efac5e476d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811623956246167556::conclusion_3",
+            "package_id": "paper:811623956246167556",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811623956246167556"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030886196246139225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Within the conventional Landau Fermi-liquid framework for a three-dimensional Fermi liquid, the standard mapping that relates the molar specific-heat coefficient \\gamma to the quasiparticle effective-mass renormalization m^{*}/m and that yields the Landau parameter F_{1} from the effective mass is assumed to be valid and numerically accurate to within the quoted experimental uncertainties; applying these standard relations to the experimentally determined \\gamma=2.11\\ \\mathrm{K}^{-1} gives m^{*}/m\\approx 2.12 and F_{1}\\approx 3.36.",
+        "content_hash": "b7bc6c8d4f26a3dfb7d283f3ce4ed27b6fd2b7335beb3e3bf7deb60e4e01e458",
+        "id": "gcn_1587257a956f4d18",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811623956246167556::P9",
+            "package_id": "paper:811623956246167556",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811623956246167556"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02878726010616578,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In a Landau Fermi liquid the low-temperature electronic specific-heat coefficient $\\gamma_e\\equiv C_e/T$ is proportional to the quasiparticle density of states at the Fermi level, $N(0)$, via $\\gamma_e=(\\pi^2/3)k_B^2 N(0)$ where $k_B$ is the Boltzmann constant, and for a given Fermi-surface topology the quasiparticle density of states $N(0)$ scales with the quasiparticle effective mass $m^*$, so that a very large measured $\\gamma_e$ (for example, $\\gamma_e=255\\ \\mathrm{mJ/mol\\!-\\!Ru\\ K^2}$) is interpreted as evidence for a heavy effective mass $m^*$ and hence a heavy-mass Fermi liquid unless nonquasiparticle low-energy excitations dominate $C_e$.",
+        "content_hash": "f173eacc998953258d81c0d47ac376b0a3ab5fc0d1cd2e9f2e7bb6e9f26a07ca",
+        "id": "gcn_86bd2b57c95744cc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812410452448378881::P5",
+            "package_id": "paper:812410452448378881",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812410452448378881"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026540946394272742,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The conversion of the fitted linear coefficient $\\gamma = 0.11\\ \\mathrm{J/K^2}$ to an effective quasiparticle mass $m^* = 3.2\\,m_3$ (with $m_3$ the bare mass of a $^3$He atom) and to a Fermi temperature $T_F \\approx 600\\ \\mathrm{mK}$ assumes that a second-layer $^3$He film at areal density $\\rho=15.0\\ \\mathrm{nm}^{-2}$ behaves as an ideal, homogeneous two-dimensional Fermi liquid over $0.1\\ \\mathrm{mK}\\lesssim T\\lesssim 80\\ \\mathrm{mK}$ and that the standard low-temperature proportionality between the linear-in-$T$ heat-capacity coefficient $\\gamma$ and the quasiparticle effective mass $m^*$ for a two-dimensional Fermi gas at that areal density holds without significant modification by substrate coupling, finite-size effects, strong vertex corrections, or anomalous non-Fermi-liquid contributions.",
+        "content_hash": "89eb793ecdb2242594291773de370c058f780a47dc197faa04c82d9f65307bd3",
+        "id": "gcn_d53dcba2c7e4480d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812411249605214208::P2",
+            "package_id": "paper:812411249605214208",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812411249605214208"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The band-theory estimate of the electronic linear specific-heat coefficient $\\gamma_{\\mathrm{band}}$ is obtained from the LMTO-calculated paramagnetic single-particle density of states at the Fermi level $N(E_{F})$ via the relation $\\gamma_{\\mathrm{band}}=\\tfrac{\\pi^{2}}{3}k_{B}^{2}N(E_{F})$ (with appropriate conversion to units per mole, where $k_{B}$ is Boltzmann's constant), and the proposition is that a direct comparison of $\\gamma_{\\mathrm{band}}$ with experimentally measured low-temperature $\\gamma$ values neglects many-body electron-electron correlation effects that renormalize the quasiparticle effective mass and hence enhance the experimental $\\gamma$ relative to the band-theory value.",
+        "content_hash": "9eaeecc65e5843ccacf78003c8e5b955a63c391a99c539a17490f06bd2b3186e",
+        "id": "gcn_4b2ad8e357d14c66",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813116156926754818::P12",
+            "package_id": "paper:813116156926754818",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813116156926754818"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the single-particle effective mass $m^*$, the Fermi momentum $p_F$, Planck's reduced constant $\\hbar$, the gyromagnetic ratio $\\gamma$, and the Legendre coefficients $Z_l$ ($l=0,1$) of the Fermi-liquid interaction. The proposition is that, for a paramagnetic Fermi liquid in the low-temperature, near-equilibrium, small-spin-polarization regime where Fermi-liquid theory applies, the following relations hold to leading order:\n      $$\n      N(0)=\\dfrac{m^* p_F}{\\pi^2\\hbar^3},\n      $$\n      $$\n      \\chi=\\left(\\dfrac{\\gamma\\hbar}{2}\\right)^2 \\dfrac{N(0)}{1+\\tfrac{1}{4}Z_0},\n      $$\n      $$\n      \\dfrac{\\rho_{M}}{\\chi}=\\dfrac{1}{3}v_F^2\\left(1+\\tfrac{1}{4}Z_0\\right)\\left(1+\\tfrac{1}{12}Z_1\\right),\n      $$\n      $$\n      \\lambda=\\dfrac{1}{\\gamma\\hbar}\\dfrac{1}{N(0)}\\left(Z_0-\\tfrac{1}{3}Z_1\\right),\n      $$\n      where $v_F=p_F/m^*$ is the Fermi velocity; these are the conventional Leggett/Baym–Pethick Fermi-liquid expressions and apply provided quasiparticle concepts and the Landau-parameter expansion are valid.\n      A. J. Leggett, Baym and Pethick standard Fermi-liquid references",
+        "content_hash": "855f451284da56e73b8e62f03cff8ec82c22157220308203fa0dca556da236e4",
+        "id": "gcn_982d911d163141dd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:962601398569009161::P12",
+            "package_id": "paper:962601398569009161",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:962601398569009161"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a paramagnetic Fermi liquid in the low-temperature, near-equilibrium, small-spin-polarization regime where Landau Fermi-liquid theory applies, the macroscopic thermodynamic parameters map to standard Fermi-liquid quantities via\n      $$\n      N(0)=\\frac{m^{*} p_F}{\\pi^{2}\\hbar^{3}},\n      $$\n      $$\n      \\chi=\\left(\\frac{\\gamma\\hbar}{2}\\right)^{2}\\frac{N(0)}{1+\\tfrac{1}{4}Z_0},\n      $$\n      $$\n      \\frac{\\rho_{M}}{\\chi}=\\frac{1}{3}v_F^2\\left(1+\\frac{1}{4}Z_0\\right)\\left(1+\\frac{1}{12}Z_1\\right),\n      $$\n      $$\n      \\lambda=\\frac{1}{\\gamma\\hbar}\\frac{1}{N(0)}\\left(Z_0-\\frac{1}{3}Z_1\\right),\n      $$\n      where $N(0)$ is the total density of states at the Fermi level, $m^*$ the quasiparticle effective mass, $p_F$ the Fermi momentum, $v_F=p_F/m^*$ the Fermi velocity, and $Z_0,Z_1$ are the first two Legendre coefficients of the Fermi-liquid interaction (Leggett notation); these relations provide the explicit connection between the macroscopic parameters $(\\chi,\\rho_M,\\lambda)$ and microscopic Fermi-liquid interaction coefficients.",
+        "content_hash": "cb13c437fa5fae57499612cf74053e715fff381006934fe7c32766e828a64343",
+        "id": "gcn_e17cfca5b3cf40cb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:962601398569009161::conclusion_6",
+            "package_id": "paper:962601398569009161",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:962601398569009161"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the low-temperature electronic specific-heat coefficient $\\gamma$ by the expansion $C_{\\mathrm{el}}(T)=\\gamma T+O(T^{3})$ as $T\\to0$. For a Fermi liquid one has $\\gamma=(\\pi k_{B}^{2}/3)N^{*}(0)$ where $N^{*}(0)$ is the quasiparticle density of states at the Fermi energy, and for a single-band or parabolic band $N^{*}(0)\\propto m^{*}$. Consequently, to leading order and neglecting phononic, multi-band, and other electronic complications, measured changes in $\\gamma$ track changes in the quasiparticle effective mass $m^{*}$ entering the low-energy density of states.",
+        "content_hash": "6e5390cbcc84e46865eba263305c93b1a38cc67e382a278452479423288fbd58",
+        "id": "gcn_302bc2ab17ff4fe8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867752957444096766::P9",
+            "package_id": "paper:867752957444096766",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867752957444096766"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In a Galilean-invariant homogeneous Fermi liquid of bare particle mass m, the quasiparticle effective mass m^{*} and the symmetric l=1 Landau parameter F_{1}^{s} are related by\n      $$\n      \\frac{m^{*}}{m}=1+\\frac{F_{1}^{s}}{3}.\n      $$\n      Using this relation, a microscopic evaluation of F_{1}^{s} near the divergent s-wave scattering length yields a small but finite discontinuous change in m^{*} across the resonance, i.e. m^{*}(-\\infty)-m^{*}(+\\infty)\\neq 0. The low-temperature entropy per unit volume in the Fermi-liquid regime is S=\\gamma T with\n      $$\n      \\gamma=\\frac{\\pi^{2}}{3}N(0)\\frac{m^{*}}{m},\n      $$\n      where N(0) is the single-spin noninteracting density of states at the Fermi level; because \\gamma depends on m^{*}, the discontinuity in m^{*} produces a corresponding small discontinuity in the low-temperature specific-heat coefficient \\gamma and hence in the linear-in-T specific heat.",
+        "content_hash": "e32814c87e36a31e02006f7b38d7f365f3bff40eeb564dc84976bdfdd8ed9313",
+        "id": "gcn_a354d0f0aa094783",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867770210076066329::conclusion_3",
+            "package_id": "paper:867770210076066329",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867770210076066329"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "b90b2e95334a2ab3627028d34182bf4c"
+}

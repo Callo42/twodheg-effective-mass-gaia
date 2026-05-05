@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:812123848521547776": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-12-15",
+        "cover_date_start": "2005-12-15",
+        "created_at": "2022-12-20T16:50:14+08:00",
+        "doi": "10.1103/physrevlett.95.256603",
+        "en_title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+        "id": "812123848521547776",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "半导体结构中载流子有效质量的自旋极化依赖性：自旋电子学有效质量"
+      },
+      "paper:812265327185362946": {
+        "area": "Physics and Astrophysics",
+        "authors": "M.W.C. Dharma-wardana",
+        "available_online": "",
+        "cover_date_start": "2005-10-01",
+        "created_at": "2022-12-21T02:12:25+08:00",
+        "doi": "10.1016/j.ssc.2005.06.036",
+        "en_title": "Exchange-correlation and layer-thickness effects in quasi-two dimensional electron liquids",
+        "id": "812265327185362946",
+        "keywords": "",
+        "publication_date": "2005-10",
+        "publication_id": "653",
+        "publication_name": "Solid State Communications _ Solid State Communications",
+        "research_categories": "",
+        "zh_title": "准二维电子液体中的交换关联和层厚效应"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867762701202359115": {
+        "area": "arXiv-Physics",
+        "authors": "M.W.C. Dharma-wardana",
+        "available_online": "",
+        "cover_date_start": "2005-03-10",
+        "created_at": "2023-05-23T05:39:10+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0503246",
+        "en_title": "Layer-thickness effects in quai-two dimensional electron liquids",
+        "id": "867762701202359115",
+        "keywords": "",
+        "publication_date": "2005-03-10",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "准二维电子液体中的层厚效应"
+      }
+    },
+    "variables": [
+      {
+        "content": "Extrapolating the finite-size DMC effective-mass data to the thermodynamic limit using the single-power-law scaling with exponent \\\\(\\\\gamma=3/2\\\\) yields the following quasiparticle effective masses \\\\(m^{*}(\\\\infty)\\\\) expressed in Hartree atomic units (a.u.): for the paramagnetic (unpolarized) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\); for the fully spin-polarized (ferromagnetic) 2D HEG, \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\). These numerical values are the principal thermodynamic-limit benchmarks reported for clean, continuum-model 2D HEGs in this work.",
+        "content_hash": "d631cbd8ecda1555416c87b27059d1e949c717ed16e8822f7e4b002f8f3f52ea",
+        "id": "gcn_b7a7d456a05d4129",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DMC-calculated quasiparticle effective mass exhibits opposite trends with density for the two spin polarizations studied: in the paramagnetic (unpolarized) 2D HEG $m^{*}$ increases with increasing $r_{s}$ (decreasing density), producing a significant enhancement at $r_{s}=5$ and $r_{s}=10$, whereas in the fully ferromagnetic (fully spin-polarized) 2D HEG $m^{*}$ decreases as density is lowered; these calculated trends are quantitatively consistent with the experimental observations of Tan et al. for paramagnetic systems and of Padmanabhan et al. for ferromagnetic or partially spin-polarized systems.",
+        "content_hash": "1f24fa7b336da07b315b306303e81584370cfd18bbdc2be612f5f8c5572972c0",
+        "id": "gcn_4d1aad1470d54895",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_5",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03047794966520434,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a sequence of computed finite-size quasiparticle effective masses \\\\(m^{*}(N)\\\\) obtained by DMC for a 2D HEG at fixed density and spin polarization over the available range of system sizes \\\\(N\\\\), the proposition is: the dependence of \\\\(m^{*}(N)\\\\) on \\\\(N\\\\) can be modelled to good approximation by a single-term power-law finite-size correction,\n      $$\n      m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma},\n      $$\n      with approximately constant parameters \\\\(m^{*}(\\\\infty)\\\\), \\\\(b\\\\), and exponent \\\\(\\\\gamma\\\\) across the sampled \\\\(N\\\\)-range, so that this parametric form provides a valid basis for extrapolation to the thermodynamic limit within the statistical precision of the DMC data.",
+        "content_hash": "6e56f0524f3cdc6b961f9efe1176ff958542ea38998d0d4b448629acf98641cd",
+        "id": "gcn_541d67acdbe242b6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P7",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03009207275993712,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028612012987012988,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the fully spin-polarized (ferromagnetic) 2D HEG be represented theoretically by the continuum-model DMC calculations and experimentally by high-quality semiconductor two-dimensional systems in which spin polarization can be induced (for example by applying an in-plane magnetic field). The proposition is: the suppression of the quasiparticle effective mass with decreasing density observed in the DMC-extrapolated ferromagnetic results (numerically \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\)) corresponds qualitatively to the trend measured in experiments cited in the literature (for example Padmanabhan et al.), and this qualitative agreement is not invalidated by differences in sample specifics, partial polarization, disorder, or experimental measurement methodology.",
+        "content_hash": "669cd5e31b46fba548ede2ea9e82b88947057ce76f13729914fa9240641a1002",
+        "id": "gcn_c29299878b8148cb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P12",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028594771241830064,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The 2D calculations assume an ideal strictly two-dimensional electron gas with the bare Coulomb interaction $v_{q}=2\\pi e^{2}/q$ and therefore omit finite quasi-2D layer-width form-factor corrections that, for a realistic quasi-2D quantum well or heterostructure, modify the effective interaction at large wavevectors $q$. The explicitly stated quantitative effect of such finite-width form factors is to reduce the 2D many-body renormalization by factors on the order of roughly 1.2–2 depending on carrier density and confinement details; the weak point is the assumption that omitting these finite-width form factors does not change the qualitative conclusions about the spin-polarization dependence of the effective mass (majority mass decreasing with $\\zeta$, minority mass nonmonotonic).\n      [14]",
+        "content_hash": "292cc980d059d043cc1d0908a2b4e0da15c1ac36a746c2af6c0baee319feb1f2",
+        "id": "gcn_04d9c68545784e07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812123848521547776::P4",
+            "package_id": "paper:812123848521547776",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812123848521547776"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For electrons in a GaAs/AlGaAs HIGFET (a quasi-2D system with finite transverse width w set by the lowest-subband profile), the unperturbed-g approximation that uses the ideal (w=0) pair-distribution function g_{0}(r) together with the finite-width interaction W(r,w) fails to capture the effective mass m^{*}, whereas performing a fully self-consistent CHNC calculation that solves for the finite-width pair-distribution function g(r,T,w) yields an increased m^{*}.  At r_{\\mathrm{s}}=5 and T/E_{\\mathrm{F}}=0.1 the self-consistent CHNC g(r,T,w) for a HIGFET exhibits a strong enhancement near r=0 relative to the ideal 2D g_{0}(r), reflecting the weakened short-range repulsion of the finite-width interaction W(r,w); evaluating m^{*} from the curvature \\partial^{2}F_{\\mathrm{xc}}(T)/\\partial T^{2} over the reduced-temperature interval T/E_{\\mathrm{F}}=0.05\\text{--}0.1 gives a HIGFET m^{*} that lies above the ideal-w=0 value, opposite to the trend predicted by Asgari et al., and this mass enhancement is attributed to the stronger short-ranged correlations (the increased on-top and near-on-top g(r)) induced by finite layer thickness.",
+        "content_hash": "d205baf7e7a4a036fc00a2d8fc28f551912f15640f92036f75bf57015e86cb26",
+        "id": "gcn_819ceecf86154337",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812265327185362946::conclusion_4",
+            "package_id": "paper:812265327185362946",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812265327185362946"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For DMC-computed discrete single-quasiparticle bands \\\\(\\\\mathcal{E}(k)\\\\) obtained in finite periodic simulation cells for a 2D HEG, define the pathological behaviour as the erratic variation of estimated quasiparticle effective mass \\\\(m^{*}\\\\) when the derivative \\\\(d\\\\mathcal{E}/dk\\\\) is estimated by fitting only a very narrow \\\\(k\\\\)-range immediately surrounding the Fermi wavevector \\\\(k_{F}\\\\). The proposition is: this near-\\\\(k_{F}\\\\) pathological behaviour of \\\\(m^{*}\\\\) estimates arises primarily from finite-cell fluctuations (for example, the discrete sampling of \\\\(\\\\mathbf{k}\\\\)-points and cell-induced finite-size correlation effects) together with Hartree–Fock-like non-smooth mean-field features that persist in finite cells, rather than from an intrinsic non-differentiability or singularity of the true thermodynamic-limit quasiparticle band at \\\\(k_{F}\\\\); this explains why expanding the \\\\(k\\\\)-range used in the fit reduces the pathology.",
+        "content_hash": "5827ef134c5698030c0deee52fb79f50c18c74b63fbbc3acf80170af77da0f77",
+        "id": "gcn_aac0470dbff84cb8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P5",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The CHNC-calculated effective mass m^* for the ideal two-dimensional electron liquid (w = 0), obtained by evaluating the second derivative of the CHNC Helmholtz free energy with respect to temperature, reproduces available Quantum Monte Carlo benchmark values for the ideal 2D system; for HIGFET geometries the \"unperturbed-g\" approximation (using the ideal-layer g(r) in the Δ correction) fails to reproduce experimental measurements of m^*, whereas fully self-consistent CHNC calculations that use the CDM interaction W(r,w) and the CHNC-generated, finite-w g(r) produce a pronounced increase of m^* relative to the ideal 2D result and give results in substantially better agreement with the experimental m^* values reported for HIGFETs. The computed increase of m^* in finite-width HIGFETs is traced to a strong enhancement of the on-top pair-correlation value g(0) (increased singlet clustering) that arises from the weakened short-range repulsion in the quasi-2D interaction W(r); the evaluated m^* is therefore highly sensitive to the accurate determination of g(0). In the present calculations the CHNC bridge parameters controlling clustering and diffraction—the hard-disk packing fraction η and the diffraction cutoff k_{th} representing the de Broglie momentum used to regularize short-range quantum scattering—were taken equal to their ideal-2D (w = 0) values, and a re-evaluation of these parameters as functions of slab width w is expected to further improve agreement with experiment.",
+        "content_hash": "57f36a490049bd865db2d28efe34d42b89ac8609e37ec002ca110acedb0bab6c",
+        "id": "gcn_2b8f93c273214507",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867762701202359115::conclusion_5",
+            "package_id": "paper:867762701202359115",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867762701202359115"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "7e0409e8be55c76262f02fc5e2bd4ef1"
+}

@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811872228453908481": {
+        "area": "Physics and Astrophysics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "2009-1-30",
+        "cover_date_start": "2009-01-30",
+        "created_at": "2022-12-20T00:10:23+08:00",
+        "doi": "10.1103/physrevb.79.041308",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "811872228453908481",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:811874236581806081": {
+        "area": "Physics and Astrophysics",
+        "authors": "E. Sola | J. P. Brodholt | D. Alfè",
+        "available_online": "2009-1-13",
+        "cover_date_start": "2009-01-13",
+        "created_at": "2022-12-20T00:18:22+08:00",
+        "doi": "10.1103/physrevb.79.024107",
+        "en_title": "Equation of state of hexagonal closed packed iron under Earth’s core conditions from quantum Monte Carlo calculations",
+        "id": "811874236581806081",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "基于量子蒙特卡罗计算的地核条件下六方密堆积铁的状态方程"
+      },
+      "paper:811981637976850435": {
+        "area": "Physics and Astrophysics",
+        "authors": "B. TANATAR | A. L. SUBAŞI | K. ESFARJANI | S. M. FAZELI",
+        "available_online": "2012-1-25",
+        "cover_date_start": "2007-05-30",
+        "created_at": "2022-12-20T07:25:08+08:00",
+        "doi": "10.1142/s0217979207043531",
+        "en_title": "GROUND-STATE ENERGY AND COMPRESSIBILITY OF A DISORDERED TWO-DIMENSIONAL ELECTRON GAS",
+        "id": "811981637976850435",
+        "keywords": "[{\"en_name\": \"2D electron gas\", \"ch_name\": \"\"}, {\"en_name\": \"Compressibility\", \"ch_name\": \"\"}, {\"en_name\": \"Disorder effects\", \"ch_name\": \"\"}]",
+        "publication_date": "2007-5-30",
+        "publication_id": "713",
+        "publication_name": "International Journal of Modern Physics B _ Int. J. Mod. Phys. B",
+        "research_categories": "",
+        "zh_title": "无序二维电子气的基态能量与压缩率"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867753636627743508": {
+        "area": "arXiv-Physics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "",
+        "cover_date_start": "2008-10-14",
+        "created_at": "2023-05-23T05:03:09+08:00",
+        "doi": "10.48550/arXiv.0810.2450",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "867753636627743508",
+        "keywords": "",
+        "publication_date": "2008-10-14",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:867757080855970184": {
+        "area": "arXiv-Physics",
+        "authors": "B. Davoudi | M. Polini | R. Asgari | M. P. Tosi",
+        "available_online": "",
+        "cover_date_start": "2002-01-23",
+        "created_at": "2023-05-23T05:16:50+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0201423",
+        "en_title": "Self-consistent Overhauser model for the pair distribution function of an electron gas in dimensionalities D=3 and D=2",
+        "id": "867757080855970184",
+        "keywords": "",
+        "publication_date": "2002-01-23",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "适用于三维（$$D = 3$$）和二维（$$D = 2$$）电子气对分布函数的自洽奥弗豪泽模型"
+      },
+      "paper:867772235845206946": {
+        "area": "arXiv-Physics",
+        "authors": "Fengjie Ma | Shiwei Zhang | Henry Krakauer",
+        "available_online": "",
+        "cover_date_start": "2012-11-20",
+        "created_at": "2023-05-23T06:17:03+08:00",
+        "doi": "10.48550/arXiv.1211.4635",
+        "en_title": "Excited state calculations in solids by auxiliary-field quantum Monte Carlo",
+        "id": "867772235845206946",
+        "keywords": "",
+        "publication_date": "2012-11-20",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "通过辅助场量子蒙特卡罗方法进行固体中的激发态计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "For an added-electron excitation of momentum \\mathbf{p} with |\\mathbf{p}|>k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy term\n      \\delta T_{\\mathbf p}^N=\\frac{\\hbar^2 p^2}{2m}\\,Z_{\\mathbf p}^N\\big[e^{-\\Delta_N}-1\\big],\n      where Z_{\\mathbf p}^N is the finite-N quasiparticle weight at \\mathbf{p} and \\Delta_N is the missing-small-q integral defined above; in leading order the corresponding potential-energy correction is independent of \\mathbf{p} and therefore does not affect the slope of the excitation dispersion used to extract the effective mass m^{*} from near-k_F fits.Eq. (12)",
+        "content_hash": "6b41b3dc32f594b42345f70be96c785991b9a4623c972ad47d45abcc5dba4f33",
+        "id": "gcn_da3eecec49114543",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753636627743508::P4",
+            "package_id": "paper:867753636627743508",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753636627743508"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum \\mathbf{p} (|\\mathbf{p}|>k_F) to the N-particle ground state produces a finite-size correction to the total kinetic-energy contribution of the excitation given by\n      \\delta T_{\\mathbf{p}}^{N}=\\frac{\\hbar^{2}\\mathbf{p}^{2}}{2m}\\;Z_{\\mathbf{p}}^{N}\\big[e^{-\\Delta_{N}}-1\\big],\n      where Z_{\\mathbf{p}}^{N} is the finite-N quasiparticle weight at momentum \\mathbf{p} and \\Delta_{N} is the missing-small-q integral defined in conclusion 1. Because \\Delta_{N}\\sim N^{-1/4} for large N, the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m^{*} (via the linearized relation \\varepsilon_{\\mathbf{k}}\\approx\\hbar^{2}k_F(k-k_F)/m^{*}) also scales as N^{-1/4}; therefore, extrapolations that assume faster vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m^{*}-m for typical accessible system sizes.",
+        "content_hash": "0c1b02dc23cc75d5851a4d7805ac3e763197906e5cfe7b8ea1810df601d48c00",
+        "id": "gcn_28b9e01bd2f8487f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753636627743508::conclusion_3",
+            "package_id": "paper:867753636627743508",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753636627743508"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03225806451612903,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The ensemble-averaged ground-state energy per particle $E(r_s)$ computed for the disordered two-dimensional electron gas departs increasingly from the reference homogeneous-system QMC energy (the Attaccalite et al. QMC parametrization for the homogeneous 2D electron gas) as the disorder strength is increased: for impurities placed at large setback distance $d$ the computed $E(r_s)$ approaches the homogeneous QMC energy, while increasing disorder strength (either larger impurity concentration $n_i$ or smaller setback distance $d$) produces larger deviations from the homogeneous value, and these disorder-induced deviations become more pronounced at larger $r_s$ (lower average density), indicating that electron–electron interaction effects amplify the influence of disorder on the ground-state energy.",
+        "content_hash": "5fc525814fb4326327f344e18cc31ee177bf6c63d35c0e9e96f72554079bbaa3",
+        "id": "gcn_a8d21837d0334db9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811981637976850435::conclusion_3",
+            "package_id": "paper:811981637976850435",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811981637976850435"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03055037313432836,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In finite periodic simulation cells for a two-dimensional homogeneous electron gas using Slater-Jastrow-backflow trial wave functions that contain variational parameters in the Jastrow and backflow factors, reoptimizing those variational parameters for an excited-state configuration (created by adding or removing an electron in a specified Bloch state) can yield a lower total DMC energy in that finite cell relative to using the ground-state-optimized parameters; because, in the thermodynamic limit, the optimal short-range correlation functions are unchanged by a single excitation, this finite-cell energy lowering is a manifestation of finite-size error and can reduce computed excitation bandwidths and therefore amplify finite-size bias in bandwidth-derived quantities such as the quasiparticle effective mass.",
+        "content_hash": "b13271b3449ea0dde4af2a827d5ce200b738ef18fbc54292a8a36c1305cf0a40",
+        "id": "gcn_850fc9d9de314026",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::P6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029273504273504274,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "After applying analytic finite-size corrections and extrapolating to the thermodynamic limit for the two-dimensional electron gas in the density range $1\\le r_{s}\\le 10$, the single-particle effective mass is found to be enhanced relative to the bare electron mass ($m^{*}/m>1$) across this range, and the renormalization factor $Z$ obtained from the corrected Quantum Monte Carlo calculations is systematically smaller than the corresponding values obtained from perturbative random-phase approximation (RPA) calculations. These corrected QMC findings therefore indicate that perturbative RPA tends to overestimate $Z$ and underestimate the quasiparticle mass enhancement in the studied density regime, while calculations that go beyond perturbative RPA by incorporating many-body local-field (charge- and spin-density) corrections give results qualitatively consistent with the corrected QMC values.",
+        "content_hash": "86cf978fb31c0cd56070c631fbf582bf7ac586f1b6515e430784cc2d1cba814d",
+        "id": "gcn_b3363fd9d3314c08",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811872228453908481::conclusion_5",
+            "package_id": "paper:811872228453908481",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811872228453908481"
+          ]
+        },
+        "role": "premise",
+        "score": 0.026120660599932594,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "A post-processing protocol to remove finite-size (FS) errors from AFQMC excitation energies computed in periodic simulation cells combines a one-body plus electron–hole correction and a two-body correction and then extracts quasiparticle energies by least-squares fitting: denote by \\(e_{n}(k)\\) the single-particle Kohn–Sham density-functional-theory (DFT) band energies obtained on a dense Brillouin-zone \\(k\\)-grid and by \\(\\Delta E_{ij}^{\\mathrm{DFT}}(k)\\) the DFT excitation energy computed in the same finite simulation cell and \\(k\\)-point as the AFQMC many-body calculation; define the one-body plus electron–hole finite-size correction \\(\\delta E_{ij}^{\\mathrm{eh},1\\mathrm{b}}(k)=e_{j}(k)-e_{i}(k)-\\Delta E_{ij}^{\\mathrm{DFT}}(k)\\) to correct single-particle discretization and electron–hole pairing bias, and define the two-body finite-size correction \\(\\delta E_{ij}^{2\\mathrm{b}}(k)=\\Delta E_{ij}^{\\mathrm{LDA}}(k)-\\Delta E_{ij}^{\\mathsf{FS}\\text{-}\\mathsf{LDA}}(k)\\) as the difference between excitation energies computed in the finite cell with a standard local-density-approximation (LDA) functional and with an LDA functional parametrized for finite-size effects; the total finite-size correction is \\(\\delta E_{ij}(k)=\\delta E_{ij}^{\\mathrm{eh},1\\mathrm{b}}(k)+\\delta E_{ij}^{2\\mathrm{b}}(k)\\), which is added to the raw AFQMC excitation energies \\(\\Delta E_{ij}^{\\mathrm{QMC}}(k)\\) to form corrected excitations \\(\\Delta E_{ij}(k)=\\Delta E_{ij}^{\\mathrm{QMC}}(k)+\\delta E_{ij}(k)\\); quasiparticle band energies \\(\\epsilon_{n}(k)\\) are then obtained at each \\(k\\) by minimizing the least-squares objective \\(\\min\\limits_{\\{\\epsilon_{n}(k)\\}}\\sum_{i\\in\\mathbf{v}}\\sum_{j\\in\\mathbf{c}}\\big(\\Delta E_{ij}(k)-[\\epsilon_{j}(k)-\\epsilon_{i}(k)]\\big)^{2}\\), where \\(\\mathbf{v}\\) and \\(\\mathbf{c}\\) denote the sets of occupied and unoccupied band indices considered, and with the highest occupied quasiparticle energy constrained to the corresponding DFT eigenvalue \\(\\epsilon_{m}(k)=e_{m}(k)\\).",
+        "content_hash": "25f93b5c1b099703d585eeac924aac376ebd2ebf2555f43762fcb3ed306fec3a",
+        "id": "gcn_e300f415fe9c4da9",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772235845206946::conclusion_3",
+            "package_id": "paper:867772235845206946",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772235845206946"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.024422933730454205,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Kwee–Zhang–Krakauer (KZK) finite-size correction constructs finite-size local-density-approximation (LDA) exchange-correlation energy functionals by performing homogeneous-electron-gas calculations at discrete electron densities and finite cell sizes and uses these finite-size LDA functionals in density-functional-theory calculations on the identical periodic supercell employed in the quantum Monte Carlo calculation to compute a postprocessing two-body correction; the effectiveness of this KZK correction for a given material therefore relies on the premise that the standard, infinite-size-extrapolated DFT-LDA provides a reasonable baseline description of the material's electronic structure so that the finite-size LDA adjustments capture the dominant finite-size QMC errors.",
+        "content_hash": "f8df15f5d09ee3a6efc24863103a7a57cbf327b7ce0b5c0114d47264b3b9aadd",
+        "id": "gcn_9e1c216055ae4cfd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811874236581806081::P7",
+            "package_id": "paper:811874236581806081",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811874236581806081"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional homogeneous electron gas, with the 2D coupling parameter defined by $r_{s}a_{B}=(\\pi n)^{-1/2}$, the self-consistent Hartree two-electron scattering scheme reproduces available QMC pair-distribution data accurately at weak-to-moderate coupling (for example at $r_{s}=1$) but fails quantitatively at stronger coupling (for example at $r_{s}=5$): the scheme does not capture the emergence of a pronounced first-neighbor peak in $g(r)$, and discrepancies with QMC are already visible at $r_{s}=5$ and grow with increasing $r_{s}$.",
+        "content_hash": "1442271902587a35ed919f4eb2825aedebc875de9346092d0c6c9a804ed1b8bb",
+        "id": "gcn_5550db35a38e4c78",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757080855970184::conclusion_3",
+            "package_id": "paper:867757080855970184",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757080855970184"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "3e1549fbc4331371ba39ce092f266b92"
+}

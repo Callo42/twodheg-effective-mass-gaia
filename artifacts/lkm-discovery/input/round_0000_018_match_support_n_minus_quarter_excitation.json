@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811676850269978626": {
+        "area": "Geoscience",
+        "authors": "H. Yao | E. F. Schubert | R. F. Kopf",
+        "available_online": "2011-2-21",
+        "cover_date_start": "1992-01-01",
+        "created_at": "2022-12-19T11:14:02+08:00",
+        "doi": "10.1557/proc-261-57",
+        "en_title": "Raman and Ellipsometric Studies of Delta-Doped GaAs",
+        "id": "811676850269978626",
+        "keywords": "",
+        "publication_date": "1992",
+        "publication_id": "24595",
+        "publication_name": "MRS Proceedings _ MRS Proc.",
+        "research_categories": "",
+        "zh_title": "δ掺杂砷化镓的拉曼光谱和椭偏光谱研究"
+      },
+      "paper:811797977264816128": {
+        "area": "Physics and Astrophysics",
+        "authors": "Eddy P. Rugeramigabo | Christoph Tegenkamp | Herbert Pfnür | Takeshi Inaoka | Tadaaki Nagao",
+        "available_online": "2010-4-2",
+        "cover_date_start": "2010-04-02",
+        "created_at": "2022-12-19T19:15:20+08:00",
+        "doi": "10.1103/physrevb.81.165407",
+        "en_title": "One-dimensional plasmons in ultrathin metallic silicide wires of finite width",
+        "id": "811797977264816128",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "有限宽度超薄金属硅化物线中的一维等离激元"
+      },
+      "paper:811872228453908481": {
+        "area": "Physics and Astrophysics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "2009-1-30",
+        "cover_date_start": "2009-01-30",
+        "created_at": "2022-12-20T00:10:23+08:00",
+        "doi": "10.1103/physrevb.79.041308",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "811872228453908481",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:812316589683638272": {
+        "area": "Geoscience",
+        "authors": "N.E. Kaputkina | Yu.E. Lozovik",
+        "available_online": "",
+        "cover_date_start": "2005-02-01",
+        "created_at": "2022-12-21T05:36:08+08:00",
+        "doi": "10.1016/j.physe.2004.08.066",
+        "en_title": "Dimensional effects and magnetic field influence on excitons in coupled quantum dots and coupled quantum wells",
+        "id": "812316589683638272",
+        "keywords": "[{\"en_name\": \"Electron-hole bilayer system\", \"ch_name\": \"\"}, {\"en_name\": \"Magnetoexcitons\", \"ch_name\": \"\"}, {\"en_name\": \"Quantum dots\", \"ch_name\": \"\"}, {\"en_name\": \"Quantum wells\", \"ch_name\": \"\"}]",
+        "publication_date": "2005-2",
+        "publication_id": "98276",
+        "publication_name": "Physica E: Low dimensional Systems and Nanostructures _ Physica E: Low-dimensional Systems and Nanostructures",
+        "research_categories": "",
+        "zh_title": "维度效应以及磁场对耦合量子点和耦合量子阱中激子的影响"
+      },
+      "paper:867747865227690610": {
+        "area": "arXiv-Physics",
+        "authors": "E. H. Hwang | S. Das Sarma",
+        "available_online": "",
+        "cover_date_start": "2001-02-04",
+        "created_at": "2023-05-23T04:40:13+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0102057",
+        "en_title": "Plasmon dispersion in dilute 2D electron systems: Quantum-Classical and Wigner Crystal-Electron Liquid Crossover",
+        "id": "867747865227690610",
+        "keywords": "",
+        "publication_date": "2001-02-04",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维稀电子系统中的等离激元色散：量子-经典与维格纳晶体-电子液体转变"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867753636627743508": {
+        "area": "arXiv-Physics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "",
+        "cover_date_start": "2008-10-14",
+        "created_at": "2023-05-23T05:03:09+08:00",
+        "doi": "10.48550/arXiv.0810.2450",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "867753636627743508",
+        "keywords": "",
+        "publication_date": "2008-10-14",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:867757088892257080": {
+        "area": "arXiv-Physics",
+        "authors": "O. L. Berman | R. Ya. Kezerashvili | K. Ziegler",
+        "available_online": "",
+        "cover_date_start": "2013-02-19",
+        "created_at": "2023-05-23T05:16:52+08:00",
+        "doi": "10.48550/arXiv.1302.4505",
+        "en_title": "Coupling of two Dirac particles",
+        "id": "867757088892257080",
+        "keywords": "",
+        "publication_date": "2013-02-19",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "两个狄拉克粒子的耦合"
+      },
+      "paper:867758526666113170": {
+        "area": "arXiv-Physics",
+        "authors": "Sten Haastrup | Simone Latini | Kirill Bolotin | Kristian Sommer Thygesen",
+        "available_online": "",
+        "cover_date_start": "2016-02-12",
+        "created_at": "2023-05-23T05:22:35+08:00",
+        "doi": "10.48550/arXiv.1602.04044",
+        "en_title": "Field-induced dissociation of excitons in two-dimensional MoS$_{2}$/hBN heterostructures",
+        "id": "867758526666113170",
+        "keywords": "",
+        "publication_date": "2016-02-12",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维MoS₂/hBN异质结构中激子的场致解离"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum \\mathbf{p} (|\\mathbf{p}|>k_F) to the N-particle ground state produces a finite-size correction to the total kinetic-energy contribution of the excitation given by\n      \\delta T_{\\mathbf{p}}^{N}=\\frac{\\hbar^{2}\\mathbf{p}^{2}}{2m}\\;Z_{\\mathbf{p}}^{N}\\big[e^{-\\Delta_{N}}-1\\big],\n      where Z_{\\mathbf{p}}^{N} is the finite-N quasiparticle weight at momentum \\mathbf{p} and \\Delta_{N} is the missing-small-q integral defined in conclusion 1. Because \\Delta_{N}\\sim N^{-1/4} for large N, the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m^{*} (via the linearized relation \\varepsilon_{\\mathbf{k}}\\approx\\hbar^{2}k_F(k-k_F)/m^{*}) also scales as N^{-1/4}; therefore, extrapolations that assume faster vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m^{*}-m for typical accessible system sizes.",
+        "content_hash": "0c1b02dc23cc75d5851a4d7805ac3e763197906e5cfe7b8ea1810df601d48c00",
+        "id": "gcn_28b9e01bd2f8487f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753636627743508::conclusion_3",
+            "package_id": "paper:867753636627743508",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753636627743508"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For an added-electron excitation of momentum \\mathbf{p} with |\\mathbf{p}|>k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy term\n      \\delta T_{\\mathbf p}^N=\\frac{\\hbar^2 p^2}{2m}\\,Z_{\\mathbf p}^N\\big[e^{-\\Delta_N}-1\\big],\n      where Z_{\\mathbf p}^N is the finite-N quasiparticle weight at \\mathbf{p} and \\Delta_N is the missing-small-q integral defined above; in leading order the corresponding potential-energy correction is independent of \\mathbf{p} and therefore does not affect the slope of the excitation dispersion used to extract the effective mass m^{*} from near-k_F fits.Eq. (12)",
+        "content_hash": "6b41b3dc32f594b42345f70be96c785991b9a4623c972ad47d45abcc5dba4f33",
+        "id": "gcn_da3eecec49114543",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753636627743508::P4",
+            "package_id": "paper:867753636627743508",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753636627743508"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03225806451612903,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the two-layer effective mass formula be M = μ4 / [ vF2 C1 ] * sqrt( 1 + C1 / μ3 ), with μ = δ1 + δ2 and C1 = 2 γ N2 (ℏ vF)2 where γ = e2 / [ 8π ε0 εd D3 ]. Because γ ∝ D−3 enters multiplicatively into C1, the effective mass M increases as interlayer separation D increases within this formula; this dependence on D arises from the quasi-relativistic (Dirac-like) kinetic structure used to derive the dispersion rather than from a nonrelativistic Schrödinger description, in which the exciton mass does not acquire such a D-dependence.",
+        "content_hash": "09396afc4acb034e515dac32e3261ceaf0722f5d361c0a326c39e2fdde534557",
+        "id": "gcn_72e9feb1d1494c75",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757088892257080::P10",
+            "package_id": "paper:867757088892257080",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757088892257080"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+        "content_hash": "24e6e9b89d8fea52c2bf61cbe8065f4fecba74ed5645e9038ab0b8a7ffbda03d",
+        "id": "gcn_219b34bd252c43fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::P5",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The claim that finite-width corrections to dispersion decrease with increasing in-plane magnetic momentum P is given a physical rationale (that the lateral size of the magnetoexciton grows with P and reduces sensitivity to vertical structure), but the paper does not present explicit quantitative plots that isolate finite-width corrections as functions of P (for example, side-by-side comparisons of strictly 2D versus quasi-2D dispersions as functions of P for representative sets of D and d) that would demonstrate the monotonic decrease in the correction with P.",
+        "content_hash": "ff28180629206975afde91be3158472c7b16f77b4ab4b11eebc9527f424873b2",
+        "id": "gcn_32f8de411bf14d27",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812316589683638272::P5",
+            "package_id": "paper:812316589683638272",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812316589683638272"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fits of the measured plasmon dispersion using a model that incorporates the finite strip width and electron exchange-correlation yield an effective electron mass $m^{*}\\approx0.5\\,m_e$ (where $m_e$ is the free-electron mass) and an effective two-dimensional electron density $N_{2D}\\approx8\\times10^{13}\\ \\text{cm}^{-2}$; averaging this areal density over the strip width $L\\approx4\\ \\text{nm}$ gives an equivalent one-dimensional density $N_{1D}\\approx N_{2D}\\times L\\approx3.2\\times10^{7}\\ \\text{cm}^{-1}$, and the initial, almost-linear portion of the lowest-plasmon dispersion corresponds to a plasmon group velocity $v_{\\text{PL}}\\approx1\\times10^{6}\\ \\text{m}\\,\\text{s}^{-1}$.",
+        "content_hash": "b9072fda5411d2808dfae1ae8f968504a786ff4c64cfb5816696e7e7cf9bcca9",
+        "id": "gcn_7dc336263e7d4284",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811797977264816128::conclusion_5",
+            "package_id": "paper:811797977264816128",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811797977264816128"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a MoS2 monolayer embedded in the thin heterostructure environments considered (isolated, on a single hBN layer, or sandwiched between two hBN layers), many-body quasiparticle corrections to the single-particle band curvatures (and hence to the electron effective mass m_e^* and hole effective mass m_h^*) and substrate-induced renormalization of those band curvatures are assumed to be negligible for the purpose of computing the exciton reduced mass μ_ex, so that the ground-state DFT/LDA value μ_ex = 0.27 m_e (with m_e the free-electron mass) is used without applying GW-type corrections or explicit substrate renormalization schemes.",
+        "content_hash": "0af7120a7873462d73d26cd2ab5d440c716653122881df8485b7204e1d8c9c3d",
+        "id": "gcn_b4caa26ac9c44013",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867758526666113170::P7",
+            "package_id": "paper:867758526666113170",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867758526666113170"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron gas the plasmon frequency at in-plane wave vector $q$, denoted $\\omega_{p}(q)$, has the long-wavelength classical form $\\omega_{cl}(q)=\\omega_{0}\\sqrt{q}$ with $\\omega_{0}^{2}=2\\pi n e^{2}/m$, where $n$ is the 2D electron density, $e$ is the elementary charge, and $m$ is the carrier effective mass; the leading-order nonlocal (finite-wave-vector) random-phase-approximation (RPA) correction to this classical dispersion is\n      $$\n      \\frac{\\omega_{p}(q)}{\\omega_{cl}(q)} \\;=\\; 1 \\;+\\; \\frac{3}{4}\\frac{q}{q_{TF}},\n      $$\n      where the two-dimensional screening wave vector is $q_{TF}=g m e^{2}/\\hbar^{2}$, $g$ is the degeneracy factor (spin multiplicity), and $\\hbar$ is Planck's constant divided by $2\\pi$; the symbol $k_{F}=(4\\pi n/g)^{1/2}$ denotes the 2D Fermi wave vector. This RPA finite-$q$ correction increases the plasmon frequency above the classical value for finite $q$ and becomes quantitatively important when the wave vector $q$ is comparable to or larger than the Fermi wave vector $k_{F}$.",
+        "content_hash": "60c8c3e80ee1c6b10c9dae5b9b029b31d3f9c1f89bacba4c4c8826dd44537fae",
+        "id": "gcn_b85d94ced7f94097",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867747865227690610::conclusion_1",
+            "package_id": "paper:867747865227690610",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867747865227690610"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the kinetic energy per particle for a two-dimensional homogeneous electron gas computed from the momentum distribution $n_{\\mathbf{k}}$ as\n      $$\n      T=\\frac{\\hbar^{2}}{2m}\\frac{1}{V}\\sum_{\\mathbf{k}}k^{2}n_{\\mathbf{k}},\n      $$\n      where the sum over $\\mathbf{k}$ runs over discrete periodic-system wavevectors in a cell of area $V=L^{2}$. The leading finite-size corrections to both the kinetic energy per particle and to the potential energy per particle, arising from finite-$N$ deviations of $n_{\\mathbf{k}}$ that are localized near $k_{F}$ and governed by the same small-$q$ integrals that produce $\\Delta_{N}\\sim N^{-1/4}$, scale as $N^{-5/4}$ in two dimensions.",
+        "content_hash": "2e9c2c721ca3d98a8c6563607639f66abb07df1f67cdb8c44a67e8bc568a945b",
+        "id": "gcn_e57e36bd7d274310",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811872228453908481::P9",
+            "package_id": "paper:811872228453908481",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811872228453908481"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The standard small-$q$ plasmon dispersion relations for ideal homogeneous electron gases are taken in this analysis as\n      $$\n      \\omega_{p}^{2}\\approx a q+\\frac{3}{4}\\left(v_{F}q\\right)^{2},\n      $$\n      for a strictly two-dimensional electron gas, and\n      $$\n      \\omega_{p}^{2}\\approx\\frac{N e^{2}}{\\varepsilon_{0}\\kappa m^{*}}+\\frac{3}{5}\\left(v_{F}q\\right)^{2},\n      $$\n      for a homogeneous three-dimensional electron gas, where in these expressions $\\omega_{p}$ is the plasmon angular frequency, $q$ is the in-plane wavevector magnitude, $a=\\dfrac{N^{2D}e^{2}}{2\\varepsilon_{0}\\kappa m^{*}}$ with $N^{2D}$ the two-dimensional areal electron density, $N$ the volumetric electron density, $e$ the elementary charge, $\\varepsilon_{0}$ the vacuum permittivity, $\\kappa$ the dielectric screening constant of the medium, $m^{*}$ the electron effective mass, and $v_{F}$ the Fermi velocity. It is assumed here that these homogeneous 2D and 3D dispersion formulae may be used without modification to interpret the optical long-wavelength ($q\\approx0$) backscattered Raman response of a real multilayer structure consisting of nine silicon $\\delta$-doped GaAs planes with finite interlayer spacing $d$ and finite top and spacer layer thicknesses, so that the presence or absence of a finite-frequency backscattered Raman $L^{+}$ mode can be interpreted directly as indicating predominantly two-dimensional versus quasi-three-dimensional collective character in the measured multilayer region.",
+        "content_hash": "e5b31c1fbe1077ab4248c1aefa8fe3f458cc3d3d60a6e1622e19901b3a37eff3",
+        "id": "gcn_e461c1a77fa1429b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811676850269978626::P1",
+            "package_id": "paper:811676850269978626",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811676850269978626"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "c3ce081924fa71aebb3e365c6642f946"
+}

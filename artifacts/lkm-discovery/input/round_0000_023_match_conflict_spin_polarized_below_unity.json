@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:813085284483727362": {
+        "area": "Chemistry",
+        "authors": "P.D. Altukhov",
+        "available_online": "",
+        "cover_date_start": "1996-07-01",
+        "created_at": "2022-12-23T08:30:38+08:00",
+        "doi": "10.1016/0039-6028(96)00437-2",
+        "en_title": "Excitons in a dense two-dimensional electron gas at a semiconductor surface",
+        "id": "813085284483727362",
+        "keywords": "[{\"en_name\": \"Metal-oxide-semiconductor (MOS) structures\", \"ch_name\": \"\"}, {\"en_name\": \"Surface electronic phenomena\", \"ch_name\": \"\"}]",
+        "publication_date": "1996-7",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "半导体表面致密二维电子气中的激子"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867756581142397117": {
+        "area": "arXiv-Physics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "",
+        "cover_date_start": "2005-09-12",
+        "created_at": "2023-05-23T05:14:51+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0509300",
+        "en_title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+        "id": "867756581142397117",
+        "keywords": "",
+        "publication_date": "2005-09-12",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "半导体结构中载流子有效质量的自旋极化依赖性：自旋电子学有效质量"
+      },
+      "paper:867767968912637993": {
+        "area": "arXiv-Physics",
+        "authors": "J.S. Thakur | D. Neilson",
+        "available_online": "",
+        "cover_date_start": "2000-01-31",
+        "created_at": "2023-05-23T06:00:06+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0001435",
+        "en_title": "Central role of exchange-correlation hole in the 2D metal-insulator",
+        "id": "867767968912637993",
+        "keywords": "",
+        "publication_date": "2000-01-31",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维金属-绝缘体中交换关联空穴的核心作用"
+      },
+      "paper:867772881663164657": {
+        "area": "arXiv-Physics",
+        "authors": "Reza Asgari | T. Gokmen | B. Tanatar | Medini Padmanabhan | M. Shayegan",
+        "available_online": "",
+        "cover_date_start": "2009-02-19",
+        "created_at": "2023-05-23T06:19:37+08:00",
+        "doi": "10.48550/arXiv.0902.3437",
+        "en_title": "Effective mass suppression in a ferromagnetic two-dimensional electron liquid",
+        "id": "867772881663164657",
+        "keywords": "",
+        "publication_date": "2009-02-19",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "铁磁二维电子液体中的有效质量抑制"
+      }
+    },
+    "variables": [
+      {
+        "content": "For a homogeneous, fully spin-polarized strictly two-dimensional electron system with interaction-strength parameter r_s = (πn_{2D}a_B^2)^{-1/2} (where a_B = ħ^2κ/(m_b e^2) is the effective Bohr radius in the semiconductor), numerical evaluation of the self-energy formulas given above using a static charge local-field factor G_{\\uparrow}^{+}(q) (supplied, in the calculations reported here, by the Moreno–Marinescu parameterization of G^{+}(q,ζ=1)) yields the Fermi-contour quasiparticle effective mass m_{\\uparrow}^{*}(k_F^{\\uparrow}) that is suppressed below the band mass m_b in the strong-coupling regime: specifically, for r_s ≳ 3 the many-body effective mass decreases with increasing r_s and falls below m_b.  This trend for the fully spin-polarized (ferromagnetic) case contrasts with the typical behavior in spin-unpolarized (paramagnetic) two-dimensional electron systems, where many calculations and experiments report m^{*} increasing with r_s in the dilute, interacting range.",
+        "content_hash": "caa4eae255195e1a25732f94d230be410f861058980f4d6fc0283e9fa6dbcfab",
+        "id": "gcn_eec3adca1d104e2c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772881663164657::conclusion_2",
+            "package_id": "paper:867772881663164657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772881663164657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03200204813108039,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For an ideal two-dimensional homogeneous electron gas with parabolic single-particle dispersion $\\xi_{k}^{s}=(k^{2}-(k_{F}^{s})^{2})/2m$, bare Coulomb interaction $v_{q}=2\\pi e^{2}/q$, and spin polarization $\\zeta\\in[0,1]$, the quasiparticle effective mass computed from the single-loop dynamical-screening self-energy given above and the on-shell mass formula exhibits a nontrivial dependence on both the density parameter $r_{s}$ and $\\zeta$: the majority-spin (spin-up, $\\uparrow$) effective mass $m_{\\uparrow}^{*}$ decreases with increasing $\\zeta$, with a weak decrease for small $\\zeta$ and a much stronger decrease as $\\zeta\\to 1$, while the minority-spin (spin-down, $\\downarrow$) effective mass $m_{\\downarrow}^{*}$ is non-monotonic in $\\zeta$, first increasing for small $\\zeta$ and then sharply decreasing as $\\zeta\\to 1$.  Here $r_{s}$ is the two-dimensional Wigner–Seitz radius defined by $r_{s}\\equiv m e^{2}/\\sqrt{\\pi n}$.  Quantitatively, at $r_{s}=5$ the majority-spin effective-mass renormalization $m_{\\uparrow}^{*}/m$ differs by more than a factor of two between the unpolarized state ($\\zeta=0$) and the fully polarized state ($\\zeta=1$).  These results were obtained for $r_{s}$ values in the range $1\\le r_{s}\\le 10$ and are presented as $m^{*}/m$ versus $\\zeta$ curves for $r_{s}=1,\\dots,10$.",
+        "content_hash": "389868f061c5bab6b99fb92321bebd1068ee408336802c76d729b3b58102cc85",
+        "id": "gcn_8acc40766ae44456",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867756581142397117::conclusion_2",
+            "package_id": "paper:867756581142397117",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867756581142397117"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.0315136476426799,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=5, the thermodynamic-limit quasiparticle effective mass obtained by extrapolating finite-N DMC quartic-fit results is m^*(∞)=0.74(1) a.u., using m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector.",
+        "content_hash": "0eb54583a6b53a006ba8d20615260d038847d96ae4baf9a0d0acbd34253b7e32",
+        "id": "gcn_38bbf14d5dc448f0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_8",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030776515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N DMC effective masses obtained from quartic-band fits yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.851(5) a.u.; here m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector appropriate to the fully spin-polarized system.",
+        "content_hash": "5747e572876f4ad53cbf63c9a95667c9b3252c3f96c012389168f4010b0d4d5d",
+        "id": "gcn_dc8e0e000d7c44da",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_7",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03057889822595705,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extrapolated thermodynamic-limit effective masses exhibit distinct density dependences depending on spin polarization: for the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10 the extrapolated effective mass remains close to unity (\\\\(m^{*}\\\\approx1\\\\)), indicating no significant interaction-induced mass enhancement at these densities for the clean continuum 2D HEG model considered; by contrast, for the fully spin-polarized (ferromagnetic) 2D HEG the extrapolated effective mass decreases as the density is lowered, for example taking the values \\\\(0.85(1)\\\\) at \\\\(r_{s}=1\\\\), \\\\(0.74(1)\\\\) at \\\\(r_{s}=5\\\\), and \\\\(0.70(3)\\\\) at \\\\(r_{s}=10\\\\), a trend that is qualitatively consistent with experimental measurements on spin-polarized two-dimensional systems reported in the literature (e.g., Padmanabhan et al.).",
+        "content_hash": "50d79ff1ea218bc2ead65fa8297f1c40403b60c514239f93423bf99aa338304e",
+        "id": "gcn_bdc9e8a10cfe4b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028814262023217248,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron gas with densities n_{s} in the range 3×10^{12} to 5×10^{12} cm^{-2} and an electron effective mass typical of silicon inversion layers, the electronic Fermi energy E_{\\mathrm{F}} is sufficiently large that application of laboratory magnetic fields up to several tesla (for example, B\\approx 5–7 T) produces negligible thermodynamic spin polarization of the free two-dimensional electron ensemble (i.e., the fraction of spin-polarized two-dimensional electrons remains small), so that field-induced changes in radiative intensity attributable to bulk two-dimensional-electron spin polarization are minimal.",
+        "content_hash": "cd2fb1810a5fb1a42d7729012e71675b04936711a23a7c26b4d177bd425f5271",
+        "id": "gcn_323a8e1cbe094679",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813085284483727362::P14",
+            "package_id": "paper:813085284483727362",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813085284483727362"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027583600982429624,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $g$ denote the effective Landé g-factor (dimensionless), let $\\mu_B$ denote the Bohr magneton, and let $E_p(r_s)$ and $E_u(r_s)$ denote the zero-temperature many-body free energy per carrier of the fully spin-polarized and of the unpolarized homogeneous two-dimensional electron gas respectively at the same density parameter $r_s$; the critical parallel magnetic field $H_c$ required to convert the ground state from unpolarized to fully spin polarized is estimated by equating the Zeeman energy gain per carrier $g\\mu_B H_c$ to the many-body free-energy difference per carrier $E_p(r_s)-E_u(r_s)$, i.e. by solving\n      $$\n      H_c \\;=\\; \\frac{E_p(r_s)-E_u(r_s)}{g\\mu_B},\n      $$\n      neglecting orbital coupling to the field and finite-temperature effects; using DQMC free-energy differences computed for the homogeneous two-dimensional electron gas and adopting an effective product $(g\\sigma_z)=1.1$ (where $\\sigma_z$ is the average spin projection per carrier, with $\\sigma_z=1$ for full polarization) appropriate to GaAs yields an estimate $H_c\\simeq 0.7\\,$T at $r_s=9$, and indicates that parallel fields of order $1\\,$T suffice to fully polarize the ground state at the carrier densities considered.",
+        "content_hash": "da01bb9bd4be48ae7ec4e71b34cb547f28ef04ac8e433a442d9683d94abbbb42",
+        "id": "gcn_fa140e16ec854818",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767968912637993::conclusion_4",
+            "package_id": "paper:867767968912637993",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767968912637993"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.025978407557354925,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define the effective Landé g-factor $g$ (dimensionless) and the Bohr magneton $\\mu_B$; define $E_p(r_s)$ and $E_u(r_s)$ as the many-body ground-state free energy per electron of a homogeneous two-dimensional electron gas in the fully spin-polarized and unpolarized states respectively, both evaluated at the same density parameter $r_s$. The critical parallel magnetic field $H_c$ required to convert the ground state from unpolarized to fully spin polarized is estimated by equating the single-electron Zeeman energy gain per electron $E_Z(g,H)=g\\mu_B H$ to the many-body free-energy difference per electron $E_p(r_s)-E_u(r_s)$ and solving\n      $$\n      H_c \\;=\\; \\frac{E_p(r_s)-E_u(r_s)}{g\\mu_B},\n      $$\n      while neglecting orbital coupling to the field, collective many-body redistribution of energy beyond the per-electron free-energy difference, and finite-temperature effects.\n      Francesco Rapisarda and Gaetano Senatore, Aust J. Phys. 49, 161 (1996)",
+        "content_hash": "a97907210027fecbe43c61306e110289f80e539034a4accc4384911b092d3a03",
+        "id": "gcn_1e49da3b73fc4dad",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767968912637993::P4",
+            "package_id": "paper:867767968912637993",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767968912637993"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02538152610441767,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gas, the first three angular-momentum Fermi liquid parameters divided by the quasiparticle effective mass were obtained by computing the single-spin Fourier projection a_l^{\\uparrow\\uparrow} = \\tfrac{2}{\\pi}\\int_{0}^{\\pi} N f_{\\uparrow\\uparrow}(\\theta)\\cos(l\\theta)\\,d\\theta and forming F_l/m^{*} = \\tfrac{r_s^2}{4} a_l^{\\uparrow\\uparrow}, then extrapolating the finite-size estimates versus particle number N with a power-law N^{-1/4} dependence to the thermodynamic limit. The thermodynamic-limit estimates (with statistical uncertainties from the extrapolation fits) are: at r_s = 1, F_0/m^{*} = -0.50(4), F_1/m^{*} = -0.22(3), F_2/m^{*} = -0.14(3); at r_s = 5, F_0/m^{*} = -1.5(2), F_1/m^{*} = -0.61(6), F_2/m^{*} = -0.13(6); and at r_s = 10, F_0/m^{*} = -1.8(3), F_1/m^{*} = -1.03(3), F_2/m^{*} = 0.08(8).",
+        "content_hash": "4caa0944b3ac8223ef6fcdaded63c338b79f270873c9c6b809badc652d5689e0",
+        "id": "gcn_ba1604231f04446e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_3",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "68ed2bc7321175ea8e053fa0c91e7dce"
+}

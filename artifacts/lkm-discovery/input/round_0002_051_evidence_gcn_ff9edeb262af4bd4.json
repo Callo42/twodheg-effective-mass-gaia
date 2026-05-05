@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+      "content_hash": "b91e49651e9919fd43236efc34209fb4d01669b2208edac4b705bf9ae139fce3",
+      "id": "gcn_ff9edeb262af4bd4",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+              "id": "gcn_ff9edeb262af4bd4"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_3b68e788019a413c",
+            "premises": [
+              {
+                "content": "The quasiparticle effective masses m^{*} reported in the literature from DMC fits to the single-particle energy band and the ground-state total-energy parametrizations reported in the literature as continuous functions E_{\\mathrm{corr}}(r_s,\\zeta) of density parameter r_s and spin polarization \\zeta are mutually consistent within their stated uncertainties and can be combined algebraically via standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic HEG and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta)) to produce numerical estimates of the dimensionless Fermi liquid parameters F_l for the 2D HEG.\n      Refs. 11,23,24",
+                "id": "gcn_f39401296385496c"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "State the motivation for assembling \"best available\" Fermi liquid parameters: because direct extrapolation of Landau-function-based QMC estimates is hindered by large finite-size uncertainties and methodological limitations, the authors combine more robust QMC results from the literature—specifically effective masses obtained from DMC calculations of the single-particle energy band and parametrizations of the ground-state total energy as functions of density and spin polarization—to produce informed estimates of the Fermi liquid parameters that are considered the most reliable given available data.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Identify the literature ingredients used and how they are combined: effective masses $m^{*}$ are taken from the authors' prior DMC energy-band calculations (Ref. 11), and parametrizations of the ground-state correlation energy per electron as functions of density and spin polarization are taken from Refs. 23 and 24; the authors explain that they determine $F_1^{s}$ and $F_1$ using the effective masses from Ref. 11, determine $F_0^{s}$ using the effective masses from Ref. 11 together with the correlation-energy parametrization of Ref. 23, and determine $F_0$ and $F_0^{a}$ using the effective masses together with the correlation-energy parametrization of Ref. 24. These combinations yield dimensionless Fermi liquid parameters $F_l$ that do not suffer from the same finite-size extrapolation uncertainties as the direct Landau-function projections.\n[11][23,24]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Explain the algebraic basis for converting the literature inputs into $F_l$ values: the Fermi liquid relations used are (a) $F_{1}^{s}=m^{*}-1$ for the paramagnetic HEG and $F_{1}=m^{*}-1$ for the ferromagnetic HEG (Galilean-invariance relations), which allow $F_1$-type parameters to be inferred from $m^{*}$; (b) $F_0$-type parameters are obtained from thermodynamic relations between the compressibility or spin susceptibility and derivatives of the ground-state total energy per particle via the parametrizations of the correlation energy (so that $F_0^{s}$ and $F_0^{a}$ follow from combining $m^{*}$ and the parametrized total energy). The paper uses the parametrizations to compute the quantities $F_0^{s}$, $F_0^{a}$, and $F_0$ consistent with literature effective masses.",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Report the assembled \"best available\" paramagnetic Fermi liquid parameters (dimensionless $F_l$) and their uncertainties as inferred from the literature combination: for $r_s=1$, $F_0^{s}=-0.495(2)$, $F_0^{a}=-0.346(2)$, $F_1^{s}=-0.053(3)$; for $r_s=5$, $F_0^{s}=-2.68(5)$, $F_0^{a}=-0.713(9)$, $F_1^{s}=-0.03(3)$; for $r_s=10$, $F_0^{s}=-5.2(3)$, $F_0^{a}=-0.870(9)$, $F_1^{s}=-0.15(6)$. These values are presented in a table in the paper and are the product of combining effective masses and total-energy parametrizations.",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Report the assembled \"best available\" ferromagnetic Fermi liquid parameters and their uncertainties inferred analogously: for $r_s=1$, $F_0=-0.428(2)$, $F_1=-0.159(3)$; for $r_s=5$, $F_0=-1.46(1)$, $F_1=-0.27(2)$; for $r_s=10$, $F_0=-2.57(9)$, $F_1=-0.33(4)$. These values are presented in the paper's summary tables as the recommended numerical estimates given the limitations of direct Landau-function projections.",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "State the intended interpretation and caveat for these assembled values: these tables represent an informed synthesis of available QMC data and parametrizations and are intended as the most reliable numerical estimates currently available, subject to the caveats that they rely on combining results from separate calculations (effective masses and energy parametrizations) and inherit systematic uncertainties from those inputs; nevertheless, given the present understanding of finite-size and methodological limitations, these combined estimates are put forward as the \"best available\" Fermi liquid parameters for the 2D HEG.",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Direct extraction of converged Fermi liquid parameters from the present Landau-function QMC calculations proved to be hampered by large finite-size uncertainty and inconsistency with thermodynamic derivatives. Practitioners nevertheless require numerical values for $F_l$ for use in modeling and comparison. Therefore, it was necessary to assemble estimates by combining complementary QMC results from the literature (energy-band effective masses and total-energy parametrizations) to provide the community with the most trustworthy numerical Fermi liquid parameters available at present, while acknowledging their provenance and limitations.",
+            "id": "paper:813209134949203971::conclusion_7_subproblem",
+            "source_package": "paper:813209134949203971"
+          }
+        ],
+        "source_package": "paper:813209134949203971"
+      }
+    ],
+    "papers": {
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "cf826686fd0c61e8e3839ee92b8a36b8"
+}

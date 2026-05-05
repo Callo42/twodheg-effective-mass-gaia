@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The Fermi liquid parameters divided by the quasiparticle effective mass, $\\;F_{l}^{s,a}/m^{*}$ (symmetric and antisymmetric channels for the paramagnetic HEG) and $F_{l}/m^{*}$ (ferromagnetic HEG), were obtained from the discrete-angle DMC interaction functions by first computing the Fourier components\n      $$\n      a_{l}^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_{0}^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta,\n      $$\n      and then using the relations for an $N$-electron paramagnetic finite cell of density parameter $r_s$\n      $$\n      \\frac{F_{l}^{s,a}}{m^{*}}=\\frac{r_s^2}{4}\\big[a_{l}^{\\uparrow\\uparrow}\\pm a_{l}^{\\uparrow\\downarrow}\\big],\n      $$\n      and for a ferromagnetic finite cell\n      $$\n      \\frac{F_l}{m^{*}}=\\frac{r_s^2}{4}a_{l}^{\\uparrow\\uparrow},\n      $$\n      where $m^{*}$ denotes the quasiparticle effective mass.  Numerical angular integration of the available nonuniform discrete angles $\\{\\theta_i\\}$ was performed using a generalized composite Simpson's rule (piecewise quadratic interpolation adapted to a nonuniform grid), and the result was compared with a generalized composite trapezoidal rule to place an upper bound on the quadrature error.  Finite-size values of $F_l/m^{*}$ obtained at multiple closed-shell electron counts were extrapolated to the thermodynamic limit $N\\to\\infty$ by fitting the finite-$N$ data to the model $F_l(N)=c+aN^{\\gamma}$ with the exponent fixed at $\\gamma=-1/4$ (i.e., leading finite-size correction $\\propto N^{-1/4}$) motivated by theoretical analyses of long-range-correlation contributions; ordinary (unweighted) least-squares fits were used because oscillatory shell-filling deviations of the finite-size data are larger than the nominal Monte Carlo error bars, and the quoted uncertainties on the extrapolated parameters reflect the scatter of the finite-$N$ data under these fits.",
+      "content_hash": "4cc3ad14db079e132af2b29e1f01abb9b83fa37852979b41df74488064d99a4c",
+      "id": "gcn_64dc5d5e0d904476",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The Fermi liquid parameters divided by the quasiparticle effective mass, $\\;F_{l}^{s,a}/m^{*}$ (symmetric and antisymmetric channels for the paramagnetic HEG) and $F_{l}/m^{*}$ (ferromagnetic HEG), were obtained from the discrete-angle DMC interaction functions by first computing the Fourier components\n      $$\n      a_{l}^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_{0}^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta,\n      $$\n      and then using the relations for an $N$-electron paramagnetic finite cell of density parameter $r_s$\n      $$\n      \\frac{F_{l}^{s,a}}{m^{*}}=\\frac{r_s^2}{4}\\big[a_{l}^{\\uparrow\\uparrow}\\pm a_{l}^{\\uparrow\\downarrow}\\big],\n      $$\n      and for a ferromagnetic finite cell\n      $$\n      \\frac{F_l}{m^{*}}=\\frac{r_s^2}{4}a_{l}^{\\uparrow\\uparrow},\n      $$\n      where $m^{*}$ denotes the quasiparticle effective mass.  Numerical angular integration of the available nonuniform discrete angles $\\{\\theta_i\\}$ was performed using a generalized composite Simpson's rule (piecewise quadratic interpolation adapted to a nonuniform grid), and the result was compared with a generalized composite trapezoidal rule to place an upper bound on the quadrature error.  Finite-size values of $F_l/m^{*}$ obtained at multiple closed-shell electron counts were extrapolated to the thermodynamic limit $N\\to\\infty$ by fitting the finite-$N$ data to the model $F_l(N)=c+aN^{\\gamma}$ with the exponent fixed at $\\gamma=-1/4$ (i.e., leading finite-size correction $\\propto N^{-1/4}$) motivated by theoretical analyses of long-range-correlation contributions; ordinary (unweighted) least-squares fits were used because oscillatory shell-filling deviations of the finite-size data are larger than the nominal Monte Carlo error bars, and the quoted uncertainties on the extrapolated parameters reflect the scatter of the finite-$N$ data under these fits.",
+              "id": "gcn_64dc5d5e0d904476"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_b2b49af1fa114a1c",
+            "premises": [
+              {
+                "content": "The proposition: When evaluating Fourier coefficients $a_l^{\\sigma\\sigma'}$ that are linear combinations of DMC total-energy estimates $E_0$, $E_{+}(\\mathbf{k}_i)$, $E_{-}(\\mathbf{k}_i')$, and $E_{\\sigma\\sigma'}(\\mathbf{k}_i,\\mathbf{k}_i')$, performing independent DMC runs for each of these states and propagating variances while omitting covariance terms (i.e., treating these estimators as if their statistical errors are uncorrelated) yields propagated standard errors for the derived quantities $a_l^{\\sigma\\sigma'}$ and hence for $F_l/m^{*}$ that are accurate to the level required here because the neglected covariances (arising from any shared random-walk histories or from use of a common ground-state estimate $E_0$) were found to be small compared with the dominant Monte Carlo variances in the individual estimates.",
+                "id": "gcn_7134ab726a504d43"
+              },
+              {
+                "content": "The proposition: Given a finite nonuniform discrete set of angles $\\{\\theta_i\\}_{i=1}^M$ at which $N f_{\\sigma\\sigma'}(\\theta_i)$ has been estimated by DMC for a two-dimensional homogeneous electron gas, using a generalized composite Simpson's rule (piecewise quadratic interpolation adapted to the nonuniform grid) to approximate the integral\n      $$\n      a_l^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_0^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta\n      $$\n      and comparing the Simpson result with a generalized composite trapezoidal-rule estimate provides an upper bound on the quadrature error; for the lowest angular indices $l=0$ and $l=1$ the observed difference between these two quadrature rules is substantially smaller than the Monte Carlo statistical error bars on the DMC data, so the quadrature error is negligible relative to the DMC random errors for those channels.",
+                "id": "gcn_bdae0aaea09b4018"
+              },
+              {
+                "content": "The proposition: For Fermi liquid parameters $F_l$ (or $F_l/m^{*}$) of the two-dimensional homogeneous electron gas (2D HEG) computed in square periodic simulation cells containing $N$ electrons, the leading systematic finite-size correction arising from long-range correlation effects scales asymptotically as $N^{\\gamma}$ with exponent $\\gamma=-1/4$ (i.e., a correction term proportional to $N^{-1/4}$), so that finite-$N$ results can be extrapolated to the thermodynamic limit by fitting to the form $F_l(N)=c+aN^{-1/4}$; this scaling is the same as that argued in the theoretical analyses of long-range-correlation finite-size effects (Holzmann et al.).",
+                "id": "gcn_219b34bd252c43fa"
+              },
+              {
+                "content": "The proposition: When finite-$N$ estimates of a Fermi liquid parameter $F_l(N)$ exhibit oscillatory deviations due to shell-filling effects that are larger than the nominal Monte Carlo error bars on individual points, performing an ordinary least-squares fit that weights each data point equally (i.e., unweighted residuals) to the model $F_l(N)=c+aN^{\\gamma}$ produces an extrapolated thermodynamic-limit value $c$ whose expectation is a more robust estimator of the true $N\\to\\infty$ value than a weighted $\\chi^2$ fit that uses the nominal error bars, because the nominal error bars do not account for the nonstatistical shell-filling oscillatory variance; here “shell-filling effects” denotes oscillatory finite-size variations arising from discrete reciprocal-lattice sampling in finite simulation cells.",
+                "id": "gcn_cf5596ad6bf847ce"
+              },
+              {
+                "content": "The proposition: When the discrete-angle set $\\{\\theta_i\\}$ used to evaluate\n      $$\n      a_l^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_0^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta\n      $$\n      does not include the integration endpoints $0$ and $\\pi$, extending the integrand to the endpoints by integrating a straight-line (linear) interpolation of the two nearest data points up to the endpoints introduces an additional quadrature error that is small compared with the Monte Carlo random error for the lowest Fourier channels ($l=0$ and $l=1$) but may become more significant for higher $l$ where the integrand oscillates more rapidly; “small” here means the added quadrature error is comparable to or smaller than the reported statistical uncertainties for the lowest channels.",
+                "id": "gcn_d8d7c10217e841ae"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from established upstream knowledge: the availability of discrete-angle DMC estimates of $f_{\\sigma\\sigma'}(\\theta)$ for multiple system sizes and spin channels (conclusion 1) is taken as given for the derivation of Fermi liquid parameters.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Provide the formal relation between Fourier components of the interaction function and the Fermi liquid parameters divided by effective mass for the paramagnetic case: define the Fourier coefficient \n$\na_{l}^{\\sigma\\sigma'}=\\frac{2}{\\pi}\\int_{0}^{\\pi}N f_{\\sigma\\sigma'}(\\theta)\\cos(l\\theta)\\,d\\theta,\n$\nwhere $N$ is the simulation-cell electron count, $f_{\\sigma\\sigma'}(\\theta)$ is the Landau interaction function at angle $\\theta$, and $l$ is the angular index; then the Fermi liquid parameters divided by the quasiparticle effective mass $m^{*}$ for a paramagnetic HEG are given by\n$\n\\frac{F_{l}^{s,a}}{m^{*}}=\\frac{r_s^2}{4}\\big[a_{l}^{\\uparrow\\uparrow}\\pm a_{l}^{\\uparrow\\downarrow}\\big],\n$\nwhere $r_{s}$ is the density parameter (radius of circle containing one electron on average) and the $+$/$-$ correspond to symmetric (s) and antisymmetric (a) combinations respectively. These relations follow from the Landau functional definitions and the expressions for density of states used in the paper. \nFig. 4",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Provide the analogous formal relation for the ferromagnetic case: for a fully ferromagnetic HEG define\n$\n\\frac{F_{l}}{m^{*}}=\\frac{r_{s}^{2}}{4}a_{l}^{\\uparrow\\uparrow},\n$\nwhere $a_{l}^{\\uparrow\\uparrow}$ is the $l$th Fourier component of $N f_{\\uparrow\\uparrow}(\\theta)$ as defined above.",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Explain the numerical quadrature strategy used to evaluate the Fourier coefficients from discrete-angle DMC data: because the set of angles $\\{\\theta_i\\}$ at which $N f_{\\sigma\\sigma'}(\\theta_i)$ is available is nonuniform and does not in general include the endpoints $0$ and $\\pi$, the authors use a generalized composite Simpson's rule (integration using piecewise quadratic interpolants adapted to a nonuniform grid) to approximate the integral for each $a_{l}^{\\sigma\\sigma'}$; where necessary, straight-line interpolation of the nearest two data points is used to extend the integrand to the endpoints. To bound quadrature error, the authors also compute $a_l^{\\sigma\\sigma'}$ using a generalized composite trapezoidal rule and compare the results. \nFig. 4\nFig. 5",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Explain how the statistical uncertainty in $F_{l}^{s,a}/m^{*}$ is propagated from DMC energy estimators: the Fourier coefficients $a_{l}^{\\sigma\\sigma'}$ are linear combinations of the DMC total energies $E_{0}$, $E_{+}(\\mathbf{k}_i)$, $E_{-}(\\mathbf{k}_i')$, and $E_{\\sigma\\sigma'}(\\mathbf{k}_i,\\mathbf{k}_i')$ because $a_{l}^{\\sigma\\sigma'}$ is an angular integral of $N f_{\\sigma\\sigma'}(\\theta)$ and $f_{\\sigma\\sigma'}(\\theta)$ itself is a linear combination of these energies; given independent DMC estimates of these energies and their variances, the expected values of $F_{l}^{s,a}/m^{*}$ (and their standard errors) can be evaluated by collecting coefficients of each energy in the expressions for the Fourier components and propagating statistical uncertainties accordingly. \nTable I",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "State how finite-size effects in the Fermi liquid parameters are modelled and extrapolated: the authors compute $F_{l}^{s,a}/m^{*}$ (paramagnetic) and $F_{l}/m^{*}$ (ferromagnetic) at three or more system sizes for each density and spin state, then fit the system-size dependence to a model $F(N)=c+aN^{\\gamma}$ and extrapolate to $N\\to\\infty$ under the assumption $\\gamma=-1/4$, motivated by theoretical results for long-range correlation finite-size scaling (in particular the work of Holzmann et al.); because shell-filling oscillations produce apparent fluctuations larger than nominal statistical error bars, ordinary least-squares fits unweighted by the inverse of the error bars are used to produce the quoted extrapolated values and uncertainties. \nRefs. 13 and 14\nFig. 6",
+                "step_id": "6"
+              },
+              {
+                "reasoning": "Document the practical implementation details the authors report: (i) use SJB trial wave functions and single-electron-promotion excitations to produce the discrete-angle DMC data; (ii) evaluate $a_l^{\\sigma\\sigma'}$ by generalized Simpson's rule and check by generalized trapezoidal rule to bound quadrature error; (iii) compute $F_l/m^{*}$ using the linear relations above; (iv) perform finite-size extrapolation assuming $N^{-1/4}$ scaling and obtain thermodynamic-limit estimates with quoted uncertainties from ordinary least-squares fits, acknowledging that shell-filling noise dominates the nominal statistical uncertainties. \nFig. 4",
+                "step_id": "7"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "The Landau parameters are angular integrals of the interaction functions and must be obtained from a nonuniform and discrete set of angle-sampled DMC estimates; numerical quadrature error and the correlation of data points must be controlled. Moreover, finite simulation cells induce long-range-correlation finite-size errors whose decay with $N$ must be modelled to reach the thermodynamic limit. Prior work lacked sufficiently dense angle sampling, robust quadrature checks, multiple system sizes, or a justified finite-size scaling assumption to allow stable extrapolation. Presenting an explicit operational procedure—(i) compute $f_{\\sigma\\sigma'}(\\theta)$ by DMC energy differences, (ii) compute Fourier components $a_l^{\\sigma\\sigma'}$ by generalized Simpson's rule and assess quadrature error, and (iii) extrapolate $F_l/m^{*}$ versus $N$ assuming $N^{-1/4}$ scaling—fills this methodological gap and makes the numerical determination reproducible, even though shell-filling noise remains problematic.",
+            "id": "paper:867749664370197342::conclusion_3_subproblem",
+            "source_package": "paper:867749664370197342"
+          }
+        ],
+        "source_package": "paper:867749664370197342"
+      }
+    ],
+    "papers": {
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "782014884cb6f031b21a27dfff668421"
+}

@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1219988054710681617": {
+        "area": "arXiv-Physics",
+        "authors": "Yanran Shi | Min Li | Xin Lu | Jianpeng Liu",
+        "available_online": "",
+        "cover_date_start": "2026-01-15",
+        "created_at": "2026-01-19T04:36:58+08:00",
+        "doi": "10.48550/arXiv.2601.10530",
+        "en_title": "Correlated states in charge-transfer heterostructures based on rhombohedral multilayer graphene",
+        "id": "1219988054710681617",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "基于菱面体多层石墨烯的电荷转移异质结构中的相关态"
+      },
+      "paper:811125690794508288": {
+        "area": "Physics and Astrophysics",
+        "authors": "S. A. Vitkalov | M. P. Sarachik | T. M. Klapwijk",
+        "available_online": "2002-5-20",
+        "cover_date_start": "2002-05-20",
+        "created_at": "2022-12-17T22:43:56+08:00",
+        "doi": "10.1103/physrevb.65.201106",
+        "en_title": "Spin polarization of strongly interacting two-dimensional electrons: The role of disorder",
+        "id": "811125690794508288",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "强相互作用二维电子的自旋极化：无序的作用"
+      },
+      "paper:811834649054543872": {
+        "area": "Physics and Astrophysics",
+        "authors": "H. Bentmann | F. Forster | G. Bihlmayer | E. V. Chulkov | L. Moreschini | M. Grioni | F. Reinert",
+        "available_online": "2009-8-28",
+        "cover_date_start": "2009-08-01",
+        "created_at": "2022-12-19T21:41:04+08:00",
+        "doi": "10.1209/0295-5075/87/37003",
+        "en_title": "Origin and manipulation of the Rashba splitting in surface alloys",
+        "id": "811834649054543872",
+        "keywords": "",
+        "publication_date": "2009-8-1",
+        "publication_id": "639",
+        "publication_name": "EPL (Europhysics Letters) _ Europhys. Lett.",
+        "research_categories": "",
+        "zh_title": "表面合金中Rashba分裂的起源与调控"
+      },
+      "paper:812123848521547776": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-12-15",
+        "cover_date_start": "2005-12-15",
+        "created_at": "2022-12-20T16:50:14+08:00",
+        "doi": "10.1103/physrevlett.95.256603",
+        "en_title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+        "id": "812123848521547776",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "半导体结构中载流子有效质量的自旋极化依赖性：自旋电子学有效质量"
+      },
+      "paper:812446529527742466": {
+        "area": "Chemistry",
+        "authors": "R. Jalabert | S. Das Sarma",
+        "available_online": "",
+        "cover_date_start": "1990-04-01",
+        "created_at": "2022-12-21T14:12:28+08:00",
+        "doi": "10.1016/0039-6028(90)90918-x",
+        "en_title": "Many-body effects in gaas-based two-dimensional electron systems",
+        "id": "812446529527742466",
+        "keywords": "",
+        "publication_date": "1990-4",
+        "publication_id": "3523",
+        "publication_name": "Surface Science _ Surface Science",
+        "research_categories": "",
+        "zh_title": "基于砷化镓的二维电子系统中的多体效应"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:813306805705768960": {
+        "area": "Geoscience",
+        "authors": "Nisha Bhukal | R. K. Moudgil",
+        "available_online": "",
+        "cover_date_start": "2012-01-01",
+        "created_at": "2022-12-23T23:10:54+08:00",
+        "doi": "10.1063/1.4710211",
+        "en_title": "Exchange-correlations in a dilute quasi-two-dimensional electron gas at finite temperature",
+        "id": "813306805705768960",
+        "keywords": "[{\"ch_name\":\"交换相关性\",\"en_name\":\"exchange-correlations\"},{\"ch_name\":\"量子限制\",\"en_name\":\"quantum confinement\"},{\"ch_name\":\"二维电子气\",\"en_name\":\"Two-dimensional electron gas\"}]",
+        "publication_date": "2012",
+        "publication_id": "96345",
+        "publication_name": "AIP Conference Proceedings _ ",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\", \"Quantum Physics\"]",
+        "zh_title": "有限温度下稀薄准二维电子气中的交换关联"
+      },
+      "paper:814623060945534978": {
+        "area": "Physics and Astrophysics",
+        "authors": "V. Kulakovskii | E. Lach | A. Forchel | D. Grützmacher",
+        "available_online": "1989-10",
+        "cover_date_start": "1989-10-01",
+        "created_at": "2022-12-27T14:21:14+08:00",
+        "doi": "10.1103/physrevb.40.8087",
+        "en_title": "Band-gap renormalization and band-filling effects in a homogeneous electron-hole plasma in In0.53Ga0.47As/InP single quantum wells",
+        "id": "814623060945534978",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "In0.53Ga0.47As/InP单量子阱中均匀电子 - 空穴等离子体的带隙重整化和带填充效应"
+      },
+      "paper:814752558164738048": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. García-González | R. W. Godby",
+        "available_online": "2002-1-23",
+        "cover_date_start": "2002-01-23",
+        "created_at": "2022-12-27T22:55:49+08:00",
+        "doi": "10.1103/physrevlett.88.056406",
+        "en_title": "Many-Body GW Calculations of Ground-State Properties: Quasi-2D Electron Systems and van der Waals Forces",
+        "id": "814752558164738048",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "基态性质的多体GW计算：准二维电子系统与范德华力"
+      },
+      "paper:867763848558412260": {
+        "area": "arXiv-Physics",
+        "authors": "P. M. T. Vianez | Y. Jin | W. K. Tan | Q. Liu | J. P. Griffiths | I. Farrer | D. A. Ritchie | O. Tsyplyatyev | C. J. B. Ford",
+        "available_online": "",
+        "cover_date_start": "2021-10-27",
+        "created_at": "2023-05-23T05:43:44+08:00",
+        "doi": "10.48550/arXiv.2110.14539",
+        "en_title": "Decoupling of the many-body effects from the electron mass in GaAs by means of reduced dimensionality",
+        "id": "867763848558412260",
+        "keywords": "",
+        "publication_date": "2021-10-27",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "[\"Physical Sciences\", \"Quantum Physics\"]",
+        "zh_title": "通过降低维度将多体效应与砷化镓中的电子质量解耦"
+      }
+    },
+    "variables": [
+      {
+        "content": "The 2D calculations assume an ideal strictly two-dimensional electron gas with the bare Coulomb interaction $v_{q}=2\\pi e^{2}/q$ and therefore omit finite quasi-2D layer-width form-factor corrections that, for a realistic quasi-2D quantum well or heterostructure, modify the effective interaction at large wavevectors $q$. The explicitly stated quantitative effect of such finite-width form factors is to reduce the 2D many-body renormalization by factors on the order of roughly 1.2–2 depending on carrier density and confinement details; the weak point is the assumption that omitting these finite-width form factors does not change the qualitative conclusions about the spin-polarization dependence of the effective mass (majority mass decreasing with $\\zeta$, minority mass nonmonotonic).\n      [14]",
+        "content_hash": "292cc980d059d043cc1d0908a2b4e0da15c1ac36a746c2af6c0baee319feb1f2",
+        "id": "gcn_04d9c68545784e07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812123848521547776::P4",
+            "package_id": "paper:812123848521547776",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812123848521547776"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032266458495966696,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing the experimental band-gap renormalization measured at bath temperature $T_{b}=77\\ \\mathrm{K}$ in real SQW samples that include some disorder with theoretical predictions for an ideal, strictly two-dimensional electron-hole plasma computed at zero temperature ($T=0$) within the RPA, the effects of finite temperature and sample disorder on the magnitude of $\\Delta E_g$ are small relative to the observed discrepancy between experiment and the ideal-2D theory; therefore finite temperature and disorder are not the dominant causes of the experimentally observed reduction of band-gap renormalization, which is instead attributed mainly to finite quantum-well width and associated changes in excitonic and wave-function properties.",
+        "content_hash": "cee7e27bd5673b19f508a439eac591c7920a64d9dc3b96cdeb0b1929dbc0d8fd",
+        "id": "gcn_dea6c67ab57c452b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814623060945534978::P17",
+            "package_id": "paper:814623060945534978",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814623060945534978"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03028233151183971,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02667140825035562,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional electron gas (2DEG) whose dispersion is described by the Rashba parabolic form $E(\\mathbf{k}_{\\parallel})=E_{0}+\\frac{\\hbar^{2}}{2m^{*}}\\bigl(k_{\\parallel}\\pm\\Delta k_{\\parallel}\\bigr)^{2}$, if the Fermi energy $E_{\\mathrm{F}}$ lies between the energy maxima at $\\pm\\Delta k_{\\parallel}$ and the band crossing at $k_{\\parallel}=0$, then the angle-integrated electronic density of states near $E_{\\mathrm{F}}$ acquires a quasi-one-dimensional character (i.e., a stronger singularity or enhancement compared to the constant density of states of an ideal 2D free-electron gas) as predicted by prior theoretical analyses; this proposition assumes that the experimental band curvature and effective two-dimensionality are sufficient to produce the predicted density-of-states behaviour and that disorder, finite-temperature broadening, and contributions from other bands do not wash out the quasi-one-dimensional features.",
+        "content_hash": "ad3062b539872bb1f7f51809806fc72ae2826c538a849c6c0bb5526defdc841c",
+        "id": "gcn_579738dadfb04f88",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811834649054543872::P10",
+            "package_id": "paper:811834649054543872",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811834649054543872"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025003906860446942,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass $m^{*}$ extracted from the pole of the RPA interacting Green's function depends on the interparticle-separation parameter $r_{s}$ and on the finite quantum-well width (well thickness): (i) finite quasi-two-dimensional well width reduces the Coulomb-driven mass renormalization relative to the strict two-dimensional limit because the finite thickness diminishes the Coulomb matrix element; (ii) for GaAs weak Fröhlich coupling ($\\alpha\\approx0.07$) the inclusion of dynamical electron–phonon interaction produces only a small correction to the uncoupled (electron–electron only) mass renormalization, and at low densities ($r_{s}>1.4$) the electron–phonon coupling further screens electron–electron interactions thereby reducing the net mass renormalization; (iii) modeling LO phonons by the bulk three-dimensional (3D) phonon approximation—i.e., treating LO phonons as unperturbed by the quantum well—reproduces the more elaborate slab-phonon-model results for wide wells (thickness greater than approximately $100\\ \\text{\\AA}$), whereas for well widths below about $100\\ \\text{\\AA}$ the 3D-phonon approximation overestimates the phonon contribution to mass renormalization and the discrepancy increases as the well narrows; and (iv) except for extremely narrow wells (thinner than approximately $20\\ \\text{\\AA}$) the difference between strict-2D and quasi-2D uncoupled results can exceed the phonon-induced corrections.",
+        "content_hash": "4d11e08d43436f31fd4d3e346e811070518ca8a0d139d62b4a79482ab7518e32",
+        "id": "gcn_fb82ba03b8be4221",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446529527742466::conclusion_4",
+            "package_id": "paper:812446529527742466",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446529527742466"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The numerical observation that for the two computed electron-density parameters $r_{s}=8.7$ and $r_{s}=19.7$ with harmonic layer width $b=33\\,$nm the self-consistent static local-field correction $G(q;T)$ for the finite-width quasi-two-dimensional electron gas is smaller than the $G(q;T)$ for the ideal zero-width two-dimensional model across the plotted wave-vector range implies, within the scope of these computations, that the reduction in $G(q;T)$ due to finite layer width occurs irrespective of $r_{s}$ for the two $r_{s}$ values sampled.",
+        "content_hash": "877e917f7d81addff6bdb450b69b334d92b73f0104dc5f3428075a1f77091993",
+        "id": "gcn_edc0e52fd1884f60",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813306805705768960::P7",
+            "package_id": "paper:813306805705768960",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813306805705768960"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quantitative crystallization threshold r_s ≳ 31, obtained from quantum Monte Carlo studies of the ideal homogeneous two-dimensional electron gas (2D HEG) in vacuum, is applied without modification to electrons localized at the surface of an insulating substrate in the heterostructure; here r_s is defined by r_s = 1/[√(π n_sub) a_B^*] with the effective Bohr radius a_B^* = 4π ε_0 ε_r ℏ^2/(μ e^2) (μ the appropriate effective mass for the substrate carriers), and this application neglects possible shifts of the crystallization threshold arising from substrate band-structure nonparabolicity, multi-valley degeneracy, reduced dimensionality of the surface, dielectric screening by proximate RMG layers, disorder, and finite temperature.\n      [60]",
+        "content_hash": "d968d7a20277d631edbc50ea39ec497062e8fc5bab28bd0c8e9eb55445dfb046",
+        "id": "gcn_dfa43e1c84ec4c0b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1219988054710681617::P6",
+            "package_id": "paper:1219988054710681617",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1219988054710681617"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Using the same vertical tunnelling spectrometer and measuring tunnelling from the laterally wide parasitic injection region (which behaves as an effectively two-dimensional electron gas), the interaction-renormalised effective mass of electrons in the two-dimensional parasitic regions is\n      $$\n      m_{2\\mathrm{D}}^{*}=(0.062\\pm0.002)m_{e},\n      $$\n      where $m_{2\\mathrm{D}}^{*}$ denotes the 2D effective mass; this value is consistent with independent determinations in the literature and approaches the nominal bulk GaAs low-density mass $m_{3\\mathrm{D}}^{*}=0.067m_{e}$ after modest interaction-induced renormalisation is accounted for.",
+        "content_hash": "aed7b9778298e47eea6920419286441cb5a0a2bd23bb30c6d3fb31030e15a73b",
+        "id": "gcn_866e957519964fdc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763848558412260::conclusion_3",
+            "package_id": "paper:867763848558412260",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763848558412260"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $\\bar{n}$ denote the three-dimensional uniform positive background density of a jellium slab of width $L$, so that the two-dimensional particle number per unit area is $n^{2D}=\\bar{n}L$. Keeping $n^{2D}$ fixed while taking the limit $L\\to 0$ yields a system whose electronic distribution is effectively constrained to the $z=0$ plane and whose in-plane electronic density equals $n^{2D}$; this limiting procedure corresponds to the strict two-dimensional homogeneous electron gas (2D HEG) at density $n^{2D}$ and is the quasi-two-dimensional transition protocol used to compare slab results to 2D reference values.",
+        "content_hash": "078ed37c599bf5bd88aac7aa9da2c2b1395339e470dae1aab68f05e54cd23463",
+        "id": "gcn_225406df012a4bc2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814752558164738048::P7",
+            "package_id": "paper:814752558164738048",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814752558164738048"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In a two-dimensional electron gas (2DEG) with areal electron density $n$, let $m^{*}$ denote the effective electron mass (including interaction renormalization), let $h$ denote Planck's constant and $\\hbar=h/(2\\pi)$ the reduced Planck constant, let $g_{v}$ denote the valley degeneracy (take $g_{v}=2$ for (100) silicon inversion layers), and let $g_{s}$ denote the spin degeneracy (take $g_{s}=2$ in the absence of full spin polarization). The proposition is that the Fermi energy $E_{F}$ of the 2DEG is related to the density and effective mass by the semiclassical two-dimensional expression\n      $$\n      \\frac{E_{F}}{\\hbar}=\\frac{n h}{g_{v} g_{s} m^{*}},\n      $$\n      equivalently $E_{F}=\\frac{\\pi\\hbar^{2}n}{(g_{v}g_{s}m^{*}/2)}$, which uses the quasiparticle effective mass $m^{*}$ to account for interaction renormalization of the single-particle dispersion.",
+        "content_hash": "3c123f0ecf9e13f19e4a92083609fd7b73959416a16c6f9270f4425aaa0b4e04",
+        "id": "gcn_7f0e2f68c30b4aa3",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811125690794508288::P4",
+            "package_id": "paper:811125690794508288",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811125690794508288"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "db33edc2ff07d4152e1b339e9159b23f"
+}

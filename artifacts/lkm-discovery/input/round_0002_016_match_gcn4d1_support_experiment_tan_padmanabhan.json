@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "The DMC-calculated quasiparticle effective mass exhibits opposite trends with density for the two spin polarizations studied: in the paramagnetic (unpolarized) 2D HEG $m^{*}$ increases with increasing $r_{s}$ (decreasing density), producing a significant enhancement at $r_{s}=5$ and $r_{s}=10$, whereas in the fully ferromagnetic (fully spin-polarized) 2D HEG $m^{*}$ decreases as density is lowered; these calculated trends are quantitatively consistent with the experimental observations of Tan et al. for paramagnetic systems and of Padmanabhan et al. for ferromagnetic or partially spin-polarized systems.",
+        "content_hash": "1f24fa7b336da07b315b306303e81584370cfd18bbdc2be612f5f8c5572972c0",
+        "id": "gcn_4d1aad1470d54895",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_5",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03252247488101534,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the experimental ferromagnetic effective-mass measurements of Padmanabhan et al. have been obtained in the presence of an external magnetic field whose component normal to the two-dimensional electron layer was relatively small; the proposition is that comparing zero-field theoretical DMC calculations of a fully spin-polarized (ferromagnetic) 2D HEG with those experimental ferromagnetic measurements is valid because the small normal component of the experimental magnetic field does not materially alter the single-particle band and effective-mass behavior relevant to the comparison, so that the theoretical idealization and the experimental conditions are sufficiently compatible for the stated quantitative agreement to be meaningful.",
+        "content_hash": "f37b3e884b6d5e12fd56b8c7358e375f81c34f282030e62c7a142f9d8cfdf2fd",
+        "id": "gcn_273f59185db44e41",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::P14",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.032018442622950824,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let the fully spin-polarized (ferromagnetic) 2D HEG be represented theoretically by the continuum-model DMC calculations and experimentally by high-quality semiconductor two-dimensional systems in which spin polarization can be induced (for example by applying an in-plane magnetic field). The proposition is: the suppression of the quasiparticle effective mass with decreasing density observed in the DMC-extrapolated ferromagnetic results (numerically \\\\(m^{*}(r_{s}=1)=0.851(5)\\\\), \\\\(m^{*}(r_{s}=5)=0.74(1)\\\\), and \\\\(m^{*}(r_{s}=10)=0.70(3)\\\\)) corresponds qualitatively to the trend measured in experiments cited in the literature (for example Padmanabhan et al.), and this qualitative agreement is not invalidated by differences in sample specifics, partial polarization, disorder, or experimental measurement methodology.",
+        "content_hash": "669cd5e31b46fba548ede2ea9e82b88947057ce76f13729914fa9240641a1002",
+        "id": "gcn_c29299878b8148cb",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P12",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.031054405392392875,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The extrapolated thermodynamic-limit effective masses exhibit distinct density dependences depending on spin polarization: for the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10 the extrapolated effective mass remains close to unity (\\\\(m^{*}\\\\approx1\\\\)), indicating no significant interaction-induced mass enhancement at these densities for the clean continuum 2D HEG model considered; by contrast, for the fully spin-polarized (ferromagnetic) 2D HEG the extrapolated effective mass decreases as the density is lowered, for example taking the values \\\\(0.85(1)\\\\) at \\\\(r_{s}=1\\\\), \\\\(0.74(1)\\\\) at \\\\(r_{s}=5\\\\), and \\\\(0.70(3)\\\\) at \\\\(r_{s}=10\\\\), a trend that is qualitatively consistent with experimental measurements on spin-polarized two-dimensional systems reported in the literature (e.g., Padmanabhan et al.).",
+        "content_hash": "50d79ff1ea218bc2ead65fa8297f1c40403b60c514239f93423bf99aa338304e",
+        "id": "gcn_bdc9e8a10cfe4b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.029273504273504274,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029138513513513514,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) calculations were performed to obtain the single-quasiparticle energy band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) for both paramagnetic (equal spin populations) and fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gases (2D HEGs) at several electron densities (specified by the density parameter \\\\(r_{s}\\\\)) and several finite periodic simulation-cell particle numbers \\\\(N\\\\). The band \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) is defined here as the Landau single-quasiparticle energy of a finite simulation cell, evaluated as the difference in the many-electron total energy when a single electron is added to or removed from the ground state at wavevector \\\\(\\\\mathbf{k}\\\\). The statistical uncertainties of these DMC band values are sufficiently small to reveal a systematic finite-size trend under the simulation protocol used (square periodic cells with simulation-cell Bloch vector \\\\(k_{s}=0\\\\) and closed-shell ground states): at fixed physical density and spin polarization the computed bandwidth (the maximum minus the minimum of \\\\(\\\\mathcal{E}(\\\\mathbf{k})\\\\) over the discrete \\\\(\\\\mathbf{k}\\\\)-grid available in the cell) increases with increasing particle number \\\\(N\\\\).",
+        "content_hash": "1fbd68f78d6dd81651166e325b097ec3212e4d1c225e8b916e9cccaedaa3e7e1",
+        "id": "gcn_5b457ff51f114b5c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_1",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.028594771241830064,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ferromagnetic) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N DMC effective masses obtained from quartic-band fits yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.851(5) a.u.; here m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector appropriate to the fully spin-polarized system.",
+        "content_hash": "5747e572876f4ad53cbf63c9a95667c9b3252c3f96c012389168f4010b0d4d5d",
+        "id": "gcn_dc8e0e000d7c44da",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_7",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028484848484848488,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=5, the thermodynamic-limit quasiparticle effective mass obtained by extrapolating finite-N DMC quartic-fit results is m^*(∞)=0.74(1) a.u., using m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector.",
+        "content_hash": "0eb54583a6b53a006ba8d20615260d038847d96ae4baf9a0d0acbd34253b7e32",
+        "id": "gcn_38bbf14d5dc448f0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_8",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02804284323271665,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ferromagnetic, ζ = 1) two-dimensional uniform electron liquid (2D-UEL) studied in the metallic density range 1 ≤ r_s ≤ 5, VMC and fixed-node DMC calculations performed for simulation cells containing N = 151 electrons indicate that the quasiparticle effective mass m* decreases as r_s increases (i.e., m* is suppressed as the density is reduced), a trend opposite to that found for the paramagnetic case over the same density interval.",
+        "content_hash": "03456555377f5f829574a3ae9746440642f01b61939f59468f6fcbff942bba5e",
+        "id": "gcn_f431f49f19b44cf1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_3",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.027271052146674038,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Landau interaction functions f_{\\sigma\\sigma'}(\\theta) for a two-dimensional homogeneous electron gas (2D HEG) were evaluated at a discrete set of angles \\theta using diffusion Monte Carlo (DMC) total-energy differences according to the estimator\n      $$\n      f_{\\sigma\\sigma'}(\\theta_i)=-\\big[E_{\\sigma\\sigma'}(\\mathbf{k}_i,\\mathbf{k}_i')+E_0-E_{+}(\\mathbf{k}_i)-E_{-}(\\mathbf{k}_i')\\big],\n      $$\n      where $E_0$ denotes the ground-state total energy per simulation cell, $E_{\\sigma\\sigma'}(\\mathbf{k}_i,\\mathbf{k}_i')$ denotes the total energy of the finite-cell excited state obtained by promoting an electron from wavevector $\\mathbf{k}_i'$ just inside the Fermi surface to wavevector $\\mathbf{k}_i$ just outside it (the angle between $\\mathbf{k}_i$ and $\\mathbf{k}_i'$ is $\\theta_i$), and $E_{+}(\\mathbf{k}_i)$ and $E_{-}(\\mathbf{k}_i')$ denote the total energies of the finite cell with one electron added at $\\mathbf{k}_i$ and one electron removed from $\\mathbf{k}_i'$, respectively; here DMC denotes the projector Monte Carlo simulation in imaginary time performed with the fixed-node approximation.  These DMC-calculated discrete-angle interaction functions were obtained for unpolarized (paramagnetic, spin polarization $\\zeta=0$) and fully spin-polarized (ferromagnetic, $\\zeta=1$) 2D HEGs at density parameters $r_{s}=1$, $5$, and $10$ using square periodic simulation cells; the results are presented as plots of $N\\,f_{\\sigma\\sigma'}(\\theta)$ versus $\\theta$, where $N$ is the number of electrons in the simulation cell.  The DMC data sets include multiple finite system sizes chosen as closed-shell (“magic”) electron counts and report values separately for the parallel-spin ($\\sigma=\\sigma'$) and antiparallel-spin ($\\sigma\\neq\\sigma'$) channels.",
+        "content_hash": "bb6a4d3db5ab5ca21136ccedd820fc6df4b90d283c5c3ab2fd43e16af82d3959",
+        "id": "gcn_c03d88189a3648e7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_1",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.023159303882195448,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "5cc2cf45984a580cb52a5f8a33f1afc4"
+}

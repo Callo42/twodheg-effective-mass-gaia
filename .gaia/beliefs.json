@@ -1,0 +1,183 @@
+{
+  "beliefs": [
+    {
+      "belief": 0.4444851725280717,
+      "knowledge_id": "local:twodheg_effective_mass::__conjunction_result_825d9212",
+      "label": "__conjunction_result_825d9212"
+    },
+    {
+      "belief": 0.5662523005274294,
+      "knowledge_id": "local:twodheg_effective_mass::__conjunction_result_e0f8939c",
+      "label": "__conjunction_result_e0f8939c"
+    },
+    {
+      "belief": 0.7359958884088394,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_17c63b5dc2154f15",
+      "label": "gcn_17c63b5dc2154f15"
+    },
+    {
+      "belief": 0.7498986473561091,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_1e8fcb7ef934428d",
+      "label": "gcn_1e8fcb7ef934428d"
+    },
+    {
+      "belief": 0.45234019249893154,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_219b34bd252c43fa",
+      "label": "gcn_219b34bd252c43fa"
+    },
+    {
+      "belief": 0.9806603767923298,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
+      "label": "gcn_28b9e01bd2f8487f"
+    },
+    {
+      "belief": 0.850797,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_306f15c9d5814e23",
+      "label": "gcn_306f15c9d5814e23"
+    },
+    {
+      "belief": 0.5017592525395784,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_3ceb44ae3f404964",
+      "label": "gcn_3ceb44ae3f404964"
+    },
+    {
+      "belief": 0.48229982410711597,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_3db07703d3684507",
+      "label": "gcn_3db07703d3684507"
+    },
+    {
+      "belief": 0.7799108096733761,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_48797cba2bf44d90",
+      "label": "gcn_48797cba2bf44d90"
+    },
+    {
+      "belief": 0.1412784764791903,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_4d1aad1470d54895",
+      "label": "gcn_4d1aad1470d54895"
+    },
+    {
+      "belief": 0.7599027014618649,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_50e263dc961541e0",
+      "label": "gcn_50e263dc961541e0"
+    },
+    {
+      "belief": 0.74,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_836bae7457044c7a",
+      "label": "gcn_836bae7457044c7a"
+    },
+    {
+      "belief": 0.8397445403735824,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_850fc9d9de314026",
+      "label": "gcn_850fc9d9de314026"
+    },
+    {
+      "belief": 0.764282043222178,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_a685639571304474",
+      "label": "gcn_a685639571304474"
+    },
+    {
+      "belief": 0.7104189650849281,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_a981a2b787514e47",
+      "label": "gcn_a981a2b787514e47"
+    },
+    {
+      "belief": 0.7972039133455281,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_b7a7d456a05d4129",
+      "label": "gcn_b7a7d456a05d4129"
+    },
+    {
+      "belief": 0.8980808993640966,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_c7b10e47e2ab45e1",
+      "label": "gcn_c7b10e47e2ab45e1"
+    },
+    {
+      "belief": 0.8850479190050203,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_da3eecec49114543",
+      "label": "gcn_da3eecec49114543"
+    },
+    {
+      "belief": 0.9970151151803279,
+      "knowledge_id": "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise",
+      "label": "n_quarter_scaling_vs_shell_filling_noise"
+    },
+    {
+      "belief": 0.9983104326048238,
+      "knowledge_id": "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks",
+      "label": "older_dmc_enhancement_vs_revised_dmc_benchmarks"
+    }
+  ],
+  "diagnostics": {
+    "belief_history": {
+      "local:twodheg_effective_mass::__conjunction_result_825d9212": [
+        0.4444851725280717
+      ],
+      "local:twodheg_effective_mass::__conjunction_result_e0f8939c": [
+        0.5662523005274294
+      ],
+      "local:twodheg_effective_mass::gcn_17c63b5dc2154f15": [
+        0.7359958884088394
+      ],
+      "local:twodheg_effective_mass::gcn_1e8fcb7ef934428d": [
+        0.7498986473561091
+      ],
+      "local:twodheg_effective_mass::gcn_219b34bd252c43fa": [
+        0.45234019249893154
+      ],
+      "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f": [
+        0.9806603767923298
+      ],
+      "local:twodheg_effective_mass::gcn_306f15c9d5814e23": [
+        0.850797
+      ],
+      "local:twodheg_effective_mass::gcn_3ceb44ae3f404964": [
+        0.5017592525395784
+      ],
+      "local:twodheg_effective_mass::gcn_3db07703d3684507": [
+        0.48229982410711597
+      ],
+      "local:twodheg_effective_mass::gcn_48797cba2bf44d90": [
+        0.7799108096733761
+      ],
+      "local:twodheg_effective_mass::gcn_4d1aad1470d54895": [
+        0.1412784764791903
+      ],
+      "local:twodheg_effective_mass::gcn_50e263dc961541e0": [
+        0.7599027014618649
+      ],
+      "local:twodheg_effective_mass::gcn_836bae7457044c7a": [
+        0.74
+      ],
+      "local:twodheg_effective_mass::gcn_850fc9d9de314026": [
+        0.8397445403735824
+      ],
+      "local:twodheg_effective_mass::gcn_a685639571304474": [
+        0.764282043222178
+      ],
+      "local:twodheg_effective_mass::gcn_a981a2b787514e47": [
+        0.7104189650849281
+      ],
+      "local:twodheg_effective_mass::gcn_b7a7d456a05d4129": [
+        0.7972039133455281
+      ],
+      "local:twodheg_effective_mass::gcn_c7b10e47e2ab45e1": [
+        0.8980808993640966
+      ],
+      "local:twodheg_effective_mass::gcn_da3eecec49114543": [
+        0.8850479190050203
+      ],
+      "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise": [
+        0.9970151151803279
+      ],
+      "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks": [
+        0.9983104326048238
+      ]
+    },
+    "converged": true,
+    "direction_changes": {},
+    "iterations_run": 2,
+    "max_change_at_stop": 0.0,
+    "treewidth": 3
+  },
+  "gaia_lang_version": "0.4.3",
+  "ir_hash": "sha256:d70e0556d7c81e17627d12a1210a04ab5a97a201e8db89588dc4260192448eda"
+}

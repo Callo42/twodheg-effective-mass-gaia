@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:811872228453908481": {
+        "area": "Physics and Astrophysics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "2009-1-30",
+        "cover_date_start": "2009-01-30",
+        "created_at": "2022-12-20T00:10:23+08:00",
+        "doi": "10.1103/physrevb.79.041308",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "811872228453908481",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:811874236581806081": {
+        "area": "Physics and Astrophysics",
+        "authors": "E. Sola | J. P. Brodholt | D. Alfè",
+        "available_online": "2009-1-13",
+        "cover_date_start": "2009-01-13",
+        "created_at": "2022-12-20T00:18:22+08:00",
+        "doi": "10.1103/physrevb.79.024107",
+        "en_title": "Equation of state of hexagonal closed packed iron under Earth’s core conditions from quantum Monte Carlo calculations",
+        "id": "811874236581806081",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "基于量子蒙特卡罗计算的地核条件下六方密堆积铁的状态方程"
+      },
+      "paper:811951014717423618": {
+        "area": "Physics and Astrophysics",
+        "authors": "T. Gokmen | Medini Padmanabhan | E. Tutuc | M. Shayegan | S. De Palo | S. Moroni | Gaetano Senatore",
+        "available_online": "2007-12-10",
+        "cover_date_start": "2007-12-10",
+        "created_at": "2022-12-20T05:23:27+08:00",
+        "doi": "10.1103/physrevb.76.233301",
+        "en_title": "Spin susceptibility of interacting two-dimensional electrons with anisotropic effective mass",
+        "id": "811951014717423618",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "具有各向异性有效质量的相互作用二维电子的自旋磁化率"
+      },
+      "paper:811995973982093313": {
+        "area": "Geoscience",
+        "authors": "Hasan Abu Kassim | Ithnin Abdul Jalil | Norhasliza Yusof | Keshav N. Shrivastava | H. B. Senin | N. H. Idris",
+        "available_online": "",
+        "cover_date_start": "2011-01-01",
+        "created_at": "2022-12-20T08:22:06+08:00",
+        "doi": "10.1063/1.2739823",
+        "en_title": "The Mass of the Electron in GaAs/AlGaAs by the Shubnikov-de Haas Effect and Spin-Charge Locking",
+        "id": "811995973982093313",
+        "keywords": "[{\"ch_name\":\"回旋加速器\",\"en_name\":\"Cyclotron\"},{\"ch_name\":\"电子质量\",\"en_name\":\"Electron mass\"},{\"ch_name\":\"自旋\",\"en_name\":\"Spin\"}]",
+        "publication_date": "2011",
+        "publication_id": "96345",
+        "publication_name": "AIP Conference Proceedings _ ",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过舒布尼科夫-德哈斯效应和自旋-电荷锁定测量砷化镓/铝镓砷中电子的质量"
+      },
+      "paper:812123848521547776": {
+        "area": "Physics and Astrophysics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "2005-12-15",
+        "cover_date_start": "2005-12-15",
+        "created_at": "2022-12-20T16:50:14+08:00",
+        "doi": "10.1103/physrevlett.95.256603",
+        "en_title": "Spin Polarization Dependence of Carrier Effective Mass in Semiconductor Structures: Spintronic Effective Mass",
+        "id": "812123848521547776",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "半导体结构中载流子有效质量的自旋极化依赖性：自旋电子学有效质量"
+      },
+      "paper:812751844387323906": {
+        "area": "Physics and Astrophysics",
+        "authors": "E. H. Hwang | S. Das Sarma",
+        "available_online": "2001-5-10",
+        "cover_date_start": "2001-05-10",
+        "created_at": "2022-12-22T10:25:41+08:00",
+        "doi": "10.1103/physrevb.63.233201",
+        "en_title": "Correlation-induced phonon softening in low-density coupled bilayer systems",
+        "id": "812751844387323906",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "低密度耦合双层系统中关联诱导的声子软化"
+      },
+      "paper:867753636627743508": {
+        "area": "arXiv-Physics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "",
+        "cover_date_start": "2008-10-14",
+        "created_at": "2023-05-23T05:03:09+08:00",
+        "doi": "10.48550/arXiv.0810.2450",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "867753636627743508",
+        "keywords": "",
+        "publication_date": "2008-10-14",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      },
+      "paper:867757619392020695": {
+        "area": "arXiv-Physics",
+        "authors": "Simo Huotari | J. Aleksi Soininen | Tuomas Pylkkänen | Keijo Hämäläinen | Arezki Issolah | Andrey Titov | Jeremy McMinis | Jeongnim Kim | Ken Esler | David M. Ceperley | Markus Holzmann | Valerio Olevano",
+        "available_online": "",
+        "cover_date_start": "2010-06-29",
+        "created_at": "2023-05-23T05:18:59+08:00",
+        "doi": "10.48550/arXiv.1006.5591",
+        "en_title": "Momentum Distribution and Renormalization Factor in Sodium and the Electron Gas",
+        "id": "867757619392020695",
+        "keywords": "",
+        "publication_date": "2010-06-29",
+        "publication_id": "108485",
+        "publication_name": "Other Condensed Matter _ Physics.cond-mat.other",
+        "research_categories": "",
+        "zh_title": "钠和电子气中的动量分布与重整化因子"
+      }
+    },
+    "variables": [
+      {
+        "content": "After applying analytic finite-size corrections and extrapolating to the thermodynamic limit for the two-dimensional electron gas in the density range $1\\le r_{s}\\le 10$, the single-particle effective mass is found to be enhanced relative to the bare electron mass ($m^{*}/m>1$) across this range, and the renormalization factor $Z$ obtained from the corrected Quantum Monte Carlo calculations is systematically smaller than the corresponding values obtained from perturbative random-phase approximation (RPA) calculations. These corrected QMC findings therefore indicate that perturbative RPA tends to overestimate $Z$ and underestimate the quasiparticle mass enhancement in the studied density regime, while calculations that go beyond perturbative RPA by incorporating many-body local-field (charge- and spin-density) corrections give results qualitatively consistent with the corrected QMC values.",
+        "content_hash": "86cf978fb31c0cd56070c631fbf582bf7ac586f1b6515e430784cc2d1cba814d",
+        "id": "gcn_b3363fd9d3314c08",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811872228453908481::conclusion_5",
+            "package_id": "paper:811872228453908481",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811872228453908481"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For Slater-Jastrow-backflow trial wave functions of the two-dimensional homogeneous electron gas, finite-size corrections arising from long-range Jastrow correlations (i.e., the small-$q$ behavior of the Jastrow Fourier components $u_{q}$ and of the static structure factor $S(q)$) dominate the extrapolation of both the renormalization factor $Z$ and the single-particle effective mass $m^{*}$ for typical Quantum Monte Carlo system sizes $N\\sim 10^{2}$. Applying analytic finite-size corrections computed from the long-wavelength forms of $u_{q}$ and $S(q)$ (the corrections that enter the integrals defining $\\delta n_{\\mathbf{k}}$ and $\\Delta_{N}$) substantially reduces the apparent size dependence of $Z$ and $m^{*}$ for densities $r_{s}\\gtrsim 3$ and yields more stable extrapolations to the thermodynamic limit. The same long-wavelength analysis shows that the size corrections for $Z$ and for single-particle excitation energies (and hence for the extracted effective mass $m^{*}$) are intrinsically related and share the anomalous asymptotic scaling $\\sim N^{-1/4}$.",
+        "content_hash": "ad8fb765c5fc736150f30323e53583cf6f215f5f15508f2295209952059f2e2a",
+        "id": "gcn_4293ac757db142c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811872228453908481::conclusion_3",
+            "package_id": "paper:811872228453908481",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811872228453908481"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02928692699490662,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The 2D calculations assume an ideal strictly two-dimensional electron gas with the bare Coulomb interaction $v_{q}=2\\pi e^{2}/q$ and therefore omit finite quasi-2D layer-width form-factor corrections that, for a realistic quasi-2D quantum well or heterostructure, modify the effective interaction at large wavevectors $q$. The explicitly stated quantitative effect of such finite-width form factors is to reduce the 2D many-body renormalization by factors on the order of roughly 1.2–2 depending on carrier density and confinement details; the weak point is the assumption that omitting these finite-width form factors does not change the qualitative conclusions about the spin-polarization dependence of the effective mass (majority mass decreasing with $\\zeta$, minority mass nonmonotonic).\n      [14]",
+        "content_hash": "292cc980d059d043cc1d0908a2b4e0da15c1ac36a746c2af6c0baee319feb1f2",
+        "id": "gcn_04d9c68545784e07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812123848521547776::P4",
+            "package_id": "paper:812123848521547776",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812123848521547776"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02361111111111111,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The intra- and interlayer static local-field-correction functions entering the effective Coulomb interactions in the bilayer, denoted $G_{11}(q)$ and $G_{12}(q)$ respectively, are taken from ground-state quantum Monte Carlo (QMC) numerical simulation results for the homogeneous two-dimensional electron gas (specifically the Tanatar and Ceperley data), and these frequency-independent ground-state LFC functions are used as representations of exchange-correlation effects in the dynamical bilayer screening calculation after applying the appropriate finite-well form-factor modifications to the Coulomb matrix elements; this procedure assumes that the static ground-state QMC-derived $G_{ij}(q)$ provide an adequate approximation to the exchange-correlation corrections relevant to the dynamical electron screening that controls plasmon–phonon coupling and phonon renormalization in the bilayer geometry.\n      B. Tanatar and D.M. Ceperley, Phys. Rev. B 39, 5005 (1989).",
+        "content_hash": "25b5875ca265426cf1d11c79d7cfe05831b7b728a085af7a36e35a96fbf7f5de",
+        "id": "gcn_ef10a63f33e74577",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812751844387323906::P3",
+            "package_id": "paper:812751844387323906",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812751844387323906"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion quantum Monte Carlo (QMC) calculations performed for bulk crystalline sodium using a Slater–Jastrow (SJ) trial wavefunction in periodic simulation cells, with standard pseudopotentials and finite-size-correction procedures applied to resolve momentum-space features near the Fermi momentum, yield a single-spin momentum-distribution discontinuity for sodium of $\\zeta_{\\mathrm{QMC}}^{\\mathrm{Na}}=0.68(2)$. Separating the band-structure contribution by evaluating the momentum-distribution estimator with the explicit electron-electron Jastrow correlation terms removed gives the $\\mathbf{G}=0$ Bloch-amplitude weight $|\\tilde{\\phi}_{\\nu=1,\\mathbf{k}_{F}}^{\\mathbf{G}=0}|^{2}=0.97(1)$ for sodium, and hence the many-body quasiparticle renormalization factor extracted from the QMC sodium calculation is $Z_{k_{F}}^{\\mathrm{Na}}=0.70(2)$. More accurate QMC calculations for the homogeneous electron gas (HEG) at the same density parameter using Slater–Jastrow backflow (BF) trial wavefunctions give the HEG renormalization factor $Z_{k_{F}}^{\\mathrm{HEG}}=0.66(2)$.",
+        "content_hash": "401fefad2b1cd912049c4fa22d674d23d114134227b19264cc518165c0cf14ee",
+        "id": "gcn_767636c0b8574bc5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867757619392020695::conclusion_2",
+            "package_id": "paper:867757619392020695",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867757619392020695"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Conventional many‑body perturbation theory treatments of Coulomb and electron–phonon interactions that compute single‑particle self‑energy corrections in a two‑dimensional electron gas produce smooth, interaction‑dependent shifts to the quasiparticle mass via controlled expansions in the interaction strength and therefore do not yield protected, exact rational multiplicative factors such as an exact factor 3/2 for the effective mass; instead, standard perturbative self‑energy mechanisms yield continuous, parameter‑dependent renormalizations.",
+        "content_hash": "a6268a4b13a2524c4901c68c8a5549b32ada4dd6878b7b7860a03c8ca4499831",
+        "id": "gcn_bf7231bcc4714d57",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811995973982093313::P10",
+            "package_id": "paper:811995973982093313",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811995973982093313"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a two-dimensional homogeneous electron gas of particle density $n$ and Wigner-Seitz parameter $r_{s}=(\\pi n a_{B}^{2})^{-1/2}$ (with Bohr radius $a_{B}=\\hbar^{2}/(m e^{2})$), confined to a square periodic simulation cell of linear size $L$ and area $V=L^{2}$ containing $N$ electrons (so that $n=N/V$), define the finite-size correction\n      $$\n      \\Delta_{N}=\\int_{-\\pi/L}^{\\pi/L}\\frac{d^{2}\\mathbf{q}}{(2\\pi)^{2}}\\;\\delta(q),\n      $$\n      with\n      $$\n      \\delta(q)=u_{q}\\bigl[1-S(q)\\bigr]-n\\,u_{q}^{2}S(q),\n      $$\n      where $u_{q}$ is the Fourier transform of the many-body Jastrow potential, $S(q)$ is the static structure factor, $n$ is the particle density, and the integral is taken over the small rectangular patch of wavevectors with components $|q_{x}|\\le\\pi/L$, $|q_{y}|\\le\\pi/L$. The discontinuity (renormalization factor) of the momentum distribution at the Fermi surface in the thermodynamic limit, $Z_{k_{F}}^{\\infty}$, is related to its finite-$N$ value $Z_{k_{F}}^{N}$ by the multiplicative relation\n      $$\n      Z_{k_{F}}^{\\infty}\\simeq Z_{k_{F}}^{N}\\,e^{-\\Delta_{N}},\n      $$\n      where, using the long-wavelength approximations for small $q$,\n      $$\n      2n u_{q}\\simeq-1+\\sqrt{1+\\frac{2n v_{q}}{\\varepsilon_{q}}},\\qquad v_{q}=\\frac{2\\pi e^{2}}{q},\\qquad \\varepsilon_{q}=\\frac{\\hbar^{2}q^{2}}{2m},\n      $$\n      the leading asymptotic scaling for large $N$ with $L=\\sqrt{N/n}$ is\n      $$\n      \\Delta_{N}\\simeq\\left(\\frac{\\pi r_{s}^{2}}{4N}\\right)^{-1/4}\\qquad\\text{for }N\\rightarrow\\infty.\n      $$\n      Hence, under these long-wavelength approximations the dominant finite-size error in the renormalization factor $Z$ decays anomalously slowly as $N^{-1/4}$ rather than as an integer power $1/N$.",
+        "content_hash": "82e7c2eab632690d6078ade2a2f5f86d499100539d359ce5cb5a3aa2c2cbd1c5",
+        "id": "gcn_61d8505d3c20430f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811872228453908481::conclusion_1",
+            "package_id": "paper:811872228453908481",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811872228453908481"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Quantum Monte Carlo based calculations were carried out for an effective isotropic two-dimensional electron system obtained by mapping the anisotropic-mass system to an isotropic one with effective band mass $m_b=\\sqrt{m_l m_t}$; results are reported for a strictly two-dimensional layer (zero thickness, $w=0$) and for a finite-thickness layer with $w=15\\ \\mathrm{nm}$. The QMC predictions display two qualitative trends: (i) for fixed layer thickness the spin-susceptibility determined from the ground-state internal energy is larger at full spin polarization ($\\zeta=1$) than at zero polarization ($\\zeta=0$), i.e. $\\chi_s(\\zeta=1)>\\chi_s(\\zeta=0)$, and (ii) finite transverse thickness ($w=15\\ \\mathrm{nm}$) softens the effective electron-electron interaction and suppresses $\\chi_s$ relative to the strictly 2D ($w=0$) case. These QMC results therefore provide a baseline theoretical expectation for a system modeled as isotropic with mass $m_b=\\sqrt{m_l m_t}$ and a finite-thickness form factor.",
+        "content_hash": "51bffce0bdb0bee27790bbd9adbfe95f4fe5ed87956b7ded0690f1e111dd9264",
+        "id": "gcn_a4c97c6119a1424c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811951014717423618::conclusion_2a",
+            "package_id": "paper:811951014717423618",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811951014717423618"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "After applying the analytic finite-size corrections based on the missing-small-q integrals \\Delta_{N} and extrapolating variational Monte Carlo (VMC) results for the homogeneous unpolarized two-dimensional electron gas to N\\rightarrow\\infty, the reported thermodynamic-limit VMC estimates are:\n      - For r_{s}=1: Z_{\\rm VMC}=0.62(4) and m^{*}/m_{\\rm VMC}=1.26(7);\n      - For r_{s}=3: Z_{\\rm VMC}=0.34(3) and m^{*}/m_{\\rm VMC}=1.39(8);\n      - For r_{s}=5: Z_{\\rm VMC}=0.22(2) and m^{*}/m_{\\rm VMC}=1.54(7);\n      - For r_{s}=10: Z_{\\rm VMC}=0.090(4) and m^{*}/m_{\\rm VMC}=1.72(9).\n      Here r_{s}=(\\pi n a_{B}^{2})^{-1/2} is the dimensionless density parameter and a_{B}=\\hbar^{2}/(m e^{2}) the Bohr radius. These VMC thermodynamic-limit values give systematically smaller renormalization factors Z and larger effective masses m^{*} than the corresponding perturbative random-phase-approximation (RPA) values at the same densities, for which the RPA table values are Z_{\\rm RPA}=0.66,0.44,0.34,0.24 and m^{*}/m_{\\rm RPA}=1.02,1.12,1.16,1.21 for r_{s}=1,3,5,10 respectively.",
+        "content_hash": "b0b7d090954fc049f12b7fddca19afc908c64a50ae649b77105956ed9368dbf7",
+        "id": "gcn_d2719f646a7d4249",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753636627743508::conclusion_4",
+            "package_id": "paper:867753636627743508",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753636627743508"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Two independent two-body finite-size correction schemes for many-body quantum Monte Carlo (QMC) calculations were applied to metallic hcp Fe and found to produce consistent corrected energies: (i) the Chiesa–Ceperley–Martin–Holzmann (CCMH) scheme, which estimates leading two-body finite-size errors from the low-wavevector (low-k) behavior of the charge structure factor S(k) and from the optimized Jastrow correlation factor under the assumption that the long-wavelength correlation factor is cell-size independent, and (ii) the Kwee–Zhang–Krakauer (KZK) postprocessing scheme, which replaces the standard local-density-approximation (LDA) exchange-correlation energy by a finite-size LDA functional computed for the identical QMC supercell via homogeneous-electron-gas calculations at discrete densities and finite sizes; when applied together with one-body (k-point) corrections estimated with independent DFT calculations to simulation cells containing 8, 36, 54, 64, 96, and 150 atoms at volumes V = 7 and 8 Å^3 per atom, both the CCMH integration-error-based two-body correction and the KZK finite-size-LDA two-body correction produced consistent extrapolations toward the infinite-size limit and substantially reduced finite-size errors, with the KZK-corrected energies essentially equivalent to CCMH-corrected energies across the tested volumes.",
+        "content_hash": "660dbb27cbdbf73969ce4bc3887ba40bc0c2e274c51425ffcfc85470feaa5f17",
+        "id": "gcn_b926a4f2f88740bf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811874236581806081::conclusion_4",
+            "package_id": "paper:811874236581806081",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811874236581806081"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "68d0dc81e813ef985b3b4be806920759"
+}

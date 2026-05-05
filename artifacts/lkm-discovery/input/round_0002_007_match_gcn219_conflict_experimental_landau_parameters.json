@@ -1,0 +1,361 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811773119797657600": {
+        "area": "Physics and Astrophysics",
+        "authors": "Chih-Chun Chien | K. Levin",
+        "available_online": "2010-7-6",
+        "cover_date_start": "2010-07-06",
+        "created_at": "2022-12-19T17:36:34+08:00",
+        "doi": "10.1103/physreva.82.013603",
+        "en_title": "Fermi-liquid theory of ultracold trapped Fermi gases: Implications for pseudogap physics and other strongly correlated phases",
+        "id": "811773119797657600",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "532",
+        "publication_name": "Physical Review A _ Phys. Rev. A",
+        "research_categories": "",
+        "zh_title": "超冷捕获费米气体的费米液体理论：对赝能隙物理及其他强关联相的影响"
+      },
+      "paper:811822988692291585": {
+        "area": "Physics and Astrophysics",
+        "authors": "Masaru Onoda | Takahiro Mizusaki | Hideo Aoki",
+        "available_online": "2001-11-20",
+        "cover_date_start": "2001-11-20",
+        "created_at": "2022-12-19T20:54:43+08:00",
+        "doi": "10.1103/physrevb.64.235315",
+        "en_title": "Effective-mass staircase and the Fermi-liquid parameters for the fractional quantum Hall composite fermions",
+        "id": "811822988692291585",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "分数量子霍尔复合费米子的有效质量阶梯与费米液体参数"
+      },
+      "paper:811827488836550656": {
+        "area": "Physics and Astrophysics",
+        "authors": "M. M. Calbi | E. S. Hernández",
+        "available_online": "1998-5-15",
+        "cover_date_start": "1998-05-15",
+        "created_at": "2022-12-19T21:12:36+08:00",
+        "doi": "10.1103/physrevb.57.13258",
+        "en_title": "Fermi disks model for 3 He films adsorbed on graphite within a density-functional approach",
+        "id": "811827488836550656",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "基于密度泛函方法的吸附在石墨上的3He薄膜的费米盘模型"
+      },
+      "paper:811899232150618113": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. Schwab | R. Raimondi",
+        "available_online": "",
+        "cover_date_start": "2002-02-01",
+        "created_at": "2022-12-20T01:57:41+08:00",
+        "doi": "10.1140/epjb/e20020054",
+        "en_title": "Magnetoconductance of a two-dimensional metal in the presence of spin-orbit coupling",
+        "id": "811899232150618113",
+        "keywords": "",
+        "publication_date": "2002-2",
+        "publication_id": "658",
+        "publication_name": "The European Physical Journal B _ Eur. Phys. J. B",
+        "research_categories": "",
+        "zh_title": "存在自旋轨道耦合时二维金属的磁电导"
+      },
+      "paper:812339268134371331": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. Tonello | E. Lipparini",
+        "available_online": "2004-8",
+        "cover_date_start": "2004-08-01",
+        "created_at": "2022-12-21T07:06:15+08:00",
+        "doi": "10.1103/physrevb.70.081201",
+        "en_title": "Spin-orbit splitting of the cyclotron resonance in GaAs",
+        "id": "812339268134371331",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\", \"Nuclear and Plasma Physics\"]",
+        "zh_title": "砷化镓中回旋共振的自旋轨道分裂"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867750964453442086": {
+        "area": "arXiv-Physics",
+        "authors": "Ying Zhang | S. Das Sarma",
+        "available_online": "",
+        "cover_date_start": "2004-08-14",
+        "created_at": "2023-05-23T04:52:32+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0408335",
+        "en_title": "Density dependent spin susceptibility and effective mass in interacting quasi-two dimensional electron systems",
+        "id": "867750964453442086",
+        "keywords": "",
+        "publication_date": "2004-08-14",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "相互作用的准二维电子系统中的密度依赖自旋磁化率和有效质量"
+      },
+      "paper:937409596379627733": {
+        "area": "arXiv-Physics",
+        "authors": "Jiho Sung | Jue Wang | Ilya Esterlis | Pavel A. Volkov | Giovanni Scuri | You Zhou | Elise Brutschea | Takashi Taniguchi | Kenji Watanabe | Yubo Yang | Miguel A. Morales | Shiwei Zhang | Andrew J. Millis | Mikhail D. Lukin | Philip Kim | Eugene Demler | Hongkun Park",
+        "available_online": "",
+        "cover_date_start": "2023-11-29",
+        "created_at": "2023-12-01T10:14:27+08:00",
+        "doi": "10.48550/arXiv.2311.18069",
+        "en_title": "Observation of an electronic microemulsion phase emerging from a quantum crystal-to-liquid transition",
+        "id": "937409596379627733",
+        "keywords": "",
+        "publication_date": "2023-11-29",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "观察量子晶体到液体转变过程中出现的电子微乳液相"
+      }
+    },
+    "variables": [
+      {
+        "content": "When comparing the measured reduced susceptibility data in the high-density liquid to fixed-node diffusion QMC predictions for a homogeneous two-dimensional electron gas parameterized by conduction-band g-factor g, effective mass m^*, and dielectric constant ε, the proposition is that the reported quantitative agreement between experiment and QMC is robust against reasonable variations of these input parameters: moderate adjustments of ε within experimentally plausible bounds or modest changes in the assumed m^* around 0.7 m_0 do not eliminate the quantitative agreement between the measured χ/χ_0 and the QMC curve, supporting the conclusion that the high-density state behaves as a clean, strongly interacting Fermi liquid rather than being an artifact of over-fitting poorly constrained parameters.",
+        "content_hash": "63d1a942ed84a2b77b2e4d9c4d11ce6ff40464c3fbb92e68658641e10f591bc2",
+        "id": "gcn_be05e6588d854310",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:937409596379627733::P14",
+            "package_id": "paper:937409596379627733",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:937409596379627733"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03128054740957967,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+        "content_hash": "b91e49651e9919fd43236efc34209fb4d01669b2208edac4b705bf9ae139fce3",
+        "id": "gcn_ff9edeb262af4bd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_7",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03047794966520434,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030309988518943745,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $k$ be the effective interaction parameter defined by $k=k_{0}-k_{1}[1-(2S_{z}/N)^{2}]$, and let $F_{1}^{s}$ and $F_{1}^{a}$ be the Landau Fermi-liquid parameters for the two-dimensional electron gas. The proposition asserts that one can identify $k$ with the combinations $-F_{1}^{s}/(2+F_{1}^{s})$ and $-F_{1}^{a}/(2+F_{1}^{s})$ from Landau theory, and that using available quantum Monte Carlo calculations of these Landau parameters for the homogeneous two-dimensional electron gas yields an estimate $k\\simeq-2\\times10^{-2}$ at carrier density $N_{s}=3.32\\times10^{-11}\\ \\mathrm{cm}^{-2}$. This mapping and numerical identification is approximate and assumes that the homogeneous-electron-gas Monte Carlo results apply (after straightforward identification) to the experimental confined space-charge-layer systems.\n      [41]",
+        "content_hash": "5b44eb20fd853fff6c2bd5361065ef159e126f4b00833e244c84fb296823a0a5",
+        "id": "gcn_552450ffd8954458",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812339268134371331::P10",
+            "package_id": "paper:812339268134371331",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812339268134371331"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028283227848101264,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When comparing the Drude–Boltzmann magnetoconductance calculations to experimental data on low-density two-dimensional electron systems (for example Si-MOSFETs at densities $n_s\\\\sim10^{11}\\\\,$cm$^{-2}$), the methodological assumption is that the metallic phase is a Landau Fermi liquid characterized by quasiparticles with renormalized parameters: an effective mass $m^*$, a renormalized $g$-factor, and an effective Rashba coupling $\\\\alpha^*$. Under this assumption the theoretical conductivity computed with renormalized parameters can be meaningfully compared to observed anisotropy magnitudes and density-dependent peak fields, while recognizing that this Fermi-liquid description may break down near the putative metal–insulator transition where non-Fermi-liquid effects could be relevant.\n      See discussion and references in the paper's Introduction (e.g., Refs. [2,20])",
+        "content_hash": "39e3efa4fbd16227ae4796843a8c4fec0601e713c7165dac63fda370dbc51155",
+        "id": "gcn_8eb7ee072310444b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811899232150618113::P12",
+            "package_id": "paper:811899232150618113",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811899232150618113"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025516795865633074,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Consider a single occupied quasi-2D disk with areal density $\\rho_2$, inertial effective mass $m_a^*$ obtained from a quadratic fit $\\varepsilon_{k0}=\\varepsilon_0+a_0k^2$ with $m_a^*=\\hbar^2/(2a_0)$, and zero-temperature chemical potential $\\mu(\\rho_2)$.  The two-dimensional Fermi-liquid relation at $T=0$\n      $$\n      \\frac{\\partial\\mu}{\\partial\\rho_2}=\\frac{\\pi\\hbar^2}{m_a^*(\\rho_2)}\\big[1+F_0^s(\\rho_2)\\big]\n      $$\n      can be used to define a symmetric Landau parameter $F_0^s(\\rho_2)$ for the quasi-2D disk, i.e., applying this strictly two-dimensional Fermi-liquid formula to the quasi-2D disk yields a meaningful estimate of the effective Landau parameter within the quasi-2D description.",
+        "content_hash": "1c9ab34f24d66295e8dc1a4360be50110fcce12b071be4eebf4dd5fb118abeb4",
+        "id": "gcn_be0978f1aa2747f7",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811827488836550656::P10",
+            "package_id": "paper:811827488836550656",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811827488836550656"
+          ]
+        },
+        "role": "premise",
+        "score": 0.02368937482478273,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For a repulsive Fermi-liquid regime in which Landau Fermi-liquid theory remains applicable, the distinct asymptotic behaviors of specific Landau parameters provide a diagnostic to distinguish the microscopic nature of an incipient instability: proximity to a ferromagnetic (Stoner) instability is signaled by the antisymmetric Landau parameter approaching F_0^a\\to -1 while the effective-mass ratio m^*/m and F_1^s remain finite, whereas a localization-driven instability is signaled by a diverging quasiparticle effective mass m^*/m\\to\\infty (equivalently F_1^s\\to\\infty) without F_0^a\\to -1. Therefore, spatially resolved experimental measurements of F_0^a(r) and m^*(r) in a trapped repulsive gas (preferably at interaction strengths slightly weaker than the critical value so that the system remains a Fermi liquid) can indicate whether the dominant incipient instability at stronger repulsion is ferromagnetism or localization.",
+        "content_hash": "4526438068c46bb3e5e673cc9ee1b4d56bcaeacdc4f8ca0a02fe207710833135",
+        "id": "gcn_13273a8f3e9c4d9e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811773119797657600::conclusion_5",
+            "package_id": "paper:811773119797657600",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811773119797657600"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the exact-diagonalization analysis of finite spherical systems used to infer the effective-mass staircase and the Fermi-liquid parameters, projecting the electron-electron Hamiltonian to the lowest Landau level (i.e., neglecting Landau-level mixing effects arising from finite cyclotron energy) is an adequate approximation for the parameter ranges and sample sizes studied, in the sense that the qualitative staircase in m_{0}^{*} and the fitted negative Landau-parameter values are not artifacts introduced by the neglect of Landau-level mixing and that Landau-level-mixing corrections are small enough in these finite systems not to overturn the reported finite-size spectral features and parameter estimates.\n      Onoda, M.; Mizusaki, T.; Aoki, H., Phys. Rev. B 64, 235315 (2001)",
+        "content_hash": "cc1a10b76b7d532e69887605c053b6162603322a1abc2021b7ba49e9a4241b8d",
+        "id": "gcn_62b88566fb014d07",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811822988692291585::P12",
+            "package_id": "paper:811822988692291585",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811822988692291585"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass m* is defined from the derivative of the quasiparticle energy band ε(k) at the Fermi wave vector k_F as m* = k_F · (dε/dk)^{-1}_{k_F}, where k_F is the Fermi wave vector and derivatives are evaluated with respect to the magnitude k of the momentum; in atomic units the bare electron mass m equals 1. For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and density parameter r_s = 1 (where r_s = (1/(πρ))^{1/2} with electron number density ρ), variational Monte Carlo (VMC) and fixed-node diffusion Monte Carlo (DMC) calculations extrapolated to the thermodynamic limit produce values consistent with the bare mass within statistical uncertainty: m*_{VMC}(r_s = 1) = 0.98(1) and m*_{DMC}(r_s = 1) = 0.95(1) (atomic units), indicating negligible mass renormalization from electron–electron interactions at this high density.",
+        "content_hash": "e596de9ff5169a1208ffdbf2eb4ec38a975b3d1c40e0d67a9365777dedb6fae3",
+        "id": "gcn_395e5564603d4a9b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_1",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Numerical evaluations using the leading-order ladder-bubble (RPA) expansion in the dynamically screened Coulomb interaction, combined with realistic quasi-2D form factors and device parameters, yield density-dependent spin susceptibility and effective-mass results that remain in reasonable quantitative agreement with available experiments for interaction strengths up to approximately $r_s\\!\\sim\\!7$; comparison with available strict-2D quantum Monte Carlo (QMC) results shows significant differences in the intermediate and large-$r_s$ regime (because QMC typically assumes zero transverse width, $F(q)=1$), but the quasi-2D RPA results can be quantitatively close to strict-2D QMC for some parameter ranges, and overall the quasi-2D RPA ladder-bubble framework provides a conserving, physically motivated approximation that explains experimental trends without invoking non–Fermi-liquid physics.",
+        "content_hash": "b6bcc96890b443b5fef76aabf951a8ad7dbf34226547f180c1b360651682608a",
+        "id": "gcn_423ea3c725294fc2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750964453442086::conclusion_8",
+            "package_id": "paper:867750964453442086",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750964453442086"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "a7b661fbf0f726dde7904db9d5b0745a"
+}

@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "The diffusion Monte Carlo data for Fourier-projected Fermi liquid quantities display large, nonmonotonic fluctuations as functions of finite-system particle number N that exceed the per-run statistical error bars: the statistical uncertainties from individual DMC runs are generally much smaller than the observed shell-filling oscillations and other finite-size \"noise.\" A theoretical finite-size scaling proportional to N^{-1/4} (the exponent -1/4 predicted for long-range-correlation-dominated finite-size errors) is consistent with all DMC data in a global fit (the best-fit common exponent found by simultaneous \\chi^2 fitting of the DMC data is \\gamma = -0.24(10)), but the fit quality is poor (\\chi^2 per data point \\gg 1) because the shell-filling oscillations and related finite-size noise are not captured by the statistical error bars; a naive ordinary least-squares fit with equal weighting of data points yields a very different effective exponent. Consequently, these finite-size effects constitute a serious obstacle to a quantitatively accurate, direct determination of Fermi liquid parameters from finite-cell QMC calculations: extrapolated Fermi liquid parameters obtained by simple power-law fits have large uncertainties and in many cases are inconsistent with related thermodynamic quantities obtained directly from parametrizations of the ground-state total energy per electron.",
+      "content_hash": "30eefee1ccd63db33ea9950861254ea7e118b166b731903158e65947e6d51cc8",
+      "id": "gcn_3db07703d3684507",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "The diffusion Monte Carlo data for Fourier-projected Fermi liquid quantities display large, nonmonotonic fluctuations as functions of finite-system particle number N that exceed the per-run statistical error bars: the statistical uncertainties from individual DMC runs are generally much smaller than the observed shell-filling oscillations and other finite-size \"noise.\" A theoretical finite-size scaling proportional to N^{-1/4} (the exponent -1/4 predicted for long-range-correlation-dominated finite-size errors) is consistent with all DMC data in a global fit (the best-fit common exponent found by simultaneous \\chi^2 fitting of the DMC data is \\gamma = -0.24(10)), but the fit quality is poor (\\chi^2 per data point \\gg 1) because the shell-filling oscillations and related finite-size noise are not captured by the statistical error bars; a naive ordinary least-squares fit with equal weighting of data points yields a very different effective exponent. Consequently, these finite-size effects constitute a serious obstacle to a quantitatively accurate, direct determination of Fermi liquid parameters from finite-cell QMC calculations: extrapolated Fermi liquid parameters obtained by simple power-law fits have large uncertainties and in many cases are inconsistent with related thermodynamic quantities obtained directly from parametrizations of the ground-state total energy per electron.",
+              "id": "gcn_3db07703d3684507"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_b465826db1974ced",
+            "premises": [
+              {
+                "content": "For the two-dimensional homogeneous electron gas (2D HEG), the leading finite-size error in Fermi-liquid-derived quantities such as the angular-momentum Fermi liquid parameters F_l or the Fourier-projected quantities F_l/m^{*} behaves asymptotically as a power law in the finite-system particle number N with exponent -1/4; equivalently,\n      \\Delta F_l(N) \\equiv F_l(N)-F_l(\\infty) \\propto N^{-1/4},\n      so that fitting computed F_l(N) values to the form c + a N^{-1/4} yields an estimate of the thermodynamic-limit intercept c = F_l(\\infty). This statement adopts the theoretical asymptotic exponent \\gamma = -1/4 predicted for long-range-correlation-dominated finite-size errors.\n      Refs. 13,14",
+                "id": "gcn_3ceb44ae3f404964"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define the source of finite-size errors in the QMC calculations: because the QMC calculations are performed in finite simulation cells with periodic boundary conditions, the available wave vectors are discrete reciprocal-lattice points, and the finite cell prevents the correct description of long-range Coulomb and correlation effects; these long-range effects determine the finite-size errors in Fermi liquid parameters. This theoretical origin of finite-size errors was discussed and quantified in prior work. [13,14]",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Report empirical manifestation of finite-size effects in the computed Fermi liquid parameters: the Fermi liquid parameters divided by effective mass computed at a range of system sizes exhibit large, nonmonotonic fluctuations (\"finite-size oscillations\" or \"shell-filling oscillations\") as functions of electron number $N$, and these apparent finite-size fluctuations are much larger than the statistical error bars from individual DMC runs, i.e., the nominal random uncertainties reported for each DMC estimate are generally much smaller than the observed scatter of the data points as $N$ varies. This observation is evident in the plotted Fermi liquid parameters vs system size for the densities studied. Fig. 4, Fig. 5, Fig. 6",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Describe the attempted finite-size-scaling analysis and its numerical inadequacy: motivated by theoretical work predicting a finite-size scaling $\\propto N^{-1/4}$ for Fermi liquid properties, the authors performed global fits of the system-size dependence using the model $F_i(N)=c_i+a_i N^{\\gamma}$ constrained to a common exponent $\\gamma$ across Fermi liquid parameters and densities; the optimal exponent from the simultaneous $\\chi^{2}$ fit was $\\gamma=-0.24(10)$, numerically consistent with $-1/4$, but the reduced $\\chi^{2}$ per data point for that fit was 6.88, indicating a poor fit (a very large residual relative to nominal statistical errors) and therefore that the data are not well described by the assumed scaling when the statistical error bars are taken at face value. The poor fit quality is attributed to shell-filling oscillations that are not reflected in the nominal statistical error bars. [13,14]",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Report incompatibility of different fitting procedures and the consequent instability of exponent determination: when the same data were fitted using an unweighted least-squares fit (each data point weighted equally rather than by inverse variance), the best-fit exponent changed dramatically to $\\gamma=-1(2)$, and performing a $\\chi^{2}$ fit with exponent fixed at $\\gamma=-1$ yielded a $\\chi^{2}$ per data point of 7.26, only slightly worse than that for $\\gamma=-0.24$. These large differences depending on fitting protocol demonstrate that the exponent cannot be robustly determined from the numerical data alone due to finite-size \"noise.\"",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "State practical choice and caveat used for extrapolation: because the numerical determination of the exponent is inconclusive but the theoretically predicted value $\\gamma=-1/4$ is consistent with the numerical best fit within uncertainty, the authors elected to use the value $\\gamma=-1/4$ for extrapolations to infinite system size; however, they explicitly caution that this choice does not remove the large uncertainties arising from the finite-size oscillations, and they note that the fit quality remains poor and that naive least-squares or unweighted fits yield very different extrapolated behavior.",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Conclude the methodological implication: finite-size effects—manifested as large, nonmonotonic shell-filling oscillations and other finite-size \"noise\" that overwhelm nominal statistical error bars—constitute a serious obstacle to quantitatively accurate, direct determination of Fermi liquid parameters from QMC; as a consequence, extrapolated Fermi liquid parameters have large uncertainties and in many cases disagree with related thermodynamic quantities obtained directly from parametrizations of ground-state total energy, so that direct QMC determination of Fermi liquid parameters is not yet quantitatively reliable without improved treatments of finite-size effects. Support for the disagreement with thermodynamic quantities is given by comparisons between Fermi-liquid-derived response functions and those computed directly from fitted total energies. Fig. 4, Fig. 5, Fig. 6Table V",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Determination of Fermi liquid parameters from finite-size QMC calculations requires not only precise total-energy differences at each system size but also a reliable knowledge of how finite-size errors scale with $N$. Prior to this work it was unclear whether long-range correlation finite-size corrections would permit a clean extrapolation and whether shell-filling oscillations would dominate the system-size dependence. Without establishing the character and magnitude of finite-size fluctuations, extrapolated Fermi liquid parameters would be uncontrolled, and comparisons with other observables (e.g., compressibility, spin susceptibility) could not be meaningfully interpreted.",
+            "id": "paper:813209134949203971::conclusion_4_subproblem",
+            "source_package": "paper:813209134949203971"
+          }
+        ],
+        "source_package": "paper:813209134949203971"
+      }
+    ],
+    "papers": {
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "35d6bded02c056190d97c31b78d61bf2"
+}

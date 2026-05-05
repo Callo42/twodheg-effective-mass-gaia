@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:812013408839794689": {
+        "area": "Engineering Technology",
+        "authors": "H. D. Kim | J. H. Lee | K. A. Park | T. Setoguchi | S. Matsuo",
+        "available_online": "",
+        "cover_date_start": "2007-03-01",
+        "created_at": "2022-12-20T09:31:23+08:00",
+        "doi": "10.1007/s11630-007-0028-z",
+        "en_title": "A study of the critical nozzle for flow rate measurement of high-pressure hydrogen gas",
+        "id": "812013408839794689",
+        "keywords": "[{\"en_name\": \"Compressible flow\", \"ch_name\": \"\"}, {\"en_name\": \"Critical nozzle\", \"ch_name\": \"\"}, {\"en_name\": \"Hydrogen gas\", \"ch_name\": \"\"}, {\"en_name\": \"Ideal gas law\", \"ch_name\": \"\"}, {\"en_name\": \"Real gas effect\", \"ch_name\": \"\"}]",
+        "publication_date": "2007-3",
+        "publication_id": "4319",
+        "publication_name": "Journal of Thermal Science _ J. of Therm. Sci.",
+        "research_categories": "[\"Engineering\", \"Aerospace Engineering\"]",
+        "zh_title": "一项关于用于高压氢气流量测量的临界喷嘴的研究"
+      },
+      "paper:812446888669216769": {
+        "area": "Physics and Astrophysics",
+        "authors": "H Suehiro | K Awa | H Yasuhara",
+        "available_online": "",
+        "cover_date_start": "1983-08-01",
+        "created_at": "2022-12-21T14:13:54+08:00",
+        "doi": "10.1016/0038-1098(83)90768-8",
+        "en_title": "Exchange and correlation potentials in the one-electron equation",
+        "id": "812446888669216769",
+        "keywords": "",
+        "publication_date": "1983-8",
+        "publication_id": "653",
+        "publication_name": "Solid State Communications _ Solid State Communications",
+        "research_categories": "",
+        "zh_title": "单电子方程中的交换关联势"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:813324509544185857": {
+        "area": "Physics and Astrophysics",
+        "authors": "P. Koorevaar | P. H. Kes | A. E. Koshelev | J. Aarts",
+        "available_online": "1994-5-16",
+        "cover_date_start": "1994-05-16",
+        "created_at": "2022-12-24T00:21:15+08:00",
+        "doi": "10.1103/physrevlett.72.3250",
+        "en_title": "Vortex lattice melting in multilayers with variable anisotropies",
+        "id": "813324509544185857",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "484",
+        "publication_name": "Physical Review Letters _ Phys. Rev. Lett.",
+        "research_categories": "",
+        "zh_title": "具有可变各向异性的多层结构中的涡旋晶格熔化"
+      },
+      "paper:814629726483120128": {
+        "area": "Physics and Astrophysics",
+        "authors": "Yongkyung Kwon | D. M. Ceperley | Richard M. Martin",
+        "available_online": "1994-7-15",
+        "cover_date_start": "1994-07-15",
+        "created_at": "2022-12-27T14:47:43+08:00",
+        "doi": "10.1103/physrevb.50.1684",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi-liquid parameters in the two-dimensional electron gas",
+        "id": "814629726483120128",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维电子气中费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867753636627743508": {
+        "area": "arXiv-Physics",
+        "authors": "Markus Holzmann | Bernard Bernu | Valerio Olevano | Richard M. Martin | David M. Ceperley",
+        "available_online": "",
+        "cover_date_start": "2008-10-14",
+        "created_at": "2023-05-23T05:03:09+08:00",
+        "doi": "10.48550/arXiv.0810.2450",
+        "en_title": "Renormalization factor and effective mass of the two-dimensional electron gas",
+        "id": "867753636627743508",
+        "keywords": "",
+        "publication_date": "2008-10-14",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "二维电子气的重整化因子和有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.030158730158730156,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the ideal (strictly two-dimensional, zero-width, disorder-free) paramagnetic two-dimensional homogeneous electron gas, the extrapolated thermodynamic-limit quasiparticle effective mass remains close to unity across the studied density parameters r_s=1, 5, and 10, and the high-precision DMC extrapolations reported here show no evidence for a strong enhancement of m^* at low density in this ideal system.",
+        "content_hash": "114652627ebcf187116a74a375719c1790790671dedfaf72cbc05240e3429d85",
+        "id": "gcn_4589e711a3d4446d",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_10",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03009207275993712,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolation of finite-N DMC quartic-fit effective masses yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.70(3) a.u., where m^*=k_F/(dE/dk)_{k_F} for the ferromagnetic Fermi wave vector.",
+        "content_hash": "2c82e82be9174664505fe70852973f148dad975a07d4a43179dbe6bd85cd3977",
+        "id": "gcn_d43e72a7274f420f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_9",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029411764705882353,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let an experimental $B$--$T$ phase diagram display a 3D melting line extrapolated to higher fields and a 2D full-sample melting curve $T_{2D,full}^{m}(B)$. The proposition claims: locating their intercept (the field at which an extrapolated 3D melting line crosses the $T_{2D,full}^{m}(B)$ curve) provides an experimentally accurate estimate of the finite-size crossover field $B_{cr}$ such that inserting this $B_{cr}$ into the finite-size formula above yields a meaningful estimate of the anisotropy $\\gamma$ to within a factor of order unity, despite uncertainties in extrapolation and finite-data sampling.",
+        "content_hash": "afcb634a59ae4acdac1f2be5eb359afeea97c0e64d1b27b6cc726bd185faa770",
+        "id": "gcn_f02de707cd984a50",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813324509544185857::P12",
+            "package_id": "paper:813324509544185857",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813324509544185857"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the homogeneous unpolarized two-dimensional electron gas in a finite square cell, adding one electron with momentum \\mathbf{p} (|\\mathbf{p}|>k_F) to the N-particle ground state produces a finite-size correction to the total kinetic-energy contribution of the excitation given by\n      \\delta T_{\\mathbf{p}}^{N}=\\frac{\\hbar^{2}\\mathbf{p}^{2}}{2m}\\;Z_{\\mathbf{p}}^{N}\\big[e^{-\\Delta_{N}}-1\\big],\n      where Z_{\\mathbf{p}}^{N} is the finite-N quasiparticle weight at momentum \\mathbf{p} and \\Delta_{N} is the missing-small-q integral defined in conclusion 1. Because \\Delta_{N}\\sim N^{-1/4} for large N, the leading finite-size error in the near-k_F excitation dispersion used to extract the single-particle effective mass m^{*} (via the linearized relation \\varepsilon_{\\mathbf{k}}\\approx\\hbar^{2}k_F(k-k_F)/m^{*}) also scales as N^{-1/4}; therefore, extrapolations that assume faster vanishing finite-size errors can give qualitatively incorrect conclusions about the sign and magnitude of m^{*}-m for typical accessible system sizes.",
+        "content_hash": "0c1b02dc23cc75d5851a4d7805ac3e763197906e5cfe7b8ea1810df601d48c00",
+        "id": "gcn_28b9e01bd2f8487f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867753636627743508::conclusion_3",
+            "package_id": "paper:867753636627743508",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867753636627743508"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective-mass ratio m^*/m at the Fermi surface, defined from the slope of the quasiparticle energy E(p) at p=p_F by 1/m^*=(1/p)\\,dE(p)/dp|_{p=p_F} with E(p)=\\epsilon_p+\\mathrm{Re}\\,\\Sigma(p,E(p)) and \\epsilon_p=\\hbar^2p^2/(2m), is found in numerical evaluations for the three-dimensional homogeneous electron gas to be substantially reduced by the inclusion of short-range vertex corrections embodied in the local-field factors G(q) and C(q); the high-density asymptotic expansion gives\n      $$\n      m^*/m=\\left\\{1-\\frac{\\alpha r_s}{2\\pi}\\left(2+\\ln\\frac{\\alpha r_s}{\\pi}\\right)+\\cdots\\right\\}^{-1},\n      $$\n      with \\alpha=(4/9\\pi)^{1/3}, which predicts m^*/m<1 in the high-density limit, while RPA results exceed unity for r_s\\ge 2.23 and the Rice approximation results exceed unity for r_s\\ge 2.7; by contrast, the present approximation that retains both particle-hole and particle-particle local-field corrections yields m^*/m values that remain below unity throughout the metallic-density region examined and cross above unity only at r_s\\simeq 5.5.",
+        "content_hash": "b51a3f54746a7d9e46f81a02b24912394bdbae32c25def4ce452bcae7e3fcfc9",
+        "id": "gcn_407d9ded727c4041",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446888669216769::conclusion_5",
+            "package_id": "paper:812446888669216769",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446888669216769"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) two-dimensional homogeneous electron gas at density parameter r_s=1, extrapolating finite-N quasiparticle effective masses m^*(N) produced by quartic fits to DMC energy bands and fitting m^*(N)=m^*(∞)+b N^{-γ} yields the thermodynamic-limit quasiparticle effective mass m^*(∞)=0.955(2) in hartree atomic units (a.u.), where m^* is defined by m^*=k_F/(dE/dk)_{k_F} with k_F the Fermi wave vector of the infinite system.",
+        "content_hash": "7859b0b106dad377c477ad6afe8e3774af8cb07138426e0b7daf7af4d7730e8c",
+        "id": "gcn_2feeb72d724846cf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_4",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "With the discharge coefficient defined as\n      $$\n      C_d=\\frac{\\dot{m}}{\\dot{m}_{th}},\n      $$\n      where $\\dot m$ is the actual mass flow measured or computed and $\\dot m_{th}$ is the theoretical choked-flow mass flow used as reference, the ideal-gas CFD computations (both numerical and classical inviscid theory) show $C_d$ increasing with Reynolds number and approaching unity. When the real-gas CFD solution for hydrogen is reduced using the inviscid ideal-gas theoretical choked-flow rate $\\dot m_{th}$ given above, the resulting $C_d$ increases and can exceed unity. Defining instead a real-gas-based theoretical mass flow by using cross-sectional mean throat properties,\n      $$\n      \\dot{m}_{th}^{\\mathrm{(real)}}=A\\,\\bar{\\rho}_{th}\\,\\bar{u}_{th},\n      $$\n      where $A$ is throat area and $\\bar{\\rho}_{th}$ and $\\bar{u}_{th}$ are the cross-sectionally averaged density and axial velocity at the throat from the real-gas flow field, produces a corrected discharge coefficient $C_d=\\dot m/\\dot m_{th}^{\\mathrm{(real)}}$ that remains below unity; in the present computations this corrected $C_d$ exhibits a maximum below unity at a throat Reynolds number near $Re_{th}=0.6\\times10^{7}$. Experimental discharge-coefficient data reported in the literature for high-pressure hydrogen, which were reduced using the ideal-gas theoretical mass flow $\\dot m_{th}$, show a maximum $C_d$ exceeding unity and differ substantially from the present CFD results reduced using a real-gas theoretical reference.",
+        "content_hash": "1dfdec716bf538e170c5c370495500e6abd14317647daf27beaf20feea7dfc23",
+        "id": "gcn_b552c3f09e9c432f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812013408839794689::conclusion_4",
+            "package_id": "paper:812013408839794689",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812013408839794689"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For finite-system variational Monte Carlo studies of the two-dimensional electron gas in the density range $1\\le r_{s}\\le5$ and system sizes tested ($N=26,58,98$), extracting the effective mass $m^{*}$ by (i) computing correlated energy differences among excited states at fixed particle number and (ii) fitting those differences to the angular expansion for $\\Delta E_{\\alpha\\beta}$ to obtain $f_{1}^{s}$ and then $m^{*}$ via $m^{*}/m=(1-\\tfrac{1}{4}r_{s}^{2}N f_{1}^{s})^{-1}$ produces results with much smaller and more systematic finite-size dependence than extracting $m^{*}$ from energy differences between ground and excited states combined with external compressibility and susceptibility inputs; this conclusion is supported by the observed near-independence of the fitted combinations $N f_{l}$ across the tested $N$ values when the excited-state-difference method is used.",
+        "content_hash": "7cdd78f12e5d3c615e9cfc1e2161a46c83cf65fa81815ec8306d240b3dfd3076",
+        "id": "gcn_00cd64eb3fd04e62",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814629726483120128::conclusion_7",
+            "package_id": "paper:814629726483120128",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814629726483120128"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional homogeneous electron gas at density parameter r_s=10, extrapolating finite-N DMC effective masses obtained from quartic-band fits gives the thermodynamic-limit quasiparticle effective mass m^*(∞)=1.03(4) a.u., where m^* is defined by m^*=k_F/(dE/dk)_{k_F}.",
+        "content_hash": "9238a651fed4ca1f2b2f0051b521d34c78070811c070f0a17b3fa0c22771fbd8",
+        "id": "gcn_61559eac3ef543c8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_6",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "9bcf85cf70d8b7a6ed2a001707789041"
+}
