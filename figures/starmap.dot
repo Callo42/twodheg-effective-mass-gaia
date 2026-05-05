@@ -1,0 +1,121 @@
+digraph starmap {
+    rankdir=TB;
+    compound=true;
+    node [fontname="Helvetica", fontsize=10];
+    edge [fontname="Helvetica", fontsize=9];
+
+    subgraph cluster_cross_paper {
+        label="cross_paper";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks" [label="older_dmc_enhancement_vs_revised_dmc_benchmarks\n(0.92 → 1.00)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise" [label="n_quarter_scaling_vs_shell_filling_noise\n(0.90 → 1.00)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+    }
+
+    subgraph cluster_paper_drummond2009_fermi_fluid {
+        label="paper_drummond2009_fermi_fluid";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "local:twodheg_effective_mass::gcn_4d1aad1470d54895" [label="gcn_4d1aad1470d54895\n(0.68 → 0.14)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+    }
+
+    subgraph cluster_paper_drummond2012_effective_mass {
+        label="paper_drummond2012_effective_mass";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "local:twodheg_effective_mass::gcn_a685639571304474" [label="gcn_a685639571304474\n(0.75 → 0.76)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_17c63b5dc2154f15" [label="gcn_17c63b5dc2154f15\n(0.72 → 0.74)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_b7a7d456a05d4129" [label="gcn_b7a7d456a05d4129\n(0.80)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "strat_5" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    }
+
+    subgraph cluster_paper_drummond2013_effective_mass {
+        label="paper_drummond2013_effective_mass";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "local:twodheg_effective_mass::gcn_850fc9d9de314026" [label="gcn_850fc9d9de314026\n(0.76 → 0.84)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_c7b10e47e2ab45e1" [label="gcn_c7b10e47e2ab45e1\n(0.90)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_48797cba2bf44d90" [label="gcn_48797cba2bf44d90\n(0.78 → 0.78)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_1e8fcb7ef934428d" [label="gcn_1e8fcb7ef934428d\n(0.75 → 0.75)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_50e263dc961541e0" [label="gcn_50e263dc961541e0\n(0.76 → 0.76)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_a981a2b787514e47" [label="gcn_a981a2b787514e47\n(0.71)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "strat_3" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_4" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    }
+
+    subgraph cluster_paper_drummond2013_fermi_liquid {
+        label="paper_drummond2013_fermi_liquid";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "local:twodheg_effective_mass::gcn_219b34bd252c43fa" [label="gcn_219b34bd252c43fa\n(0.78 → 0.45)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_3ceb44ae3f404964" [label="gcn_3ceb44ae3f404964\n(0.78 → 0.50)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_3db07703d3684507" [label="gcn_3db07703d3684507\n(0.48)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_836bae7457044c7a" [label="gcn_836bae7457044c7a\n(0.74 → 0.74)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_306f15c9d5814e23" [label="gcn_306f15c9d5814e23\n(0.85)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "strat_1" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_2" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    }
+
+    subgraph cluster_paper_holzmann2008 {
+        label="paper_holzmann2008";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "local:twodheg_effective_mass::gcn_da3eecec49114543" [label="gcn_da3eecec49114543\n(0.82 → 0.89)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f" [label="★ gcn_28b9e01bd2f8487f\n(0.98)", shape=box, style=filled, fillcolor="#d4edda", color="#28a745", penwidth=2];
+        "strat_0" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    }
+
+    // cross-module strategy/operator nodes (outside clusters)
+    "strat_6" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    "strat_7" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    "strat_8" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    "oper_0" [label="⊗ contradiction", shape=hexagon, style=filled, fillcolor="#ffebee", color="#c62828"];
+    "oper_1" [label="⊗ contradiction", shape=hexagon, style=filled, fillcolor="#ffebee", color="#c62828"];
+
+    // edges
+    "local:twodheg_effective_mass::gcn_da3eecec49114543" -> "strat_0";
+    "strat_0" -> "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f";
+    "local:twodheg_effective_mass::gcn_3ceb44ae3f404964" -> "strat_1";
+    "strat_1" -> "local:twodheg_effective_mass::gcn_3db07703d3684507";
+    "local:twodheg_effective_mass::gcn_836bae7457044c7a" -> "strat_2";
+    "strat_2" -> "local:twodheg_effective_mass::gcn_306f15c9d5814e23";
+    "local:twodheg_effective_mass::gcn_850fc9d9de314026" -> "strat_3";
+    "strat_3" -> "local:twodheg_effective_mass::gcn_c7b10e47e2ab45e1";
+    "local:twodheg_effective_mass::gcn_48797cba2bf44d90" -> "strat_4";
+    "local:twodheg_effective_mass::gcn_1e8fcb7ef934428d" -> "strat_4";
+    "local:twodheg_effective_mass::gcn_50e263dc961541e0" -> "strat_4";
+    "strat_4" -> "local:twodheg_effective_mass::gcn_a981a2b787514e47";
+    "local:twodheg_effective_mass::gcn_a685639571304474" -> "strat_5";
+    "local:twodheg_effective_mass::gcn_17c63b5dc2154f15" -> "strat_5";
+    "strat_5" -> "local:twodheg_effective_mass::gcn_b7a7d456a05d4129";
+    "local:twodheg_effective_mass::gcn_219b34bd252c43fa" -> "strat_6";
+    "strat_6" -> "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f";
+    "local:twodheg_effective_mass::gcn_850fc9d9de314026" -> "strat_7";
+    "strat_7" -> "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f";
+    "local:twodheg_effective_mass::gcn_a981a2b787514e47" -> "strat_8";
+    "strat_8" -> "local:twodheg_effective_mass::gcn_b7a7d456a05d4129";
+    "local:twodheg_effective_mass::gcn_4d1aad1470d54895" -> "oper_0" [dir=none];
+    "local:twodheg_effective_mass::gcn_b7a7d456a05d4129" -> "oper_0" [dir=none];
+    "oper_0" -> "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks" [dir=none];
+    "local:twodheg_effective_mass::gcn_219b34bd252c43fa" -> "oper_1" [dir=none];
+    "local:twodheg_effective_mass::gcn_3db07703d3684507" -> "oper_1" [dir=none];
+    "oper_1" -> "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise" [dir=none];
+}
