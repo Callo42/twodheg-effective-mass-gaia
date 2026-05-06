@@ -1,5 +1,5 @@
 {
-  "ir_hash": "sha256:a9fedc61f118848a97a4d22ff180057118b3c3dce3359c7ec9227daa072641da",
+  "ir_hash": "sha256:fe77ced2a2864c842b09892d010170e50c8fca973794fcedfa67a185decb89ed",
   "knowledges": [
     {
       "content": "For an added-electron excitation with momentum p above k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy correction delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. In leading order, the corresponding potential-energy correction is independent of p and therefore does not affect the slope of the excitation dispersion used to extract m* from near-k_F fits [@Holzmann2008].",
@@ -665,8 +665,8 @@
       "metadata": {
         "helper_kind": "contradiction_result",
         "judgment": "accepted",
-        "justification": "Accepted as a scientific_inconsistency candidate: the claims address the same field-facing paramagnetic 2D HEG effective-mass question with incompatible enhancement conclusions, plausibly resolved by finite-size/statistical treatment.",
-        "prior": 0.92,
+        "justification": "Accepted as a weak scientific_inconsistency: the claims address the same field-facing paramagnetic 2D HEG effective-mass question, but the tension is best read as a methodological revision under improved finite-size/statistical treatment.",
+        "prior": 0.84,
         "relation_type": "scientific_inconsistency"
       },
       "module": "cross_paper",
@@ -684,8 +684,8 @@
       "metadata": {
         "helper_kind": "contradiction_result",
         "judgment": "accepted",
-        "justification": "Accepted as a scientific_inconsistency candidate: both claims address the same Fermi-liquid-parameter extrapolation protocol, but one treats N^(-1/4) fitting as a usable extrapolation form while the other materially qualifies it as unreliable for the observed finite-size data.",
-        "prior": 0.9,
+        "justification": "Accepted as a weak scientific_inconsistency: both claims address the same Fermi-liquid-parameter extrapolation protocol, but the tension is a limitation on practical use of the asymptotic law rather than a dispute over whether the law exists.",
+        "prior": 0.82,
         "relation_type": "scientific_inconsistency"
       },
       "module": "cross_paper",

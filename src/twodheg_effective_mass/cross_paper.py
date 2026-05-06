@@ -153,7 +153,7 @@ older_dmc_enhancement_vs_revised_dmc_benchmarks = contradiction(
         "enhancement in earlier DMC survive the later high-precision finite-size "
         "extrapolation protocol, or is it removed by revised finite-size/statistical treatment?"
     ),
-    prior=0.92,
+    prior=0.84,
 )
 older_dmc_enhancement_vs_revised_dmc_benchmarks.content = (
     "not_both_true(older_paramagnetic_dmc_mass_enhancement, "
@@ -164,9 +164,9 @@ older_dmc_enhancement_vs_revised_dmc_benchmarks.metadata.update(
     {
         "judgment": "accepted",
         "justification": (
-            "Accepted as a scientific_inconsistency candidate: the claims address "
-            "the same field-facing paramagnetic 2D HEG effective-mass question with "
-            "incompatible enhancement conclusions, plausibly resolved by finite-size/statistical treatment."
+            "Accepted as a weak scientific_inconsistency: the claims address the same "
+            "field-facing paramagnetic 2D HEG effective-mass question, but the tension "
+            "is best read as a methodological revision under improved finite-size/statistical treatment."
         ),
         "relation_type": "scientific_inconsistency",
     }
@@ -185,7 +185,7 @@ n_quarter_scaling_vs_shell_filling_noise = contradiction(
         "a reliable extrapolation protocol rather than only an asymptotic guide "
         "overwhelmed by shell-filling noise?"
     ),
-    prior=0.90,
+    prior=0.82,
 )
 n_quarter_scaling_vs_shell_filling_noise.content = (
     "not_both_true(n_quarter_finite_size_scaling_as_extrapolation_protocol, "
@@ -196,10 +196,9 @@ n_quarter_scaling_vs_shell_filling_noise.metadata.update(
     {
         "judgment": "accepted",
         "justification": (
-            "Accepted as a scientific_inconsistency candidate: both claims address "
-            "the same Fermi-liquid-parameter extrapolation protocol, but one treats "
-            "N^(-1/4) fitting as a usable extrapolation form while the other materially "
-            "qualifies it as unreliable for the observed finite-size data."
+            "Accepted as a weak scientific_inconsistency: both claims address the same "
+            "Fermi-liquid-parameter extrapolation protocol, but the tension is a limitation "
+            "on practical use of the asymptotic law rather than a dispute over whether the law exists."
         ),
         "relation_type": "scientific_inconsistency",
     }

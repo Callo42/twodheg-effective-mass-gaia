@@ -4,17 +4,6 @@ digraph starmap {
     node [fontname="Helvetica", fontsize=10];
     edge [fontname="Helvetica", fontsize=9];
 
-    subgraph cluster_cross_paper {
-        label="cross_paper";
-        style="rounded,filled";
-        fillcolor="#fafafa";
-        color="#999999";
-        fontsize=11;
-
-        "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks" [label="Older enhancement vs revised benchmarks\n(0.92 → 1.00)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
-        "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise" [label="N^-1/4 scaling vs shell-filling noise\n(0.90 → 1.00)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
-    }
-
     subgraph cluster_paper_drummond2009_fermi_fluid {
         label="paper_drummond2009_fermi_fluid";
         style="rounded,filled";
@@ -96,6 +85,8 @@ digraph starmap {
     }
 
     // cross-module strategy/operator nodes (outside clusters)
+    "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks" [label="Older enhancement vs revised benchmarks\n(0.84 → 1.00)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+    "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise" [label="N^-1/4 scaling vs shell-filling noise\n(0.82 → 1.00)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
     "strat_9" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
     "strat_10" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
     "strat_11" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];

@@ -71,7 +71,7 @@
       "label": "gcn_50e263dc961541e0"
     },
     {
-      "belief": 0.7400000000000001,
+      "belief": 0.74,
       "knowledge_id": "local:twodheg_effective_mass::gcn_836bae7457044c7a",
       "label": "gcn_836bae7457044c7a"
     },
@@ -191,7 +191,7 @@
         0.9669412842590258
       ],
       "local:twodheg_effective_mass::gcn_836bae7457044c7a": [
-        0.7400000000000001
+        0.74
       ],
       "local:twodheg_effective_mass::gcn_850fc9d9de314026": [
         0.8397445403735823
@@ -243,5 +243,5 @@
     "treewidth": 3
   },
   "gaia_lang_version": "0.4.3",
-  "ir_hash": "sha256:a9fedc61f118848a97a4d22ff180057118b3c3dce3359c7ec9227daa072641da"
+  "ir_hash": "sha256:fe77ced2a2864c842b09892d010170e50c8fca973794fcedfa67a185decb89ed"
 }
