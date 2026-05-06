@@ -127,17 +127,19 @@ The 2025 paper answers what happens under its own protocol. It does not, by
 itself, fully close the reconciliation question, because a matched comparison
 between the 2013 and 2025 protocols is still needed.
 
-## 6. Fermi-Liquid-Parameter Caveat
+## 6. Fermi-Liquid-Parameter Context
 
-The graph also includes a Fermi-liquid-parameter branch. It says that
+The graph also includes a Fermi-liquid-parameter branch that gives context for
+why finite-size extrapolation is difficult in this problem. It says that
 `N^(-1/4)` finite-size scaling is physically motivated by long-range
 correlation, while direct finite-cell extrapolation of Fermi-liquid parameters
-can still be unreliable when shell-filling oscillations dominate the statistical
+can still be unstable when shell-filling oscillations dominate the statistical
 error bars.
 
-This branch is a caveat, not one of the graph's accepted open questions. The
-asymptotic scaling law and the practical shell-filling limitation can both be
-true.
+This branch is not one of the graph's two central reconciliation questions.
+Instead, it explains why an asymptotic finite-size law is not automatically a
+stable practical fitting protocol: the scaling law and the finite-cell
+shell-filling limitation can both be true.
 
 ## 7. Graph-Level Meaning
 
