@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For least-squares fitting of computed quasiparticle energies ε(k) versus momentum magnitude k obtained from finite-N quantum Monte Carlo simulations of the 2D-UEL when more than twenty k values in the interval 0 < k < 1.7 k_F are sampled, the quartic polynomial form ε(k) = a_0 + a_2 k^2 + a_4 k^4 produces more stable fits (smaller residuals and more reproducible derivative at k_F across finite-N datasets) than the Padé rational form ε(k) = (a_0 + a_1 k + a_2 k^2 + a_3 k^3)/(1 + 2 a_3 k), and the quartic fits yield slightly larger values of the extracted effective mass m* = k_F · (dε/dk)^{-1}_{k_F} for the datasets considered in the study, making the quartic choice a practically preferable and systematically biasing choice for the authors' finite-N QMC datasets in the examined parameter range.",
+      "content_hash": "7ed03b817c73fef6d53f32d82fb1c01533888f9f8fc01740a61f8de7dffc389d",
+      "id": "gcn_3a14d8fd812e4ff6",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "e658f35c15b9acb40ad422da5dfd0ac6"
+}

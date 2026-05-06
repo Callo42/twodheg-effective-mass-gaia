@@ -1,0 +1,90 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "In the Slater–Jastrow–backflow (SJB) trial wave function for an N-electron two-dimensional uniform electron liquid (2D-UEL), the particle coordinates r_i in the Slater determinant are replaced by backflow-shifted coordinates X_i = r_i + ξ_i({r_j}), where each backflow displacement ξ_i({r_j}) is represented by a parametrized function (for example a polynomial) of interelectronic separations and the full trial function is Ψ_SJB({r_i}) = exp[J({r_i})] · det[φ_t(X_j)] with J the Jastrow factor; including this inhomogeneous backflow transformation materially modifies the nodal surface used in fixed-node DMC relative to the bare Slater–Jastrow (SJ) determinant and therefore substantially alters the fixed-node bias in quasiparticle energies and their derivatives. Concretely, for paramagnetic 2D-UEL at low density r_s = 5 the authors' comparisons show that SJ-based VMC and DMC yield m* < 1 whereas SJB-based VMC and DMC yield m* > 1, demonstrating that static correlation incorporated via backflow is crucial to obtain the correct sign and magnitude of mass renormalization in these calculations.",
+      "content_hash": "05516b987454ad504171bfb13212dc2dcf7cb9d24aa02d2dffa56268752b39cf",
+      "id": "gcn_d8fc2999c4124161",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "In the Slater–Jastrow–backflow (SJB) trial wave function for an N-electron two-dimensional uniform electron liquid (2D-UEL), the particle coordinates r_i in the Slater determinant are replaced by backflow-shifted coordinates X_i = r_i + ξ_i({r_j}), where each backflow displacement ξ_i({r_j}) is represented by a parametrized function (for example a polynomial) of interelectronic separations and the full trial function is Ψ_SJB({r_i}) = exp[J({r_i})] · det[φ_t(X_j)] with J the Jastrow factor; including this inhomogeneous backflow transformation materially modifies the nodal surface used in fixed-node DMC relative to the bare Slater–Jastrow (SJ) determinant and therefore substantially alters the fixed-node bias in quasiparticle energies and their derivatives. Concretely, for paramagnetic 2D-UEL at low density r_s = 5 the authors' comparisons show that SJ-based VMC and DMC yield m* < 1 whereas SJB-based VMC and DMC yield m* > 1, demonstrating that static correlation incorporated via backflow is crucial to obtain the correct sign and magnitude of mass renormalization in these calculations.",
+              "id": "gcn_d8fc2999c4124161"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_a302dae262914ca7",
+            "premises": [
+              {
+                "content": "Define a Slater–Jastrow–backflow (SJB) trial wave function for an N-electron two-dimensional uniform electron liquid (2D-UEL) with electron coordinates {r_i}_{i=1}^N as\n      Ψ_SJB({r_i}) = e^{J({r_i})} · det[φ_t(X_j)],\n      where the backflow-shifted coordinates are X_i = r_i + ξ_i({r_j}) with each backflow displacement ξ_i({r_j}) represented by a polynomial (or parametrized function) of interelectronic separations, and J is a Jastrow correlation factor. In fixed-node diffusion Monte Carlo (DMC) the projected energy and derived excitation energies are constrained by the nodal surface of det[φ_t(X_j)]; including the backflow transformation therefore materially modifies the nodal surface relative to the bare Slater determinant (SJ) and can substantially reduce fixed-node variational bias in quasiparticle energies and their derivatives, producing noticeable changes in the extracted effective mass m* as observed in direct SJ versus SJB comparisons.\n      P. López Ríos et al., Inhomogeneous backflow transformations in quantum Monte Carlo calculations, Phys. Rev. E 74, 066701 (2006).",
+                "id": "gcn_82b84e2272e94582"
+              },
+              {
+                "content": "Let m*_{SJB} denote the quasiparticle effective mass obtained from quantum Monte Carlo calculations using a Slater–Jastrow–backflow (SJB) trial wave function for paramagnetic 2D-UEL at low density (for example r_s = 5) in a given simulation-cell geometry and single-particle basis, and let m*_{FCI} denote the hypothetical effective mass that would be obtained if the many-electron wave function were computed by a converged full configuration interaction (FCI) treatment within the same single-particle basis and simulation-cell geometry. The speculative proposition is that m*_{FCI} > m*_{SJB}, i.e., that including all static correlation via a converged FCI would increase the low-density effective mass beyond the SJB-VMC and SJB-DMC estimates reported; this claim is an extrapolation beyond the computed SJB data and is not numerically demonstrated in the calculations reported here.\n      J. J. Shepherd et al., Full configuration interaction perspective on the homogeneous electron gas, Phys. Rev. B 85, 081103(R) (2012).",
+                "id": "gcn_91358637d8e9481b"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the upstream result that Hartree–Fock (HF) exchange produces a pathological logarithmic divergence in $d\\varepsilon^{(x)}(k)/dk$ at $k=k_{F}$ in finite cells, causing oscillatory and large gradients of single-particle bands near $k_{F}$ which are not fully removed by fixed-node DMC because fixed-node DMC does not retrieve all correlation energy (upstream conclusion: Hartree–Fock exchange causes pathological band behavior near $k_{F}$ that contaminates finite-cell QMC bands).",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the Slater–Jastrow (SJ) and Slater–Jastrow–backflow (SJB) trial wave functions: the SJ wave function has the form $\\Psi(\\mathbf{R}_{\\uparrow},\\mathbf{R}_{\\downarrow})=e^{J(\\mathbf{R}_{\\uparrow},\\mathbf{R}_{\\downarrow})}D_{\\uparrow}(\\mathbf{R}_{\\uparrow})D_{\\downarrow}(\\mathbf{R}_{\\downarrow})$, where $D_{\\uparrow}$ and $D_{\\downarrow}$ are Slater determinants of single-particle plane-wave orbitals and $J$ is the Jastrow correlation factor; in SJB wave functions each electron coordinate $r_{i}$ appearing in the Slater determinant is replaced by a backflow-shifted coordinate $X_{i}=r_{i}+\\xi_{i}(\\{r_{j}\\})$, where $\\xi_{i}$ is a backflow displacement that depends on relative electron coordinates and is represented by a polynomial in electron-electron separation.\n[45]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Explain how backflow changes the nodal surface and why that matters: the backflow transformation makes the nodal surface of the Slater determinant depend on interelectronic correlations rather than solely on mean-field orbitals, and since the fixed-node approximation constrains the projected DMC wave function to have the same node topology as the trial wave function, improving the nodal surface via backflow reduces fixed-node variational bias and thereby can substantially change quasiparticle energies and their derivatives near $k_{F}$.",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Present the direct numerical comparison reported by the authors: for paramagnetic 2D-UEL with system size $N=146$ and density parameters $r_{s}=1$ and $r_{s}=5$ they computed VMC and DMC energy bands using SJ (no backflow) and SJB (with backflow) trial wave functions and obtained effective masses by quartic fitting; the comparison is shown in the authors' figure (Fig. 3).\nFig. 3",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Report the observed effect on $m^{*}$ at low density: at $r_{s}=5$ the SJ wave functions (no backflow) produce VMC and DMC $m^{*}<1$, whereas the SJB wave functions (with backflow) produce VMC and DMC $m^{*}>1$; this change in both sign (relative to unity) and magnitude of the mass renormalization indicates that static correlation incorporated into the determinant via backflow strongly affects the extracted $m^{*}$, particularly at low density.\nFig. 3",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Note the authors' further interpretation and caveat: the static correlation included by backflow substantially improves ground- and excited-state energies and changes the nodal topology; the authors assert without derivation that using an even more complete treatment of static correlation such as full configuration interaction (FCI) would be expected to produce an $m^{*}$ at low density larger than the SJB-VMC and DMC results, indicating that backflow is a crucial but not necessarily fully converged nodal improvement.\n[53]",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Finite-cell HF-like nodal errors and incomplete correlation recovery in fixed-node DMC can lead to spurious derivatives of $\\varepsilon(k)$ near $k_{F}$ and hence incorrect $m^{*}$. The HF exchange produces a divergent derivative at $k_{F}$ in finite systems; therefore, improving nodal topology by including correlation within the determinant (backflow) is necessary to reduce fixed-node bias in excitation energies and obtain physically meaningful $m^{*}$, particularly where correlation effects are strong (low density).",
+            "id": "paper:1129109501803233307::conclusion_5_subproblem",
+            "source_package": "paper:1129109501803233307"
+          }
+        ],
+        "source_package": "paper:1129109501803233307"
+      }
+    ],
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "e3c5f55668061ef9be85ac37657ace50"
+}

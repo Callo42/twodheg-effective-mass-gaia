@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For the fully spin-polarized (ferromagnetic, ζ = 1) two-dimensional uniform electron liquid (2D-UEL) studied in the metallic density range 1 ≤ r_s ≤ 5, VMC and fixed-node DMC calculations performed for simulation cells containing N = 151 electrons indicate that the quasiparticle effective mass m* decreases as r_s increases (i.e., m* is suppressed as the density is reduced), a trend opposite to that found for the paramagnetic case over the same density interval.",
+      "content_hash": "03456555377f5f829574a3ae9746440642f01b61939f59468f6fcbff942bba5e",
+      "id": "gcn_f431f49f19b44cf1",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "For the fully spin-polarized (ferromagnetic, ζ = 1) two-dimensional uniform electron liquid (2D-UEL) studied in the metallic density range 1 ≤ r_s ≤ 5, VMC and fixed-node DMC calculations performed for simulation cells containing N = 151 electrons indicate that the quasiparticle effective mass m* decreases as r_s increases (i.e., m* is suppressed as the density is reduced), a trend opposite to that found for the paramagnetic case over the same density interval.",
+              "id": "gcn_f431f49f19b44cf1"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_d5e16a28256d484b",
+            "premises": [
+              {
+                "content": "For the fully spin-polarized (ζ = 1) two-dimensional uniform electron liquid (2D-UEL) in the metallic density range 1 ≤ r_s ≤ 5, Pauli exclusion forces all N electrons into a single spin band, which reduces the available phase space for close electron approaches and therefore suppresses short-range electron–electron correlation relative to the paramagnetic case; this suppression of correlation leads to reduced many-body renormalization of the quasiparticle dispersion and consequently to a decreasing quasiparticle effective mass m* as r_s increases (density decreases), consistent with the authors' VMC and DMC observations performed for simulation cells with N = 151 electrons.",
+                "id": "gcn_64c8040dd93e4e1c"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Start from the upstream result that finite-size extrapolation using an empirical $N^{-3/2}$ scaling permits thermodynamic-limit estimates of $m^{*}$ when combined with careful band fitting and nodal improvements (upstream conclusion: finite-size extrapolation follows $N^{-3/2}$ scaling).",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the ferromagnetic ($\\zeta=1$) 2D-UEL system studied: $\\zeta$ is the spin polarization defined by $\\zeta=(N_{\\uparrow}-N_{\\downarrow})/N$, and for $\\zeta=1$ all electrons occupy a single spin band; the authors performed VMC and DMC calculations for ferromagnetic systems at densities $1\\le r_{s}\\le5$ using $N=151$ electrons in the simulation cell.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Describe the computed trend for the ferromagnetic case: after computing quasiparticle bands, fitting (using stable quartic fits), and applying finite-size considerations as appropriate, the authors plot $m^{*}$ versus $r_{s}$ for the ferromagnetic 2D-UEL (their Fig. 8) and observe that $m^{*}$ decreases as $r_{s}$ increases over the studied density range, i.e., $m^{*}$ is suppressed as the density is reduced in the ferromagnetic system.\nFig. 8",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Explain the physical interpretation given by the authors: spin polarization (ferromagnetism) suppresses electron-electron correlation due to the Pauli exclusion principle preventing electrons of the same spin from approaching, and this suppression of correlation reduces the renormalization of effective mass; therefore, unlike the paramagnetic case where correlation enhances $m^{*}$ at low density, the ferromagnetic system shows $m^{*}$ decreasing with reduced density.",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Conclude that the VMC and DMC calculations indicate a suppression of $m^{*}$ with increasing $r_{s}$ for fully spin-polarized 2D-UEL within the metallic density range, which is behavior opposite to the paramagnetic case across the same densities.",
+                "step_id": "5"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Spin polarization alters both exchange and correlation: Pauli exclusion restricts same-spin pair correlations, modifying the balance between correlation-induced mass enhancement and screening-induced suppression. Prior theoretical treatments and experiments reported effective-mass suppression in spin-polarized two-dimensional systems, but quantitative, parameter-free confirmation for the ideal 2D-UEL over $1\\le r_{s}\\le5$ was lacking because of finite-size, nodal and methodological uncertainties. An ab initio QMC determination clarifies the trend and its contrast with the paramagnetic case.",
+            "id": "paper:1129109501803233307::conclusion_3_subproblem",
+            "source_package": "paper:1129109501803233307"
+          }
+        ],
+        "source_package": "paper:1129109501803233307"
+      }
+    ],
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "46d15860cbccb7acd5b340e3104ab342"
+}

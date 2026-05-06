@@ -4,6 +4,22 @@ digraph starmap {
     node [fontname="Helvetica", fontsize=10];
     edge [fontname="Helvetica", fontsize=9];
 
+    subgraph cluster_paper_azadi2025_effective_mass {
+        label="paper_azadi2025_effective_mass";
+        style="rounded,filled";
+        fillcolor="#fafafa";
+        color="#999999";
+        fontsize=11;
+
+        "local:twodheg_effective_mass::gcn_21f80773b87f444c" [label="2025 paramagnetic m* increases with r_s\n(0.69)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_ac27a904ca704f09" [label="2025 N^-3/2 m*(N) extrapolation\n(0.78)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_cb512194b0bc4df2" [label="2025 finite-size ansatz for m*(N)\n(0.78 → 0.74)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_f431f49f19b44cf1" [label="2025 ferromagnetic m* decreases with r_s\n(0.76 → 0.73)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "strat_9" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_16" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_17" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    }
+
     subgraph cluster_paper_drummond2009_fermi_fluid {
         label="paper_drummond2009_fermi_fluid";
         style="rounded,filled";
@@ -11,15 +27,15 @@ digraph starmap {
         color="#999999";
         fontsize=11;
 
-        "local:twodheg_effective_mass::gcn_4d1aad1470d54895" [label="Earlier DMC mass-enhancement trend\n(0.68 → 0.08)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_f6686a4225a043a6" [label="Quartic fit captures occupied-band curvature\n(0.76 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_fd7adbfff0f146ba" [label="Fixed-node errors mostly cancel in band differences\n(0.70 → 0.75)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_bf915935b1fd4326" [label="DMC occupied band shows nonquadratic curvature\n(0.87)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
-        "local:twodheg_effective_mass::gcn_888498a0614d40d7" [label="Quartic term as leading nonquadratic correction\n(0.72 → 0.81)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_318b062f17344859" [label="Nonquadratic DMC band curvature affects thermodynamics\n(0.96)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_4d1aad1470d54895" [label="Earlier DMC mass-enhancement trend\n(0.68 → 0.48)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_f6686a4225a043a6" [label="Quartic fit captures occupied-band curvature\n(0.76 → 0.78)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_fd7adbfff0f146ba" [label="Fixed-node errors mostly cancel in band differences\n(0.70 → 0.72)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_bf915935b1fd4326" [label="DMC occupied band shows nonquadratic curvature\n(0.81)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_888498a0614d40d7" [label="Quartic term as leading nonquadratic correction\n(0.72 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_318b062f17344859" [label="Nonquadratic DMC band curvature affects thermodynamics\n(0.95)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
         "strat_6" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
         "strat_7" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
-        "strat_14" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_15" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
     }
 
     subgraph cluster_paper_drummond2012_effective_mass {
@@ -29,9 +45,9 @@ digraph starmap {
         color="#999999";
         fontsize=11;
 
-        "local:twodheg_effective_mass::gcn_a685639571304474" [label="Monte Carlo resampling for m* uncertainty\n(0.75 → 0.80)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_17c63b5dc2154f15" [label="Residual fixed-node/time-step biases are small\n(0.72 → 0.77)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_b7a7d456a05d4129" [label="Revised thermodynamic-limit m* benchmarks\n(0.89)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_a685639571304474" [label="Monte Carlo resampling for m* uncertainty\n(0.75 → 0.59)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_17c63b5dc2154f15" [label="Residual fixed-node/time-step biases are small\n(0.72 → 0.54)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_b7a7d456a05d4129" [label="Revised thermodynamic-limit m* benchmarks\n(0.29)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
         "strat_8" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
     }
 
@@ -44,16 +60,16 @@ digraph starmap {
 
         "local:twodheg_effective_mass::gcn_850fc9d9de314026" [label="Excited-state reoptimization finite-size bias\n(0.76 → 0.84)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
         "local:twodheg_effective_mass::gcn_c7b10e47e2ab45e1" [label="Quantified reoptimization bias in finite cells\n(0.90)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
-        "local:twodheg_effective_mass::gcn_48797cba2bf44d90" [label="Quartic band derivative for m*\n(0.78 → 0.83)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_1e8fcb7ef934428d" [label="Power-law extrapolation of m*(N)\n(0.75 → 0.81)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_50e263dc961541e0" [label="Wide k-window stabilizes band fits\n(0.76 → 0.97)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
-        "local:twodheg_effective_mass::gcn_a981a2b787514e47" [label="DMC band-fit protocol for thermodynamic m*\n(0.93)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_48797cba2bf44d90" [label="Quartic band derivative for m*\n(0.78 → 0.78)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_1e8fcb7ef934428d" [label="Power-law extrapolation of m*(N)\n(0.75 → 0.75)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_50e263dc961541e0" [label="Wide k-window stabilizes band fits\n(0.76 → 0.96)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_a981a2b787514e47" [label="DMC band-fit protocol for thermodynamic m*\n(0.76)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
         "local:twodheg_effective_mass::gcn_f6ca85b75deb46ba" [label="HF pathology plus finite-cell correlation recovery\n(0.74 → 0.77)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_8df2cd5b49524aac" [label="Near-k_F derivative pathologies require band fitting\n(0.90)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_8df2cd5b49524aac" [label="Near-k_F derivative pathologies require band fitting\n(0.89)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
         "strat_3" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
         "strat_4" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
         "strat_5" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
-        "strat_12" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+        "strat_13" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
     }
 
     subgraph cluster_paper_drummond2013_fermi_liquid {
@@ -63,9 +79,9 @@ digraph starmap {
         color="#999999";
         fontsize=11;
 
-        "local:twodheg_effective_mass::gcn_219b34bd252c43fa" [label="N^-1/4 finite-size scaling for Landau parameters\n(0.78 → 0.45)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_3ceb44ae3f404964" [label="Theoretical N^-1/4 scaling premise\n(0.78 → 0.50)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_3db07703d3684507" [label="Shell noise undermines direct FL extrapolation\n(0.48)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
+        "local:twodheg_effective_mass::gcn_219b34bd252c43fa" [label="N^-1/4 finite-size scaling for Landau parameters\n(0.78 → 0.86)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_3ceb44ae3f404964" [label="Theoretical N^-1/4 scaling premise\n(0.78 → 0.78)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
+        "local:twodheg_effective_mass::gcn_3db07703d3684507" [label="Shell noise undermines direct FL extrapolation\n(0.87)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
         "local:twodheg_effective_mass::gcn_836bae7457044c7a" [label="Assembling best-available FL parameters\n(0.74 → 0.74)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
         "local:twodheg_effective_mass::gcn_306f15c9d5814e23" [label="Recommended 2D HEG Fermi-liquid parameters\n(0.85)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
         "strat_1" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
@@ -80,17 +96,17 @@ digraph starmap {
         fontsize=11;
 
         "local:twodheg_effective_mass::gcn_da3eecec49114543" [label="Finite-size kinetic-energy correction\n(0.82 → 0.89)", shape=box, style=filled, fillcolor="#ddeeff", color="#4488bb"];
-        "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f" [label="★ Slow finite-size errors can flip m* - m\n(0.98)", shape=box, style=filled, fillcolor="#d4edda", color="#28a745", penwidth=2];
+        "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f" [label="★ Slow finite-size errors can flip m* - m\n(0.99)", shape=box, style=filled, fillcolor="#d4edda", color="#28a745", penwidth=2];
         "strat_0" [label="deduction", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
     }
 
     // cross-module strategy/operator nodes (outside clusters)
     "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks" [label="Older enhancement vs revised benchmarks\n(0.84 → 1.00)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
-    "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise" [label="N^-1/4 scaling vs shell-filling noise\n(0.82 → 1.00)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
-    "strat_9" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    "local:twodheg_effective_mass::drummond2013_vs_azadi2025_paramagnetic_trend" [label="2013 near-unity benchmark vs 2025 increasing trend\n(0.86 → 0.99)", shape=box, style=filled, fillcolor="#ddffdd", color="#44bb44"];
     "strat_10" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
     "strat_11" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
-    "strat_13" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    "strat_12" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
+    "strat_14" [label="support", shape=ellipse, style=filled, fillcolor="#fff9c4", color="#f9a825"];
     "oper_0" [label="⊗ contradiction", shape=hexagon, style=filled, fillcolor="#ffebee", color="#c62828"];
     "oper_1" [label="⊗ contradiction", shape=hexagon, style=filled, fillcolor="#ffebee", color="#c62828"];
 
@@ -117,22 +133,28 @@ digraph starmap {
     "local:twodheg_effective_mass::gcn_a685639571304474" -> "strat_8";
     "local:twodheg_effective_mass::gcn_17c63b5dc2154f15" -> "strat_8";
     "strat_8" -> "local:twodheg_effective_mass::gcn_b7a7d456a05d4129";
-    "local:twodheg_effective_mass::gcn_219b34bd252c43fa" -> "strat_9";
-    "strat_9" -> "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f";
-    "local:twodheg_effective_mass::gcn_850fc9d9de314026" -> "strat_10";
+    "local:twodheg_effective_mass::gcn_cb512194b0bc4df2" -> "strat_9";
+    "strat_9" -> "local:twodheg_effective_mass::gcn_ac27a904ca704f09";
+    "local:twodheg_effective_mass::gcn_219b34bd252c43fa" -> "strat_10";
     "strat_10" -> "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f";
-    "local:twodheg_effective_mass::gcn_a981a2b787514e47" -> "strat_11";
-    "strat_11" -> "local:twodheg_effective_mass::gcn_b7a7d456a05d4129";
-    "local:twodheg_effective_mass::gcn_8df2cd5b49524aac" -> "strat_12";
-    "strat_12" -> "local:twodheg_effective_mass::gcn_50e263dc961541e0";
-    "local:twodheg_effective_mass::gcn_bf915935b1fd4326" -> "strat_13";
-    "strat_13" -> "local:twodheg_effective_mass::gcn_a981a2b787514e47";
+    "local:twodheg_effective_mass::gcn_850fc9d9de314026" -> "strat_11";
+    "strat_11" -> "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f";
+    "local:twodheg_effective_mass::gcn_a981a2b787514e47" -> "strat_12";
+    "strat_12" -> "local:twodheg_effective_mass::gcn_b7a7d456a05d4129";
+    "local:twodheg_effective_mass::gcn_8df2cd5b49524aac" -> "strat_13";
+    "strat_13" -> "local:twodheg_effective_mass::gcn_50e263dc961541e0";
     "local:twodheg_effective_mass::gcn_bf915935b1fd4326" -> "strat_14";
-    "strat_14" -> "local:twodheg_effective_mass::gcn_318b062f17344859";
+    "strat_14" -> "local:twodheg_effective_mass::gcn_a981a2b787514e47";
+    "local:twodheg_effective_mass::gcn_bf915935b1fd4326" -> "strat_15";
+    "strat_15" -> "local:twodheg_effective_mass::gcn_318b062f17344859";
+    "local:twodheg_effective_mass::gcn_ac27a904ca704f09" -> "strat_16";
+    "strat_16" -> "local:twodheg_effective_mass::gcn_21f80773b87f444c";
+    "local:twodheg_effective_mass::gcn_f431f49f19b44cf1" -> "strat_17";
+    "strat_17" -> "local:twodheg_effective_mass::gcn_21f80773b87f444c";
     "local:twodheg_effective_mass::gcn_4d1aad1470d54895" -> "oper_0" [dir=none];
     "local:twodheg_effective_mass::gcn_b7a7d456a05d4129" -> "oper_0" [dir=none];
     "oper_0" -> "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks" [dir=none];
-    "local:twodheg_effective_mass::gcn_219b34bd252c43fa" -> "oper_1" [dir=none];
-    "local:twodheg_effective_mass::gcn_3db07703d3684507" -> "oper_1" [dir=none];
-    "oper_1" -> "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise" [dir=none];
+    "local:twodheg_effective_mass::gcn_b7a7d456a05d4129" -> "oper_1" [dir=none];
+    "local:twodheg_effective_mass::gcn_21f80773b87f444c" -> "oper_1" [dir=none];
+    "oper_1" -> "local:twodheg_effective_mass::drummond2013_vs_azadi2025_paramagnetic_trend" [dir=none];
 }

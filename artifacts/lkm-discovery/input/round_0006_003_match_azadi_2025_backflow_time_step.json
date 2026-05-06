@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:812283431332347904": {
+        "area": "Material science",
+        "authors": "K. B. Ivashchenko",
+        "available_online": "",
+        "cover_date_start": "1989-12-01",
+        "created_at": "2022-12-21T03:24:22+08:00",
+        "doi": "10.1007/bf01533416",
+        "en_title": "Algorithm for calculating contact boundaries in the interaction of deformable solids",
+        "id": "812283431332347904",
+        "keywords": "",
+        "publication_date": "1989-12",
+        "publication_id": "2368",
+        "publication_name": "Strength of Materials _ Strength Mater",
+        "research_categories": "",
+        "zh_title": "用于计算可变形固体相互作用中接触边界的算法"
+      },
+      "paper:814672439907713024": {
+        "area": "Physics and Astrophysics",
+        "authors": "Alejandro Pérez Paz | Irina V. Lebedeva | Ilya V. Tokatly | Angel Rubio",
+        "available_online": "2014-12-4",
+        "cover_date_start": "2014-12-04",
+        "created_at": "2022-12-27T17:37:27+08:00",
+        "doi": "10.1103/physrevb.90.224202",
+        "en_title": "Identification of structural motifs as tunneling two-level systems in amorphous alumina at low temperatures",
+        "id": "814672439907713024",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "在低温下将结构基序识别为非晶态氧化铝中的隧穿双能级系统"
+      },
+      "paper:867766029395165329": {
+        "area": "arXiv-Physics",
+        "authors": "Aris Marcolongo | Riccardo Bertossa | Davide Tisi | Stefano Baroni",
+        "available_online": "",
+        "cover_date_start": "2021-04-13",
+        "created_at": "2023-05-23T05:52:24+08:00",
+        "doi": "10.48550/arXiv.2104.06383",
+        "en_title": "QEHeat: An open-source energy flux calculator for the computation of heat-transport coefficients from first principles",
+        "id": "867766029395165329",
+        "keywords": "",
+        "publication_date": "2021-04-13",
+        "publication_id": "108512",
+        "publication_name": "Computational Physics _ Physics.physics.comp-ph",
+        "research_categories": "",
+        "zh_title": "QEHeat：一个用于从第一性原理计算热输运系数的开源能量通量计算器"
+      },
+      "paper:880029123982917640": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | Sam. M. Vinko",
+        "available_online": "",
+        "cover_date_start": "2023-06-23",
+        "created_at": "2023-06-26T02:01:33+08:00",
+        "doi": "10.48550/arXiv.2306.13426",
+        "en_title": "Correlation energy of the spin-polarized electron liquid by quantum Monte Carlo",
+        "id": "880029123982917640",
+        "keywords": "",
+        "publication_date": "2023-06-23",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "通过量子蒙特卡罗方法计算的自旋极化电子液体的关联能"
+      }
+    },
+    "variables": [
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.030886196246139225,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For least-squares fitting of computed quasiparticle energies ε(k) versus momentum magnitude k obtained from finite-N quantum Monte Carlo simulations of the 2D-UEL when more than twenty k values in the interval 0 < k < 1.7 k_F are sampled, the quartic polynomial form ε(k) = a_0 + a_2 k^2 + a_4 k^4 produces more stable fits (smaller residuals and more reproducible derivative at k_F across finite-N datasets) than the Padé rational form ε(k) = (a_0 + a_1 k + a_2 k^2 + a_3 k^3)/(1 + 2 a_3 k), and the quartic fits yield slightly larger values of the extracted effective mass m* = k_F · (dε/dk)^{-1}_{k_F} for the datasets considered in the study, making the quartic choice a practically preferable and systematically biasing choice for the authors' finite-N QMC datasets in the examined parameter range.",
+        "content_hash": "7ed03b817c73fef6d53f32d82fb1c01533888f9f8fc01740a61f8de7dffc389d",
+        "id": "gcn_3a14d8fd812e4ff6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P4",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.024390243902439025,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and for density parameters in the metallic interval 1 ≤ r_s ≤ 5, applying Slater–Jastrow–backflow (SJB) trial wave functions, band fitting (quartic or Padé), and the empirical finite-size extrapolation m*(N) = m*(∞) + β·N^{-3/2} to data at N = 146, 218, and 302 yields extrapolated thermodynamic-limit values m*(∞) that form a monotonic increasing function of r_s across the studied discrete points; this monotonicity statement is conditional on those methodological choices (SJB nodal improvements, fitting form, and N^{-3/2} extrapolation) being adequate for the datasets considered.\n      Fig. 7 (this paper)",
+        "content_hash": "1e8c884fed65d7522e2acd5ba07266f1c7d245225316a39e5fb9d3e635ae119b",
+        "id": "gcn_21f80773b87f444c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P9",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In fixed-node diffusion Monte Carlo (DMC) the discrete imaginary-time step dτ used for walker propagation produces Trotter (time-step) errors that can materially alter computed quasiparticle energy bands and hence the derivative-based effective mass m*: in the authors' calculations for paramagnetic 2D-UEL at r_s = 5 with N = 302 electrons, the DMC band fits obtained using dτ = 0.005 a.u. and dτ = 0.2 a.u. (each run using the same walker ensemble size N_w = 2560 and the same number of propagation steps 25×10^3) exhibit markedly different band-fitting uncertainties and produce differing estimates of m*, demonstrating that insufficient time-step control can bias m* and that the common assumption that time-step errors cancel in excitation-energy differences need not hold.",
+        "content_hash": "fdd53349e8f686dde09763f73ee97147234c25f64192ec1b4496465fe3fcecab",
+        "id": "gcn_7892ddefe73c43f2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_7",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because both the nodal effective mass M_{A} and the segment representative effective mass M_{BC} are modeled as proportional to τ^{2} for a short stress-pulse duration τ (specifically M_{A} and M_{BC} each contain the common multiplicative factor ½τ^{2}), that common factor cancels algebraically in the momentum-weighted average U=(U_{A}M_{A}+U_{BC}M_{BC})/(M_{A}+M_{BC}), and the resulting closed-form expression for the corrected normal velocity U does not contain τ explicitly.",
+        "content_hash": "6b620766fce7229ea9ea8e8584f33172fb1251b991f8e37184d1bd862de2ece0",
+        "id": "gcn_7d5788a2b0ed4a40",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812283431332347904::P5",
+            "package_id": "paper:812283431332347904",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812283431332347904"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $\\Delta t$ denote the Car–Parrinello molecular-dynamics integration timestep used to generate an AIMD trajectory. Numerical tests on representative insulating snapshots (e.g. water configurations) indicate that choosing the finite-difference time-discretization parameter $dt$ up to about $2\\Delta t$ ($dt\\lesssim 2\\Delta t$) yields negligible nonlinear bias in the computed MUB flux components for the tested systems and SCF-convergence thresholds; this guideline is empirical and its applicability to systems with substantially different atomic masses, stronger anharmonicity, or greater electronic-structure sensitivity is not guaranteed without system-specific testing.",
+        "content_hash": "77f69f5d145d70c8d4feb587b0c91c415b04b59f0dd14b189ab9457fcecda39d",
+        "id": "gcn_861a82dc4f694ae2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867766029395165329::P2",
+            "package_id": "paper:867766029395165329",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867766029395165329"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Comparing the present extrapolated thermodynamic-limit DMC correlation energies with previously published DMC results for the fully spin-polarized 3D-UEL (for example, those obtained by Spink et al.), the principal cause of the systematic difference is the different finite-size correction strategy: the present work uses canonical-ensemble twist averaging plus explicit extrapolation of TA energies at multiple system sizes (thereby capturing backflow-related $O(1/N)$ contributions), whereas the prior work applied analytic finite-size corrections $\\\\Delta E=\\\\Delta E_{1}+\\\\Delta E_{2}+\\\\Delta E_{\\\\mathrm{SP}}$ to single-cell TA data and did not include the subsequently derived backflow $O(1/N)$ correction; consequently, the present extrapolation-based treatment of finite-size effects accounts for the majority of the difference with those prior DMC results rather than other methodological differences such as alternative choices of trial-wave-function nodal surfaces, inclusion or omission of a $\\\\pi$ term in the backflow, time-step values, or population-control biases.\n      [28],[41]",
+        "content_hash": "6ba5f817e79a2c90a108b3baa144a678b3de8193a2113b3f51eb7e2c3be67b21",
+        "id": "gcn_0ae910d21f20472c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:880029123982917640::P11",
+            "package_id": "paper:880029123982917640",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:880029123982917640"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the Slater–Jastrow–backflow (SJB) trial wave function for an N-electron two-dimensional uniform electron liquid (2D-UEL), the particle coordinates r_i in the Slater determinant are replaced by backflow-shifted coordinates X_i = r_i + ξ_i({r_j}), where each backflow displacement ξ_i({r_j}) is represented by a parametrized function (for example a polynomial) of interelectronic separations and the full trial function is Ψ_SJB({r_i}) = exp[J({r_i})] · det[φ_t(X_j)] with J the Jastrow factor; including this inhomogeneous backflow transformation materially modifies the nodal surface used in fixed-node DMC relative to the bare Slater–Jastrow (SJ) determinant and therefore substantially alters the fixed-node bias in quasiparticle energies and their derivatives. Concretely, for paramagnetic 2D-UEL at low density r_s = 5 the authors' comparisons show that SJ-based VMC and DMC yield m* < 1 whereas SJB-based VMC and DMC yield m* > 1, demonstrating that static correlation incorporated via backflow is crucial to obtain the correct sign and magnitude of mass renormalization in these calculations.",
+        "content_hash": "05516b987454ad504171bfb13212dc2dcf7cb9d24aa02d2dffa56268752b39cf",
+        "id": "gcn_d8fc2999c4124161",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_5",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Three independent estimators for the effective mass along the collective coordinate of the aluminum-centered motif—the equipartition-based estimator using m_eff = k_B⟨T_δ⟩/⟨ȧδ^2⟩ (where k_B is Boltzmann's constant, ⟨T_δ⟩ is the temperature associated to the collective variable, and ⟨ȧδ^2⟩ is the thermal average of the squared velocity of δ), a spectral estimator using a dominant vibrational frequency ω and the local curvature κ via m_eff = κ/ω^2, and a full-coordinate finite-difference estimator m_eff(δ)=∑_{i=1}^N m_i[(∂x_i/∂δ)^2+(∂y_i/∂δ)^2+(∂z_i/∂δ)^2] (with sums over all N atoms and Cartesian coordinates x_i,y_i,z_i computed along the minimum-energy path)—give m_eff in the range ≈8–16 atomic mass units (a.m.u.) for the minimum-energy path of this motif; using a symmetrized 0 K fitted double-well potential and a fixed effective mass m_eff ≈ 15 a.m.u. to solve the one-dimensional time-independent Schrödinger equation yields a tunnel splitting δE ≈ 0.65 meV, while semiclassical instanton estimates that use the computed barrier V_0 and the coordinate-dependent effective mass m_eff(q) give δE in the range ≈0.3–0.7 meV.",
+        "content_hash": "48d93d00baf29f1f3cc96e2be515cfeffe1d84bd4a6cbe64cbb7aa55094e8f3c",
+        "id": "gcn_1e6b6a2315f54584",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:814672439907713024::conclusion_3",
+            "package_id": "paper:814672439907713024",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:814672439907713024"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When Slater–Jastrow–backflow (SJB) trial wave functions are used and their variational parameters are optimized by variance minimization followed by linear least-squares energy minimization (as implemented in the CASINO code), the resulting VMC and fixed-node DMC estimates of the quasiparticle effective mass m* for the studied 2D-UEL system sizes (for example N = 146, 218, 302 for paramagnetic and N = 151 for ferromagnetic) and densities 1 ≤ r_s ≤ 5 agree within the reported statistical uncertainties, indicating that appropriately optimized VMC provides effective-mass estimates consistent with fixed-node DMC for these excitations.",
+        "content_hash": "05aa89f3941e51654a54154524bb6931de8f11068eb64c22c447131a87113f15",
+        "id": "gcn_07574c4c2c8d471e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_4",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "db82d150fd9f4203982b1fd78d8f57cf"
+}

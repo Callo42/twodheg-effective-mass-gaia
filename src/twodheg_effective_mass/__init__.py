@@ -10,6 +10,7 @@ from .paper_drummond2013_effective_mass import *
 from .paper_drummond2009_fermi_fluid import *
 from .paper_drummond2012_effective_mass import *
 from .cross_paper import *
+from .paper_azadi2025_effective_mass import *
 
 __all__ = [
     "gcn_28b9e01bd2f8487f",

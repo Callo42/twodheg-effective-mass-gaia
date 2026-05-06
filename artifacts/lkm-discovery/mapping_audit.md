@@ -64,3 +64,10 @@
 |---|---|---|---|---|
 | `gcn_318b062f17344859` + `gfac_ca2b45abbd52472f` | support/context | chain-backed | claim + deduction + support | Extends occupied-band curvature branch to thermodynamic implications of nonquadratic dispersion. |
 | `gcn_2ded391a3ca74052` | adjacent method | chain-backed | dismissed | 3D Fermi liquid HF-pathology result; retained as adjacent lead, not added to 2D HEG main branch. |
+
+## Round 0006 Repair Decisions
+
+| LKM object / Gaia symbol | Channel | Evidence status | Gaia action | Rationale |
+|---|---|---|---|---|
+| `n_quarter_scaling_vs_shell_filling_noise` | repair / contradiction review | previously accepted pair | remove contradiction; retain hypothesis-only caveat | The two Drummond2013 Fermi-liquid claims can both be true: `gcn_219b34bd252c43fa` states the theoretical asymptotic N^(-1/4) scaling, while `gcn_3db07703d3684507` states that shell-filling noise makes direct finite-cell extrapolation quantitatively unreliable in practice. This is an applicability qualification rather than an executable `contradiction(...)`. |
+| `hyp_66a4c7bb` | repair / inquiry scope | hypothesis | rescope to `gcn_3db07703d3684507` | After removing the contradiction helper, the retained open question is scoped to the shell-noise reliability claim rather than to a deleted operator node. |

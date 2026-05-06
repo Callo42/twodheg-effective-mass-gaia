@@ -1,5 +1,5 @@
 {
-  "ir_hash": "sha256:fe77ced2a2864c842b09892d010170e50c8fca973794fcedfa67a185decb89ed",
+  "ir_hash": "sha256:e3daea0d970ec312e701f10d5ca0a09de1c8f019bfcfb5d46bfe75b86df28675",
   "knowledges": [
     {
       "content": "For an added-electron excitation with momentum p above k_F in the homogeneous two-dimensional electron gas, the leading finite-size error in the excitation energy arising from the change in the momentum distribution is dominated by the kinetic-energy correction delta T_p^N = (hbar^2 p^2 / 2m) Z_p^N [exp(-Delta_N) - 1]. In leading order, the corresponding potential-energy correction is independent of p and therefore does not affect the slope of the excitation dispersion used to extract m* from near-k_F fits [@Holzmann2008].",
@@ -656,6 +656,114 @@
       "type": "claim"
     },
     {
+      "content": "For paramagnetic 2D-UEL with spin polarization zeta=0 and density parameters 1 <= r_s <= 5, Slater-Jastrow-backflow trial wave functions, quartic or Pade band fitting, and empirical finite-size extrapolation m*(N)=m*(infinity)+beta N^(-3/2) applied to N=146, 218, and 302 data yield thermodynamic-limit effective masses that increase monotonically with r_s [@Azadi2025].",
+      "content_hash": "5aacb6596467bb5085e83226902d078aa099cd8128f0ffd47212bc9f2c8f240b",
+      "declaration_index": 0,
+      "exported": false,
+      "id": "local:twodheg_effective_mass::gcn_21f80773b87f444c",
+      "label": "gcn_21f80773b87f444c",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Azadi2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_21f80773b87f444c",
+        "lkm_original": "For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and for density parameters in the metallic interval 1 ≤ r_s ≤ 5, applying Slater–Jastrow–backflow (SJB) trial wave functions, band fitting (quartic or Padé), and the empirical finite-size extrapolation m*(N) = m*(∞) + β·N^{-3/2} to data at N = 146, 218, and 302 yields extrapolated thermodynamic-limit values m*(∞) that form a monotonic increasing function of r_s across the studied discrete points.",
+        "provenance_source": "lkm_no_chain",
+        "source_package": "paper:1129109501803233307",
+        "source_paper": "paper:1129109501803233307"
+      },
+      "module": "paper_azadi2025_effective_mass",
+      "parameters": [],
+      "title": "2025 paramagnetic m* increases with r_s",
+      "type": "claim"
+    },
+    {
+      "content": "For paramagnetic 2D-UEL, finite-N QMC effective masses show a systematic size dependence well described by m*(N)=m*(infinity)+beta N^(-3/2); using this empirical scaling permits controlled thermodynamic-limit extrapolation, with finite-size errors growing as density is reduced [@Azadi2025].",
+      "content_hash": "19ea9c8bd056bb73d1dc8f77e3e43f7b2464c074dbc7d201d52ba82b97cc161a",
+      "declaration_index": 1,
+      "exported": false,
+      "id": "local:twodheg_effective_mass::gcn_ac27a904ca704f09",
+      "label": "gcn_ac27a904ca704f09",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Azadi2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_ac27a904ca704f09",
+        "lkm_original": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "provenance_source": "lkm",
+        "source_package": "paper:1129109501803233307",
+        "source_paper": "paper:1129109501803233307"
+      },
+      "module": "paper_azadi2025_effective_mass",
+      "parameters": [],
+      "title": "2025 N^-3/2 m*(N) extrapolation",
+      "type": "claim"
+    },
+    {
+      "content": "For paramagnetic 2D-UEL QMC band-derivative estimates at N=146, 218, and 302 electrons over 1 <= r_s <= 5, the finite-size dependence of m*(N) is taken to follow the empirical form m*(N)=m*(infinity)+beta N^(-3/2), which is then used to extrapolate m*(infinity) [@Azadi2025].",
+      "content_hash": "b8b40ef7bc54801c387faca69138b6c4653d0cd1b87c9ef4eaf71e602876882e",
+      "declaration_index": 2,
+      "exported": false,
+      "id": "local:twodheg_effective_mass::gcn_cb512194b0bc4df2",
+      "label": "gcn_cb512194b0bc4df2",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Azadi2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_cb512194b0bc4df2",
+        "lkm_original": "For the two-dimensional uniform electron liquid (2D-UEL) model consisting of N interacting electrons of charge −e and bare mass m in a finite periodic simulation cell of area A (so that the density is ρ = N/A) and with density parameter r_s = (1/(πρ))^{1/2}a_B^{-1} (using atomic units with Bohr radius a_B = 1), the finite-size dependence of the quasiparticle effective mass m*(N) obtained from quantum Monte Carlo band-derivative estimates is taken to follow the empirical form\n      m*(N) = m*(∞) + β·N^{-3/2}\n      for some constant β, and this empirical scaling relation is applied to the authors' simulation data obtained at N = 146, 218, and 302 electrons to extrapolate m*(∞) for densities in the metallic range 1 ≤ r_s ≤ 5.\n      Holzmann et al., Theory of finite size effects for electronic quantum Monte Carlo calculations of liquids and solids, Phys. Rev. B 94, 035126 (2016).",
+        "prior": 0.78,
+        "prior_justification": "LKM chain premise for the 2025 N^(-3/2) finite-size ansatz applied to paramagnetic 2D-UEL m*(N) data. TODO:review",
+        "provenance_source": "lkm",
+        "source_package": "paper:1129109501803233307",
+        "source_paper": "paper:1129109501803233307"
+      },
+      "module": "paper_azadi2025_effective_mass",
+      "parameters": [],
+      "title": "2025 finite-size ansatz for m*(N)",
+      "type": "claim"
+    },
+    {
+      "content": "For fully spin-polarized 2D-UEL in the metallic range 1 <= r_s <= 5, 2025 VMC and fixed-node DMC calculations indicate that m* decreases as r_s increases, opposite to the paramagnetic trend over the same density interval [@Azadi2025].",
+      "content_hash": "f754d2174594481526a117db6d1c171cfd40017330b2e19461817b3e9f0b84d4",
+      "declaration_index": 3,
+      "exported": false,
+      "id": "local:twodheg_effective_mass::gcn_f431f49f19b44cf1",
+      "label": "gcn_f431f49f19b44cf1",
+      "metadata": {
+        "gaia": {
+          "provenance": {
+            "cited_refs": [
+              "Azadi2025"
+            ]
+          }
+        },
+        "lkm_id": "gcn_f431f49f19b44cf1",
+        "lkm_original": "For the fully spin-polarized (ferromagnetic, ζ = 1) two-dimensional uniform electron liquid (2D-UEL) studied in the metallic density range 1 ≤ r_s ≤ 5, VMC and fixed-node DMC calculations performed for simulation cells containing N = 151 electrons indicate that the quasiparticle effective mass m* decreases as r_s increases (i.e., m* is suppressed as the density is reduced), a trend opposite to that found for the paramagnetic case over the same density interval.",
+        "prior": 0.76,
+        "prior_justification": "LKM chain 2025 QMC claim for ferromagnetic 2D-UEL mass suppression with increasing r_s; included as spin-polarization context. TODO:review",
+        "provenance_source": "lkm",
+        "source_package": "paper:1129109501803233307",
+        "source_paper": "paper:1129109501803233307"
+      },
+      "module": "paper_azadi2025_effective_mass",
+      "parameters": [],
+      "title": "2025 ferromagnetic m* decreases with r_s",
+      "type": "claim"
+    },
+    {
       "content": "not_both_true(older_paramagnetic_dmc_mass_enhancement, revised_near_unity_dmc_thermodynamic_benchmarks)",
       "content_hash": "b65a25a26e983ad03a4f5abd60c8b23f3c34ff26a55229418124cbf6455d5230",
       "declaration_index": 0,
@@ -675,22 +783,22 @@
       "type": "claim"
     },
     {
-      "content": "not_both_true(n_quarter_finite_size_scaling_as_extrapolation_protocol, shell_filling_noise_makes_direct_extrapolation_unreliable)",
-      "content_hash": "6a8200f9425a92fdb293d263dea49b0c776468595bd1b720ce583cbd6b8a404a",
+      "content": "not_both_true(2013_near_unity_paramagnetic_2d_heg_benchmark, 2025_paramagnetic_2d_uel_mass_increases_with_rs)",
+      "content_hash": "2b538f669657e9aa7134ea4c69ef38c8db35234f680cef179f80b3f7ddf7442a",
       "declaration_index": 1,
       "exported": false,
-      "id": "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise",
-      "label": "n_quarter_scaling_vs_shell_filling_noise",
+      "id": "local:twodheg_effective_mass::drummond2013_vs_azadi2025_paramagnetic_trend",
+      "label": "drummond2013_vs_azadi2025_paramagnetic_trend",
       "metadata": {
         "helper_kind": "contradiction_result",
         "judgment": "accepted",
-        "justification": "Accepted as a weak scientific_inconsistency: both claims address the same Fermi-liquid-parameter extrapolation protocol, but the tension is a limitation on practical use of the asymptotic law rather than a dispute over whether the law exists.",
-        "prior": 0.82,
+        "justification": "Accepted as a weak current-literature scientific tension: both sides address paramagnetic 2D electron-liquid effective masses, but differ in simulation protocol, system-size range, and modern treatment of finite-size/backflow effects.",
+        "prior": 0.86,
         "relation_type": "scientific_inconsistency"
       },
       "module": "cross_paper",
       "parameters": [],
-      "title": "N^-1/4 scaling vs shell-filling noise",
+      "title": "2013 near-unity benchmark vs 2025 increasing trend",
       "type": "claim"
     },
     {
@@ -943,6 +1051,27 @@
       "type": "claim"
     },
     {
+      "content": "implies(local:twodheg_effective_mass::gcn_cb512194b0bc4df2,local:twodheg_effective_mass::gcn_ac27a904ca704f09)",
+      "content_hash": "4fed615a7a9f4ff01687b9e3177c057403a7ac847ab164f7150e7475ed2b6d5e",
+      "exported": false,
+      "id": "local:twodheg_effective_mass::__implication_result_e0186046",
+      "label": "__implication_result_e0186046",
+      "metadata": {
+        "canonical_name": "implies(local:twodheg_effective_mass::gcn_cb512194b0bc4df2,local:twodheg_effective_mass::gcn_ac27a904ca704f09)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_38bf38ed9e29f393",
+        "owning_strategy_type": "deduction",
+        "prior": 0.9,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
       "content": "implies(local:twodheg_effective_mass::gcn_219b34bd252c43fa,local:twodheg_effective_mass::gcn_28b9e01bd2f8487f)",
       "content_hash": "b62bc55b960a69898e0db0a5e92313c58c42c614d82a6e699276f3aa4e4cf37b",
       "exported": false,
@@ -1067,6 +1196,48 @@
       },
       "parameters": [],
       "type": "claim"
+    },
+    {
+      "content": "implies(local:twodheg_effective_mass::gcn_ac27a904ca704f09,local:twodheg_effective_mass::gcn_21f80773b87f444c)",
+      "content_hash": "7543683c88d57f23d03f8c8a7554138e0d8f72b6626aec36ff6e9a54adc1a3a1",
+      "exported": false,
+      "id": "local:twodheg_effective_mass::__implication_result_824cafb8",
+      "label": "__implication_result_824cafb8",
+      "metadata": {
+        "canonical_name": "implies(local:twodheg_effective_mass::gcn_ac27a904ca704f09,local:twodheg_effective_mass::gcn_21f80773b87f444c)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_469a528a407d6176",
+        "owning_strategy_type": "support",
+        "prior": 0.84,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
+    },
+    {
+      "content": "implies(local:twodheg_effective_mass::gcn_f431f49f19b44cf1,local:twodheg_effective_mass::gcn_21f80773b87f444c)",
+      "content_hash": "4197d2ea5b9ab452a2a269133d3321b70944a29a2132165b0f28f68f9974a199",
+      "exported": false,
+      "id": "local:twodheg_effective_mass::__implication_result_26973b6e",
+      "label": "__implication_result_26973b6e",
+      "metadata": {
+        "canonical_name": "implies(local:twodheg_effective_mass::gcn_f431f49f19b44cf1,local:twodheg_effective_mass::gcn_21f80773b87f444c)",
+        "generated": true,
+        "generated_kind": "helper_claim",
+        "helper_kind": "implication_result",
+        "helper_visibility": "formal_internal",
+        "intermediate_role": "implication_result",
+        "owning_strategy_id": "lcs_fae3bbd40967f716",
+        "owning_strategy_type": "support",
+        "prior": 0.7,
+        "visibility": "formal_internal"
+      },
+      "parameters": [],
+      "type": "claim"
     }
   ],
   "module_order": [
@@ -1075,10 +1246,12 @@
     "paper_drummond2013_effective_mass",
     "paper_drummond2009_fermi_fluid",
     "paper_drummond2012_effective_mass",
+    "paper_azadi2025_effective_mass",
     "cross_paper"
   ],
   "module_titles": {
     "cross_paper": "cross_paper - cross-paper supports and contradictions for the 2D HEG mass graph.",
+    "paper_azadi2025_effective_mass": "paper_azadi2025_effective_mass - 2025 QMC effective-mass update.",
     "paper_drummond2009_fermi_fluid": "paper_drummond2009_fermi_fluid - earlier DMC band and mass claims.",
     "paper_drummond2012_effective_mass": "paper_drummond2012_effective_mass - revised DMC thermodynamic-limit benchmarks.",
     "paper_drummond2013_effective_mass": "paper_drummond2013_effective_mass - finite-cell effective-mass support claim.",
@@ -1101,16 +1274,16 @@
       ]
     },
     {
-      "conclusion": "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise",
+      "conclusion": "local:twodheg_effective_mass::drummond2013_vs_azadi2025_paramagnetic_trend",
       "metadata": {
-        "reason": "The N^(-1/4) scaling claim says finite-N Fermi-liquid-derived quantities can be extrapolated by fitting c+a N^(-1/4), while the shell-noise claim says the same nominal scaling is only globally consistent with poor fit quality because shell-filling oscillations exceed statistical errors and make direct Fermi-liquid-parameter extrapolations quantitatively unreliable. | open_problem: When does the theoretical N^(-1/4) finite-size law become a reliable extrapolation protocol rather than only an asymptotic guide overwhelmed by shell-filling noise?"
+        "reason": "The 2013 Drummond-Needs benchmark branch reports paramagnetic thermodynamic-limit 2D HEG masses close to unity at r_s=1,5,10, while the 2025 Azadi-Drummond-Principi-Belosludov-Bahramy branch reports paramagnetic 2D-UEL thermodynamic-limit masses that are close to one at r_s=1 but increase monotonically over 1 <= r_s <= 5. | open_problem: How should the 2013 Drummond-Needs extrapolation protocol be reconciled with the 2025 QMC treatment of Slater-Jastrow-backflow wave functions, band fitting, and finite-size extrapolation?"
       },
       "operator": "contradiction",
-      "operator_id": "lco_326e2972f1e4d9fd",
+      "operator_id": "lco_ff7c7623de7c8883",
       "scope": "local",
       "variables": [
-        "local:twodheg_effective_mass::gcn_219b34bd252c43fa",
-        "local:twodheg_effective_mass::gcn_3db07703d3684507"
+        "local:twodheg_effective_mass::gcn_b7a7d456a05d4129",
+        "local:twodheg_effective_mass::gcn_21f80773b87f444c"
       ]
     }
   ],
@@ -1408,6 +1581,35 @@
       "type": "deduction"
     },
     {
+      "conclusion": "local:twodheg_effective_mass::gcn_ac27a904ca704f09",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "local:twodheg_effective_mass::__implication_result_e0186046",
+            "operator": "implication",
+            "variables": [
+              "local:twodheg_effective_mass::gcn_cb512194b0bc4df2",
+              "local:twodheg_effective_mass::gcn_ac27a904ca704f09"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "deduction",
+        "generated_formal_expr": true,
+        "judgment": "accepted",
+        "justification": "Accepted as a chain-backed 2025 QMC finite-size extrapolation warrant, but with a lower prior than older exact-factor deductions because it is empirical and estimator-specific.",
+        "prior": 0.9,
+        "reason": "1. Finite simulation cells discretize available k-space and make direct finite-N mass estimates ambiguous.\n2. The authors compute paramagnetic 2D-UEL bands at N=146, 218, and 302 electrons across 1 <= r_s <= 5.\n3. Plotting extracted effective masses against N^(-3/2) yields an approximately linear finite-size trend.\n4. Finite-size errors are smaller in VMC than DMC and grow as density is reduced.\n5. The N^(-3/2) empirical scaling is therefore used as a controlled extrapolation protocol for this 2025 dataset."
+      },
+      "premises": [
+        "local:twodheg_effective_mass::gcn_cb512194b0bc4df2"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_38bf38ed9e29f393",
+      "type": "deduction"
+    },
+    {
       "conclusion": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
       "formal_expr": {
         "operators": [
@@ -1579,6 +1781,64 @@
       ],
       "scope": "local",
       "strategy_id": "lcs_5f0dd638aa59cab5",
+      "type": "support"
+    },
+    {
+      "conclusion": "local:twodheg_effective_mass::gcn_21f80773b87f444c",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "local:twodheg_effective_mass::__implication_result_824cafb8",
+            "operator": "implication",
+            "variables": [
+              "local:twodheg_effective_mass::gcn_ac27a904ca704f09",
+              "local:twodheg_effective_mass::gcn_21f80773b87f444c"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "judgment": "accepted",
+        "justification": "Accepted as same-paper support from the 2025 finite-size protocol to the 2025 trend claim.",
+        "prior": 0.84,
+        "reason": "The 2025 N^(-3/2) finite-size extrapolation protocol explains how the monotonic paramagnetic trend is obtained from finite-N VMC/DMC effective-mass data."
+      },
+      "premises": [
+        "local:twodheg_effective_mass::gcn_ac27a904ca704f09"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_469a528a407d6176",
+      "type": "support"
+    },
+    {
+      "conclusion": "local:twodheg_effective_mass::gcn_21f80773b87f444c",
+      "formal_expr": {
+        "operators": [
+          {
+            "conclusion": "local:twodheg_effective_mass::__implication_result_26973b6e",
+            "operator": "implication",
+            "variables": [
+              "local:twodheg_effective_mass::gcn_f431f49f19b44cf1",
+              "local:twodheg_effective_mass::gcn_21f80773b87f444c"
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "formalization_template": "support",
+        "generated_formal_expr": true,
+        "judgment": "accepted",
+        "justification": "Accepted as weak same-paper context support; it clarifies the spin-polarization specificity of the 2025 paramagnetic trend.",
+        "prior": 0.7,
+        "reason": "The 2025 ferromagnetic trend claim states that the spin-polarized mass moves oppositely with density, reinforcing that the paramagnetic increasing trend is a spin-sector-specific feature rather than a generic finite-size drift."
+      },
+      "premises": [
+        "local:twodheg_effective_mass::gcn_f431f49f19b44cf1"
+      ],
+      "scope": "local",
+      "strategy_id": "lcs_fae3bbd40967f716",
       "type": "support"
     }
   ]

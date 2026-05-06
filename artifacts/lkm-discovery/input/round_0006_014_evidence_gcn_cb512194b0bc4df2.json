@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For the two-dimensional uniform electron liquid (2D-UEL) model consisting of N interacting electrons of charge −e and bare mass m in a finite periodic simulation cell of area A (so that the density is ρ = N/A) and with density parameter r_s = (1/(πρ))^{1/2}a_B^{-1} (using atomic units with Bohr radius a_B = 1), the finite-size dependence of the quasiparticle effective mass m*(N) obtained from quantum Monte Carlo band-derivative estimates is taken to follow the empirical form\n      m*(N) = m*(∞) + β·N^{-3/2}\n      for some constant β, and this empirical scaling relation is applied to the authors' simulation data obtained at N = 146, 218, and 302 electrons to extrapolate m*(∞) for densities in the metallic range 1 ≤ r_s ≤ 5.\n      Holzmann et al., Theory of finite size effects for electronic quantum Monte Carlo calculations of liquids and solids, Phys. Rev. B 94, 035126 (2016).",
+      "content_hash": "c1ce6c3ee6d6300a60cdfcd8eb5e581f6e940a580c2cb54c7e1be7cbc4d502aa",
+      "id": "gcn_cb512194b0bc4df2",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "c4476d5f5cee9ce60dbdeaa8a6605292"
+}

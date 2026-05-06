@@ -1,0 +1,265 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1088988091466645522": {
+        "area": "arXiv-Physics",
+        "authors": "Miquel Royo | Massimiliano Stengel",
+        "available_online": "",
+        "cover_date_start": "2025-01-17",
+        "created_at": "2025-01-22T16:49:53+08:00",
+        "doi": "10.48550/arxiv.2501.10188",
+        "en_title": "Dynamical response of noncollinear spin systems at constrained magnetic moments",
+        "id": "1088988091466645522",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "受限磁矩下非共线自旋系统的动力学响应"
+      },
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:812446302850777089": {
+        "area": "Physics and Astrophysics",
+        "authors": "E.W. Fenton | G.C. Aers",
+        "available_online": "",
+        "cover_date_start": "1985-10-01",
+        "created_at": "2022-12-21T14:11:34+08:00",
+        "doi": "10.1016/0038-1098(85)90397-7",
+        "en_title": "Upper critical field of a superconductor with arbitrary spin-orbit scattering: CeCu2Si2 and UBe13",
+        "id": "812446302850777089",
+        "keywords": "",
+        "publication_date": "1985-10",
+        "publication_id": "653",
+        "publication_name": "Solid State Communications _ Solid State Communications",
+        "research_categories": "",
+        "zh_title": "具有任意自旋轨道散射的超导体的上临界场：CeCu₂Si₂ 和 UBe₁₃"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      }
+    },
+    "variables": [
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let N denote the number of electrons in a finite periodic simulation cell used to compute quasiparticle bands by quantum Monte Carlo; for paramagnetic (ζ = 0) 2D-UEL data obtained at N = 146, 218, and 302 electrons and for densities in the metallic range 1 ≤ r_s ≤ 5, the finite-N dependence of the extracted quasiparticle effective mass m*(N) is empirically well described by m*(N) = m*(∞) + α·N^{-3/2} for some constant α, and extrapolation of the VMC and DMC data using this N^{-3/2} scaling yields thermodynamic-limit estimates m*(∞) that increase monotonically with r_s across the studied points, although the VMC-extrapolated and DMC-extrapolated m*(r_s) trends have different slopes.",
+        "content_hash": "326ee75daec56ffc9f2eb17680a11e73e951233c288626342a34ca008f69b7e0",
+        "id": "gcn_38bb7ad1c4504c2a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_2",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03225806451612903,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the two-dimensional uniform electron liquid (2D-UEL) model consisting of N interacting electrons of charge −e and bare mass m in a finite periodic simulation cell of area A (so that the density is ρ = N/A) and with density parameter r_s = (1/(πρ))^{1/2}a_B^{-1} (using atomic units with Bohr radius a_B = 1), the finite-size dependence of the quasiparticle effective mass m*(N) obtained from quantum Monte Carlo band-derivative estimates is taken to follow the empirical form\n      m*(N) = m*(∞) + β·N^{-3/2}\n      for some constant β, and this empirical scaling relation is applied to the authors' simulation data obtained at N = 146, 218, and 302 electrons to extrapolate m*(∞) for densities in the metallic range 1 ≤ r_s ≤ 5.\n      Holzmann et al., Theory of finite size effects for electronic quantum Monte Carlo calculations of liquids and solids, Phys. Rev. B 94, 035126 (2016).",
+        "content_hash": "c1ce6c3ee6d6300a60cdfcd8eb5e581f6e940a580c2cb54c7e1be7cbc4d502aa",
+        "id": "gcn_cb512194b0bc4df2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P1",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03149801587301587,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For least-squares fitting of computed quasiparticle energies ε(k) versus momentum magnitude k obtained from finite-N quantum Monte Carlo simulations of the 2D-UEL when more than twenty k values in the interval 0 < k < 1.7 k_F are sampled, the quartic polynomial form ε(k) = a_0 + a_2 k^2 + a_4 k^4 produces more stable fits (smaller residuals and more reproducible derivative at k_F across finite-N datasets) than the Padé rational form ε(k) = (a_0 + a_1 k + a_2 k^2 + a_3 k^3)/(1 + 2 a_3 k), and the quartic fits yield slightly larger values of the extracted effective mass m* = k_F · (dε/dk)^{-1}_{k_F} for the datasets considered in the study, making the quartic choice a practically preferable and systematically biasing choice for the authors' finite-N QMC datasets in the examined parameter range.",
+        "content_hash": "7ed03b817c73fef6d53f32d82fb1c01533888f9f8fc01740a61f8de7dffc389d",
+        "id": "gcn_3a14d8fd812e4ff6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P4",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.029211087420042643,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and for density parameters in the metallic interval 1 ≤ r_s ≤ 5, applying Slater–Jastrow–backflow (SJB) trial wave functions, band fitting (quartic or Padé), and the empirical finite-size extrapolation m*(N) = m*(∞) + β·N^{-3/2} to data at N = 146, 218, and 302 yields extrapolated thermodynamic-limit values m*(∞) that form a monotonic increasing function of r_s across the studied discrete points; this monotonicity statement is conditional on those methodological choices (SJB nodal improvements, fitting form, and N^{-3/2} extrapolation) being adequate for the datasets considered.\n      Fig. 7 (this paper)",
+        "content_hash": "1e8c884fed65d7522e2acd5ba07266f1c7d245225316a39e5fb9d3e635ae119b",
+        "id": "gcn_21f80773b87f444c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P9",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given samples U_{ab}(\\omega_i) at a chosen set of real frequencies \\{\\omega_i\\}, fit a polynomial U_{ab}(\\omega)\\approx\\sum_{m=0}^{n}\\omega^m U_{ab}^{(m)}/m! and define the electronic contribution to the effective mass tensor by \\mathbf{M}=-\\tfrac{1}{2}\\mathbf{U}^{(2)} (sign convention as used in the adiabatic expansion). Provided the sampling frequencies, fit degree n, and numerical precision are adequate for the smoothness of the true U_{ab}(\\omega) (so that the polynomial fit is not dominated by numerical noise or by unresolved spectral features), the fitted second-derivative coefficients U_{ab}^{(2)} yield an accurate estimate of the electronic contribution to \\mathbf{M} (i.e., the extraction is robust against fitting artifacts and numerical noise and produces errors small compared to the reported mass values).",
+        "content_hash": "c90ba494043d420849b2eb94e2b71fbbdbed031afef060718fd74cad66083fbd",
+        "id": "gcn_e134da43a4be47cc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1088988091466645522::P6",
+            "package_id": "paper:1088988091466645522",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1088988091466645522"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Given finite-size effective-mass data points \\\\(\\\\{(N_{i},m^{*}(N_{i}))\\\\}\\\\) at several densities and considering the family of fits \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) parametrized by \\\\(\\\\gamma\\\\), the proposition is: adopting a fixed exponent value \\\\(\\\\gamma=3/2\\\\) for the extrapolations across the densities considered is justified because the resulting fits produce substantially better overall goodness-of-fit statistics as measured by the reduced \\\\(\\\\chi^{2}\\\\) values than alternative fixed exponents over the same data sets, and therefore using \\\\(\\\\gamma=3/2\\\\) yields reliable extrapolated values \\\\(m^{*}(\\\\infty)\\\\) for these DMC data.",
+        "content_hash": "e91f9c84803cbbfec6008ee601fb907ddfb931de6c0cb39fea34133d4822be28",
+        "id": "gcn_25aac9571e85447c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P8",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In fixed-node diffusion Monte Carlo (DMC) the discrete imaginary-time step dτ used for walker propagation produces Trotter (time-step) errors that can materially alter computed quasiparticle energy bands and hence the derivative-based effective mass m*: in the authors' calculations for paramagnetic 2D-UEL at r_s = 5 with N = 302 electrons, the DMC band fits obtained using dτ = 0.005 a.u. and dτ = 0.2 a.u. (each run using the same walker ensemble size N_w = 2560 and the same number of propagation steps 25×10^3) exhibit markedly different band-fitting uncertainties and produce differing estimates of m*, demonstrating that insufficient time-step control can bias m* and that the common assumption that time-step errors cancel in excitation-energy differences need not hold.",
+        "content_hash": "fdd53349e8f686dde09763f73ee97147234c25f64192ec1b4496465fe3fcecab",
+        "id": "gcn_7892ddefe73c43f2",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_7",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When converting a fitted Fermi velocity $v_F=5.2\\times10^{5}\\ \\mathrm{cm/s}$ into an effective mass the assumptions used are a spherical Fermi surface and that each uranium atom contributes exactly three $5f$ heavy electrons; under these assumptions $k_F$ is set by three electrons per atom and the effective mass is estimated by $m^*=\\hbar k_F / v_F$, giving $m^*\\approx192\\,m_e$ for the quoted $v_F$.",
+        "content_hash": "9b74feedd06b344d43ab586c1467e8b67bd0f8eaa819e059b1ed5dfdba81eb14",
+        "id": "gcn_ce4c54351f564546",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812446302850777089::P6",
+            "package_id": "paper:812446302850777089",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812446302850777089"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "5bed7b8a4c5123bb49e88f8ace3fdda0"
+}

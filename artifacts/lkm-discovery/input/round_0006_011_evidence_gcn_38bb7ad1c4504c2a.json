@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "Let N denote the number of electrons in a finite periodic simulation cell used to compute quasiparticle bands by quantum Monte Carlo; for paramagnetic (ζ = 0) 2D-UEL data obtained at N = 146, 218, and 302 electrons and for densities in the metallic range 1 ≤ r_s ≤ 5, the finite-N dependence of the extracted quasiparticle effective mass m*(N) is empirically well described by m*(N) = m*(∞) + α·N^{-3/2} for some constant α, and extrapolation of the VMC and DMC data using this N^{-3/2} scaling yields thermodynamic-limit estimates m*(∞) that increase monotonically with r_s across the studied points, although the VMC-extrapolated and DMC-extrapolated m*(r_s) trends have different slopes.",
+      "content_hash": "326ee75daec56ffc9f2eb17680a11e73e951233c288626342a34ca008f69b7e0",
+      "id": "gcn_38bb7ad1c4504c2a",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "Let N denote the number of electrons in a finite periodic simulation cell used to compute quasiparticle bands by quantum Monte Carlo; for paramagnetic (ζ = 0) 2D-UEL data obtained at N = 146, 218, and 302 electrons and for densities in the metallic range 1 ≤ r_s ≤ 5, the finite-N dependence of the extracted quasiparticle effective mass m*(N) is empirically well described by m*(N) = m*(∞) + α·N^{-3/2} for some constant α, and extrapolation of the VMC and DMC data using this N^{-3/2} scaling yields thermodynamic-limit estimates m*(∞) that increase monotonically with r_s across the studied points, although the VMC-extrapolated and DMC-extrapolated m*(r_s) trends have different slopes.",
+              "id": "gcn_38bb7ad1c4504c2a"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_48024d088ee3418d",
+            "premises": [
+              {
+                "content": "For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and for density parameters in the metallic interval 1 ≤ r_s ≤ 5, applying Slater–Jastrow–backflow (SJB) trial wave functions, band fitting (quartic or Padé), and the empirical finite-size extrapolation m*(N) = m*(∞) + β·N^{-3/2} to data at N = 146, 218, and 302 yields extrapolated thermodynamic-limit values m*(∞) that form a monotonic increasing function of r_s across the studied discrete points; this monotonicity statement is conditional on those methodological choices (SJB nodal improvements, fitting form, and N^{-3/2} extrapolation) being adequate for the datasets considered.\n      Fig. 7 (this paper)",
+                "id": "gcn_21f80773b87f444c"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Take as known the upstream results: (a) backflow nodal improvements strongly affect $m^{*}$ and are especially important at low density because they change nodal topology and reduce HF-induced pathologies (upstream conclusion: backflow (SJB) nodal improvements strongly affect $m^{*}$), (b) finite-size extrapolation can be performed using the empirical $N^{-3/2}$ scaling to obtain thermodynamic-limit $m^{*}(\\infty)$ (upstream conclusion: finite-size extrapolation follows $N^{-3/2}$ scaling), and (c) DMC time-step errors can materially affect band fits and hence $m^{*}$, so time-step control is necessary (upstream conclusion: DMC time-step errors materially affect quasiparticle bands and $m^{*}$).",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the density parameter $r_{s}$ used by the authors: $r_{s}=(1/\\rho\\pi)^{1/2}a_{B}^{-1}$ where $\\rho$ is the electron number density and $a_{B}=1$ a.u. is the Bohr radius; the authors consider the metallic density range $1\\le r_{s}\\le5$ and compute $m^{*}$ across this range for the paramagnetic ($\\zeta=0$) 2D-UEL.",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Describe the authors' computational procedure for determining the trend $m^{*}(r_{s})$: for each density $r_{s}$ they computed VMC and DMC band energies at multiple cell sizes ($N=146,218,302$), performed band fitting (favoring quartic fits for stability), extracted derivatives at $k_{F}$ to obtain $m^{*}(N)$, and extrapolated $m^{*}(N)$ to $N\\rightarrow\\infty$ using the empirical $N^{-3/2}$ form to obtain $m^{*}(\\infty)$.\nFig. 6",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Report the empirical and numerical outcomes: after applying the $N^{-3/2}$ finite-size extrapolation and accounting for nodal-quality effects by using SJB wave functions (backflow), the extrapolated VMC and DMC $m^{*}$ values for the paramagnetic 2D-UEL show a monotonic increase as $r_{s}$ increases from 1 to 5; the authors plot these trends and compare them to GW and previous QMC results in the figure illustrating $m^{*}$ versus $r_{s}$.\nFig. 7",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Address the role of backflow and time-step in producing the trend: at low density ($r_{s}$ large) static correlation is more important and backflow nodal improvements change the sign and magnitude of $m^{*}$ (e.g., producing $m^{*}>1$ at $r_{s}=5$ when SJB is used versus $m^{*}<1$ for SJ), so including backflow is essential for the correct growth of $m^{*}$ with $r_{s}$; additionally, DMC time-step control is needed because time-step errors can bias $m^{*}$ estimates, especially at low density where bands are more sensitive.\nFig. 3\nFig. 5",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Report the comparison between VMC and DMC slopes: the extrapolated VMC and DMC $m^{*}(r_{s})$ trends both increase with $r_{s}$ but exhibit different slopes, i.e., VMC and DMC extrapolations indicate a monotonic growth of $m^{*}$ with $r_{s}$ though the rate of increase differs between the two methods, as shown in the authors' plotted comparisons.\nFig. 7",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "Determining the sign and magnitude of the density dependence of $m^{*}$ in 2D is nontrivial because competing effects—exchange (dominant at high density), correlation (growing important at low density), reduced dimensional screening, and finite-size artifacts—can lead to opposite trends. Perturbative GW-type calculations predict strong increases of $m^{*}$ at low density in some implementations but are sensitive to self-consistency and screening approximations, while smaller QMC studies lacked systematic finite-size scaling and nodal-improvement analysis. A controlled extrapolation to the thermodynamic limit that accounts for the observed $N^{-3/2}$ finite-size scaling and for nodal-quality effects is required to establish whether $m^{*}$ truly increases as $r_{s}$ grows in the 2D-UEL.",
+            "id": "paper:1129109501803233307::conclusion_2_subproblem",
+            "source_package": "paper:1129109501803233307"
+          }
+        ],
+        "source_package": "paper:1129109501803233307"
+      }
+    ],
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "310c545cf0b84effef1cbae47007240d"
+}

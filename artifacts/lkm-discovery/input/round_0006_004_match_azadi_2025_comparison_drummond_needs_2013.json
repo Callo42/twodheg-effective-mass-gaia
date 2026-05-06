@@ -1,0 +1,345 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1134915489739309118": {
+        "area": "arXiv-Physics",
+        "authors": "Pascal Henkel | Jingrui Li | Patrick Rinke",
+        "available_online": "",
+        "cover_date_start": "2025-05-26",
+        "created_at": "2025-05-29T10:28:58+08:00",
+        "doi": "10.48550/arxiv.2505.19882",
+        "en_title": "Design Rules for Optimizing Quaternary Mixed-Metal Chalcohalides",
+        "id": "1134915489739309118",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108483",
+        "publication_name": "Materials Science",
+        "research_categories": "",
+        "zh_title": "优化四元混合金属卤硫化物的设计规则"
+      },
+      "paper:1172871604330299394": {
+        "area": "arXiv-Physics",
+        "authors": "F. Yang | G. D. Zhao | Y. Shi | L. Q. Chen",
+        "available_online": "",
+        "cover_date_start": "2025-09-10",
+        "created_at": "2025-09-11T04:13:01+08:00",
+        "doi": "10.48550/arXiv.2509.08332",
+        "en_title": "An Efficient Phase-Transition Framework for Gate-Tunable Superconductivity in Monolayer WTe_2",
+        "id": "1172871604330299394",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108490",
+        "publication_name": "Superconductivity",
+        "research_categories": "",
+        "zh_title": "用于单层WTe₂中栅极可调超导性的高效相变框架"
+      },
+      "paper:812837402446921728": {
+        "area": "Material science",
+        "authors": "José Carlos Abadillo-Uriel | Belita Koiller | María José Calderón",
+        "available_online": "2018-10-12",
+        "cover_date_start": "2018-10-12",
+        "created_at": "2022-12-22T16:05:38+08:00",
+        "doi": "10.3762/bjnano.9.249",
+        "en_title": "Two-dimensional semiconductors pave the way towards dopant-based quantum computing",
+        "id": "812837402446921728",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "2191",
+        "publication_name": "Beilstein Journal of Nanotechnology _ Beilstein J. Nanotechnol.",
+        "research_categories": "[\"Engineering\", \"Electronics, Sensors and Digital Hardware\", \"Nanotechnology\", \"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "二维半导体为基于掺杂剂的量子计算铺平了道路"
+      },
+      "paper:813149776529850368": {
+        "area": "Physics and Astrophysics",
+        "authors": "Jan Kuriplach | Bernardo Barbiellini",
+        "available_online": "2014-4-9",
+        "cover_date_start": "2014-04-09",
+        "created_at": "2022-12-23T12:46:55+08:00",
+        "doi": "10.1103/physrevb.89.155111",
+        "en_title": "Improved generalized gradient approximation for positron states in solids",
+        "id": "813149776529850368",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "固体中正电子态的改进广义梯度近似"
+      },
+      "paper:867749664370197342": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2013-07-15",
+        "created_at": "2023-05-23T04:47:22+08:00",
+        "doi": "10.48550/arXiv.1307.4009",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "867749664370197342",
+        "keywords": "",
+        "publication_date": "2013-07-15",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:867751076625908055": {
+        "area": "arXiv-Physics",
+        "authors": "Cinthia Antunes Corrêa | Karel Výborný",
+        "available_online": "",
+        "cover_date_start": "2018-05-29",
+        "created_at": "2023-05-23T04:52:59+08:00",
+        "doi": "10.48550/arXiv.1805.11339",
+        "en_title": "Electronic structure and magnetic anisotropies of antiferromagnetic transition-metal difluorides",
+        "id": "867751076625908055",
+        "keywords": "",
+        "publication_date": "2018-05-29",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "反铁磁过渡金属二氟化物的电子结构与磁各向异性"
+      },
+      "paper:867751779943579657": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2012-08-30",
+        "created_at": "2023-05-23T04:55:47+08:00",
+        "doi": "10.48550/arXiv.1208.6317",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "867751779943579657",
+        "keywords": "",
+        "publication_date": "2012-08-30",
+        "publication_id": "108486",
+        "publication_name": "Quantum Gases _ Physics.cond-mat.quant-gas",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867751920704421969": {
+        "area": "arXiv-Physics",
+        "authors": "Junlei Zhao | Xinyu Wang | Haohao Chen | Zhaofu Zhang | Mengyuan Hua",
+        "available_online": "",
+        "cover_date_start": "2021-12-10",
+        "created_at": "2023-05-23T04:56:20+08:00",
+        "doi": "10.48550/arXiv.2112.05569",
+        "en_title": "Two-dimensional Ferroelectric Ga2O3 Bilayers with Unusual Strain-engineered Interlayer Interactions",
+        "id": "867751920704421969",
+        "keywords": "",
+        "publication_date": "2021-12-10",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "具有异常应变工程层间相互作用的二维铁电氧化镓双层膜"
+      },
+      "paper:867759972065215229": {
+        "area": "arXiv-Physics",
+        "authors": "M.W.C. Dharma-wardana",
+        "available_online": "",
+        "cover_date_start": "2010-10-25",
+        "created_at": "2023-05-23T05:28:20+08:00",
+        "doi": "10.48550/arXiv.1010.5175",
+        "en_title": "The Coulomb bridge function and the Pair-distribution functions of the 2-dimensional electron liquid in the quantum regime",
+        "id": "867759972065215229",
+        "keywords": "",
+        "publication_date": "2010-10-25",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "量子 regime 中二维电子液体的库仑桥函数和对分布函数"
+      }
+    },
+    "variables": [
+      {
+        "content": "The extrapolated thermodynamic-limit effective masses exhibit distinct density dependences depending on spin polarization: for the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10 the extrapolated effective mass remains close to unity (\\\\(m^{*}\\\\approx1\\\\)), indicating no significant interaction-induced mass enhancement at these densities for the clean continuum 2D HEG model considered; by contrast, for the fully spin-polarized (ferromagnetic) 2D HEG the extrapolated effective mass decreases as the density is lowered, for example taking the values \\\\(0.85(1)\\\\) at \\\\(r_{s}=1\\\\), \\\\(0.74(1)\\\\) at \\\\(r_{s}=5\\\\), and \\\\(0.70(3)\\\\) at \\\\(r_{s}=10\\\\), a trend that is qualitatively consistent with experimental measurements on spin-polarized two-dimensional systems reported in the literature (e.g., Padmanabhan et al.).",
+        "content_hash": "50d79ff1ea218bc2ead65fa8297f1c40403b60c514239f93423bf99aa338304e",
+        "id": "gcn_bdc9e8a10cfe4b2f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::conclusion_6",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Effective carrier masses were obtained by fitting a quadratic (parabolic) dispersion to the HSE06+SOC Kohn–Sham band energies near the band extrema and converting the fitted curvature to an effective-mass scalar; the phase-averaged values from these fits show strong phase dependence: in the P2₁/c phase the mean effective electron mass is $1.42\\;m_{0}$ and the mean effective hole mass is $1.46\\;m_{0}$ (with $m_{0}=9.109\\times10^{-31}\\ \\mathrm{kg}$ denoting the free-electron mass used to nondimensionalize $m^{*}$), whereas in the Cmcm phase the phase-averaged electron and hole masses are $m_{e}^{\\mathrm{Cmcm}}\\approx0.86\\;m_{0}$ and $m_{h}^{\\mathrm{Cmcm}}\\approx1.37\\;m_{0}$, and in the Cmc2₁ phase $m_{e}^{\\mathrm{Cmc2_{1}}}\\approx0.93\\;m_{0}$ and $m_{h}^{\\mathrm{Cmc2_{1}}}\\approx1.38\\;m_{0}$; consequently, electrons are substantially lighter (smaller effective masses) in the Cmcm and Cmc2₁ phases than in P2₁/c, while hole masses are similar across the three phases.",
+        "content_hash": "c05fe14b622cc7417fde592535dfee4218f38fe559c63454dcf0fddb293fb1b6",
+        "id": "gcn_e960570a31c04f6b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1134915489739309118::conclusion_4",
+            "package_id": "paper:1134915489739309118",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1134915489739309118"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let m_{e} and m_{h} denote band effective masses for electrons and holes obtained from DFT quadratic fits to the conduction-band minimum and valence-band maximum, respectively. In the simulations these DFT-extracted values are taken as fixed, sample-independent microscopic inputs with numerical values m_{e}\\approx0.33\\,m_{0} and m_{h}\\approx0.53\\,m_{0}, i.e., band-renormalization effects from interactions, strain, substrate, or doping are neglected for these masses in the reported modeling.",
+        "content_hash": "9bc1ba54371caf9883c4b385e2096b3fa875e18d85b88f5fcc83af828e296e70",
+        "id": "gcn_d875967df8f642bf",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1172871604330299394::P6",
+            "package_id": "paper:1172871604330299394",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1172871604330299394"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quantum Monte Carlo (QMC) contact-density pair-correlation data reported by N. D. Drummond, P. Lop\\'ez R\\'ios, R. J. Needs, and C. J. Pickard (the QMC study) can be fit to the single-parameter LDA polynomial\n      $$\n      \\gamma(r_s)=1 + 1.23\\,r_s + p\\,r_s^2 + \\frac{r_s^3}{3}\n      $$\n      with a best-fit coefficient value $p=-0.22$, and the magnitudes of the fit residuals are comparable to or smaller than the QMC statistical uncertainties and smaller than typical differences among previously published parametrizations across the $r_s$ range sampled in those QMC calculations; thus $p=-0.22$ provides a robust summary of the cited QMC data for producing an LDA enhancement function. \n      N. D. Drummond, P. Lop\\'ez R\\'ios, R. J. Needs, and C. J. Pickard, Phys. Rev. Lett. 107, 207402 (2011)",
+        "content_hash": "504d4e02c4c8c38cb892de37f454010e59a0373718e0b6d4cb3cdf1e5aab8cd8",
+        "id": "gcn_75adb84aaf5d4c3a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813149776529850368::P2",
+            "package_id": "paper:813149776529850368",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813149776529850368"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the paramagnetic (unpolarized) 2D HEG over the density-parameter range \\\\(r_{s}=1\\\\) to 10, let \\\\(m^{*}(\\\\infty)\\\\) denote the quasiparticle effective mass extrapolated to the thermodynamic limit by fitting the finite-size DMC effective masses to the single-power-law form \\\\(m^{*}(N)=m^{*}(\\\\infty)+b\\\\,N^{-\\\\gamma}\\\\) and adopting the exponent \\\\(\\\\gamma=3/2\\\\) for the extrapolation. The proposition is: the extrapolated numerical values \\\\(m^{*}(r_{s}=1)=0.955(2)\\\\), \\\\(m^{*}(r_{s}=5)=1.04(2)\\\\), and \\\\(m^{*}(r_{s}=10)=1.03(4)\\\\) indicate that the true thermodynamic-limit quasiparticle effective mass of the clean continuum-model paramagnetic 2D HEG remains close to unity across this \\\\(r_{s}\\\\) range and that there is no significant enhancement of \\\\(m^{*}\\\\) at low density for this physical system class.",
+        "content_hash": "738a8e1af8a63b5bd599525e664e1589bc61b84ff13727e1272748c09e9f05b4",
+        "id": "gcn_bdae0771f3084733",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751779943579657::P11",
+            "package_id": "paper:867751779943579657",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751779943579657"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The paper converts the effective-unit results for the one-electron donor-pair (D_{2}^{+}) at $R=2a^{*}$ into concrete length and energy values by assuming a dielectric constant $\\varepsilon=5$ and using the conduction-band effective masses taken from the literature (the values used in the calculations are $m_{\\text{eff}}(\\mathrm{ZnS})=0.187$, $m_{\\text{eff}}(\\mathrm{CdS})=0.167$, $m_{\\text{eff}}(\\mathrm{CdSe})=0.127$, $m_{\\text{eff}}(\\mathrm{SiC})=0.645$, $m_{\\text{eff}}(\\mathrm{MoS}_{2})=0.37\\text{–}0.45$, $m_{\\text{eff}}(\\mathrm{h\\text{-}BN})=1.175$ in units of the free-electron mass), obtaining for example $a_{D_{2}^{+}}(\\mathrm{ZnS})=6.8\\ \\mathring{\\mathrm{A}}$ and $E_{D_{2}^{+}}(\\mathrm{ZnS})=-515\\ \\mathrm{meV}$, $a_{D_{2}^{+}}(\\mathrm{CdS})=7.6\\ \\mathring{\\mathrm{A}}$ and $E_{D_{2}^{+}}(\\mathrm{CdS})=-460\\ \\mathrm{meV}$, $a_{D_{2}^{+}}(\\mathrm{CdSe})=10\\ \\mathring{\\mathrm{A}}$ and $E_{D_{2}^{+}}(\\mathrm{CdSe})=-350\\ \\mathrm{meV}$, $a_{D_{2}^{+}}(\\mathrm{SiC})=1.96\\ \\mathring{\\mathrm{A}}$ and $E_{D_{2}^{+}}(\\mathrm{SiC})=-1.77\\ \\mathrm{eV}$, $a_{D_{2}^{+}}(\\mathrm{MoS}_{2})=2.2$–$2.7\\ \\mathring{\\mathrm{A}}$ and $E_{D_{2}^{+}}(\\mathrm{MoS}_{2})=-1.59\\ \\mathrm{eV}$, and $a_{D_{2}^{+}}(\\mathrm{h\\text{-}BN})=0.5\\ \\mathring{\\mathrm{A}}$ and $E_{D_{2}^{+}}(\\mathrm{h\\text{-}BN})=-15\\ \\mathrm{eV}$.\n      Fig. 2(a) and Table 1",
+        "content_hash": "500c7246f19539569fb754b9bfefe97d1967bba04bc0c388bd0dabbc0ec34f11",
+        "id": "gcn_fa3ebdb2169d435c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812837402446921728::P2",
+            "package_id": "paper:812837402446921728",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812837402446921728"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic-limit extrapolation of the discrete-angle DMC-determined Fermi liquid parameters proved unreliable, a set of “best available” numerical recommendations for the Fermi liquid parameters was assembled by combining independently published QMC results for related quantities: quasiparticle effective masses $m^{*}$ obtained from DMC energy-band calculations and smooth QMC-based parameterizations of the ground-state correlation energy.  Using the literature effective masses together with compressibility and spin-susceptibility values derived from the total-energy parameterizations and the Landau relations yields recommended values such as, for the paramagnetic 2D HEG: at $r_{s}=1$, $F_{0}^{s}=-0.495(2)$, $F_{0}^{a}=-0.346(2)$, $F_{1}^{s}=-0.053(3)$; at $r_{s}=5$ and $10$ analogous recommended values are provided; and for the ferromagnetic 2D HEG recommended values include at $r_{s}=1$, $F_{0}=-0.428(2)$ and $\\bar{F}_1=-0.159(3)$.  These assembled values combine ground-state energy parameterizations and published effective masses to provide pragmatic numerical recommendations when direct thermodynamic-limit determinations of $F_l$ from discrete-angle DMC data are unreliable.",
+        "content_hash": "0fd09547c5c725bb912e167aeb6bdf30a3466a307184c371759e5a65d4a847f7",
+        "id": "gcn_306f15c9d5814e23",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867749664370197342::conclusion_6",
+            "package_id": "paper:867749664370197342",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867749664370197342"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The lowest unoccupied parabolic conduction band near its minimum is modeled by the quadratic dispersion\n      $E(\\\\vec{k})=E_{0}+\\\\dfrac{\\\\hbar^{2}}{2}\\\\vec{k}^{T}M^{-1}\\\\vec{k}$,\n      where $M$ is the effective-mass tensor and $m_{0}$ denotes the free-electron mass. The proposition is that extracting the curvature from computed band energies, diagonalizing $M$ to obtain principal effective masses, and then forming a directionally averaged scalar effective mass $m_{\\\\mathrm{eff}}$ yields representative effective-mass values appropriate for characterizing low-energy unoccupied charge-carrier dispersion; the reported numbers (for example, $m_{\\\\mathrm{eff}}/m_{0}\\\\approx 0.22$ for MnF2) are intended as such representative, directionally averaged values.",
+        "content_hash": "81b6b47e249de782577dbdbb2ab00d072aeb05b2aea9dad02eb5743f8ff032d2",
+        "id": "gcn_b47b2f40c6094c7f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751076625908055::P10",
+            "package_id": "paper:867751076625908055",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751076625908055"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Electron effective masses m_e^* extracted from HSE06 band-curvature fits near the conduction-band minimum at the Γ point are isotropic (equal along Γ–K and Γ–M) and are m_e^* ≈ 0.303 m_0 for the U–U stacking, 0.306 m_0 for the D–U stacking, and 0.286 m_0 for the U–D stacking (m_0 denotes the free-electron mass); electron mobilities estimated from the acoustic‑phonon deformation-potential method using those effective masses and the fitted deformation potentials and two-dimensional elastic moduli are μ_x,μ_y = (9357, 8028) cm^2/V·s for U–U, (4610, 5137) cm^2/V·s for D–U, and (5696, 6895) cm^2/V·s for U–D. The hole effective mass m_h^* inferred from valence-band curvature exceeds the electron effective mass by more than a factor of 20 (m_h^* ≳ 20 m_e^*), making hole contributions to low-field carrier transport negligible in these bilayers under low to moderate doping and thermal excitation.",
+        "content_hash": "afb9992659050f6eaa96498894127f61ce484825d14b00cb3f91b52dbf9c5b41",
+        "id": "gcn_05977cba1c164345",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867751920704421969::conclusion_5",
+            "package_id": "paper:867751920704421969",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867751920704421969"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let g_{Att}(r) denote the Attaccalite et al. parametrized QMC PDFs used as primary targets and let g_{Drum}(r) denote the numerical tabulations provided by Drummond et al.; the proposition is that differences between these available QMC datasets (for example, discrepancies between g_{Att} and g_{Drum} at large r_{s}) can lead to quantitatively different extracted bridge functions B(r) and hence to differences in subsequent CHNC predictions (including possible implications for marginal phase-transition behavior), so conclusions drawn from a single QMC input set inherit uncertainty from inter-dataset discrepancies.\n      N. D. Drummond and R. J. Needs, Phys. Rev. B 79, 085414 (2009)",
+        "content_hash": "adce06553cb3f4304e3f2cdb6b73420a84e556dbf4689181221edf6a99ba545f",
+        "id": "gcn_d03d8628f18a4484",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867759972065215229::P12",
+            "package_id": "paper:867759972065215229",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867759972065215229"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "88ff11622071d123e89c339a7075baaa"
+}

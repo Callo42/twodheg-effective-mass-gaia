@@ -2,10 +2,7 @@
 from gaia.lang import contradiction, equivalence, support
 
 from .paper_holzmann2008 import gcn_28b9e01bd2f8487f
-from .paper_drummond2013_fermi_liquid import (
-    gcn_219b34bd252c43fa,
-    gcn_3db07703d3684507,
-)
+from .paper_drummond2013_fermi_liquid import gcn_219b34bd252c43fa
 from .paper_drummond2013_effective_mass import (
     gcn_50e263dc961541e0,
     gcn_8df2cd5b49524aac,
@@ -18,6 +15,11 @@ from .paper_drummond2009_fermi_fluid import (
     gcn_bf915935b1fd4326,
 )
 from .paper_drummond2012_effective_mass import gcn_b7a7d456a05d4129
+from .paper_azadi2025_effective_mass import (
+    gcn_21f80773b87f444c,
+    gcn_ac27a904ca704f09,
+    gcn_f431f49f19b44cf1,
+)
 
 
 n_quarter_scaling_supports_root = support(
@@ -172,34 +174,71 @@ older_dmc_enhancement_vs_revised_dmc_benchmarks.metadata.update(
     }
 )
 
-n_quarter_scaling_vs_shell_filling_noise = contradiction(
-    gcn_219b34bd252c43fa,
-    gcn_3db07703d3684507,
+drummond2013_vs_azadi2025_paramagnetic_trend = contradiction(
+    gcn_b7a7d456a05d4129,
+    gcn_21f80773b87f444c,
     reason=(
-        "The N^(-1/4) scaling claim says finite-N Fermi-liquid-derived quantities "
-        "can be extrapolated by fitting c+a N^(-1/4), while the shell-noise claim "
-        "says the same nominal scaling is only globally consistent with poor fit "
-        "quality because shell-filling oscillations exceed statistical errors and "
-        "make direct Fermi-liquid-parameter extrapolations quantitatively unreliable. "
-        "| open_problem: When does the theoretical N^(-1/4) finite-size law become "
-        "a reliable extrapolation protocol rather than only an asymptotic guide "
-        "overwhelmed by shell-filling noise?"
+        "The 2013 Drummond-Needs benchmark branch reports paramagnetic thermodynamic-limit "
+        "2D HEG masses close to unity at r_s=1,5,10, while the 2025 Azadi-Drummond-Principi-"
+        "Belosludov-Bahramy branch reports paramagnetic 2D-UEL thermodynamic-limit masses "
+        "that are close to one at r_s=1 but increase monotonically over 1 <= r_s <= 5. "
+        "| open_problem: How should the 2013 Drummond-Needs extrapolation protocol be reconciled "
+        "with the 2025 QMC treatment of Slater-Jastrow-backflow wave functions, band fitting, "
+        "and finite-size extrapolation?"
     ),
-    prior=0.82,
+    prior=0.86,
 )
-n_quarter_scaling_vs_shell_filling_noise.content = (
-    "not_both_true(n_quarter_finite_size_scaling_as_extrapolation_protocol, "
-    "shell_filling_noise_makes_direct_extrapolation_unreliable)"
+drummond2013_vs_azadi2025_paramagnetic_trend.content = (
+    "not_both_true(2013_near_unity_paramagnetic_2d_heg_benchmark, "
+    "2025_paramagnetic_2d_uel_mass_increases_with_rs)"
 )
-n_quarter_scaling_vs_shell_filling_noise.title = 'N^-1/4 scaling vs shell-filling noise'
-n_quarter_scaling_vs_shell_filling_noise.metadata.update(
+drummond2013_vs_azadi2025_paramagnetic_trend.title = (
+    "2013 near-unity benchmark vs 2025 increasing trend"
+)
+drummond2013_vs_azadi2025_paramagnetic_trend.metadata.update(
     {
         "judgment": "accepted",
         "justification": (
-            "Accepted as a weak scientific_inconsistency: both claims address the same "
-            "Fermi-liquid-parameter extrapolation protocol, but the tension is a limitation "
-            "on practical use of the asymptotic law rather than a dispute over whether the law exists."
+            "Accepted as a weak current-literature scientific tension: both sides address "
+            "paramagnetic 2D electron-liquid effective masses, but differ in simulation protocol, "
+            "system-size range, and modern treatment of finite-size/backflow effects."
         ),
         "relation_type": "scientific_inconsistency",
+    }
+)
+
+azadi_finite_size_protocol_qualifies_benchmark_branch = support(
+    premises=[gcn_ac27a904ca704f09],
+    conclusion=gcn_21f80773b87f444c,
+    reason=(
+        "The 2025 N^(-3/2) finite-size extrapolation protocol explains how the monotonic "
+        "paramagnetic trend is obtained from finite-N VMC/DMC effective-mass data."
+    ),
+    prior=0.84,
+)
+azadi_finite_size_protocol_qualifies_benchmark_branch.metadata.update(
+    {
+        "judgment": "accepted",
+        "justification": "Accepted as same-paper support from the 2025 finite-size protocol to the 2025 trend claim.",
+    }
+)
+
+azadi_spin_contrast_supports_paramagnetic_trend = support(
+    premises=[gcn_f431f49f19b44cf1],
+    conclusion=gcn_21f80773b87f444c,
+    reason=(
+        "The 2025 ferromagnetic trend claim states that the spin-polarized mass moves "
+        "oppositely with density, reinforcing that the paramagnetic increasing trend is "
+        "a spin-sector-specific feature rather than a generic finite-size drift."
+    ),
+    prior=0.70,
+)
+azadi_spin_contrast_supports_paramagnetic_trend.metadata.update(
+    {
+        "judgment": "accepted",
+        "justification": (
+            "Accepted as weak same-paper context support; it clarifies the spin-polarization "
+            "specificity of the 2025 paramagnetic trend."
+        ),
     }
 )

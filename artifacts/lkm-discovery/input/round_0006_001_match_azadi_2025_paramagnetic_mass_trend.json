@@ -1,0 +1,297 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:867750801643143441": {
+        "area": "arXiv-Physics",
+        "authors": "Yang Zhang | Ling-Fang Lin | Adriana Moreo | Elbio Dagotto",
+        "available_online": "",
+        "cover_date_start": "2022-11-23",
+        "created_at": "2023-05-23T04:51:53+08:00",
+        "doi": "10.48550/arXiv.2211.13321",
+        "en_title": "Electronic structure, magnetic properties, spin orientation, and doping effect in Mn$_3$Si$_2$Te$_6$",
+        "id": "867750801643143441",
+        "keywords": "",
+        "publication_date": "2022-11-23",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "Mn₃Si₂Te₆中的电子结构、磁性、自旋取向和掺杂效应"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867771115127177381": {
+        "area": "arXiv-Physics",
+        "authors": "Mukai Tsunasaki | Tomoya Ono | Mitsuharu Uemoto",
+        "available_online": "",
+        "cover_date_start": "2022-02-12",
+        "created_at": "2023-05-23T06:12:36+08:00",
+        "doi": "10.48550/arXiv.2202.06067",
+        "en_title": "Theoretical investigation of vacancy related defects at 4H-SiC(000$\\bar{1}$)/SiO$_2$ interface after wet oxidation",
+        "id": "867771115127177381",
+        "keywords": "",
+        "publication_date": "2022-02-12",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "",
+        "zh_title": "湿氧化后4H-SiC(000$\\bar{1}$)/SiO₂界面空位相关缺陷的理论研究"
+      },
+      "paper:867772270100087686": {
+        "area": "arXiv-Physics",
+        "authors": "A. Garrison Linn | Peipei Hao | Kyle N. Gordon | Dushyant Narayan | Bryan S. Berggren | Nathaniel Speiser | Sonka Reimers | Richard P. Campion | Vít Novák | Sarnjeet S. Dhesi | Timur Kim | Cephise Cacho | Libor Šmejkal | Tomáš Jungwirth | Jonathan D. Denlinger | Peter Wadley | Dan Dessau",
+        "available_online": "",
+        "cover_date_start": "2022-10-07",
+        "created_at": "2023-05-23T06:17:11+08:00",
+        "doi": "10.48550/arXiv.2210.03818",
+        "en_title": "Experimental electronic structure of the electrically switchable antiferromagnet CuMnAs",
+        "id": "867772270100087686",
+        "keywords": "",
+        "publication_date": "2022-10-07",
+        "publication_id": "108483",
+        "publication_name": "Materials Science _ Physics.cond-mat.mtrl-sci",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "电可切换反铁磁体CuMnAs的实验电子结构"
+      },
+      "paper:867772725953823668": {
+        "area": "arXiv-Physics",
+        "authors": "Nikolaos Ntallis | Vladislav Borisov | Yaroslav O. Kvashnin | Danny Thonig | Erik Sjöqvist | Anders Bergman | Anna Delin | Olle Eriksson | Manuel Pereiro",
+        "available_online": "",
+        "cover_date_start": "2021-05-11",
+        "created_at": "2023-05-23T06:19:00+08:00",
+        "doi": "10.48550/arXiv.2105.04893",
+        "en_title": "On the connection between magnetic interactions and the spin-wave gap of the insulating phase of NaOsO$_{3}$",
+        "id": "867772725953823668",
+        "keywords": "",
+        "publication_date": "2021-05-11",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "",
+        "zh_title": "关于NaOsO₃绝缘相的磁相互作用与自旋波能隙之间的联系"
+      }
+    },
+    "variables": [
+      {
+        "content": "The DMC effective masses show opposite trends with increasing $r_s$ (decreasing density) for the two spin polarizations studied: for the paramagnetic 2D HEG $m^{*}$ increases with increasing interaction strength over the range examined (from approximately $0.95$ at $r_s=1$ to approximately $1.34$ at $r_s=10$), whereas for the fully spin-polarized (ferromagnetic) 2D HEG $m^{*}$ decreases with increasing $r_s$ (from approximately $0.86$ at $r_s=1$ to approximately $0.61$ at $r_s=10$). These calculated trends are consistent with experimental measurements that report an increase of the paramagnetic effective mass as density is lowered (Tan et al., Phys. Rev. Lett. 94, 016405 (2005)) and a decrease of the effective mass in ferromagnetic or partially spin-polarized samples as density is lowered (Padmanabhan et al., Phys. Rev. Lett. 101, 026402 (2008) and related work).",
+        "content_hash": "a8a170b4afb94a44ec8a2640662e1c21c2446ae0bcc2c1d118aeba05dde32a6c",
+        "id": "gcn_a3478ced108544d5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_4",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027799227799227798,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ferromagnetic, ζ = 1) two-dimensional uniform electron liquid (2D-UEL) studied in the metallic density range 1 ≤ r_s ≤ 5, VMC and fixed-node DMC calculations performed for simulation cells containing N = 151 electrons indicate that the quasiparticle effective mass m* decreases as r_s increases (i.e., m* is suppressed as the density is reduced), a trend opposite to that found for the paramagnetic case over the same density interval.",
+        "content_hash": "03456555377f5f829574a3ae9746440642f01b61939f59468f6fcbff942bba5e",
+        "id": "gcn_f431f49f19b44cf1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_3",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Systematic DFT tests varying the Dudarev effective interaction $U_{eff}$ and the choice of exchange–correlation potential (Perdew–Burke–Ernzerhof, PBE, versus the PBEsol revision for solids) show that although quantitative values such as absolute band gaps and the computed critical hydrostatic pressure for gap closure depend on $U_{eff}$ and the functional (for example, the critical pressure for the insulator→metal transition increases to $\\sim4.6\\,$GPa when $U_{eff}=1\\,$eV and to $\\sim8.8\\,$GPa when using PBEsol with $U_{eff}=3\\,$eV), the key qualitative findings are robust: the FiM order remains the lowest-energy magnetic configuration, the dependence of the $T=0$ band gap on spin orientation (gap reduction upon rotating spins from the ab plane toward $c$) persists, and the sign pattern of the extracted exchange parameters ($J_{1},J_{2},J_{3}$ all AFM/negative) is unchanged; because the optimized lattice constants at $U_{eff}=0.5\\,$eV agree best with low-temperature experimental lattice parameters and because the pressure benchmark is closest to experiment at this $U_{eff}$, the value $U_{eff}=0.5\\,$eV was selected for the main reported results.",
+        "content_hash": "e1c1757c65137b0149f4cf40cda11696c9164c54f6bd7271719306212e8fd629",
+        "id": "gcn_5f8aae034cca4597",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867750801643143441::conclusion_8",
+            "package_id": "paper:867750801643143441",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867750801643143441"
+          ]
+        },
+        "role": "premise",
+        "score": 0.01639344262295082,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When Slater–Jastrow–backflow (SJB) trial wave functions are used and their variational parameters are optimized by variance minimization followed by linear least-squares energy minimization (as implemented in the CASINO code), the resulting VMC and fixed-node DMC estimates of the quasiparticle effective mass m* for the studied 2D-UEL system sizes (for example N = 146, 218, 302 for paramagnetic and N = 151 for ferromagnetic) and densities 1 ≤ r_s ≤ 5 agree within the reported statistical uncertainties, indicating that appropriately optimized VMC provides effective-mass estimates consistent with fixed-node DMC for these excitations.",
+        "content_hash": "05aa89f3941e51654a54154524bb6931de8f11068eb64c22c447131a87113f15",
+        "id": "gcn_07574c4c2c8d471e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_4",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Within the stated DFT modeling choices—Perdew–Burke–Ernzerhof generalized gradient approximation with a Dudarev $U_{\\mathrm{eff}}$ applied to Mn $3d$ orbitals, projector-augmented-wave potentials, a plane-wave cutoff of 550 eV, a dense $31\\times31\\times19$ k-point mesh, and full structural relaxation—the choice $U_{\\mathrm{eff}}=2.25\\ \\mathrm{eV}$ is the parameter value that reproduces the experimentally measured bandwidths and Fermi velocities (notably the dispersion along the $X\\rightarrow\\Gamma\\rightarrow X$ cut) to within the experimental uncertainties, and this proposition assumes that small variations in other computational parameters (for example modest changes in $J$, slight differences in relaxed atomic positions, or small changes in basis cutoff) do not yield an equally good match with substantially different $U_{\\mathrm{eff}}$ values.",
+        "content_hash": "c88878eb7ba31367bb4fcf78f64eb38c5f07446c5eee3c5170d95993e9092f69",
+        "id": "gcn_65c70acf18334afd",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772270100087686::P8",
+            "package_id": "paper:867772270100087686",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772270100087686"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let N denote the number of electrons in a finite periodic simulation cell used to compute quasiparticle bands by quantum Monte Carlo; for paramagnetic (ζ = 0) 2D-UEL data obtained at N = 146, 218, and 302 electrons and for densities in the metallic range 1 ≤ r_s ≤ 5, the finite-N dependence of the extracted quasiparticle effective mass m*(N) is empirically well described by m*(N) = m*(∞) + α·N^{-3/2} for some constant α, and extrapolation of the VMC and DMC data using this N^{-3/2} scaling yields thermodynamic-limit estimates m*(∞) that increase monotonically with r_s across the studied points, although the VMC-extrapolated and DMC-extrapolated m*(r_s) trends have different slopes.",
+        "content_hash": "326ee75daec56ffc9f2eb17680a11e73e951233c288626342a34ca008f69b7e0",
+        "id": "gcn_38bb7ad1c4504c2a",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_2",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The proposition: Modeling an EDMR-active charged state by removing one electron from the Kohn–Sham occupation of the defect-containing supercell (i.e., performing a spin-polarized DFT calculation for the supercell with one fewer electron than the neutral configuration) yields magnetic moments, expressed in Bohr magnetons $\\mu_{\\mathrm{B}}$, that are taken to represent the experimental charged states relevant to EDMR; specifically, this one-electron removal procedure produces computed magnetic moments of $1\\ \\mu_{\\mathrm{B}}$ for $C_{\\mathrm{Si}}V_{\\mathrm{C}}(+1)$ and $2\\ \\mu_{\\mathrm{B}}$ for $V_{\\mathrm{Si}}V_{\\mathrm{C}}$ basal, and those computed values are assumed to correspond to the magnetic moments observed in EDMR experiments.",
+        "content_hash": "cf069300f5f3a4feeb360ba70847a4ef27519ca967a829cec5199464f3078841",
+        "id": "gcn_640bc16db39f4143",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867771115127177381::P8",
+            "package_id": "paper:867771115127177381",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867771115127177381"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The computed quasiparticle effective mass m* for paramagnetic 2D-UEL exhibits a systematic dependence on the simulation-cell electron number N that is empirically well described by the form m*(N) = m*(∞) + β·N^{-3/2} for some constant β; applying this N^{-3/2} empirical scaling to finite-N VMC and DMC data (for example N = 146, 218, 302) permits controlled extrapolation to estimates of m*(∞) in the thermodynamic limit. Observationally in the reported datasets, finite-size errors of m* are smaller in VMC than in DMC and the finite-size errors grow as the density is reduced (larger r_s).",
+        "content_hash": "3637caaa58131c26e2a7de85426defeebb889f44c0d127c099dbd463ba36584a",
+        "id": "gcn_ac27a904ca704f09",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Fully-relativistic LSDA+U calculations produced antisymmetric exchange (Dzyaloshinskii–Moriya, DM) vectors \\mathbf{D}_{ij} (components in meV) for the same bonds defined by r_{ij}=(\\pm0.5,\\pm0.5,0) (bond 1), r_{ij}=(0,0,\\pm0.5) (bond 2) and r_{ij}=(\\pm0.5,\\pm0.5,\\mp0.5) (bond 3). Representative numerical DM components are: for bond 1 (nearest neighbor) at U=0.8 eV, \\mathbf{D}_{1}=\\pm(0.04,\\,-0.92,\\,-0.37) meV and at U=1.0 eV, \\mathbf{D}_{1}=\\pm(0.08,\\,-0.92,\\,-0.40) meV (the ± denotes opposite orientations for symmetry-related bonds); for bond 2, \\mathbf{D}_{2}=(-0.50,\\,0.15,\\,0.00) meV at U=0.8 eV and (-0.41,\\,0.07,\\,0.00) meV at U=1.0 eV; two distinct third-neighbour DM vectors reported for bond 3 are \\mathbf{D}_{3}^{\\prime}=\\pm(0.20,-0.01,-0.18) meV and \\mathbf{D}_{3}^{\\prime\\prime}=\\pm(-0.20,0.01,-0.11) meV (U=0.8 eV) with very similar values at U=1.0 eV. The DM interaction enters the effective Hamiltonian as the bilinear antisymmetric term -\\mathbf{D}_{ij}\\!\\cdot\\!(\\mathbf{S}_{i}\\times\\mathbf{S}_{j}), where \\mathbf{S}_{i} and \\mathbf{S}_{j} are the normalized atomic spin-direction vectors.",
+        "content_hash": "0f0f9fc162662191b620d9c640995963ab3bf736e575f0838868c1a3a6b59bcc",
+        "id": "gcn_1cc16bf0c1c74fc6",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867772725953823668::conclusion_2",
+            "package_id": "paper:867772725953823668",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867772725953823668"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ζ = 1) two-dimensional uniform electron liquid (2D-UEL) in the metallic density range 1 ≤ r_s ≤ 5, Pauli exclusion forces all N electrons into a single spin band, which reduces the available phase space for close electron approaches and therefore suppresses short-range electron–electron correlation relative to the paramagnetic case; this suppression of correlation leads to reduced many-body renormalization of the quasiparticle dispersion and consequently to a decreasing quasiparticle effective mass m* as r_s increases (density decreases), consistent with the authors' VMC and DMC observations performed for simulation cells with N = 151 electrons.",
+        "content_hash": "f6479dec4dfd509775cd8ec6b3e4bdf384d4d5ccb27936cfb4970f8b25734c97",
+        "id": "gcn_64c8040dd93e4e1c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P10",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "49a5715d84dd955f98d6993da01163d9"
+}

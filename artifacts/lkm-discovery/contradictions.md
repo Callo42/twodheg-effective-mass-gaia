@@ -28,3 +28,9 @@ No executable Gaia contradictions have been admitted yet because the workflow is
 | Pair | Open problem | Decision | relation_type | DSL action |
 |---|---|---|---|---|
 | `gcn_219b34bd252c43fa` vs `gcn_3db07703d3684507` | When does the theoretical N^(-1/4) finite-size law become a reliable extrapolation protocol rather than only an asymptotic guide overwhelmed by shell-filling noise? | accepted_contradiction | scientific_inconsistency | `n_quarter_scaling_vs_shell_filling_noise` |
+
+## Round 0006 Repair / Downgrade
+
+| Pair | Open problem | Previous decision | Updated decision | Rationale |
+|---|---|---|---|---|
+| `gcn_219b34bd252c43fa` vs `gcn_3db07703d3684507` | When does the theoretical N^(-1/4) finite-size law become a reliable extrapolation protocol rather than only an asymptotic guide overwhelmed by shell-filling noise? | accepted_contradiction / `n_quarter_scaling_vs_shell_filling_noise` | hypothesis_only / no executable Gaia contradiction | The shell-noise claim does not deny the N^(-1/4) asymptotic scaling claim; it qualifies its practical reliability for direct finite-cell Fermi-liquid-parameter extrapolation. This is a same-paper applicability caveat, not an adjudicable `not_both_true` scientific inconsistency. |

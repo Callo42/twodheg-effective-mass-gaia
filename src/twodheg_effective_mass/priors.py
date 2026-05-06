@@ -22,6 +22,10 @@ from .paper_drummond2012_effective_mass import (
     gcn_17c63b5dc2154f15,
     gcn_a685639571304474,
 )
+from .paper_azadi2025_effective_mass import (
+    gcn_cb512194b0bc4df2,
+    gcn_f431f49f19b44cf1,
+)
 
 PRIORS = {
     gcn_da3eecec49114543: (
@@ -83,5 +87,13 @@ PRIORS = {
     gcn_888498a0614d40d7: (
         0.72,
         "LKM chain premise that the quartic term is the leading nonquadratic band correction over the fitted k range; relies on neglecting higher-order terms. TODO:review",
+    ),
+    gcn_cb512194b0bc4df2: (
+        0.78,
+        "LKM chain premise for the 2025 N^(-3/2) finite-size ansatz applied to paramagnetic 2D-UEL m*(N) data. TODO:review",
+    ),
+    gcn_f431f49f19b44cf1: (
+        0.76,
+        "LKM chain 2025 QMC claim for ferromagnetic 2D-UEL mass suppression with increasing r_s; included as spin-polarization context. TODO:review",
     ),
 }

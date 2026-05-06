@@ -4,7 +4,7 @@
   "focus_kind": null,
   "focus_resolved_id": null,
   "mode": "auto",
-  "last_review_id": "2026-05-06T06-48-14Z_fe77ced2_auto",
+  "last_review_id": "2026-05-06T08-59-26Z_e3daea0d_auto",
   "baseline_review_id": "2026-05-05T14-58-26Z_d98983cb_auto",
   "focus_stack": [],
   "synthetic_obligations": [],
@@ -36,7 +36,7 @@
     {
       "qid": "hyp_66a4c7bb",
       "content": "When does the theoretical N^(-1/4) finite-size law become a reliable extrapolation protocol rather than only an asymptotic guide overwhelmed by shell-filling noise?",
-      "scope_qid": "local::n_quarter_scaling_vs_shell_filling_noise",
+      "scope_qid": "local::gcn_3db07703d3684507",
       "created_at": "2026-05-05T15:21:08Z"
     }
   ],

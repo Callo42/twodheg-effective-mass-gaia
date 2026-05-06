@@ -1,147 +1,167 @@
 {
   "beliefs": [
     {
-      "belief": 0.6667749689624594,
+      "belief": 0.558883071957538,
       "knowledge_id": "local:twodheg_effective_mass::__conjunction_result_825d9212",
       "label": "__conjunction_result_825d9212"
     },
     {
-      "belief": 0.604691882310105,
+      "belief": 0.5689765248450306,
       "knowledge_id": "local:twodheg_effective_mass::__conjunction_result_b08ca6dd",
       "label": "__conjunction_result_b08ca6dd"
     },
     {
-      "belief": 0.6252207075167705,
+      "belief": 0.2426947234883545,
       "knowledge_id": "local:twodheg_effective_mass::__conjunction_result_e0f8939c",
       "label": "__conjunction_result_e0f8939c"
     },
     {
-      "belief": 0.7718169917289224,
+      "belief": 0.9945547083500428,
+      "knowledge_id": "local:twodheg_effective_mass::drummond2013_vs_azadi2025_paramagnetic_trend",
+      "label": "drummond2013_vs_azadi2025_paramagnetic_trend"
+    },
+    {
+      "belief": 0.5394467532217991,
       "knowledge_id": "local:twodheg_effective_mass::gcn_17c63b5dc2154f15",
       "label": "gcn_17c63b5dc2154f15"
     },
     {
-      "belief": 0.8108506889763873,
+      "belief": 0.7497524775047864,
       "knowledge_id": "local:twodheg_effective_mass::gcn_1e8fcb7ef934428d",
       "label": "gcn_1e8fcb7ef934428d"
     },
     {
-      "belief": 0.45234019249893154,
+      "belief": 0.8622218722144979,
       "knowledge_id": "local:twodheg_effective_mass::gcn_219b34bd252c43fa",
       "label": "gcn_219b34bd252c43fa"
     },
     {
-      "belief": 0.9806603767923296,
+      "belief": 0.685925585852558,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_21f80773b87f444c",
+      "label": "gcn_21f80773b87f444c"
+    },
+    {
+      "belief": 0.9926279190401559,
       "knowledge_id": "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f",
       "label": "gcn_28b9e01bd2f8487f"
     },
     {
-      "belief": 0.8507969999999999,
+      "belief": 0.850797,
       "knowledge_id": "local:twodheg_effective_mass::gcn_306f15c9d5814e23",
       "label": "gcn_306f15c9d5814e23"
     },
     {
-      "belief": 0.9609533025131403,
+      "belief": 0.9531701880086235,
       "knowledge_id": "local:twodheg_effective_mass::gcn_318b062f17344859",
       "label": "gcn_318b062f17344859"
     },
     {
-      "belief": 0.5017592525395785,
+      "belief": 0.78,
       "knowledge_id": "local:twodheg_effective_mass::gcn_3ceb44ae3f404964",
       "label": "gcn_3ceb44ae3f404964"
     },
     {
-      "belief": 0.48229982410711597,
+      "belief": 0.8697590000000001,
       "knowledge_id": "local:twodheg_effective_mass::gcn_3db07703d3684507",
       "label": "gcn_3db07703d3684507"
     },
     {
-      "belief": 0.8335486062992209,
+      "belief": 0.779782180204212,
       "knowledge_id": "local:twodheg_effective_mass::gcn_48797cba2bf44d90",
       "label": "gcn_48797cba2bf44d90"
     },
     {
-      "belief": 0.07884746415291193,
+      "belief": 0.4838352473283434,
       "knowledge_id": "local:twodheg_effective_mass::gcn_4d1aad1470d54895",
       "label": "gcn_4d1aad1470d54895"
     },
     {
-      "belief": 0.9669412842590258,
+      "belief": 0.9562627975418871,
       "knowledge_id": "local:twodheg_effective_mass::gcn_50e263dc961541e0",
       "label": "gcn_50e263dc961541e0"
     },
     {
-      "belief": 0.74,
+      "belief": 0.7400000000000001,
       "knowledge_id": "local:twodheg_effective_mass::gcn_836bae7457044c7a",
       "label": "gcn_836bae7457044c7a"
     },
     {
-      "belief": 0.8397445403735823,
+      "belief": 0.8447037806018468,
       "knowledge_id": "local:twodheg_effective_mass::gcn_850fc9d9de314026",
       "label": "gcn_850fc9d9de314026"
     },
     {
-      "belief": 0.8056424343339397,
+      "belief": 0.8000708871754488,
       "knowledge_id": "local:twodheg_effective_mass::gcn_888498a0614d40d7",
       "label": "gcn_888498a0614d40d7"
     },
     {
-      "belief": 0.8979161453202507,
+      "belief": 0.8925254777543388,
       "knowledge_id": "local:twodheg_effective_mass::gcn_8df2cd5b49524aac",
       "label": "gcn_8df2cd5b49524aac"
     },
     {
-      "belief": 0.7962651711865378,
+      "belief": 0.588791743948035,
       "knowledge_id": "local:twodheg_effective_mass::gcn_a685639571304474",
       "label": "gcn_a685639571304474"
     },
     {
-      "belief": 0.9304030244530495,
+      "belief": 0.7644735072300693,
       "knowledge_id": "local:twodheg_effective_mass::gcn_a981a2b787514e47",
       "label": "gcn_a981a2b787514e47"
     },
     {
-      "belief": 0.8895897660869576,
+      "belief": 0.7763269207112482,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_ac27a904ca704f09",
+      "label": "gcn_ac27a904ca704f09"
+    },
+    {
+      "belief": 0.2902859857320358,
       "knowledge_id": "local:twodheg_effective_mass::gcn_b7a7d456a05d4129",
       "label": "gcn_b7a7d456a05d4129"
     },
     {
-      "belief": 0.8670737690283336,
+      "belief": 0.810665489282397,
       "knowledge_id": "local:twodheg_effective_mass::gcn_bf915935b1fd4326",
       "label": "gcn_bf915935b1fd4326"
     },
     {
-      "belief": 0.8980808993640966,
+      "belief": 0.9004318271943054,
       "knowledge_id": "local:twodheg_effective_mass::gcn_c7b10e47e2ab45e1",
       "label": "gcn_c7b10e47e2ab45e1"
     },
     {
-      "belief": 0.8850479190050203,
+      "belief": 0.7352159326851903,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_cb512194b0bc4df2",
+      "label": "gcn_cb512194b0bc4df2"
+    },
+    {
+      "belief": 0.8935150605714042,
       "knowledge_id": "local:twodheg_effective_mass::gcn_da3eecec49114543",
       "label": "gcn_da3eecec49114543"
     },
     {
-      "belief": 0.7972354754966597,
+      "belief": 0.7317711594596827,
+      "knowledge_id": "local:twodheg_effective_mass::gcn_f431f49f19b44cf1",
+      "label": "gcn_f431f49f19b44cf1"
+    },
+    {
+      "belief": 0.7789568391098872,
       "knowledge_id": "local:twodheg_effective_mass::gcn_f6686a4225a043a6",
       "label": "gcn_f6686a4225a043a6"
     },
     {
-      "belief": 0.7738550233409688,
+      "belief": 0.7699818381414717,
       "knowledge_id": "local:twodheg_effective_mass::gcn_f6ca85b75deb46ba",
       "label": "gcn_f6ca85b75deb46ba"
     },
     {
-      "belief": 0.7465443443708247,
+      "belief": 0.7236960488873591,
       "knowledge_id": "local:twodheg_effective_mass::gcn_fd7adbfff0f146ba",
       "label": "gcn_fd7adbfff0f146ba"
     },
     {
-      "belief": 0.997015115180328,
-      "knowledge_id": "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise",
-      "label": "n_quarter_scaling_vs_shell_filling_noise"
-    },
-    {
-      "belief": 0.9981147492280281,
+      "belief": 0.9993841404171158,
       "knowledge_id": "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks",
       "label": "older_dmc_enhancement_vs_revised_dmc_benchmarks"
     }
@@ -149,91 +169,103 @@
   "diagnostics": {
     "belief_history": {
       "local:twodheg_effective_mass::__conjunction_result_825d9212": [
-        0.6667749689624594
+        0.558883071957538
       ],
       "local:twodheg_effective_mass::__conjunction_result_b08ca6dd": [
-        0.604691882310105
+        0.5689765248450306
       ],
       "local:twodheg_effective_mass::__conjunction_result_e0f8939c": [
-        0.6252207075167705
+        0.2426947234883545
+      ],
+      "local:twodheg_effective_mass::drummond2013_vs_azadi2025_paramagnetic_trend": [
+        0.9945547083500428
       ],
       "local:twodheg_effective_mass::gcn_17c63b5dc2154f15": [
-        0.7718169917289224
+        0.5394467532217991
       ],
       "local:twodheg_effective_mass::gcn_1e8fcb7ef934428d": [
-        0.8108506889763873
+        0.7497524775047864
       ],
       "local:twodheg_effective_mass::gcn_219b34bd252c43fa": [
-        0.45234019249893154
+        0.8622218722144979
+      ],
+      "local:twodheg_effective_mass::gcn_21f80773b87f444c": [
+        0.685925585852558
       ],
       "local:twodheg_effective_mass::gcn_28b9e01bd2f8487f": [
-        0.9806603767923296
+        0.9926279190401559
       ],
       "local:twodheg_effective_mass::gcn_306f15c9d5814e23": [
-        0.8507969999999999
+        0.850797
       ],
       "local:twodheg_effective_mass::gcn_318b062f17344859": [
-        0.9609533025131403
+        0.9531701880086235
       ],
       "local:twodheg_effective_mass::gcn_3ceb44ae3f404964": [
-        0.5017592525395785
+        0.78
       ],
       "local:twodheg_effective_mass::gcn_3db07703d3684507": [
-        0.48229982410711597
+        0.8697590000000001
       ],
       "local:twodheg_effective_mass::gcn_48797cba2bf44d90": [
-        0.8335486062992209
+        0.779782180204212
       ],
       "local:twodheg_effective_mass::gcn_4d1aad1470d54895": [
-        0.07884746415291193
+        0.4838352473283434
       ],
       "local:twodheg_effective_mass::gcn_50e263dc961541e0": [
-        0.9669412842590258
+        0.9562627975418871
       ],
       "local:twodheg_effective_mass::gcn_836bae7457044c7a": [
-        0.74
+        0.7400000000000001
       ],
       "local:twodheg_effective_mass::gcn_850fc9d9de314026": [
-        0.8397445403735823
+        0.8447037806018468
       ],
       "local:twodheg_effective_mass::gcn_888498a0614d40d7": [
-        0.8056424343339397
+        0.8000708871754488
       ],
       "local:twodheg_effective_mass::gcn_8df2cd5b49524aac": [
-        0.8979161453202507
+        0.8925254777543388
       ],
       "local:twodheg_effective_mass::gcn_a685639571304474": [
-        0.7962651711865378
+        0.588791743948035
       ],
       "local:twodheg_effective_mass::gcn_a981a2b787514e47": [
-        0.9304030244530495
+        0.7644735072300693
+      ],
+      "local:twodheg_effective_mass::gcn_ac27a904ca704f09": [
+        0.7763269207112482
       ],
       "local:twodheg_effective_mass::gcn_b7a7d456a05d4129": [
-        0.8895897660869576
+        0.2902859857320358
       ],
       "local:twodheg_effective_mass::gcn_bf915935b1fd4326": [
-        0.8670737690283336
+        0.810665489282397
       ],
       "local:twodheg_effective_mass::gcn_c7b10e47e2ab45e1": [
-        0.8980808993640966
+        0.9004318271943054
+      ],
+      "local:twodheg_effective_mass::gcn_cb512194b0bc4df2": [
+        0.7352159326851903
       ],
       "local:twodheg_effective_mass::gcn_da3eecec49114543": [
-        0.8850479190050203
+        0.8935150605714042
+      ],
+      "local:twodheg_effective_mass::gcn_f431f49f19b44cf1": [
+        0.7317711594596827
       ],
       "local:twodheg_effective_mass::gcn_f6686a4225a043a6": [
-        0.7972354754966597
+        0.7789568391098872
       ],
       "local:twodheg_effective_mass::gcn_f6ca85b75deb46ba": [
-        0.7738550233409688
+        0.7699818381414717
       ],
       "local:twodheg_effective_mass::gcn_fd7adbfff0f146ba": [
-        0.7465443443708247
-      ],
-      "local:twodheg_effective_mass::n_quarter_scaling_vs_shell_filling_noise": [
-        0.997015115180328
+        0.7236960488873591
       ],
       "local:twodheg_effective_mass::older_dmc_enhancement_vs_revised_dmc_benchmarks": [
-        0.9981147492280281
+        0.9993841404171158
       ]
     },
     "converged": true,
@@ -243,5 +275,5 @@
     "treewidth": 3
   },
   "gaia_lang_version": "0.4.3",
-  "ir_hash": "sha256:fe77ced2a2864c842b09892d010170e50c8fca973794fcedfa67a185decb89ed"
+  "ir_hash": "sha256:e3daea0d970ec312e701f10d5ca0a09de1c8f019bfcfb5d46bfe75b86df28675"
 }

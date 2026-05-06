@@ -1,0 +1,281 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811128231766786048": {
+        "area": "Chemistry",
+        "authors": "Shibing Chu | Emanuele Coccia | Matteo Barborini | Leonardo Guidoni",
+        "available_online": "2016-11-4",
+        "cover_date_start": "2016-11-04",
+        "created_at": "2022-12-17T22:54:02+08:00",
+        "doi": "10.1021/acs.jctc.6b00632",
+        "en_title": "Role of Electron Correlation along the Water Splitting Reaction",
+        "id": "811128231766786048",
+        "keywords": "",
+        "publication_date": "2016-12-13",
+        "publication_id": "3358",
+        "publication_name": "Journal of Chemical Theory and Computation _ J. Chem. Theory Comput.",
+        "research_categories": "",
+        "zh_title": "电子关联在水分解反应中的作用"
+      },
+      "paper:811797288350384128": {
+        "area": "Chemistry",
+        "authors": "Ludovic Castro | Ahmed Yahia | Laurent Maron",
+        "available_online": "",
+        "cover_date_start": "2010-06-01",
+        "created_at": "2022-12-19T19:12:36+08:00",
+        "doi": "10.1016/j.crci.2010.02.004",
+        "en_title": "A DFT study of the reactivity of Cp2AnMe2 with pyridine N-oxide: Towards a predicted different reactivity of U/Pu and Np",
+        "id": "811797288350384128",
+        "keywords": "[{\"en_name\": \"Actinides Molecular modeling Reaction mechanisms Density functional calculations Carbene ligands\", \"ch_name\": \"\"}]",
+        "publication_date": "2010-6",
+        "publication_id": "3552",
+        "publication_name": "Comptes Rendus Chimie _ Comptes Rendus Chimie",
+        "research_categories": "",
+        "zh_title": "二茂（基）镧系元素二甲基化合物Cp₂AnMe₂与吡啶N-氧化物反应活性的密度泛函理论研究：预测铀/钚与镎的不同反应活性"
+      },
+      "paper:811988012744310786": {
+        "area": "Chemistry",
+        "authors": "A. J. C. Varandas",
+        "available_online": "",
+        "cover_date_start": "2007-06-28",
+        "created_at": "2022-12-20T07:50:28+08:00",
+        "doi": "10.1063/1.2741259",
+        "en_title": "Extrapolating to the one-electron basis-set limit in electronic structure calculations",
+        "id": "811988012744310786",
+        "keywords": "",
+        "publication_date": "2007-6-28",
+        "publication_id": "3427",
+        "publication_name": "The Journal of Chemical Physics _ The Journal of Chemical Physics",
+        "research_categories": "",
+        "zh_title": "在电子结构计算中外推至单电子基组极限"
+      },
+      "paper:813304953429819392": {
+        "area": "Chemistry",
+        "authors": "Han-Shi Hu | Yi-Heng Qiu | Xiao-Gen Xiong | W. H. Eugen Schwarz | Jun Li",
+        "available_online": "",
+        "cover_date_start": "2012-01-01",
+        "created_at": "2022-12-23T23:03:32+08:00",
+        "doi": "10.1039/c2sc20329d",
+        "en_title": "On the maximum bond multiplicity of carbon: unusual C≣U quadruple bonding in molecular CUO",
+        "id": "813304953429819392",
+        "keywords": "",
+        "publication_date": "2012",
+        "publication_id": "3353",
+        "publication_name": "Chemical Science _ Chem. Sci.",
+        "research_categories": "",
+        "zh_title": "关于碳的最大键级：分子CUO中不寻常的C≣U四重键"
+      }
+    },
+    "variables": [
+      {
+        "content": "Let m*_{SJB} denote the quasiparticle effective mass obtained from quantum Monte Carlo calculations using a Slater–Jastrow–backflow (SJB) trial wave function for paramagnetic 2D-UEL at low density (for example r_s = 5) in a given simulation-cell geometry and single-particle basis, and let m*_{FCI} denote the hypothetical effective mass that would be obtained if the many-electron wave function were computed by a converged full configuration interaction (FCI) treatment within the same single-particle basis and simulation-cell geometry. The speculative proposition is that m*_{FCI} > m*_{SJB}, i.e., that including all static correlation via a converged FCI would increase the low-density effective mass beyond the SJB-VMC and SJB-DMC estimates reported; this claim is an extrapolation beyond the computed SJB data and is not numerically demonstrated in the calculations reported here.\n      J. J. Shepherd et al., Full configuration interaction perspective on the homogeneous electron gas, Phys. Rev. B 85, 081103(R) (2012).",
+        "content_hash": "33690b012f664e4641a769ae918209a5bf4bb84a0f343fd4165d9ee150afc8a4",
+        "id": "gcn_91358637d8e9481b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P6",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Density-functional-theory (DFT) calculations performed with the B3LYP hybrid exchange–correlation functional together with scalar-relativistic zero-order regular approximation (SR‑ZORA) all-electron treatments or scalar-relativistic relativistic effective core potentials (RECP/SDD), as implemented in standard quantum chemistry codes used here, are assumed to produce C–U bond lengths R_CU, inverted-compliance constants ICC, vibrational frequencies and bond dissociation energies BDE with sufficient numerical fidelity (within modest systematic error bars) to serve as quantitative inputs to the empirical mappings BO_R, BO_C and BO_E and thus to support claims about apparent C–U multiplicity on the constructed observable scale.",
+        "content_hash": "b80de1f16f563bc07e4d5ab19ed1bbfc78dd8df99d1de11d4d3e9730a277d1ee",
+        "id": "gcn_b02b982bcbcd48ee",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813304953429819392::P3",
+            "package_id": "paper:813304953429819392",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813304953429819392"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "In the Slater–Jastrow–backflow (SJB) trial wave function for an N-electron two-dimensional uniform electron liquid (2D-UEL), the particle coordinates r_i in the Slater determinant are replaced by backflow-shifted coordinates X_i = r_i + ξ_i({r_j}), where each backflow displacement ξ_i({r_j}) is represented by a parametrized function (for example a polynomial) of interelectronic separations and the full trial function is Ψ_SJB({r_i}) = exp[J({r_i})] · det[φ_t(X_j)] with J the Jastrow factor; including this inhomogeneous backflow transformation materially modifies the nodal surface used in fixed-node DMC relative to the bare Slater–Jastrow (SJ) determinant and therefore substantially alters the fixed-node bias in quasiparticle energies and their derivatives. Concretely, for paramagnetic 2D-UEL at low density r_s = 5 the authors' comparisons show that SJ-based VMC and DMC yield m* < 1 whereas SJB-based VMC and DMC yield m* > 1, demonstrating that static correlation incorporated via backflow is crucial to obtain the correct sign and magnitude of mass renormalization in these calculations.",
+        "content_hash": "05516b987454ad504171bfb13212dc2dcf7cb9d24aa02d2dffa56268752b39cf",
+        "id": "gcn_d8fc2999c4124161",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_5",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Let $\\Psi(\\mathbf{x}) = \\mathcal{D}(\\mathbf{x})\\times\\mathcal{J}(\\mathbf{x})$ denote a trial electronic wave function for a molecular system where $\\mathbf{x}$ collects all electronic spin and spatial coordinates, $\\mathcal{D}(\\mathbf{x})$ is an unrestricted single Slater determinant constructed from Kohn–Sham orbitals obtained with a chosen density functional (for example B3LYP or PBE0), and the Jastrow factor $\\mathcal{J}(\\mathbf{x})=\\exp[U(\\mathbf{x})]$ is an explicitly correlated multiplicative function containing one-body ($U_{en}$), two-body ($U_{ee}$), three-body ($U_{een}$) and four-body ($U_{eenn}$) terms parameterized and variationally optimized at the VMC level: the proposition is that optimizing only the Jastrow factor (keeping the Slater determinant orbitals frozen) suffices to recover the bulk of the short-range dynamical electron correlation that determines step-to-step reaction free-energy differences in the cobalt-based water-splitting model, such that subsequent full optimization of the determinant (orbital reoptimization) produces only modest additional changes in these relative energies.",
+        "content_hash": "66dbc96d1a35866a4bfddc0fa1a259534f03c4c4aa3f173ed06b518d0fae475f",
+        "id": "gcn_7143f45700694773",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811128231766786048::P4",
+            "package_id": "paper:811128231766786048",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811128231766786048"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Define a Slater–Jastrow–backflow (SJB) trial wave function for an N-electron two-dimensional uniform electron liquid (2D-UEL) with electron coordinates {r_i}_{i=1}^N as\n      Ψ_SJB({r_i}) = e^{J({r_i})} · det[φ_t(X_j)],\n      where the backflow-shifted coordinates are X_i = r_i + ξ_i({r_j}) with each backflow displacement ξ_i({r_j}) represented by a polynomial (or parametrized function) of interelectronic separations, and J is a Jastrow correlation factor. In fixed-node diffusion Monte Carlo (DMC) the projected energy and derived excitation energies are constrained by the nodal surface of det[φ_t(X_j)]; including the backflow transformation therefore materially modifies the nodal surface relative to the bare Slater determinant (SJ) and can substantially reduce fixed-node variational bias in quasiparticle energies and their derivatives, producing noticeable changes in the extracted effective mass m* as observed in direct SJ versus SJB comparisons.\n      P. López Ríos et al., Inhomogeneous backflow transformations in quantum Monte Carlo calculations, Phys. Rev. E 74, 066701 (2006).",
+        "content_hash": "de072004eb859acfe6b52eb5a8e2f503aed1ae3b9e3bd0d435b161e5f3d128dd",
+        "id": "gcn_82b84e2272e94582",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P5",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the computed dynamical-correlation energies E_X^{\\mathrm{cor}} in the presented FCI two-electron systems and MRCI(Q) multielectron calculations with basis cardinal numbers in the range 2\\le X\\le6, the empirical plot of E versus the USTE coordinate Y=(X+\\alpha)^{-3}\\big[1+\\tau_{53}(X+\\alpha)^{-2}\\big] exhibits near-linear behavior across the available X values, and this observed near-linearity for X\\le6 justifies using a two-point linear extrapolation in Y to estimate E_{\\infty}^{\\mathrm{cor}}.",
+        "content_hash": "2b83d792cbbfb00be52dad6114056054ae5a9943b8d21a4cc2e94b87bd52fa21",
+        "id": "gcn_15a7bc40610f46f8",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811988012744310786::P12",
+            "package_id": "paper:811988012744310786",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811988012744310786"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "When Slater–Jastrow–backflow (SJB) trial wave functions are used and their variational parameters are optimized by variance minimization followed by linear least-squares energy minimization (as implemented in the CASINO code), the resulting VMC and fixed-node DMC estimates of the quasiparticle effective mass m* for the studied 2D-UEL system sizes (for example N = 146, 218, 302 for paramagnetic and N = 151 for ferromagnetic) and densities 1 ≤ r_s ≤ 5 agree within the reported statistical uncertainties, indicating that appropriately optimized VMC provides effective-mass estimates consistent with fixed-node DMC for these excitations.",
+        "content_hash": "05aa89f3941e51654a54154524bb6931de8f11068eb64c22c447131a87113f15",
+        "id": "gcn_07574c4c2c8d471e",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_4",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.015625,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the 2D-UEL simulations reported, the trial-wave-function optimization protocol consists of (i) variance minimization of the Jastrow parameters and (ii) subsequent linear least-squares energy minimization applied to Slater–Jastrow–backflow (SJB) wave functions characterized by Jastrow and backflow parameters, as implemented in the CASINO package; applying this two-stage optimization procedure yields trial wave functions whose amplitudes and nodal surfaces are sufficiently accurate that VMC and fixed-node DMC estimates of the quasiparticle effective mass m* agree within the quoted statistical uncertainties for the system sizes and densities studied, i.e., the applied optimization sufficiently reduces both amplitude and nodal errors for the purposes of the reported comparisons.\n      C. J. Umrigar et al., Alleviation of the fermion-sign problem by optimization of many-body wave functions, Phys. Rev. Lett. 98, 110201 (2007); R. J. Needs et al., CASINO code paper, J. Chem. Phys. 152, 154106 (2020).",
+        "content_hash": "1fc44dece4259868601be8677dfde32bd2283cfd28a322e872c387cab39eae9a",
+        "id": "gcn_e005adaf95f74a52",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P8",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Previous complete active space self‑consistent field (CASSCF) calculations performed on the same structural motif Cp2AnIVMe2 (An = U, Np, Pu) indicate that the ground electronic states of these neutral complexes can be described predominantly by a single Slater determinant, i.e., dynamic correlation dominates over static multi‑reference character for the optimized ground‑state geometries, so single‑reference unrestricted DFT methods are adopted here as an appropriate electronic‑structure framework for geometry and frequency optimizations.",
+        "content_hash": "18682ee602260200b5bbb219236b9ed1d7246b84844d224d044f09d13787898e",
+        "id": "gcn_f5066f751adc498f",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811797288350384128::P12",
+            "package_id": "paper:811797288350384128",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811797288350384128"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015384615384615385,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The Hartree–Fock (HF) exchange contribution to the single-particle energy for a two-dimensional uniform electron liquid (2D-UEL), ε^{(x)}(k), analytically produces a logarithmic-divergence-like behavior in its derivative near the Fermi wave vector k_F for finite systems; in practical fixed-node diffusion Monte Carlo (DMC) calculations that use finite parametrized trial wave functions (for example Slater–Jastrow or Slater–Jastrow–backflow), the DMC projection does not recover sufficient correlation energy to completely eliminate the HF-induced large and oscillatory gradients of the single-particle band near k_F, and therefore these HF-derived derivative pathologies can leave residual contamination in the QMC-computed quasiparticle bands and derivative-based estimates such as m* unless the nodal surfaces are further improved and finite-size effects are carefully treated.",
+        "content_hash": "590f884da8394303712cdac527f628bfc7712a2d56c9d8abd332ee718c795d46",
+        "id": "gcn_7f4b3136938a4591",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P7",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015151515151515152,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "23a76c677bfd906d47ce899860fe0238"
+}

@@ -1,0 +1,329 @@
+{
+  "code": 0,
+  "data": {
+    "new_claim_likely": true,
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      },
+      "paper:811817724819800066": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2009-12-3",
+        "cover_date_start": "2009-12-03",
+        "created_at": "2022-12-19T20:33:48+08:00",
+        "doi": "10.1103/physrevb.80.245104",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "811817724819800066",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:812445180744433665": {
+        "area": "Geoscience",
+        "authors": "E. Tutuc | M. Shayegan",
+        "available_online": "",
+        "cover_date_start": "2002-01-01",
+        "created_at": "2022-12-21T14:07:06+08:00",
+        "doi": "10.1016/s1386-9477(01)00324-1",
+        "en_title": "Measurements of the effective g-factor in dilute GaAs 2D electrons",
+        "id": "812445180744433665",
+        "keywords": "",
+        "publication_date": "2002-1",
+        "publication_id": "98276",
+        "publication_name": "Physica E: Low dimensional Systems and Nanostructures _ Physica E: Low-dimensional Systems and Nanostructures",
+        "research_categories": "",
+        "zh_title": "稀 GaAs 二维电子中有效 g 因子的测量"
+      },
+      "paper:813209134949203971": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-7-25",
+        "cover_date_start": "2013-07-25",
+        "created_at": "2022-12-23T16:42:47+08:00",
+        "doi": "10.1103/physrevb.88.035133",
+        "en_title": "Quantum Monte Carlo calculation of the Fermi liquid parameters of the two-dimensional homogeneous electron gas",
+        "id": "813209134949203971",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气费米液体参数的量子蒙特卡罗计算"
+      },
+      "paper:813250329280774145": {
+        "area": "Physics and Astrophysics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "2013-1-31",
+        "cover_date_start": "2013-01-31",
+        "created_at": "2022-12-23T19:26:29+08:00",
+        "doi": "10.1103/physrevb.87.045131",
+        "en_title": "Diffusion quantum Monte Carlo calculation of the quasiparticle effective mass of the two-dimensional homogeneous electron gas",
+        "id": "813250329280774145",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "529",
+        "publication_name": "Physical Review B _ Phys. Rev. B",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的扩散量子蒙特卡罗计算"
+      },
+      "paper:867761622720970952": {
+        "area": "arXiv-Physics",
+        "authors": "K. Vakili | Y. P. Shkolnikov | E. Tutuc | E. P. De Poortere | M. Shayegan",
+        "available_online": "",
+        "cover_date_start": "2004-03-07",
+        "created_at": "2023-05-23T05:34:53+08:00",
+        "doi": "10.48550/arXiv.cond-mat/0403191",
+        "en_title": "Spin susceptibility of two-dimensional electrons in narrow AlAs quantum wells",
+        "id": "867761622720970952",
+        "keywords": "",
+        "publication_date": "2004-03-07",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "窄AlAs量子阱中二维电子的自旋磁化率"
+      },
+      "paper:867763861497839690": {
+        "area": "arXiv-Physics",
+        "authors": "N. D. Drummond | R. J. Needs",
+        "available_online": "",
+        "cover_date_start": "2009-10-08",
+        "created_at": "2023-05-23T05:43:47+08:00",
+        "doi": "10.48550/arXiv.0910.1434",
+        "en_title": "Quantum Monte Carlo calculation of the energy band and quasiparticle effective mass of the two-dimensional Fermi fluid",
+        "id": "867763861497839690",
+        "keywords": "",
+        "publication_date": "2009-10-08",
+        "publication_id": "108484",
+        "publication_name": "Mesoscale and Nanoscale Physics _ Physics.cond-mat.mes-hall",
+        "research_categories": "",
+        "zh_title": "二维费米流体能带和准粒子有效质量的量子蒙特卡罗计算"
+      },
+      "paper:867767318044737939": {
+        "area": "arXiv-Physics",
+        "authors": "Sam Azadi | N.D. Drummond | W.M.C. Foulkes",
+        "available_online": "",
+        "cover_date_start": "2021-05-19",
+        "created_at": "2023-05-23T05:57:31+08:00",
+        "doi": "10.48550/arXiv.2105.09139",
+        "en_title": "Quasiparticle Effective Mass of the Three-Dimensional Fermi Liquid by Quantum Monte Carlo",
+        "id": "867767318044737939",
+        "keywords": "",
+        "publication_date": "2021-05-19",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons _ Physics.cond-mat.str-el",
+        "research_categories": "[\"Physical Sciences\", \"Condensed Matter Physics\"]",
+        "zh_title": "通过量子蒙特卡罗方法计算三维费米液体的准粒子有效质量"
+      }
+    },
+    "variables": [
+      {
+        "content": "For the fully spin-polarized (ferromagnetic, ζ = 1) two-dimensional uniform electron liquid (2D-UEL) studied in the metallic density range 1 ≤ r_s ≤ 5, VMC and fixed-node DMC calculations performed for simulation cells containing N = 151 electrons indicate that the quasiparticle effective mass m* decreases as r_s increases (i.e., m* is suppressed as the density is reduced), a trend opposite to that found for the paramagnetic case over the same density interval.",
+        "content_hash": "03456555377f5f829574a3ae9746440642f01b61939f59468f6fcbff942bba5e",
+        "id": "gcn_f431f49f19b44cf1",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_3",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.03278688524590164,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The DMC-calculated quasiparticle effective mass exhibits opposite trends with density for the two spin polarizations studied: in the paramagnetic (unpolarized) 2D HEG $m^{*}$ increases with increasing $r_{s}$ (decreasing density), producing a significant enhancement at $r_{s}=5$ and $r_{s}=10$, whereas in the fully ferromagnetic (fully spin-polarized) 2D HEG $m^{*}$ decreases as density is lowered; these calculated trends are quantitatively consistent with the experimental observations of Tan et al. for paramagnetic systems and of Padmanabhan et al. for ferromagnetic or partially spin-polarized systems.",
+        "content_hash": "1f24fa7b336da07b315b306303e81584370cfd18bbdc2be612f5f8c5572972c0",
+        "id": "gcn_4d1aad1470d54895",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:811817724819800066::conclusion_5",
+            "package_id": "paper:811817724819800066",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:811817724819800066"
+          ]
+        },
+        "role": "premise",
+        "score": 0.028283227848101264,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass m* is defined from the derivative of the quasiparticle energy band ε(k) at the Fermi wave vector k_F as m* = k_F · (dε/dk)^{-1}_{k_F}, where k_F is the Fermi wave vector and derivatives are evaluated with respect to the magnitude k of the momentum; in atomic units the bare electron mass m equals 1. For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and density parameter r_s = 1 (where r_s = (1/(πρ))^{1/2} with electron number density ρ), variational Monte Carlo (VMC) and fixed-node diffusion Monte Carlo (DMC) calculations extrapolated to the thermodynamic limit produce values consistent with the bare mass within statistical uncertainty: m*_{VMC}(r_s = 1) = 0.98(1) and m*_{DMC}(r_s = 1) = 0.95(1) (atomic units), indicating negligible mass renormalization from electron–electron interactions at this high density.",
+        "content_hash": "e596de9ff5169a1208ffdbf2eb4ec38a975b3d1c40e0d67a9365777dedb6fae3",
+        "id": "gcn_395e5564603d4a9b",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::conclusion_1",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.027809742999616416,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quantity $g^*m^*$, where $g^*$ denotes the renormalized Landé g-factor and $m^*$ denotes the renormalized quasiparticle effective mass expressed in units of the free electron mass $m_e$, measured for electrons confined to a $45\\ \\mathring{\\mathrm{A}}$-wide AlAs quantum well increases monotonically as the two-dimensional carrier density $n$ is decreased over the experimental range $n=7.0$ to $0.54\\times10^{11}\\ \\mathrm{cm}^{-2}$. Using an AlAs relative permittivity $\\epsilon=10$ and a transverse band effective mass $m_b=0.21$ to convert $n$ into the interaction parameter $r_s=\\frac{1}{a_B^*\\sqrt{\\pi n}}$ with $a_B^*=\\frac{4\\pi\\epsilon_0\\epsilon\\hbar^2}{m_b e^2}$ (where $\\epsilon_0$ is the vacuum permittivity, $\\hbar$ the reduced Planck constant, and $e$ the elementary charge), this density range corresponds to $2.8\\le r_s\\le 9.6$. The experimentally determined $g^*m^*$ values quantitatively track the quantum Monte Carlo (QMC) prediction for an idealized two-dimensional electron system that assumes zero layer thickness and no disorder, as calculated in the cited QMC study, over the accessible $r_s$ range; furthermore, the measured $g^*m^*$ remains finite and smoothly follows the QMC-based density dependence through the observed zero-field metal–insulator transition at $n=0.72\\times10^{11}\\ \\mathrm{cm}^{-2}$ (which corresponds to $r_s=8.3$), and no divergence of $g^*m^*$ or evidence for a ferromagnetic instability is observed at that transition within the measured density interval.",
+        "content_hash": "9b5539b609047f7214a554e848dd8c1a43cb646bf4c7d707d337c50c8fb3c2e5",
+        "id": "gcn_5a7857cbe66947fa",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867761622720970952::conclusion_1",
+            "package_id": "paper:867761622720970952",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867761622720970952"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.02638888888888889,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Diffusion Monte Carlo (DMC) calculations of the three-dimensional homogeneous electron gas (3D-HEG), extrapolated to the infinite-system-size (thermodynamic) limit, predict that the quasiparticle effective mass m* decreases as the density is reduced (i.e., as the density parameter r_s increases from r_s = 1 to r_s = 10), where r_s = ((3/(4π n))^{1/3} a_B^{-1}) with electron number density n and Bohr radius a_B = 1 a.u.; the Fermi wavevector k_F is the wavevector corresponding to the electron density. The thermodynamic-limit effective mass m* is obtained from a fitted single-particle energy band E(k) by the relation m* = k_F / (dE/dk)_{k_F}, where (dE/dk)_{k_F} denotes the derivative of E(k) with respect to the wavevector magnitude k evaluated at k = k_F. Two spin polarizations were studied: paramagnetic (zero spin polarization, equal populations of up and down spins) and fully ferromagnetic (all electron spins aligned); the decrease of m* with increasing r_s is present for both spin polarizations, and the ferromagnetic m* falls more rapidly with r_s and is smaller than the paramagnetic m* at every density parameter r_s considered (r_s = 1,2,3,4,5,10).",
+        "content_hash": "477496ad648eb546fdfaef0396943b12f38bc08405043d57b5b30cd2712d234f",
+        "id": "gcn_3de1b0db8bde4cd5",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867767318044737939::conclusion_1",
+            "package_id": "paper:867767318044737939",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867767318044737939"
+          ]
+        },
+        "role": "premise",
+        "score": 0.025396825396825397,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "Because direct thermodynamic extrapolation of Landau-function-based estimates is highly uncertain, an alternative \"best-available\" set of Fermi liquid parameters for the two-dimensional homogeneous electron gas was assembled by combining independent high-quality QMC results from the literature: specifically, quasiparticle effective masses m^{*} obtained from DMC energy-band fits and parametrizations of the ground-state total energy per electron as continuous functions of density parameter r_s and spin polarization \\zeta. Using these literature effective masses together with published total-energy parametrizations and standard Fermi-liquid thermodynamic relations (for example F_1^{s} = m^{*}-1 for the paramagnetic case and evaluation of F_0^{s,a} from derivatives of E(r_s,\\zeta) and the relation F_0/m^{*} = r_s^2 a_0^{\\uparrow\\uparrow}/4 for the ferromagnetic case), the following dimensionless \"best-available\" paramagnetic Fermi liquid parameters were inferred: r_s = 1: F_0^{s} = -0.495(2), F_0^{a} = -0.346(2), F_1^{s} = -0.053(3); r_s = 5: F_0^{s} = -2.68(5), F_0^{a} = -0.713(9), F_1^{s} = -0.03(3); r_s = 10: F_0^{s} = -5.2(3), F_0^{a} = -0.870(9), F_1^{s} = -0.15(6). The analogous best-available ferromagnetic parameters inferred from the same combination of literature data are: r_s = 1: F_0 = -0.428(2), F_1 = -0.159(3); r_s = 5: F_0 = -1.46(1), F_1 = -0.27(2); r_s = 10: F_0 = -2.57(9), F_1 = -0.33(4). These assembled values represent a synthesis of independent QMC energy-band and total-energy results and are presented as the most reliable numerical estimates available given current understanding of finite-size and methodological limitations.",
+        "content_hash": "b91e49651e9919fd43236efc34209fb4d01669b2208edac4b705bf9ae139fce3",
+        "id": "gcn_ff9edeb262af4bd4",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813209134949203971::conclusion_7",
+            "package_id": "paper:813209134949203971",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813209134949203971"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.025035205758097326,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The experimentally observed trend in which the extracted effective g-factor g^* decreases as the interaction parameter r_s increases (i.e., as the 2D density is reduced) is in conflict with quantum Monte Carlo (QMC) calculations performed for an ideal, strictly two-dimensional electron gas that predict a monotonic increase of g^* with increasing r_s and eventual divergence at the ferromagnetic transition; the measured GaAs heterostructure differs from the ideal 2DES in three concrete respects—finite layer (nonzero) layer thickness of the electron wavefunction perpendicular to the plane, residual disorder in the modulation-doped heterostructure, and spin–orbit interaction inherent to GaAs—and it is not presently clear how each of these three factors quantitatively alters the measured values of g^*.",
+        "content_hash": "24d1269b8dadfee66cb2f9f4310e1f5b14c6618716ea21b70b5e4b28254699dc",
+        "id": "gcn_3e6188acb9b74dcc",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:812445180744433665::conclusion_4",
+            "package_id": "paper:812445180744433665",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:812445180744433665"
+          ]
+        },
+        "role": "conclusion",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "The quasiparticle effective mass $m^{*}$ was obtained from the derivative of the fitted quartic DMC band via $m^{*}=k_F/\\left(\\partial\\mathcal{E}/\\partial k\\right)_{k_F}$, where $\\partial\\mathcal{E}/\\partial k = 2\\alpha_2 k + 4\\alpha_4 k^3$ for the fitted coefficients $\\alpha_2,\\alpha_4$ and $k_F$ is the Fermi wave vector ($k_F=\\sqrt{2}/r_s$ for the paramagnetic fluid and $k_F=2/r_s$ for the fully spin-polarized fluid). The DMC effective masses (in units of the bare electron mass $m_e$) are: paramagnetic $m^{*}=0.949(6)$ at $r_s=1$, $1.21(2)$ at $r_s=5$, and $1.34(5)$ at $r_s=10$; ferromagnetic $m^{*}=0.863(4)$ at $r_s=1$, $0.71(1)$ at $r_s=5$, and $0.61(1)$ at $r_s=10$. These values quantify the dependence of $m^{*}$ on electron density (through $r_s$) and on spin polarization across the densities studied.",
+        "content_hash": "1a09f7dfb0801ea0efbf885b0bc359826410d6743fbbeba61b7db577f7198fa2",
+        "id": "gcn_bfdb80de6d574f86",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:867763861497839690::conclusion_3",
+            "package_id": "paper:867763861497839690",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:867763861497839690"
+          ]
+        },
+        "role": "premise",
+        "score": 0.016129032258064516,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized (ζ = 1) two-dimensional uniform electron liquid (2D-UEL) in the metallic density range 1 ≤ r_s ≤ 5, Pauli exclusion forces all N electrons into a single spin band, which reduces the available phase space for close electron approaches and therefore suppresses short-range electron–electron correlation relative to the paramagnetic case; this suppression of correlation leads to reduced many-body renormalization of the quasiparticle dispersion and consequently to a decreasing quasiparticle effective mass m* as r_s increases (density decreases), consistent with the authors' VMC and DMC observations performed for simulation cells with N = 151 electrons.",
+        "content_hash": "f6479dec4dfd509775cd8ec6b3e4bdf384d4d5ccb27936cfb4970f8b25734c97",
+        "id": "gcn_64c8040dd93e4e1c",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:1129109501803233307::P10",
+            "package_id": "paper:1129109501803233307",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:1129109501803233307"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      },
+      {
+        "content": "For the fully spin-polarized two-dimensional homogeneous electron gas at density parameter r_s=5, the thermodynamic-limit quasiparticle effective mass obtained by extrapolating finite-N DMC quartic-fit results is m^*(∞)=0.74(1) a.u., using m^*=k_F/(dE/dk)_{k_F} with k_F the ferromagnetic Fermi wave vector.",
+        "content_hash": "0eb54583a6b53a006ba8d20615260d038847d96ae4baf9a0d0acbd34253b7e32",
+        "id": "gcn_38bbf14d5dc448f0",
+        "provenance": {
+          "representative_lcn": {
+            "local_id": "paper:813250329280774145::conclusion_8",
+            "package_id": "paper:813250329280774145",
+            "version": "2.0.0"
+          },
+          "source_packages": [
+            "paper:813250329280774145"
+          ]
+        },
+        "role": "premise",
+        "score": 0.015873015873015872,
+        "type": "claim",
+        "visibility": "public"
+      }
+    ]
+  },
+  "trace_id": "a7032890d8943adf957e95d95e6da772"
+}

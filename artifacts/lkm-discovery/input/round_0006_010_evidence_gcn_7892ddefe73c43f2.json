@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "In fixed-node diffusion Monte Carlo (DMC) the discrete imaginary-time step dτ used for walker propagation produces Trotter (time-step) errors that can materially alter computed quasiparticle energy bands and hence the derivative-based effective mass m*: in the authors' calculations for paramagnetic 2D-UEL at r_s = 5 with N = 302 electrons, the DMC band fits obtained using dτ = 0.005 a.u. and dτ = 0.2 a.u. (each run using the same walker ensemble size N_w = 2560 and the same number of propagation steps 25×10^3) exhibit markedly different band-fitting uncertainties and produce differing estimates of m*, demonstrating that insufficient time-step control can bias m* and that the common assumption that time-step errors cancel in excitation-energy differences need not hold.",
+      "content_hash": "fdd53349e8f686dde09763f73ee97147234c25f64192ec1b4496465fe3fcecab",
+      "id": "gcn_7892ddefe73c43f2",
+      "type": "claim"
+    },
+    "evidence_chains": [
+      {
+        "factors": [
+          {
+            "conclusion": {
+              "content": "In fixed-node diffusion Monte Carlo (DMC) the discrete imaginary-time step dτ used for walker propagation produces Trotter (time-step) errors that can materially alter computed quasiparticle energy bands and hence the derivative-based effective mass m*: in the authors' calculations for paramagnetic 2D-UEL at r_s = 5 with N = 302 electrons, the DMC band fits obtained using dτ = 0.005 a.u. and dτ = 0.2 a.u. (each run using the same walker ensemble size N_w = 2560 and the same number of propagation steps 25×10^3) exhibit markedly different band-fitting uncertainties and produce differing estimates of m*, demonstrating that insufficient time-step control can bias m* and that the common assumption that time-step errors cancel in excitation-energy differences need not hold.",
+              "id": "gcn_7892ddefe73c43f2"
+            },
+            "factor_type": "strategy",
+            "id": "gfac_3b9df2352581461a",
+            "premises": [
+              {
+                "content": "In diffusion quantum Monte Carlo (DMC) simulations of quasiparticle energy bands for paramagnetic 2D-UEL at density parameter r_s = 5 carried out in a finite periodic cell with N = 302 electrons, using the same number of walkers N_w = 2560 and the same number of propagation steps 25×10^3, two discrete imaginary-time steps dτ = 0.005 a.u. and dτ = 0.2 a.u. were compared and found to produce substantially different band-fitting uncertainties and different fitted effective masses m*: specifically, the DMC band obtained with dτ = 0.005 a.u. exhibited a much larger fitting error (and a resulting smaller m* with a larger error bar) than the band obtained with dτ = 0.2 a.u.; this single paired comparison is used to motivate the broader proposition that DMC imaginary-time discretization errors can materially and noncancellingly alter quasiparticle bands and derivative-based quantities such as m* in general, beyond the specific N, r_s, and N_w of the test.\n      Fig. 5 (this paper)",
+                "id": "gcn_63998421d77c4f17"
+              },
+              {
+                "content": "In the fixed-node diffusion quantum Monte Carlo (DMC) algorithm with discrete imaginary-time step dτ and with N_w walkers (stochastic configurations), the systematic bias introduced by the population-control mechanism (branching and reconfiguration to maintain the walker population) scales approximately as (N_w dτ)^{-1}; consequently, holding other algorithmic details fixed, decreasing dτ requires a proportional increase in N_w to keep the population-control bias approximately constant according to this inverse scaling relation.\n      Needs et al., Variational and diffusion quantum Monte Carlo calculations with the CASINO code, J. Chem. Phys. 152, 154106 (2020).",
+                "id": "gcn_91f57dbcdd7c494e"
+              },
+              {
+                "content": "When quasiparticle energies ε_±(k) are computed in quantum Monte Carlo as differences between total energies of the N-electron ground state and the N±1-electron states in the same finite periodic cell (with the cell area held fixed) and the separate DMC total-energy calculations employ a discrete imaginary-time step dτ, the heuristic that systematic errors cancel upon subtraction does not necessarily apply to time-step (Trotter) errors: DMC time-step errors in the separate total-energy evaluations need not cancel and can leave nonnegligible residual biases in the excitation energies ε_±(k) and their derivatives (and hence in m*), as evidenced by the divergent band-fit uncertainties observed in the authors' comparison of DMC runs at dτ = 0.005 a.u. and dτ = 0.2 a.u. for N = 302 at r_s = 5.\n      Fig. 5 (this paper)",
+                "id": "gcn_5d492c5657774b37"
+              }
+            ],
+            "steps": [
+              {
+                "reasoning": "Define the DMC imaginary-time step $d\\tau$, where $d\\tau$ is the increment in imaginary time used in the discrete-time approximation to the continuous imaginary-time propagation in diffusion quantum Monte Carlo (DMC); smaller $d\\tau$ reduces the Trotter discretization error but increases computational cost because more steps are required to reach the same total propagation time.",
+                "step_id": "1"
+              },
+              {
+                "reasoning": "Define the number of walkers $N_{w}$ as the number of configurations propagated in the DMC simulation; the authors state that the population-control error scales approximately as $(N_{w}d\\tau)^{-1}$, implying that reducing $d\\tau$ while keeping $N_{w}$ fixed tends to increase population-control bias unless $N_{w}$ is increased proportionally.\n[51]",
+                "step_id": "2"
+              },
+              {
+                "reasoning": "Note that the usual DMC procedure for ground-state energies is to extrapolate computed DMC energies as a function of $d\\tau$ to $d\\tau\\rightarrow 0$ to remove Trotter errors; however, the authors state that performing such extrapolation for quasiparticle (QP) band simulations is computationally expensive, so assessing the impact of finite $d\\tau$ on QP energies and derived quantities such as the effective mass $m^{*}$ is important.",
+                "step_id": "3"
+              },
+              {
+                "reasoning": "Describe the direct test performed by the authors: for paramagnetic two-dimensional uniform electron liquid (2D-UEL) with density parameter $r_{s}=5$ and simulation-cell electron number $N=302$ they computed DMC quasiparticle energy bands using two DMC time steps $d\\tau=0.005$ a.u. and $d\\tau=0.2$ a.u., keeping the number of walkers $N_{w}=2560$ and using $25\\times10^{3}$ steps for the runs; the comparison is presented as DMC bands in the figure of the paper (Fig. 5).\nFig. 5",
+                "step_id": "4"
+              },
+              {
+                "reasoning": "Report the observed effect on the fitted bands and extracted effective mass: the authors found that the DMC band obtained with $d\\tau=0.005$ a.u. has a much larger band-fitting uncertainty than the band obtained with $d\\tau=0.2$ a.u., and that the resulting fitted effective mass $m^{*}$ from the smaller time-step run is smaller with a large error bar; hence, different choices of $d\\tau$ produced different estimates of $m^{*}$ for the same physical system and simulation-cell size.\nFig. 5",
+                "step_id": "5"
+              },
+              {
+                "reasoning": "Conclude from the comparison that the DMC imaginary-time discretization ($d\\tau$) has a substantial, noncancelling effect on computed quasiparticle energy bands and hence on the derivative-based quantity $m^{*}$; therefore, insufficient control of the DMC time step can bias $m^{*}$ estimates and the common assumption that time-step errors cancel in excitation-energy differences is not generally valid for QP bands.",
+                "step_id": "6"
+              }
+            ],
+            "subtype": "noisy_and"
+          }
+        ],
+        "motivating_questions": [
+          {
+            "content": "DMC ground-state energies are commonly extrapolated to $d\\tau\\rightarrow 0$ to remove Trotter errors, but performing such extrapolations for multiple excited configurations and large system sizes is computationally expensive. If time-step errors do not cancel in subtraction-based excitation energies, single-time-step DMC yields unreliable band derivatives. A quantitative study of $d\\tau$ effects is therefore required to set practical time steps that balance bias and cost for quasiparticle calculations.",
+            "id": "paper:1129109501803233307::conclusion_7_subproblem",
+            "source_package": "paper:1129109501803233307"
+          }
+        ],
+        "source_package": "paper:1129109501803233307"
+      }
+    ],
+    "papers": {
+      "paper:1129109501803233307": {
+        "area": "arXiv-Physics",
+        "authors": "S. Azadi | N.D. Drummond | A. Principi | R.V. Belosludov | M.S. Bahramy",
+        "available_online": "",
+        "cover_date_start": "2025-05-09",
+        "created_at": "2025-05-13T09:58:03+08:00",
+        "doi": "10.48550/arxiv.2505.05879",
+        "en_title": "Quantum Monte Carlo study of the quasiparticle effective mass of the two-dimensional uniform electron liquid",
+        "id": "1129109501803233307",
+        "keywords": "",
+        "publication_date": "",
+        "publication_id": "108489",
+        "publication_name": "Strongly Correlated Electrons",
+        "research_categories": "",
+        "zh_title": "二维均匀电子气准粒子有效质量的量子蒙特卡罗研究"
+      }
+    },
+    "total_chains": 1
+  },
+  "trace_id": "ee0ce2425fe6f6edb1a1bef8e81ec4b3"
+}

@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "claim": {
+      "content": "For the paramagnetic two-dimensional uniform electron liquid (2D-UEL) with spin polarization ζ = 0 and for density parameters in the metallic interval 1 ≤ r_s ≤ 5, applying Slater–Jastrow–backflow (SJB) trial wave functions, band fitting (quartic or Padé), and the empirical finite-size extrapolation m*(N) = m*(∞) + β·N^{-3/2} to data at N = 146, 218, and 302 yields extrapolated thermodynamic-limit values m*(∞) that form a monotonic increasing function of r_s across the studied discrete points; this monotonicity statement is conditional on those methodological choices (SJB nodal improvements, fitting form, and N^{-3/2} extrapolation) being adequate for the datasets considered.\n      Fig. 7 (this paper)",
+      "content_hash": "1e8c884fed65d7522e2acd5ba07266f1c7d245225316a39e5fb9d3e635ae119b",
+      "id": "gcn_21f80773b87f444c",
+      "type": "claim"
+    },
+    "evidence_chains": [],
+    "papers": {},
+    "total_chains": 0
+  },
+  "trace_id": "a4674600c0dde529cc428a5f1537c1c1"
+}
