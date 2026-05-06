@@ -1,44 +1,145 @@
-# 2D HEG Effective Mass Gaia Graph
+# 2D HEG Effective Mass Gaia
 
 ![Gaia starmap](figures/starmap.svg)
 
-This Gaia package maps why the quasiparticle effective mass of the two-dimensional homogeneous electron gas (2D HEG) is numerically delicate. The current graph has reached `round_0005`.
+This document is a compact narrative view of the rendered Gaia graph. It follows
+the graph's real open questions, defined by its accepted contradiction operators:
 
-Current graph size:
+> Does the apparent paramagnetic low-density 2D HEG mass enhancement in earlier
+> DMC survive the later high-precision finite-size extrapolation protocol?
+>
+> When does the theoretical `N^(-1/4)` finite-size law become a reliable
+> extrapolation protocol rather than only an asymptotic guide overwhelmed by
+> shell-filling noise?
 
-- `43` visible starmap nodes and `40` starmap edges
-- Gaia IR: `44 knowledge`, `15 strategies`, `2 operators`
+## 1. Accepted Open Questions
 
-## Main Open Questions
+The graph contains two contradiction operators. Both are intentionally weak,
+method-level scientific tensions rather than hard logical contradictions.
 
-The final Gaia IR contains two contradiction-backed open questions. Both are intentionally weak, method-level scientific tensions rather than hard logical contradictions.
+### Older DMC enhancement vs revised DMC benchmarks
 
-1. **Does the apparent paramagnetic low-density mass enhancement in earlier DMC survive the later high-precision finite-size extrapolation protocol?**
+The first side says that earlier DMC calculations found a significant
+paramagnetic effective-mass enhancement at lower density.
 
-   Earlier DMC work suggested a significant enhancement of `m*` at low density. Later Drummond-Needs DMC benchmarks, using smaller statistical errors and more explicit finite-size extrapolation, find paramagnetic thermodynamic-limit masses close to one. The open question is whether the older enhancement was a real thermodynamic-limit feature or a finite-size/statistical artifact.
+The second side says that later high-precision DMC benchmarks, with smaller
+statistical errors and explicit finite-size extrapolation, give thermodynamic
+paramagnetic masses close to one at `r_s=1,5,10`.
 
-2. **When does the theoretical `N^(-1/4)` finite-size law become a reliable extrapolation protocol rather than only an asymptotic guide overwhelmed by shell-filling noise?**
+The open question is whether the older enhancement survives the later
+finite-size/statistical treatment, or whether it is best understood as a
+methodological revision of the earlier interpretation.
 
-   Long-range correlations imply slow `N^(-1/4)` finite-size behavior in Fermi-liquid-derived quantities. But direct QMC extrapolation can still be unreliable when shell-filling oscillations dominate nominal statistical errors. The open question is when the asymptotic law becomes operationally useful for finite datasets.
+### `N^(-1/4)` scaling vs shell-filling noise
 
-## Scientific Story
+The first side says that long-range correlations lead to `N^(-1/4)` finite-size
+scaling in Fermi-liquid-derived quantities.
 
-The graph begins with a finite-size mechanism: near the Fermi surface, finite simulation cells can distort the excitation dispersion used to extract `m*`. Holzmann et al. showed that slow finite-size corrections can be large enough to change the inferred sign and size of `m* - m`.
+The second side says that direct finite-cell extrapolation can still be
+quantitatively unreliable when shell-filling oscillations dominate the nominal
+DMC error bars.
 
-The Drummond-Needs workflow then turns this mechanism into a concrete numerical protocol. DMC total-energy differences define a single-particle band, the band is fitted around `k_F`, `m*(N)` is extracted from the fitted derivative, and the result is extrapolated to the thermodynamic limit. Under this protocol, the ideal paramagnetic 2D HEG has `m*` close to one across the studied `r_s=1,5,10` range.
+The open question is when the asymptotic law becomes an operationally reliable
+extrapolation protocol, rather than only a formal guide limited by finite-size
+noise.
 
-The rest of the graph explains why this conclusion is fragile but coherent. Near-`k_F` numerical derivatives can show pathologies, so a wider fitting window is needed. Excited-state wave-function reoptimization can lower finite-cell DMC energies, but that lowering is itself a finite-size artifact. Fermi-liquid parameters expose a related problem: a correct asymptotic scaling law can still be practically unreliable when shell-filling noise is large. Finally, DMC occupied bands are not purely quadratic, so the effective mass should be understood as one local projection of a richer quasiparticle dispersion.
+## 2. Finite-Size Root
 
-In short, the package does not merely ask whether `m*/m` is above or below one. It asks which numerical protocol legitimately connects finite-cell QMC data to the thermodynamic-limit effective mass.
+The root claim is:
 
-## Review Notes
+> **Slow finite-size errors can flip `m* - m`**
 
-The two contradiction-backed open questions are retained as weak scientific tensions:
+It states that finite-cell corrections to near-`k_F` excitation dispersion can
+be slow enough that extrapolations assuming faster-vanishing errors may change
+the inferred sign and magnitude of `m* - m`.
 
-- the older-DMC versus revised-benchmark tension is best read as a methodological revision problem;
-- the `N^(-1/4)` versus shell-noise tension is best read as a limitation on practical extrapolation, not as a claim that the asymptotic law is false.
+This is the mechanism that makes the 2D HEG effective-mass problem delicate.
 
-Hypothesis-only questions stored under `.gaia/inquiry` are not counted as final graph open questions unless they are promoted to Gaia DSL `contradiction(...)` operators.
+## 3. DMC Benchmark Side
+
+The benchmark branch argues that the later Drummond-Needs workflow gives a
+controlled thermodynamic-limit mass:
+
+- finite-N DMC bands are computed from add/remove total-energy differences;
+- the band is fitted around `k_F`;
+- `m*(N)` is extracted from the fitted derivative;
+- `m*(N)` is extrapolated to the thermodynamic limit;
+- the resulting paramagnetic 2D HEG masses remain close to one for
+  `r_s=1,5,10`.
+
+This side explains why the later graph branch weakens the older
+mass-enhancement interpretation.
+
+## 4. Protocol Fragility
+
+The graph also shows why the benchmark is not a trivial number:
+
+- near-`k_F` numerical derivatives can be pathological;
+- wide `k` windows stabilize band fits;
+- excited-state wave-function reoptimization lowers finite-cell energies but
+  increases finite-size bias;
+- fixed-node and time-step biases must be judged relative to finite-size
+  extrapolation uncertainty;
+- DMC occupied bands are not purely quadratic, so `m*` is only one local
+  projection of a richer quasiparticle dispersion.
+
+This branch is the graph's main explanation of how finite-cell data can be
+converted into a thermodynamic-limit effective mass without overreading
+near-`k_F` artifacts.
+
+## 5. Fermi-Liquid-Parameter Reliability
+
+The Fermi-liquid-parameter branch gives the second accepted open question.
+
+It says that `N^(-1/4)` scaling is physically motivated by long-range
+correlation, but direct finite-cell extrapolation of Fermi-liquid parameters is
+limited by shell-filling oscillations and finite-size noise. The graph therefore
+treats `N^(-1/4)` as a necessary asymptotic guide, not automatically as a
+sufficient practical extrapolation protocol.
+
+## 6. Graph-Level Meaning
+
+The graph does not say simply "`m*/m` is above one" or "`m*/m` is below one."
+It says:
+
+> The effective mass of the ideal 2D HEG is a protocol-dependent
+> thermodynamic-limit quantity. The strongest current branch supports a
+> near-unity paramagnetic benchmark, but that conclusion is meaningful only
+> together with the finite-size, band-fitting, and extrapolation machinery that
+> produces it.
+
+The two accepted contradictions mark places where the interpretation should
+remain careful: one is a historical/methodological revision of earlier DMC
+enhancement, and the other is a limitation on practical use of an asymptotic
+finite-size law.
+
+Hypothesis-only questions stored under `.gaia/inquiry` are not counted as final
+graph open questions unless they are promoted to Gaia DSL `contradiction(...)`
+operators.
+
+## 7. Inference State
+
+The rendered graph contains:
+
+- 43 rendered science nodes.
+- 40 starmap edges.
+- 44 compiled knowledge entries.
+- 15 strategy nodes.
+- 2 contradiction operators.
+
+The starmap filters out Gaia's internal `__conjunction_result_*` and
+`__implication_result_*` helper nodes, so the visual graph is the
+science-readable probability graph rather than a dump of lowering internals.
+
+## Package Contents
+
+- `src/twodheg_effective_mass/` — Gaia DSL claims, deductions, supports,
+  contradictions, and priors.
+- `references.json` — bibliographic references used by the package.
+- `artifacts/lkm-discovery/` — raw LKM payloads, retrieval timeline, graph
+  growth log, and mapping audits.
+- `.gaia/` — compiled Gaia artifacts, beliefs, inquiry state, and starmap
+  outputs.
 
 ## Quality Gates
 
