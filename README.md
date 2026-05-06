@@ -3,7 +3,8 @@
 ![Gaia starmap](figures/starmap.svg)
 
 This document is a compact narrative view of the rendered Gaia graph. It follows
-the graph's real open questions, defined by its accepted contradiction operators:
+two open questions about the quasiparticle effective mass of the ideal
+two-dimensional homogeneous electron gas / uniform electron liquid:
 
 > Does the apparent paramagnetic low-density 2D HEG mass enhancement in earlier
 > DMC survive the later high-precision finite-size extrapolation protocol?
@@ -12,29 +13,33 @@ the graph's real open questions, defined by its accepted contradiction operators
 > the 2025 QMC treatment of Slater-Jastrow-backflow wave functions, band
 > fitting, and finite-size extrapolation?
 
+These questions are best read as two stages of one reconciliation chain. The
+2013 Drummond-Needs benchmark first revises the older DMC enhancement
+interpretation; the 2025 QMC branch then reopens how that 2013 benchmark should
+be understood under newer finite-size, band-fitting, and backflow protocols.
+
 ## 1. Accepted Open Questions
 
-The graph contains two contradiction operators. Both are intentionally weak,
-method-level scientific tensions rather than hard logical contradictions.
+The graph contains two accepted contradiction operators. Both are intentionally
+weak, method-level scientific tensions rather than hard logical contradictions.
 
 ### Older DMC enhancement vs revised DMC benchmarks
 
 The first side says that earlier DMC calculations found a significant
-paramagnetic effective-mass enhancement at lower density.
+paramagnetic effective-mass enhancement as density was lowered.
 
-The second side says that the 2013 Drummond-Needs high-precision DMC benchmarks,
-with smaller statistical errors and explicit finite-size extrapolation, give
-thermodynamic paramagnetic masses close to one at `r_s=1,5,10`.
+The second side says that the later Drummond-Needs high-precision DMC
+benchmarks, with smaller statistical errors and explicit finite-size
+extrapolation, give thermodynamic paramagnetic masses close to one:
+`0.955(2)`, `1.04(2)`, and `1.03(4)` at `r_s=1,5,10`.
 
 The open question is whether the older enhancement survives the later
 finite-size/statistical treatment, or whether it is best understood as a
 methodological revision of the earlier interpretation.
 
-This framing is limited to the branches currently represented in this graph.
-More recent QMC work by Azadi, Drummond, Principi, Belosludov, and Bahramy
-reports a paramagnetic effective mass that is close to one at `r_s=1` but
-increases with `r_s`, reopening the low-density trend question within the
-modern QMC literature.
+This is not a claim that the two papers describe incompatible physical laws. It
+is a question about whether an apparent low-density mass-enhancement signal is
+robust to a more careful finite-size extrapolation protocol.
 
 ### 2013 near-unity benchmark vs 2025 increasing trend
 
@@ -50,9 +55,13 @@ The open question is how to reconcile the two protocols: system sizes,
 Slater-Jastrow-backflow treatment, band fitting, and finite-size extrapolation
 must be compared before the low-density trend can be called settled.
 
+This is the current-literature stage of the same chain. The 2025 branch does
+not simply undo the 2013 benchmark; it asks whether the 2013 near-unity picture
+is complete once newer QMC choices and larger finite-size analyses are included.
+
 ## 2. Finite-Size Root
 
-The root claim is:
+The graph starts from the finite-size warning:
 
 > **Slow finite-size errors can flip `m* - m`**
 
@@ -60,12 +69,14 @@ It states that finite-cell corrections to near-`k_F` excitation dispersion can
 be slow enough that extrapolations assuming faster-vanishing errors may change
 the inferred sign and magnitude of `m* - m`.
 
-This is the mechanism that makes the 2D HEG effective-mass problem delicate.
+This is the reason the effective mass is not treated as a simple output number.
+The ideal effective mass is a thermodynamic-limit Fermi-liquid quantity, but QMC
+extracts it through finite-cell bands, fitting windows, and extrapolation
+assumptions.
 
 ## 3. DMC Benchmark Side
 
-The benchmark branch represented here argues that the 2013 Drummond-Needs
-workflow gives a controlled thermodynamic-limit mass:
+The Drummond-Needs benchmark branch gives the graph's main near-unity side:
 
 - finite-N DMC bands are computed from add/remove total-energy differences;
 - the band is fitted around `k_F`;
@@ -81,7 +92,7 @@ density.
 
 ## 4. Protocol Fragility
 
-The graph also shows why the benchmark is not a trivial number:
+The graph also records why the benchmark is not a trivial number:
 
 - near-`k_F` numerical derivatives can be pathological;
 - wide `k` windows stabilize band fits;
@@ -98,7 +109,7 @@ near-`k_F` artifacts.
 
 ## 5. 2025 QMC Update
 
-The 2025 branch reopens the low-density trend inside modern QMC. It adds:
+The 2025 branch reopens the low-density trend inside modern QMC:
 
 - a paramagnetic 2D-UEL trend in which `m*` increases with `r_s` over
   `1 <= r_s <= 5`;
@@ -111,17 +122,21 @@ current question: the modern literature now asks which QMC extraction protocol,
 finite-size treatment, and trial-wave-function choices determine the
 paramagnetic low-density trend.
 
-## 6. Fermi-Liquid-Parameter Reliability
+The 2025 paper answers what happens under its own protocol. It does not, by
+itself, fully close the reconciliation question, because a matched comparison
+between the 2013 and 2025 protocols is still needed.
 
-The Fermi-liquid-parameter branch is no longer treated as an accepted open
-question in the formal Gaia IR.
+## 6. Fermi-Liquid-Parameter Caveat
 
-It says that `N^(-1/4)` scaling is physically motivated by long-range
-correlation, while the same Drummond2013 analysis cautions that direct
-finite-cell extrapolation of Fermi-liquid parameters is limited by shell-filling
-oscillations and finite-size noise. These statements can both be true: the graph
-now treats this branch as a practical reliability caveat, not as a
-`contradiction(...)` between two mutually exclusive claims.
+The graph also includes a Fermi-liquid-parameter branch. It says that
+`N^(-1/4)` finite-size scaling is physically motivated by long-range
+correlation, while direct finite-cell extrapolation of Fermi-liquid parameters
+can still be unreliable when shell-filling oscillations dominate the statistical
+error bars.
+
+This branch is a caveat, not one of the graph's accepted open questions. The
+asymptotic scaling law and the practical shell-filling limitation can both be
+true.
 
 ## 7. Graph-Level Meaning
 
@@ -130,17 +145,17 @@ It says:
 
 > The ideal 2D HEG effective mass is a thermodynamic-limit Fermi-liquid
 > quantity, but its finite-cell QMC extraction is highly protocol-sensitive.
-> The graph now contains both the 2013 near-unity benchmark branch and the 2025
-> increasing-trend branch, so the current question is how to reconcile their
+> The 2013 benchmark first revises an older enhancement interpretation, and the
+> 2025 QMC branch then asks whether that benchmark is complete under newer
 > finite-size, band-fitting, and backflow treatments.
 
-The two accepted contradictions mark places where the interpretation should
-remain careful: one is a historical/methodological revision of earlier DMC
-enhancement, and one is a current-literature reconciliation problem between
-2013 and 2025 QMC protocols.
+The graph therefore presents one chained scientific story: older DMC suggested
+paramagnetic mass enhancement, 2013 high-precision extrapolation made the
+benchmark near unity, and 2025 QMC reopened the low-density trend under a newer
+protocol.
 
 Hypothesis-only questions stored under `.gaia/inquiry` are not counted as final
-graph open questions unless they are promoted to Gaia DSL `contradiction(...)`
+graph open questions unless they are promoted to accepted contradiction
 operators.
 
 ## 8. Inference State
