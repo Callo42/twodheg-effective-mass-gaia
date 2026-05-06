@@ -20,8 +20,9 @@ be understood under newer finite-size, band-fitting, and backflow protocols.
 
 ## 1. Accepted Open Questions
 
-The graph contains two accepted contradiction operators. Both are intentionally
-weak, method-level scientific tensions rather than hard logical contradictions.
+The graph contains two accepted reconciliation questions. Both are intentionally
+framed as weak, method-level scientific tensions rather than hard logical
+conflicts.
 
 ### Older DMC enhancement vs revised DMC benchmarks
 
@@ -155,8 +156,8 @@ benchmark near unity, and 2025 QMC reopened the low-density trend under a newer
 protocol.
 
 Hypothesis-only questions stored under `.gaia/inquiry` are not counted as final
-graph open questions unless they are promoted to accepted contradiction
-operators.
+graph open questions unless they are promoted to accepted reconciliation
+questions.
 
 ## 8. Inference State
 
@@ -166,7 +167,7 @@ The rendered graph contains:
 - 46 starmap edges.
 - 51 compiled knowledge entries.
 - 18 strategy nodes.
-- 2 contradiction operators.
+- 2 accepted reconciliation questions.
 
 The starmap filters out Gaia's internal `__conjunction_result_*` and
 `__implication_result_*` helper nodes, so the visual graph is the
@@ -175,7 +176,7 @@ science-readable probability graph rather than a dump of lowering internals.
 ## Package Contents
 
 - `src/twodheg_effective_mass/` — Gaia DSL claims, deductions, supports,
-  contradictions, and priors.
+  reconciliation relations, and priors.
 - `references.json` — bibliographic references used by the package.
 - `artifacts/lkm-discovery/` — raw LKM payloads, retrieval timeline, graph
   growth log, and mapping audits.
